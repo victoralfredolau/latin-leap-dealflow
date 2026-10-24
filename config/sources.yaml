@@ -14,10 +14,10 @@ rss:
     url: https://techcrunch.com/tag/latin-america/feed/
   - nombre: Pulso Social
     url: https://pulsosocial.com/feed/
-  - nombre: Startups Latam            # verificado 23-oct-2026: feed RSS 2.0 válido, rondas en español
+  - nombre: Startups Latam
     url: https://startupslatam.com/feed/
-  - nombre: Techla Media              # sitio WordPress; el feed bloqueó la verificación externa: confirmar en Salud de fuentes
-    url: https://techla.pro/feed/
+  - nombre: Techla Media
+    url: https://techla.pro/category/historias/feed/
 
 # Google News RSS: búsquedas en español por país (gl = país de la edición).
 # when:Nd limita a los últimos N días.
