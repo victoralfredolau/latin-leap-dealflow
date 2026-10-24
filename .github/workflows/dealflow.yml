@@ -1,0 +1,63 @@
+name: Dealflow diario
+
+on:
+  schedule:
+    - cron: "17 12 * * *"      # todos los días 06:17 hora CDMX (12:17 UTC)
+  workflow_dispatch:            # botón "Run workflow" para correrlo a mano en la demo
+    inputs:
+      rescore:
+        description: "Sólo recalcular scores (tras editar config/thesis.yaml)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write               # para guardar data/ y docs/ en el repo
+  pages: write
+  id-token: write
+
+concurrency:
+  group: dealflow
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Pruebas
+        run: python -m pytest -q
+
+      - name: Correr motor
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL || 'claude-haiku-4-5' }}
+        run: |
+          if [ "${{ inputs.rescore }}" = "true" ]; then python -m dealflow --rescore; else python -m dealflow; fi
+
+      - name: Guardar resultados en el repo (historial auditable)
+        run: |
+          git config user.name  "dealflow-bot"
+          git config user.email "dealflow-bot@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet || git commit -m "dealflow: corrida $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
+
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: docs
+      - id: deploy
+        uses: actions/deploy-pages@v5
