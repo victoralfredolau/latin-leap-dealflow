@@ -1,0 +1,73 @@
+{
+ "actualizado": "2026-10-24T04:00:46+00:00",
+ "baseline_mes": 60,
+ "meta_incremental_mes": 6,
+ "calificados_30d": 4,
+ "prioridad_a_30d": 3,
+ "incremento_vs_baseline": 0.067,
+ "cumplimiento_meta": 0.67,
+ "total_deals": 15,
+ "total_calificados": 10,
+ "conocidos_detectados": 1,
+ "por_semana": {
+  "2025-06-16": 1,
+  "2025-06-30": 1,
+  "2025-10-13": 1,
+  "2026-05-25": 1,
+  "2026-07-20": 1,
+  "2026-09-14": 1,
+  "2026-10-05": 1,
+  "2026-10-12": 1,
+  "2026-10-19": 2
+ },
+ "por_fuente": {
+  "Y Combinator": 6,
+  "LatamList": 4
+ },
+ "por_pais": {
+  "Colombia": 3,
+  "Argentina": 2,
+  "México": 2,
+  "Panamá": 1,
+  "Costa Rica": 1,
+  "Chile": 1
+ },
+ "corridas": [
+  {
+   "inicio": "2026-10-24T04:00:44+00:00",
+   "fin": "2026-10-24T04:00:44+00:00",
+   "senales_crudas": 16,
+   "descartadas_prefiltro": 6,
+   "procesadas": 10,
+   "deals_nuevos": 9,
+   "calificados_nuevos": 4,
+   "motor": "reglas",
+   "fuentes": [
+    {
+     "fuente": "fixtures",
+     "ok": true,
+     "senales": 16,
+     "error": null
+    }
+   ]
+  },
+  {
+   "inicio": "2026-10-24T04:00:44+00:00",
+   "fin": "2026-10-24T04:00:46+00:00",
+   "senales_crudas": 6,
+   "descartadas_prefiltro": 0,
+   "procesadas": 6,
+   "deals_nuevos": 6,
+   "calificados_nuevos": 6,
+   "motor": "reglas",
+   "fuentes": [
+    {
+     "fuente": "Y Combinator",
+     "ok": true,
+     "senales": 6,
+     "error": null
+    }
+   ]
+  }
+ ]
+}

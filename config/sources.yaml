@@ -1,0 +1,90 @@
+# Fuentes públicas que el motor consulta en cada corrida.
+# Criterio de selección: públicas, sin login, sin violar términos de uso (no LinkedIn),
+# con señal temprana (rondas pre-seed/seed, aceleradoras, lanzamientos, contrataciones).
+
+rss:
+  # Medios especializados del ecosistema LATAM
+  - nombre: LatamList
+    url: https://latamlist.com/feed/
+  - nombre: Contxto
+    url: https://contxto.com/es/feed/
+  - nombre: Startupeable
+    url: https://startupeable.com/feed/
+  - nombre: TechCrunch LatAm
+    url: https://techcrunch.com/tag/latin-america/feed/
+  - nombre: Pulso Social
+    url: https://pulsosocial.com/feed/
+  - nombre: Startups Latam            # verificado 23-oct-2026: feed RSS 2.0 válido, rondas en español
+    url: https://startupslatam.com/feed/
+  - nombre: Techla Media              # sitio WordPress; el feed bloqueó la verificación externa: confirmar en Salud de fuentes
+    url: https://techla.pro/feed/
+
+# Google News RSS: búsquedas en español por país (gl = país de la edición).
+# when:Nd limita a los últimos N días.
+google_news:
+  hl: es-419
+  dias: 14
+  consultas:
+    - { q: 'startup levanta ronda pre-semilla', gl: MX }
+    - { q: 'startup levanta ronda semilla', gl: MX }
+    - { q: 'startup mexicana levanta millones', gl: MX }
+    - { q: 'startup mexicana ronda inversión', gl: MX }
+    - { q: 'startup colombiana levanta ronda', gl: CO }
+    - { q: 'startup colombiana inversión semilla', gl: CO }
+    - { q: 'startup chilena levanta ronda', gl: CL }
+    - { q: 'startup argentina levanta ronda', gl: AR }
+    - { q: 'startup peruana levanta ronda', gl: PE }
+    - { q: 'startup uruguaya inversión', gl: UY }
+    - { q: 'startup ecuatoriana inversión', gl: EC }
+    - { q: 'startup costarricense inversión', gl: CR }
+    - { q: 'startup guatemalteca OR panameña OR dominicana inversión', gl: MX }
+    - { q: 'fintech latinoamericana ronda pre-seed', gl: MX }
+    - { q: 'aceleradora selecciona startups generación', gl: MX }
+    - { q: 'pre-seed startup Latin America raises', gl: US, hl: en-US }
+    - { q: 'seed round Mexico startup raises', gl: US, hl: en-US }
+    - { q: 'seed round Colombia OR Chile OR Argentina startup', gl: US, hl: en-US }
+
+    # ── Aceleradoras: generaciones y cohortes ──────────────────────────
+    - { q: '"Start-Up Chile" nueva generación startups', gl: CL }
+    - { q: '"Start-Up Chile" Build OR Ignite seleccionadas', gl: CL }
+    - { q: '"Platanus Ventures" invierte startups', gl: CL }
+    - { q: '"Platanus" batch startups Latinoamérica', gl: CL }
+    - { q: '"Parallel18" cohort startups', gl: US, hl: en-US }
+    - { q: '"Parallel18" generación startups', gl: MX }
+    - { q: '"500 Global" startups Latinoamérica seleccionadas', gl: MX }
+    - { q: '"Wayra" invierte startup', gl: MX }
+    - { q: '"Google for Startups Accelerator" Latinoamérica seleccionadas', gl: MX }
+
+    # ── Incubadoras universitarias ─────────────────────────────────────
+    - { q: '"Tec de Monterrey" OR ITAM incubadora startup', gl: MX }
+    - { q: '"Universidad de los Andes" OR "Ruta N" startup aceleración', gl: CO }
+    - { q: '"UC Chile" OR "Fundación Chile" startup aceleración', gl: CL }
+
+    # ── Fondos pre-seed (sus portafolios son los próximos deals seed) ──
+    - { q: '"Latitud Ventures" pre-seed', gl: US, hl: en-US }
+    - { q: 'lidera ronda pre-semilla startup', gl: MX }
+    - { q: 'leads pre-seed round Latin America startup', gl: US, hl: en-US }
+
+    # ── Programas públicos, concursos y demo days ──────────────────────
+    - { q: 'CORFO startups seleccionadas', gl: CL }
+    - { q: 'iNNpulsa startups ganadoras', gl: CO }
+    - { q: 'ganadores concurso emprendimiento startups tecnología', gl: MX }
+    - { q: 'demo day startups Latinoamérica', gl: MX }
+
+# Y Combinator (dataset público yc-oss, se actualiza a diario desde ycombinator.com)
+yc:
+  url: https://raw.githubusercontent.com/yc-oss/api/main/companies/all.json
+  meses_recientes: 18     # sólo compañías lanzadas en este periodo
+
+# Hacker News (API pública de Algolia): Show HN / Launch HN de founders LATAM
+hackernews:
+  terminos: [Mexico, Colombia, Chile, Argentina, Peru, Uruguay, Ecuador, 'Costa Rica', Guatemala, 'Latin America', LATAM, Bogota, Medellin, Santiago, 'Buenos Aires', Lima, Monterrey, Guadalajara, CDMX]
+  dias: 30
+
+# Get on Board (bolsa de empleo tech LATAM, API pública v0).
+# Señal: startups contratando sus primeros perfiles técnicos.
+getonbrd:
+  categorias: [programming, data-science-analytics, sysadmin-devops-qa, mobile-developer, design-ux]
+  por_pagina: 100
+  dias: 21
+  max_empleados: 50      # filtra corporativos grandes cuando el dato existe

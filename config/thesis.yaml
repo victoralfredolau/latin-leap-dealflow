@@ -1,0 +1,62 @@
+# Tesis de inversión de Latin Leap — fuente única de verdad para el scoring.
+# Editar este archivo cambia el comportamiento del motor sin tocar código.
+
+fondo:
+  nombre: Latin Leap
+  tamano_usd: 20000000
+  etapas_objetivo: [pre-seed, seed]
+  baseline_deals_mes: 60          # dato del reto
+  meta_incremento: 0.10           # +10% → 6 deals calificados nuevos al mes
+
+# América Latina hispanohablante (19 países). Brasil queda excluido explícitamente.
+paises_tesis:
+  - México
+  - Guatemala
+  - El Salvador
+  - Honduras
+  - Nicaragua
+  - Costa Rica
+  - Panamá
+  - Cuba
+  - República Dominicana
+  - Puerto Rico
+  - Colombia
+  - Venezuela
+  - Ecuador
+  - Perú
+  - Bolivia
+  - Chile
+  - Argentina
+  - Uruguay
+  - Paraguay
+
+paises_excluidos: [Brasil]
+
+# Pesos del score compuesto (suman 100). Ver METODOLOGIA.md.
+pesos:
+  geografia: 25
+  etapa: 25
+  tecnologia: 15
+  senal: 15
+  calidad: 20
+
+# Puntos por etapa (sobre el peso de "etapa")
+etapa_puntos:
+  pre-seed: 1.0
+  seed: 1.0
+  idea: 0.6
+  desconocida: 0.5
+  serie-a: 0.3
+  serie-b+: 0.0
+
+# Umbrales de prioridad
+prioridad:
+  A: 75   # contactar esta semana
+  B: 60   # revisar
+  # < 60 → C (archivo)
+
+# Ventana de búsqueda (días) para noticias y señales
+ventana_dias: 30
+
+# Límite de llamadas al LLM por corrida (control de costo)
+max_senales_llm_por_corrida: 200

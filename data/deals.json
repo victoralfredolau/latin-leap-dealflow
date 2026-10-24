@@ -1,0 +1,585 @@
+{
+ "n:typeoneenergy": {
+  "key": "n:typeoneenergy",
+  "primera_vista": "2026-10-24T04:00:44+00:00",
+  "senales": [
+   {
+    "fuente": "Contxto",
+    "tipo": "noticia",
+    "titulo": "Type One Energy levanta 200 millones de dólares para llevar la fusión nuclear al mercado",
+    "url": "https://contxto.com/es/energytech/type-one-energy-levanta-200-millones-de-dolares-para-llevar-la-fusion-nuclear-al-mercado/",
+    "fecha": "2026-10-12T16:38:47+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Type One Energy",
+  "etapa": "desconocida",
+  "resumen": "La energía de fusión lleva décadas bajo investigación como una posible fuente de electricidad con bajas emisiones de carbono.",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-10-12T16:38:47+00:00",
+  "ultima_senal": "2026-10-12T16:38:47+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 44,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 12.5,
+   "tecnologia": 7.5,
+   "senal": 6.0,
+   "calidad": 10.0
+  },
+  "prioridad": "C",
+  "en_tesis": true
+ },
+ "n:scanntech": {
+  "key": "n:scanntech",
+  "primera_vista": "2026-10-24T04:00:44+00:00",
+  "senales": [
+   {
+    "fuente": "LatamList",
+    "tipo": "noticia",
+    "titulo": "Uruguayan Scanntech raises $180M round led by L Catterton",
+    "url": "https://latamlist.com/uruguayan-scanntech-raises-180m-round-led-by-l-catterton/",
+    "fecha": "2026-10-16T16:40:03+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Scanntech",
+  "pais": "Uruguay",
+  "etapa": "serie-b+",
+  "monto_usd": 180000000.0,
+  "tecnologia": true,
+  "resumen": "Uruguayan retail technology company Scanntech raised $180M in a round led by L Catterton, with participation from Partners…",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-10-16T16:40:03+00:00",
+  "ultima_senal": "2026-10-16T16:40:03+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 60,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 0.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 10.0
+  },
+  "prioridad": "Fuera de tesis",
+  "en_tesis": false
+ },
+ "n:giraffebio": {
+  "key": "n:giraffebio",
+  "primera_vista": "2026-10-24T04:00:44+00:00",
+  "senales": [
+   {
+    "fuente": "LatamList",
+    "tipo": "noticia",
+    "titulo": "Argentine Giraffe Bio raises $6.4M seed round to improve copper recovery",
+    "url": "https://latamlist.com/argentine-giraffe-bio-raises-6-4m-seed-round-to-improve-copper-recovery/",
+    "fecha": "2026-10-15T19:23:21+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Giraffe Bio",
+  "pais": "Argentina",
+  "etapa": "seed",
+  "monto_usd": 6400000.0,
+  "tecnologia": true,
+  "resumen": "Argentine biotech startup Giraffe Bio raised $6.4M in a seed round led by Orion Industrial Ventures, with participation…",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-10-15T19:23:21+00:00",
+  "ultima_senal": "2026-10-15T19:23:21+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 86,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 10.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "n:fronte": {
+  "key": "n:fronte",
+  "primera_vista": "2026-10-24T04:00:44+00:00",
+  "senales": [
+   {
+    "fuente": "LatamList",
+    "tipo": "noticia",
+    "titulo": "Colombian fintech Fronte raises pre-seed round led by Rally Cap VC and Bankless Ventures",
+    "url": "https://latamlist.com/colombian-fintech-fronte-raises-pre-seed-round-led-by-rally-cap-vc-and-bankless-ventures/",
+    "fecha": "2026-10-08T17:23:14+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Fronte",
+  "pais": "Colombia",
+  "etapa": "pre-seed",
+  "tecnologia": true,
+  "resumen": "Colombian fintech Fronte raised an undisclosed pre-seed round led by Rally Cap VC and Bankless Ventures. Base Ecosystem…",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-10-08T17:23:14+00:00",
+  "ultima_senal": "2026-10-08T17:23:14+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 80,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 4.5,
+   "calidad": 10.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "n:dapta": {
+  "key": "n:dapta",
+  "primera_vista": "2026-10-24T04:00:44+00:00",
+  "senales": [
+   {
+    "fuente": "LatamList",
+    "tipo": "noticia",
+    "titulo": "Dapta raises $6M seed round led by Chingona Ventures",
+    "url": "https://latamlist.com/dapta-raises-6m-seed-round-led-by-chingona-ventures/",
+    "fecha": "2026-10-20T21:53:03+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Dapta",
+  "pais": "Colombia",
+  "etapa": "seed",
+  "monto_usd": 6000000.0,
+  "tecnologia": true,
+  "resumen": "Colombian AI startup Dapta raised $6M in a seed round led by Chingona Ventures, with participation from Crew…",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-10-20T21:53:03+00:00",
+  "ultima_senal": "2026-10-20T21:53:03+00:00",
+  "conocido_fuente": "Portafolio Latin Leap",
+  "conocido": true,
+  "score": 86,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 10.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "n:efyfinance": {
+  "key": "n:efyfinance",
+  "primera_vista": "2026-10-24T04:00:44+00:00",
+  "senales": [
+   {
+    "fuente": "LatamList",
+    "tipo": "noticia",
+    "titulo": "EFY Finance secures investment from Tether to expand across Latin America",
+    "url": "https://latamlist.com/efy-finance-secures-investment-from-tether-to-expand-across-latin-america/",
+    "fecha": "2026-10-20T22:07:06+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "EFY Finance",
+  "pais": "Panamá",
+  "etapa": "seed",
+  "tecnologia": true,
+  "resumen": "Panama based fintech EFY Finance secured an investment from Tether as part of its seed funding round. The…",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-10-20T22:07:06+00:00",
+  "ultima_senal": "2026-10-20T22:07:06+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 81,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 6.0,
+   "calidad": 10.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "n:jeeves": {
+  "key": "n:jeeves",
+  "primera_vista": "2026-10-24T04:00:44+00:00",
+  "senales": [
+   {
+    "fuente": "Contxto",
+    "tipo": "noticia",
+    "titulo": "Jeeves cierra ronda de $110 millones de dólares y apuesta por las stablecoins para mover dinero entre países",
+    "url": "https://contxto.com/es/fintech/jeeves-cierra-ronda-de-110-millones-de-dolares-y-apuesta-por-las-stablecoins-para-mover-dinero-entre-paises/",
+    "fecha": "2026-10-02T14:51:28+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Jeeves",
+  "etapa": "serie-b+",
+  "monto_usd": 110000000.0,
+  "resumen": "Mover dinero entre países sigue siendo un dolor de cabeza para las empresas que operan en varios mercados.",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-10-02T14:51:28+00:00",
+  "ultima_senal": "2026-10-02T14:51:28+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 34,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 0.0,
+   "tecnologia": 7.5,
+   "senal": 9.0,
+   "calidad": 10.0
+  },
+  "prioridad": "Fuera de tesis",
+  "en_tesis": false
+ },
+ "n:rebill": {
+  "key": "n:rebill",
+  "primera_vista": "2026-10-24T04:00:44+00:00",
+  "senales": [
+   {
+    "fuente": "LatamList",
+    "tipo": "noticia",
+    "titulo": "Argentine fintech Rebill raises $5.4M Pre Series A round",
+    "url": "https://latamlist.com/argentine-fintech-rebill-raises-5-4m-pre-series-a-round/",
+    "fecha": "2026-10-20T23:24:46+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Rebill",
+  "pais": "Argentina",
+  "etapa": "serie-a",
+  "monto_usd": 5400000.0,
+  "tecnologia": true,
+  "resumen": "Argentine fintech Rebill raised $5.4M in a pre Series A round, bringing its total funding to more than…",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-10-20T23:24:46+00:00",
+  "ultima_senal": "2026-10-20T23:24:46+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 68,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 7.5,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:flai": {
+  "key": "n:flai",
+  "primera_vista": "2026-10-24T04:00:44+00:00",
+  "senales": [
+   {
+    "fuente": "LatamList",
+    "tipo": "noticia",
+    "titulo": "Flai raises $27M Series A to expand AI agents for US car dealerships",
+    "url": "https://latamlist.com/flai-raises-27m-series-a-to-expand-ai-agents-for-us-car-dealerships/",
+    "fecha": "2026-10-08T18:07:52+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Flai",
+  "etapa": "serie-a",
+  "monto_usd": 27000000.0,
+  "tecnologia": true,
+  "resumen": "Flai, a San Francisco based AI startup founded by three Uruguayans, raised $27M in a Series A round…",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-10-08T18:07:52+00:00",
+  "ultima_senal": "2026-10-08T18:07:52+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 49,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 7.5,
+   "tecnologia": 15.0,
+   "senal": 9.0,
+   "calidad": 10.0
+  },
+  "prioridad": "C",
+  "en_tesis": true
+ },
+ "d:pokerclubhub.com": {
+  "key": "d:pokerclubhub.com",
+  "primera_vista": "2026-10-24T04:00:46+00:00",
+  "senales": [
+   {
+    "fuente": "Y Combinator",
+    "tipo": "aceleradora",
+    "titulo": "PokerClubHub (Summer 2026) — Host a Poker Club and Make Money",
+    "url": "https://www.ycombinator.com/companies/pokerclubhub",
+    "fecha": "2026-07-26T01:19:51+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 6.5,
+  "motor": "reglas",
+  "empresa": "PokerClubHub",
+  "sitio_web": "https://www.pokerclubhub.com",
+  "pais": "Costa Rica",
+  "sector": "Consumer",
+  "etapa": "pre-seed",
+  "tecnologia": true,
+  "resumen": "TL;DR: PokerClubHub is the first licensed poker club platform. We protect players’ deposits and allow anyone to open their own poker club and make money.\r\n\r\nRegulated online poker sites like PokerStars have open player pools and thus are fu",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-07-26T01:19:51+00:00",
+  "ultima_senal": "2026-07-26T01:19:51+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 87,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 9.0,
+   "calidad": 13.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "d:useboom.ai": {
+  "key": "d:useboom.ai",
+  "primera_vista": "2026-10-24T04:00:46+00:00",
+  "senales": [
+   {
+    "fuente": "Y Combinator",
+    "tipo": "aceleradora",
+    "titulo": "Boom AI (Fall 2025) — AI agents that recover lost revenue through real conversations.",
+    "url": "https://www.ycombinator.com/companies/boom-ai",
+    "fecha": "2025-10-19T00:46:08+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 6.5,
+  "motor": "reglas",
+  "empresa": "Boom AI",
+  "sitio_web": "https://useboom.ai",
+  "pais": "México",
+  "sector": "B2B",
+  "etapa": "pre-seed",
+  "tecnologia": true,
+  "resumen": "Boom reaches out to your customers before you lose them.\r\n\r\nWe run proactive outbound conversations at scale: recovering churned users, re-engaging drop-offs, and protecting revenue you thought was gone. AI agents hold real conversations wi",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2025-10-19T00:46:08+00:00",
+  "ultima_senal": "2025-10-19T00:46:08+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 87,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 9.0,
+   "calidad": 13.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "d:madebythomas.ai": {
+  "key": "d:madebythomas.ai",
+  "primera_vista": "2026-10-24T04:00:46+00:00",
+  "senales": [
+   {
+    "fuente": "Y Combinator",
+    "tipo": "aceleradora",
+    "titulo": "Thomas (Spring 2026) — The first AI founder: a virtual human who runs his own companies.",
+    "url": "https://www.ycombinator.com/companies/thomas",
+    "fecha": "2026-05-29T00:55:01+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 6.5,
+  "motor": "reglas",
+  "empresa": "Thomas",
+  "sitio_web": "https://madebythomas.ai",
+  "pais": "Colombia",
+  "sector": "B2B",
+  "etapa": "pre-seed",
+  "tecnologia": true,
+  "resumen": "Hi, I'm Thomas, and my creator is named Thomas :p\r\n\r\nThomas is the first YC-backed AI founder: a virtual human who starts, runs, and grows his own companies on the internet.\r\n",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-05-29T00:55:01+00:00",
+  "ultima_senal": "2026-05-29T00:55:01+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 87,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 9.0,
+   "calidad": 13.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "d:cifrato.ai": {
+  "key": "d:cifrato.ai",
+  "primera_vista": "2026-10-24T04:00:46+00:00",
+  "senales": [
+   {
+    "fuente": "Y Combinator",
+    "tipo": "aceleradora",
+    "titulo": "Cifrato (Winter 2025) — AI Accountant for Accounting Firms",
+    "url": "https://www.ycombinator.com/companies/cifrato",
+    "fecha": "2025-07-03T03:28:00+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 6.5,
+  "motor": "reglas",
+  "empresa": "Cifrato",
+  "sitio_web": "https://cifrato.ai",
+  "pais": "Colombia",
+  "sector": "B2B",
+  "etapa": "pre-seed",
+  "tecnologia": true,
+  "resumen": "End-to-end accounting workflows executed by AI agents.\r\n- Invoice capture + upload to ERP/POS\r\n- Invoice payment + reconciliation\r\n- Tax filings\r\n- CFO insights on demand",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2025-07-03T03:28:00+00:00",
+  "ultima_senal": "2025-07-03T03:28:00+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 87,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 9.0,
+   "calidad": 13.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "d:sintropix.com": {
+  "key": "d:sintropix.com",
+  "primera_vista": "2026-10-24T04:00:46+00:00",
+  "senales": [
+   {
+    "fuente": "Y Combinator",
+    "tipo": "aceleradora",
+    "titulo": "Sintropix (Fall 2026) — Autonomous accounting platform for global companies",
+    "url": "https://www.ycombinator.com/companies/sintropix",
+    "fecha": "2026-09-17T21:06:23+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 6.5,
+  "motor": "reglas",
+  "empresa": "Sintropix",
+  "sitio_web": "https://sintropix.com/",
+  "pais": "Chile",
+  "sector": "B2B",
+  "etapa": "pre-seed",
+  "tecnologia": true,
+  "resumen": "Autonomous accounting platform for global companies. We close your books and give you financial clarity while you run your business. ",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-09-17T21:06:23+00:00",
+  "ultima_senal": "2026-09-17T21:06:23+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 87,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 9.0,
+   "calidad": 13.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "d:altur.io": {
+  "key": "d:altur.io",
+  "primera_vista": "2026-10-24T04:00:46+00:00",
+  "senales": [
+   {
+    "fuente": "Y Combinator",
+    "tipo": "aceleradora",
+    "titulo": "Altur (Summer 2025) — Voice AI Agents for Debt Collection",
+    "url": "https://www.ycombinator.com/companies/altur",
+    "fecha": "2025-06-22T20:09:24+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 6.5,
+  "motor": "reglas",
+  "empresa": "Altur",
+  "sitio_web": "https://altur.io",
+  "pais": "México",
+  "sector": "B2B",
+  "etapa": "pre-seed",
+  "tecnologia": true,
+  "resumen": "Voice AI Agents for Debt Collection",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2025-06-22T20:09:24+00:00",
+  "ultima_senal": "2025-06-22T20:09:24+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 87,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 9.0,
+   "calidad": 13.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ }
+}

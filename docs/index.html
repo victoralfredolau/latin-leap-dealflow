@@ -1,0 +1,267 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Latin Leap · Dealflow</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f5f6f8; --surface:#ffffff; --surface-2:#f0f2f5; --line:#e3e6eb; --ink:#0f1b2d; --ink-2:#4a5568; --ink-3:#8a94a6;
+  --brand:#0b3d5c; --accent:#0e9f8e; --accent-soft:#e3f5f2; --warn:#c9822b; --warn-soft:#fbf0e1;
+  --a:#0e9f8e; --b:#3b7dd8; --c:#9aa3b2; --x:#c2c7d0; --danger:#c44545;
+  --shadow:0 1px 2px rgba(15,27,45,.05),0 4px 16px rgba(15,27,45,.05);
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0c121b; --surface:#131b27; --surface-2:#1a2433; --line:#253144; --ink:#e8edf4; --ink-2:#aab5c5; --ink-3:#77839a;
+  --brand:#7fc4ea; --accent:#2cc5b1; --accent-soft:#12322f; --warn:#e0a85a; --warn-soft:#332716;
+  --a:#2cc5b1; --b:#6aa5f0; --c:#6b7588; --x:#4a5466; --shadow:none;}}
+:root[data-theme="dark"]{
+  --bg:#0c121b; --surface:#131b27; --surface-2:#1a2433; --line:#253144; --ink:#e8edf4; --ink-2:#aab5c5; --ink-3:#77839a;
+  --brand:#7fc4ea; --accent:#2cc5b1; --accent-soft:#12322f; --warn:#e0a85a; --warn-soft:#332716;
+  --a:#2cc5b1; --b:#6aa5f0; --c:#6b7588; --x:#4a5466; --shadow:none;}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:Montserrat,system-ui,sans-serif;font-size:14px;line-height:1.5}
+a{color:var(--brand);text-decoration:none} a:hover{text-decoration:underline}
+.wrap{max-width:1280px;margin:0 auto;padding:0 20px}
+header{background:var(--brand);color:#fff}
+:root[data-theme="dark"] header{background:#0f2a3e}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) header{background:#0f2a3e}}
+.hdr{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:22px 0 20px;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:12px}
+.logo{width:36px;height:36px;border-radius:9px;background:rgba(255,255,255,.14);display:grid;place-items:center;font-weight:800;letter-spacing:-.5px}
+.brand h1{margin:0;font-size:19px;font-weight:700;letter-spacing:-.2px}
+.brand p{margin:0;font-size:12px;opacity:.75}
+.meta{font-size:12px;opacity:.85;text-align:right}
+.pill{display:inline-block;padding:2px 9px;border-radius:99px;background:rgba(255,255,255,.15);font-weight:600;font-size:11px;margin-left:6px}
+main{padding:28px 0 60px}
+.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:18px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow)}
+.kpi{padding:16px 18px}
+.kpi .lbl{font-size:11px;font-weight:600;color:var(--ink-3);text-transform:uppercase;letter-spacing:.6px}
+.kpi .val{font-size:30px;font-weight:700;letter-spacing:-1px;margin-top:4px;font-variant-numeric:tabular-nums}
+.kpi .sub{font-size:12px;color:var(--ink-2)}
+.bar{height:6px;background:var(--surface-2);border-radius:99px;overflow:hidden;margin-top:10px}
+.bar>i{display:block;height:100%;background:var(--accent);border-radius:99px}
+.grid3{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:14px;margin-bottom:18px}
+.grid2{display:grid;grid-template-columns:1fr 1.4fr;gap:14px;margin-bottom:18px}
+.panel{padding:16px 18px}
+.panel h3{margin:0 0 12px;font-size:13px;font-weight:700}
+.panel h3 span{font-weight:500;color:var(--ink-3);font-size:12px}
+.hbar{display:grid;grid-template-columns:110px 1fr 28px;gap:8px;align-items:center;font-size:12px;margin:6px 0}
+.hbar .t{height:8px;background:var(--surface-2);border-radius:99px;overflow:hidden}
+.hbar .t i{display:block;height:100%;background:var(--b);border-radius:99px}
+.hbar .n{text-align:right;font-variant-numeric:tabular-nums;color:var(--ink-2)}
+.hbar .k{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:var(--ink-2)}
+svg text{font-family:Montserrat,sans-serif}
+.toolbar{display:flex;gap:10px;flex-wrap:wrap;padding:14px 16px;border-bottom:1px solid var(--line);align-items:center}
+.toolbar input,.toolbar select{font:inherit;font-size:13px;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)}
+#q{flex:1;min-width:200px}
+.btn{font:inherit;font-size:12px;font-weight:600;padding:8px 12px;border-radius:8px;border:1px solid var(--line);background:var(--surface-2);color:var(--ink);cursor:pointer;white-space:nowrap}
+.btn:hover{border-color:var(--accent)}
+.count{font-size:12px;color:var(--ink-3);margin-left:auto}
+table{width:100%;border-collapse:collapse}
+th{font-size:11px;text-transform:uppercase;letter-spacing:.5px;color:var(--ink-3);font-weight:600;text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);cursor:pointer;user-select:none;white-space:nowrap}
+td{padding:11px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+tr.row{cursor:pointer} tr.row:hover td{background:var(--surface-2)}
+.co{font-weight:600}
+.co small{display:block;font-weight:400;color:var(--ink-3);font-size:12px;max-width:420px}
+.prio{display:inline-block;min-width:26px;text-align:center;padding:2px 8px;border-radius:6px;font-weight:700;font-size:12px;color:#fff}
+.pA{background:var(--a)} .pB{background:var(--b)} .pC{background:var(--c)} .pX{background:var(--x);color:var(--ink)}
+.score{font-weight:700;font-variant-numeric:tabular-nums}
+.tag{display:inline-block;font-size:11px;padding:1px 7px;border-radius:5px;background:var(--surface-2);color:var(--ink-2);margin:1px 3px 1px 0;white-space:nowrap}
+.tag.known{background:var(--warn-soft);color:var(--warn);font-weight:600}
+.detail td{background:var(--surface-2);padding:18px 20px}
+.dgrid{display:grid;grid-template-columns:1.2fr 1fr;gap:24px}
+.dgrid h4{margin:0 0 6px;font-size:11px;text-transform:uppercase;letter-spacing:.6px;color:var(--ink-3)}
+.dgrid p{margin:0 0 12px}
+.break{display:grid;grid-template-columns:90px 1fr 40px;gap:8px;align-items:center;font-size:12px;margin:4px 0}
+.break .t{height:7px;background:var(--surface);border-radius:99px;overflow:hidden;border:1px solid var(--line)}
+.break .t i{display:block;height:100%;background:var(--accent)}
+.msg{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px;white-space:pre-wrap;font-size:13px}
+.sig{font-size:12px;margin:4px 0}
+.sig b{font-weight:600}
+.health td,.health th{padding:8px 12px;font-size:12px}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px}
+.ok{background:var(--accent)} .ko{background:var(--danger)}
+.sect{margin:22px 0 10px;font-size:15px;font-weight:700}
+.method{padding:18px 20px;font-size:13px;color:var(--ink-2)}
+.method b{color:var(--ink)}
+footer{color:var(--ink-3);font-size:12px;text-align:center;padding:20px 0}
+.empty{padding:40px;text-align:center;color:var(--ink-3)}
+.tbl-wrap{overflow-x:auto}
+@media (max-width:960px){.kpis{grid-template-columns:repeat(2,1fr)}.grid3,.grid2{grid-template-columns:1fr}.dgrid{grid-template-columns:1fr}
+  .hide-m{display:none}}
+@media (max-width:520px){.wrap{padding:0 16px}.kpi .val{font-size:24px}.co small{display:none}td,th{padding:9px 8px}.meta{text-align:left}#q{min-width:100%}}
+</style>
+</head>
+<body>
+<header><div class="wrap hdr">
+  <div class="brand"><div class="logo">LL</div><div><h1>Motor de Dealflow</h1><p>Latin Leap · Pre-seed y seed en LATAM hispanohablante</p></div></div>
+  <div class="meta"><div id="upd"></div><div id="eng"></div></div>
+</div></header>
+
+<main class="wrap">
+  <section class="kpis" id="kpis"></section>
+
+  <section class="grid3">
+    <div class="card panel"><h3>Deals calificados por semana <span>· por fecha de la señal</span></h3><div id="weekly"></div></div>
+    <div class="card panel"><h3>Por país <span>· calificados</span></h3><div id="countries"></div></div>
+    <div class="card panel"><h3>Por fuente <span>· calificados</span></h3><div id="sources"></div></div>
+  </section>
+
+  <section class="card">
+    <div class="toolbar">
+      <input id="q" placeholder="Buscar empresa, sector, fundador, inversionista…" aria-label="Buscar">
+      <select id="fPrio" aria-label="Prioridad"><option value="AB">Prioridad A + B</option><option value="A">Sólo A</option><option value="">Todas</option><option value="C">C</option><option value="Fuera de tesis">Fuera de tesis</option></select>
+      <select id="fPais" aria-label="País"><option value="">Todos los países</option></select>
+      <select id="fEtapa" aria-label="Etapa"><option value="">Todas las etapas</option></select>
+      <select id="fFuente" aria-label="Fuente"><option value="">Todas las fuentes</option></select>
+      <label class="tag" style="padding:6px 9px;cursor:pointer"><input type="checkbox" id="fNew" style="vertical-align:-2px"> Excluir portafolio / ya conocidos</label>
+      <a class="btn" href="deals.csv" download>Descargar CSV</a>
+      <span class="count" id="count"></span>
+    </div>
+    <div class="tbl-wrap"><table>
+      <thead><tr>
+        <th data-s="prioridad">Prio.</th><th data-s="score">Score</th><th data-s="empresa">Empresa</th>
+        <th data-s="pais">País</th><th data-s="etapa" class="hide-m">Etapa</th><th data-s="sector" class="hide-m">Sector</th>
+        <th data-s="fuentes" class="hide-m">Señales</th><th data-s="fecha_evidencia">Fecha</th>
+      </tr></thead>
+      <tbody id="tbody"></tbody>
+    </table></div>
+  </section>
+
+  <h2 class="sect">Salud de fuentes y bitácora de corridas</h2>
+  <section class="grid2">
+    <div class="card"><table class="health"><thead><tr><th>Fuente (última corrida)</th><th>Señales</th></tr></thead><tbody id="health"></tbody></table></div>
+    <div class="card tbl-wrap"><table class="health"><thead><tr><th>Corrida (UTC)</th><th>Crudas</th><th>Procesadas</th><th>Deals nuevos</th><th>Calificados nuevos</th><th>Motor</th></tr></thead><tbody id="runs"></tbody></table></div>
+  </section>
+
+  <h2 class="sect">Cómo funciona</h2>
+  <section class="card method" id="method"></section>
+</main>
+<footer>Generado automáticamente por GitHub Actions · Datos de fuentes públicas · <a href="deals.json">deals.json</a></footer>
+
+<script>
+const DATA = {"deals": [{"key": "d:pokerclubhub.com", "empresa": "PokerClubHub", "sitio_web": "https://www.pokerclubhub.com", "pais": "Costa Rica", "ciudad": null, "sector": "Consumer", "etapa": "pre-seed", "monto_usd": null, "inversionistas": [], "fundadores": [], "tecnologia": true, "calidad": 6.5, "resumen": "TL;DR: PokerClubHub is the first licensed poker club platform. We protect players’ deposits and allow anyone to open their own poker club and make money.\r\n\r\nRegulated online poker sites like PokerStars have open player pools and thus are fu", "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.", "mensaje": null, "score": 87, "desglose": {"geografia": 25.0, "etapa": 25.0, "tecnologia": 15.0, "senal": 9.0, "calidad": 13.0}, "prioridad": "A", "en_tesis": true, "conocido": false, "conocido_fuente": null, "primera_vista": "2026-10-24T04:00:46+00:00", "fecha_evidencia": "2026-07-26T01:19:51+00:00", "ultima_senal": "2026-07-26T01:19:51+00:00", "senales": [{"fuente": "Y Combinator", "tipo": "aceleradora", "titulo": "PokerClubHub (Summer 2026) — Host a Poker Club and Make Money", "url": "https://www.ycombinator.com/companies/pokerclubhub", "fecha": "2026-07-26T01:19:51+00:00", "medio": null}], "motor": "reglas"}, {"key": "d:useboom.ai", "empresa": "Boom AI", "sitio_web": "https://useboom.ai", "pais": "México", "ciudad": null, "sector": "B2B", "etapa": "pre-seed", "monto_usd": null, "inversionistas": [], "fundadores": [], "tecnologia": true, "calidad": 6.5, "resumen": "Boom reaches out to your customers before you lose them.\r\n\r\nWe run proactive outbound conversations at scale: recovering churned users, re-engaging drop-offs, and protecting revenue you thought was gone. AI agents hold real conversations wi", "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.", "mensaje": null, "score": 87, "desglose": {"geografia": 25.0, "etapa": 25.0, "tecnologia": 15.0, "senal": 9.0, "calidad": 13.0}, "prioridad": "A", "en_tesis": true, "conocido": false, "conocido_fuente": null, "primera_vista": "2026-10-24T04:00:46+00:00", "fecha_evidencia": "2025-10-19T00:46:08+00:00", "ultima_senal": "2025-10-19T00:46:08+00:00", "senales": [{"fuente": "Y Combinator", "tipo": "aceleradora", "titulo": "Boom AI (Fall 2025) — AI agents that recover lost revenue through real conversations.", "url": "https://www.ycombinator.com/companies/boom-ai", "fecha": "2025-10-19T00:46:08+00:00", "medio": null}], "motor": "reglas"}, {"key": "d:madebythomas.ai", "empresa": "Thomas", "sitio_web": "https://madebythomas.ai", "pais": "Colombia", "ciudad": null, "sector": "B2B", "etapa": "pre-seed", "monto_usd": null, "inversionistas": [], "fundadores": [], "tecnologia": true, "calidad": 6.5, "resumen": "Hi, I'm Thomas, and my creator is named Thomas :p\r\n\r\nThomas is the first YC-backed AI founder: a virtual human who starts, runs, and grows his own companies on the internet.\r\n", "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.", "mensaje": null, "score": 87, "desglose": {"geografia": 25.0, "etapa": 25.0, "tecnologia": 15.0, "senal": 9.0, "calidad": 13.0}, "prioridad": "A", "en_tesis": true, "conocido": false, "conocido_fuente": null, "primera_vista": "2026-10-24T04:00:46+00:00", "fecha_evidencia": "2026-05-29T00:55:01+00:00", "ultima_senal": "2026-05-29T00:55:01+00:00", "senales": [{"fuente": "Y Combinator", "tipo": "aceleradora", "titulo": "Thomas (Spring 2026) — The first AI founder: a virtual human who runs his own companies.", "url": "https://www.ycombinator.com/companies/thomas", "fecha": "2026-05-29T00:55:01+00:00", "medio": null}], "motor": "reglas"}, {"key": "d:cifrato.ai", "empresa": "Cifrato", "sitio_web": "https://cifrato.ai", "pais": "Colombia", "ciudad": null, "sector": "B2B", "etapa": "pre-seed", "monto_usd": null, "inversionistas": [], "fundadores": [], "tecnologia": true, "calidad": 6.5, "resumen": "End-to-end accounting workflows executed by AI agents.\r\n- Invoice capture + upload to ERP/POS\r\n- Invoice payment + reconciliation\r\n- Tax filings\r\n- CFO insights on demand", "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.", "mensaje": null, "score": 87, "desglose": {"geografia": 25.0, "etapa": 25.0, "tecnologia": 15.0, "senal": 9.0, "calidad": 13.0}, "prioridad": "A", "en_tesis": true, "conocido": false, "conocido_fuente": null, "primera_vista": "2026-10-24T04:00:46+00:00", "fecha_evidencia": "2025-07-03T03:28:00+00:00", "ultima_senal": "2025-07-03T03:28:00+00:00", "senales": [{"fuente": "Y Combinator", "tipo": "aceleradora", "titulo": "Cifrato (Winter 2025) — AI Accountant for Accounting Firms", "url": "https://www.ycombinator.com/companies/cifrato", "fecha": "2025-07-03T03:28:00+00:00", "medio": null}], "motor": "reglas"}, {"key": "d:sintropix.com", "empresa": "Sintropix", "sitio_web": "https://sintropix.com/", "pais": "Chile", "ciudad": null, "sector": "B2B", "etapa": "pre-seed", "monto_usd": null, "inversionistas": [], "fundadores": [], "tecnologia": true, "calidad": 6.5, "resumen": "Autonomous accounting platform for global companies. We close your books and give you financial clarity while you run your business. ", "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.", "mensaje": null, "score": 87, "desglose": {"geografia": 25.0, "etapa": 25.0, "tecnologia": 15.0, "senal": 9.0, "calidad": 13.0}, "prioridad": "A", "en_tesis": true, "conocido": false, "conocido_fuente": null, "primera_vista": "2026-10-24T04:00:46+00:00", "fecha_evidencia": "2026-09-17T21:06:23+00:00", "ultima_senal": "2026-09-17T21:06:23+00:00", "senales": [{"fuente": "Y Combinator", "tipo": "aceleradora", "titulo": "Sintropix (Fall 2026) — Autonomous accounting platform for global companies", "url": "https://www.ycombinator.com/companies/sintropix", "fecha": "2026-09-17T21:06:23+00:00", "medio": null}], "motor": "reglas"}, {"key": "d:altur.io", "empresa": "Altur", "sitio_web": "https://altur.io", "pais": "México", "ciudad": null, "sector": "B2B", "etapa": "pre-seed", "monto_usd": null, "inversionistas": [], "fundadores": [], "tecnologia": true, "calidad": 6.5, "resumen": "Voice AI Agents for Debt Collection", "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.", "mensaje": null, "score": 87, "desglose": {"geografia": 25.0, "etapa": 25.0, "tecnologia": 15.0, "senal": 9.0, "calidad": 13.0}, "prioridad": "A", "en_tesis": true, "conocido": false, "conocido_fuente": null, "primera_vista": "2026-10-24T04:00:46+00:00", "fecha_evidencia": "2025-06-22T20:09:24+00:00", "ultima_senal": "2025-06-22T20:09:24+00:00", "senales": [{"fuente": "Y Combinator", "tipo": "aceleradora", "titulo": "Altur (Summer 2025) — Voice AI Agents for Debt Collection", "url": "https://www.ycombinator.com/companies/altur", "fecha": "2025-06-22T20:09:24+00:00", "medio": null}], "motor": "reglas"}, {"key": "n:giraffebio", "empresa": "Giraffe Bio", "sitio_web": null, "pais": "Argentina", "ciudad": null, "sector": null, "etapa": "seed", "monto_usd": 6400000.0, "inversionistas": [], "fundadores": [], "tecnologia": true, "calidad": 5.0, "resumen": "Argentine biotech startup Giraffe Bio raised $6.4M in a seed round led by Orion Industrial Ventures, with participation…", "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.", "mensaje": null, "score": 86, "desglose": {"geografia": 25.0, "etapa": 25.0, "tecnologia": 15.0, "senal": 10.5, "calidad": 10.0}, "prioridad": "A", "en_tesis": true, "conocido": false, "conocido_fuente": null, "primera_vista": "2026-10-24T04:00:44+00:00", "fecha_evidencia": "2026-10-15T19:23:21+00:00", "ultima_senal": "2026-10-15T19:23:21+00:00", "senales": [{"fuente": "LatamList", "tipo": "noticia", "titulo": "Argentine Giraffe Bio raises $6.4M seed round to improve copper recovery", "url": "https://latamlist.com/argentine-giraffe-bio-raises-6-4m-seed-round-to-improve-copper-recovery/", "fecha": "2026-10-15T19:23:21+00:00", "medio": null}], "motor": "reglas"}, {"key": "n:dapta", "empresa": "Dapta", "sitio_web": null, "pais": "Colombia", "ciudad": null, "sector": null, "etapa": "seed", "monto_usd": 6000000.0, "inversionistas": [], "fundadores": [], "tecnologia": true, "calidad": 5.0, "resumen": "Colombian AI startup Dapta raised $6M in a seed round led by Chingona Ventures, with participation from Crew…", "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.", "mensaje": null, "score": 86, "desglose": {"geografia": 25.0, "etapa": 25.0, "tecnologia": 15.0, "senal": 10.5, "calidad": 10.0}, "prioridad": "A", "en_tesis": true, "conocido": true, "conocido_fuente": "Portafolio Latin Leap", "primera_vista": "2026-10-24T04:00:44+00:00", "fecha_evidencia": "2026-10-20T21:53:03+00:00", "ultima_senal": "2026-10-20T21:53:03+00:00", "senales": [{"fuente": "LatamList", "tipo": "noticia", "titulo": "Dapta raises $6M seed round led by Chingona Ventures", "url": "https://latamlist.com/dapta-raises-6m-seed-round-led-by-chingona-ventures/", "fecha": "2026-10-20T21:53:03+00:00", "medio": null}], "motor": "reglas"}, {"key": "n:efyfinance", "empresa": "EFY Finance", "sitio_web": null, "pais": "Panamá", "ciudad": null, "sector": null, "etapa": "seed", "monto_usd": null, "inversionistas": [], "fundadores": [], "tecnologia": true, "calidad": 5.0, "resumen": "Panama based fintech EFY Finance secured an investment from Tether as part of its seed funding round. The…", "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.", "mensaje": null, "score": 81, "desglose": {"geografia": 25.0, "etapa": 25.0, "tecnologia": 15.0, "senal": 6.0, "calidad": 10.0}, "prioridad": "A", "en_tesis": true, "conocido": false, "conocido_fuente": null, "primera_vista": "2026-10-24T04:00:44+00:00", "fecha_evidencia": "2026-10-20T22:07:06+00:00", "ultima_senal": "2026-10-20T22:07:06+00:00", "senales": [{"fuente": "LatamList", "tipo": "noticia", "titulo": "EFY Finance secures investment from Tether to expand across Latin America", "url": "https://latamlist.com/efy-finance-secures-investment-from-tether-to-expand-across-latin-america/", "fecha": "2026-10-20T22:07:06+00:00", "medio": null}], "motor": "reglas"}, {"key": "n:fronte", "empresa": "Fronte", "sitio_web": null, "pais": "Colombia", "ciudad": null, "sector": null, "etapa": "pre-seed", "monto_usd": null, "inversionistas": [], "fundadores": [], "tecnologia": true, "calidad": 5.0, "resumen": "Colombian fintech Fronte raised an undisclosed pre-seed round led by Rally Cap VC and Bankless Ventures. Base Ecosystem…", "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.", "mensaje": null, "score": 80, "desglose": {"geografia": 25.0, "etapa": 25.0, "tecnologia": 15.0, "senal": 4.5, "calidad": 10.0}, "prioridad": "A", "en_tesis": true, "conocido": false, "conocido_fuente": null, "primera_vista": "2026-10-24T04:00:44+00:00", "fecha_evidencia": "2026-10-08T17:23:14+00:00", "ultima_senal": "2026-10-08T17:23:14+00:00", "senales": [{"fuente": "LatamList", "tipo": "noticia", "titulo": "Colombian fintech Fronte raises pre-seed round led by Rally Cap VC and Bankless Ventures", "url": "https://latamlist.com/colombian-fintech-fronte-raises-pre-seed-round-led-by-rally-cap-vc-and-bankless-ventures/", "fecha": "2026-10-08T17:23:14+00:00", "medio": null}], "motor": "reglas"}, {"key": "n:rebill", "empresa": "Rebill", "sitio_web": null, "pais": "Argentina", "ciudad": null, "sector": null, "etapa": "serie-a", "monto_usd": 5400000.0, "inversionistas": [], "fundadores": [], "tecnologia": true, "calidad": 5.0, "resumen": "Argentine fintech Rebill raised $5.4M in a pre Series A round, bringing its total funding to more than…", "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.", "mensaje": null, "score": 68, "desglose": {"geografia": 25.0, "etapa": 7.5, "tecnologia": 15.0, "senal": 10.5, "calidad": 10.0}, "prioridad": "B", "en_tesis": true, "conocido": false, "conocido_fuente": null, "primera_vista": "2026-10-24T04:00:44+00:00", "fecha_evidencia": "2026-10-20T23:24:46+00:00", "ultima_senal": "2026-10-20T23:24:46+00:00", "senales": [{"fuente": "LatamList", "tipo": "noticia", "titulo": "Argentine fintech Rebill raises $5.4M Pre Series A round", "url": "https://latamlist.com/argentine-fintech-rebill-raises-5-4m-pre-series-a-round/", "fecha": "2026-10-20T23:24:46+00:00", "medio": null}], "motor": "reglas"}, {"key": "n:scanntech", "empresa": "Scanntech", "sitio_web": null, "pais": "Uruguay", "ciudad": null, "sector": null, "etapa": "serie-b+", "monto_usd": 180000000.0, "inversionistas": [], "fundadores": [], "tecnologia": true, "calidad": 5.0, "resumen": "Uruguayan retail technology company Scanntech raised $180M in a round led by L Catterton, with participation from Partners…", "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.", "mensaje": null, "score": 60, "desglose": {"geografia": 25.0, "etapa": 0.0, "tecnologia": 15.0, "senal": 10.5, "calidad": 10.0}, "prioridad": "Fuera de tesis", "en_tesis": false, "conocido": false, "conocido_fuente": null, "primera_vista": "2026-10-24T04:00:44+00:00", "fecha_evidencia": "2026-10-16T16:40:03+00:00", "ultima_senal": "2026-10-16T16:40:03+00:00", "senales": [{"fuente": "LatamList", "tipo": "noticia", "titulo": "Uruguayan Scanntech raises $180M round led by L Catterton", "url": "https://latamlist.com/uruguayan-scanntech-raises-180m-round-led-by-l-catterton/", "fecha": "2026-10-16T16:40:03+00:00", "medio": null}], "motor": "reglas"}, {"key": "n:flai", "empresa": "Flai", "sitio_web": null, "pais": null, "ciudad": null, "sector": null, "etapa": "serie-a", "monto_usd": 27000000.0, "inversionistas": [], "fundadores": [], "tecnologia": true, "calidad": 5.0, "resumen": "Flai, a San Francisco based AI startup founded by three Uruguayans, raised $27M in a Series A round…", "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.", "mensaje": null, "score": 49, "desglose": {"geografia": 7.5, "etapa": 7.5, "tecnologia": 15.0, "senal": 9.0, "calidad": 10.0}, "prioridad": "C", "en_tesis": true, "conocido": false, "conocido_fuente": null, "primera_vista": "2026-10-24T04:00:44+00:00", "fecha_evidencia": "2026-10-08T18:07:52+00:00", "ultima_senal": "2026-10-08T18:07:52+00:00", "senales": [{"fuente": "LatamList", "tipo": "noticia", "titulo": "Flai raises $27M Series A to expand AI agents for US car dealerships", "url": "https://latamlist.com/flai-raises-27m-series-a-to-expand-ai-agents-for-us-car-dealerships/", "fecha": "2026-10-08T18:07:52+00:00", "medio": null}], "motor": "reglas"}, {"key": "n:typeoneenergy", "empresa": "Type One Energy", "sitio_web": null, "pais": null, "ciudad": null, "sector": null, "etapa": "desconocida", "monto_usd": null, "inversionistas": [], "fundadores": [], "tecnologia": null, "calidad": 5.0, "resumen": "La energía de fusión lleva décadas bajo investigación como una posible fuente de electricidad con bajas emisiones de carbono.", "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.", "mensaje": null, "score": 44, "desglose": {"geografia": 7.5, "etapa": 12.5, "tecnologia": 7.5, "senal": 6.0, "calidad": 10.0}, "prioridad": "C", "en_tesis": true, "conocido": false, "conocido_fuente": null, "primera_vista": "2026-10-24T04:00:44+00:00", "fecha_evidencia": "2026-10-12T16:38:47+00:00", "ultima_senal": "2026-10-12T16:38:47+00:00", "senales": [{"fuente": "Contxto", "tipo": "noticia", "titulo": "Type One Energy levanta 200 millones de dólares para llevar la fusión nuclear al mercado", "url": "https://contxto.com/es/energytech/type-one-energy-levanta-200-millones-de-dolares-para-llevar-la-fusion-nuclear-al-mercado/", "fecha": "2026-10-12T16:38:47+00:00", "medio": null}], "motor": "reglas"}, {"key": "n:jeeves", "empresa": "Jeeves", "sitio_web": null, "pais": null, "ciudad": null, "sector": null, "etapa": "serie-b+", "monto_usd": 110000000.0, "inversionistas": [], "fundadores": [], "tecnologia": null, "calidad": 5.0, "resumen": "Mover dinero entre países sigue siendo un dolor de cabeza para las empresas que operan en varios mercados.", "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.", "mensaje": null, "score": 34, "desglose": {"geografia": 7.5, "etapa": 0.0, "tecnologia": 7.5, "senal": 9.0, "calidad": 10.0}, "prioridad": "Fuera de tesis", "en_tesis": false, "conocido": false, "conocido_fuente": null, "primera_vista": "2026-10-24T04:00:44+00:00", "fecha_evidencia": "2026-10-02T14:51:28+00:00", "ultima_senal": "2026-10-02T14:51:28+00:00", "senales": [{"fuente": "Contxto", "tipo": "noticia", "titulo": "Jeeves cierra ronda de $110 millones de dólares y apuesta por las stablecoins para mover dinero entre países", "url": "https://contxto.com/es/fintech/jeeves-cierra-ronda-de-110-millones-de-dolares-y-apuesta-por-las-stablecoins-para-mover-dinero-entre-paises/", "fecha": "2026-10-02T14:51:28+00:00", "medio": null}], "motor": "reglas"}], "metricas": {"actualizado": "2026-10-24T04:00:46+00:00", "baseline_mes": 60, "meta_incremental_mes": 6, "calificados_30d": 4, "prioridad_a_30d": 3, "incremento_vs_baseline": 0.067, "cumplimiento_meta": 0.67, "total_deals": 15, "total_calificados": 10, "conocidos_detectados": 1, "por_semana": {"2025-06-16": 1, "2025-06-30": 1, "2025-10-13": 1, "2026-05-25": 1, "2026-07-20": 1, "2026-09-14": 1, "2026-10-05": 1, "2026-10-12": 1, "2026-10-19": 2}, "por_fuente": {"Y Combinator": 6, "LatamList": 4}, "por_pais": {"Colombia": 3, "Argentina": 2, "México": 2, "Panamá": 1, "Costa Rica": 1, "Chile": 1}, "corridas": [{"inicio": "2026-10-24T04:00:44+00:00", "fin": "2026-10-24T04:00:44+00:00", "senales_crudas": 16, "descartadas_prefiltro": 6, "procesadas": 10, "deals_nuevos": 9, "calificados_nuevos": 4, "motor": "reglas", "fuentes": [{"fuente": "fixtures", "ok": true, "senales": 16, "error": null}]}, {"inicio": "2026-10-24T04:00:44+00:00", "fin": "2026-10-24T04:00:46+00:00", "senales_crudas": 6, "descartadas_prefiltro": 0, "procesadas": 6, "deals_nuevos": 6, "calificados_nuevos": 6, "motor": "reglas", "fuentes": [{"fuente": "Y Combinator", "ok": true, "senales": 6, "error": null}]}]}, "tesis": {"paises": ["México", "Guatemala", "El Salvador", "Honduras", "Nicaragua", "Costa Rica", "Panamá", "Cuba", "República Dominicana", "Puerto Rico", "Colombia", "Venezuela", "Ecuador", "Perú", "Bolivia", "Chile", "Argentina", "Uruguay", "Paraguay"], "pesos": {"geografia": 25, "etapa": 25, "tecnologia": 15, "senal": 15, "calidad": 20}, "umbrales": {"A": 75, "B": 60}, "fondo": {"nombre": "Latin Leap", "tamano_usd": 20000000, "etapas_objetivo": ["pre-seed", "seed"], "baseline_deals_mes": 60, "meta_incremento": 0.1}}};
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const fmtD = d => { if(!d) return "—"; const x = new Date(d); return isNaN(x) ? "—" : x.toLocaleDateString("es-MX",{day:"2-digit",month:"short",year:"numeric"}); };
+const usd = n => n ? (n>=1e6 ? `USD ${(n/1e6).toFixed(n>=1e7?0:1)}M` : `USD ${Math.round(n/1e3)}K`) : null;
+const pc = p => ({A:"pA",B:"pB",C:"pC"}[p] || "pX");
+const pl = p => p === "Fuera de tesis" ? "—" : p;
+const M = DATA.metricas, T = DATA.tesis, deals = DATA.deals;
+
+// ---------- encabezado y KPIs
+$("#upd").textContent = "Actualizado: " + new Date(M.actualizado).toLocaleString("es-MX",{dateStyle:"medium",timeStyle:"short"});
+const lastRun = (M.corridas||[]).slice(-1)[0];
+$("#eng").innerHTML = "Motor de extracción:" + `<span class="pill">${lastRun && lastRun.motor==="llm" ? "Claude (LLM)" : "Reglas"}</span>`;
+const pct = Math.min(100, Math.round((M.cumplimiento_meta||0)*100));
+const kpi = (l,v,s,bar) => `<div class="card kpi"><div class="lbl">${l}</div><div class="val">${v}</div><div class="sub">${s}</div>${bar!=null?`<div class="bar"><i style="width:${bar}%"></i></div>`:""}</div>`;
+$("#kpis").innerHTML =
+  kpi("Calificados nuevos · 30 días", M.calificados_30d, `Meta: +${M.meta_incremental_mes}/mes (10% de ${M.baseline_mes}) · ${pct}% cumplido`, pct) +
+  kpi("Incremento vs. baseline", `+${(M.incremento_vs_baseline*100).toFixed(0)}%`, `Sobre ${M.baseline_mes} deals/mes actuales`, null) +
+  kpi("Prioridad A · 30 días", M.prioridad_a_30d, `Score ≥ ${T.umbrales.A}: contactar esta semana`, null) +
+  kpi("Universo rastreado", M.total_deals, `${M.total_calificados} calificados nuevos acumulados · ${M.conocidos_detectados||0} ya conocidos excluidos`, null);
+
+// ---------- gráficas
+(function weekly(){
+  const e = Object.entries(M.por_semana||{}); const el = $("#weekly");
+  if(!e.length){ el.innerHTML = '<div class="empty">Sin datos aún</div>'; return; }
+  const W = 460, H = 150, pad = 22, max = Math.max(...e.map(x=>x[1]), M.meta_incremental_mes/4.3);
+  const bw = (W - pad) / e.length;
+  const goal = M.meta_incremental_mes / 4.33, gy = H - 20 - (goal/max)*(H-40);
+  let s = `<svg viewBox="0 0 ${W} ${H}" width="100%" role="img" aria-label="Deals calificados por semana">`;
+  e.forEach(([k,v],i)=>{ const h=(v/max)*(H-40), x=pad+i*bw+4, y=H-20-h;
+    s += `<rect x="${x}" y="${y}" width="${bw-8}" height="${h}" rx="3" fill="var(--accent)"><title>Semana ${k}: ${v}</title></rect>`;
+    s += `<text x="${x+(bw-8)/2}" y="${y-4}" font-size="10" text-anchor="middle" fill="var(--ink-2)">${v}</text>`;
+    s += `<text x="${x+(bw-8)/2}" y="${H-6}" font-size="9" text-anchor="middle" fill="var(--ink-3)">${k.slice(5)}</text>`; });
+  s += `<line x1="${pad}" x2="${W}" y1="${gy}" y2="${gy}" stroke="var(--warn)" stroke-dasharray="4 3"/>`;
+  s += `<text x="${W}" y="${gy-4}" font-size="9" text-anchor="end" fill="var(--warn)">meta semanal ≈ ${goal.toFixed(1)}</text></svg>`;
+  el.innerHTML = s;
+})();
+const hbars = (el, obj) => { const e = Object.entries(obj||{}).slice(0,8); const mx = Math.max(1,...e.map(x=>x[1]));
+  el.innerHTML = e.length ? e.map(([k,v])=>`<div class="hbar"><span class="k" title="${esc(k)}">${esc(k)}</span><span class="t"><i style="width:${v/mx*100}%"></i></span><span class="n">${v}</span></div>`).join("") : '<div class="empty">Sin datos aún</div>'; };
+hbars($("#countries"), M.por_pais); hbars($("#sources"), M.por_fuente);
+
+// ---------- filtros
+const uniq = f => [...new Set(deals.flatMap(f).filter(Boolean))].sort();
+uniq(d=>[d.pais]).forEach(p=>$("#fPais").insertAdjacentHTML("beforeend",`<option>${esc(p)}</option>`));
+["idea","pre-seed","seed","serie-a","serie-b+","desconocida"].filter(x=>deals.some(d=>d.etapa===x)).forEach(p=>$("#fEtapa").insertAdjacentHTML("beforeend",`<option>${p}</option>`));
+uniq(d=>(d.senales||[]).map(s=>s.fuente)).forEach(p=>$("#fFuente").insertAdjacentHTML("beforeend",`<option>${esc(p)}</option>`));
+const prefs = (()=>{ try { return JSON.parse(localStorage.getItem("ll-filters")||"{}"); } catch(e){ return {}; } })();
+for (const [k,v] of Object.entries(prefs)) { const el = document.getElementById(k); if (el) el.type==="checkbox" ? el.checked=v : el.value=v; }
+
+let sortKey = "score", sortDir = -1, open = null;
+document.querySelectorAll("th[data-s]").forEach(th => th.onclick = () => { const k = th.dataset.s; sortDir = sortKey===k ? -sortDir : -1; sortKey = k; render(); });
+const prioRank = {A:0,B:1,C:2,"Fuera de tesis":3};
+const val = (d,k) => k==="prioridad" ? -prioRank[d.prioridad] : k==="fuentes" ? (d.senales||[]).length : (d[k] ?? "");
+
+function render(){
+  const q = $("#q").value.trim().toLowerCase(), fp = $("#fPrio").value, pa = $("#fPais").value, et = $("#fEtapa").value, fu = $("#fFuente").value, nw = $("#fNew").checked;
+  try { localStorage.setItem("ll-filters", JSON.stringify({fPrio:fp,fPais:pa,fEtapa:et,fFuente:fu,fNew:nw})); } catch(e){}
+  let rows = deals.filter(d => {
+    if (fp==="AB" ? !["A","B"].includes(d.prioridad) : fp && d.prioridad!==fp) return false;
+    if (pa && d.pais!==pa) return false; if (et && d.etapa!==et) return false;
+    if (fu && !(d.senales||[]).some(s=>s.fuente===fu)) return false; if (nw && d.conocido) return false;
+    if (q) { const h = [d.empresa,d.sector,d.resumen,d.pais,d.ciudad,...(d.fundadores||[]),...(d.inversionistas||[])].join(" ").toLowerCase(); if(!h.includes(q)) return false; }
+    return true; });
+  rows.sort((a,b)=>{ const x=val(a,sortKey), y=val(b,sortKey); return (x>y?1:x<y?-1:0)*sortDir; });
+  $("#count").textContent = `${rows.length} de ${deals.length} deals`;
+  if (!rows.length) { $("#tbody").innerHTML = '<tr><td colspan="8" class="empty">Ningún deal coincide con los filtros.</td></tr>'; return; }
+  $("#tbody").innerHTML = rows.map(d => {
+    const fuentes = [...new Set((d.senales||[]).map(s=>s.fuente))];
+    let h = `<tr class="row" data-k="${esc(d.key)}">
+      <td><span class="prio ${pc(d.prioridad)}">${pl(d.prioridad)}</span></td>
+      <td class="score">${d.score}</td>
+      <td class="co">${esc(d.empresa)} ${d.conocido?`<span class="tag known">${esc(d.conocido_fuente||"Ya en pipeline")}</span>`:''}<small>${esc((d.resumen||"").slice(0,140))}</small></td>
+      <td>${esc(d.pais||"—")}</td><td class="hide-m">${esc(d.etapa||"—")}${d.monto_usd?`<br><small style="color:var(--ink-3)">${usd(d.monto_usd)}</small>`:""}</td>
+      <td class="hide-m">${esc(d.sector||"—")}</td>
+      <td class="hide-m">${fuentes.map(f=>`<span class="tag">${esc(f)}</span>`).join("")}</td>
+      <td style="white-space:nowrap">${fmtD(d.fecha_evidencia)}</td></tr>`;
+    if (open===d.key) h += detail(d);
+    return h; }).join("");
+  document.querySelectorAll("tr.row").forEach(tr => tr.onclick = () => { open = open===tr.dataset.k ? null : tr.dataset.k; render(); });
+  document.querySelectorAll("[data-copy]").forEach(b => b.onclick = ev => { ev.stopPropagation();
+    const t = b.closest("div").querySelector(".msg").innerText; navigator.clipboard?.writeText(t).then(()=>{ b.textContent="Copiado ✓"; setTimeout(()=>b.textContent="Copiar mensaje",1500); }); });
+}
+function detail(d){
+  const lbl = {geografia:"Geografía",etapa:"Etapa",tecnologia:"Tecnología",senal:"Señal",calidad:"Calidad"};
+  const br = Object.entries(d.desglose||{}).map(([k,v])=>`<div class="break"><span>${lbl[k]}</span><span class="t"><i style="width:${v/T.pesos[k]*100}%"></i></span><span>${v}/${T.pesos[k]}</span></div>`).join("");
+  const sig = (d.senales||[]).map(s=>`<div class="sig"><b>${esc(s.fuente)}</b>${s.medio?` · ${esc(s.medio)}`:""} · ${fmtD(s.fecha)} — <a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.titulo)}</a></div>`).join("");
+  const web = d.sitio_web ? `<a href="${esc(/^https?:/.test(d.sitio_web)?d.sitio_web:"https://"+d.sitio_web)}" target="_blank" rel="noopener">${esc(d.sitio_web)}</a>` : "—";
+  return `<tr class="detail"><td colspan="8"><div class="dgrid">
+    <div>
+      <h4>Resumen</h4><p>${esc(d.resumen||"—")}</p>
+      <h4>Por qué este score</h4><p>${esc(d.razon||"—")}</p>
+      <h4>Datos</h4><p>Sitio: ${web}<br>Ubicación: ${esc([d.ciudad,d.pais].filter(Boolean).join(", ")||"—")}<br>
+      Etapa: ${esc(d.etapa||"—")}${d.monto_usd?` · Ronda: ${usd(d.monto_usd)}`:""}<br>
+      Fundadores: ${esc((d.fundadores||[]).join(", ")||"—")}<br>Inversionistas: ${esc((d.inversionistas||[]).join(", ")||"—")}<br>
+      Primera detección: ${fmtD(d.primera_vista)} · Extracción: ${d.motor==="llm"?"Claude":"reglas"}</p>
+      <h4>Evidencia (${(d.senales||[]).length})</h4>${sig}
+    </div>
+    <div>
+      <h4>Desglose del score · ${d.score}/100</h4>${br}
+      <div style="margin-top:16px"><h4>Borrador de primer contacto</h4>
+      ${d.mensaje?`<div class="msg">${esc(d.mensaje)}</div><button class="btn" data-copy style="margin-top:8px">Copiar mensaje</button>`:'<p style="color:var(--ink-3)">Disponible cuando la extracción corre con Claude.</p>'}</div>
+    </div></div></td></tr>`;
+}
+["q","fPrio","fPais","fEtapa","fFuente","fNew"].forEach(id => document.getElementById(id).addEventListener("input", render));
+render();
+
+// ---------- salud y bitácora
+const lr = lastRun ? lastRun.fuentes : [];
+$("#health").innerHTML = lr.length ? lr.map(f=>`<tr><td><span class="dot ${f.ok?"ok":"ko"}"></span>${esc(f.fuente)}${f.error?`<br><small style="color:var(--ink-3)">${esc(f.error)}</small>`:""}</td><td>${f.senales}</td></tr>`).join("") : '<tr><td colspan="2" class="empty">Sin corridas</td></tr>';
+$("#runs").innerHTML = (M.corridas||[]).slice().reverse().slice(0,12).map(r=>`<tr><td>${new Date(r.inicio).toLocaleString("es-MX",{dateStyle:"short",timeStyle:"short"})}</td><td>${r.senales_crudas}</td><td>${r.procesadas}</td><td>${r.deals_nuevos}</td><td><b>${r.calificados_nuevos}</b></td><td>${r.motor}</td></tr>`).join("");
+
+$("#method").innerHTML = `
+<p><b>1 · Captura.</b> Cada día, GitHub Actions consulta fuentes públicas: medios del ecosistema (LatamList, Contxto, Startupeable, TechCrunch, Pulso Social), búsquedas de Google News por país, el directorio de Y Combinator, lanzamientos en Hacker News y vacantes tech en Get on Board.</p>
+<p><b>2 · Pre-filtro y extracción.</b> Se descartan notas sólo de Brasil o sin indicio de startup. Claude lee cada señal y extrae empresa, país, etapa, ronda, fundadores e inversionistas, sin inventar campos ausentes.</p>
+<p><b>3 · Deduplicación.</b> Por dominio y nombre normalizado: una startup que aparece en varias fuentes es un solo deal con más evidencia.</p>
+<p><b>4 · Score 0–100.</b> Geografía (${T.pesos.geografia}) + Etapa (${T.pesos.etapa}) + Tecnología (${T.pesos.tecnologia}) + Señal (${T.pesos.senal}) + Calidad (${T.pesos.calidad}). A ≥ ${T.umbrales.A}, B ≥ ${T.umbrales.B}. Fuera de tesis: país no hispanohablante, Serie B+ o no tecnológico.</p>
+<p><b>5 · Medición.</b> Un <b>deal calificado nuevo</b> es A o B, en tesis y no presente en el pipeline existente ni en el portafolio del fondo (<code>data/pipeline_existente.csv</code>), que no suma a la meta. La meta es ${M.meta_incremental_mes}/mes (10% sobre ${M.baseline_mes}).</p>`;
+</script>
+</body>
+</html>

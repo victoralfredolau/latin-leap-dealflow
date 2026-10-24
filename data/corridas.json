@@ -1,0 +1,38 @@
+[
+ {
+  "inicio": "2026-10-24T04:00:44+00:00",
+  "fin": "2026-10-24T04:00:44+00:00",
+  "senales_crudas": 16,
+  "descartadas_prefiltro": 6,
+  "procesadas": 10,
+  "deals_nuevos": 9,
+  "calificados_nuevos": 4,
+  "motor": "reglas",
+  "fuentes": [
+   {
+    "fuente": "fixtures",
+    "ok": true,
+    "senales": 16,
+    "error": null
+   }
+  ]
+ },
+ {
+  "inicio": "2026-10-24T04:00:44+00:00",
+  "fin": "2026-10-24T04:00:46+00:00",
+  "senales_crudas": 6,
+  "descartadas_prefiltro": 0,
+  "procesadas": 6,
+  "deals_nuevos": 6,
+  "calificados_nuevos": 6,
+  "motor": "reglas",
+  "fuentes": [
+   {
+    "fuente": "Y Combinator",
+    "ok": true,
+    "senales": 6,
+    "error": null
+   }
+  ]
+ }
+]
