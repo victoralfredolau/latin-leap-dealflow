@@ -244,6 +244,14 @@
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM1MxR0tmNXEwRlk2QmJYUnp5blZEN0kzRmVjdDFtUHgyWEdHMnFocmhKb2JNNkktdDJzbjItcWNyQzlFSUhpUkJLaVA0d3RBODVXazg5ODl2ZnJOcUZ0cUhPRFE0bUFSd2RGTXUweHdPUmdXc2hxRmUxZEJBUENJclhSd1lVaVNGUkJuZw?oc=5",
     "fecha": "2026-10-15T06:03:27+00:00",
     "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Dapta raises $6M seed round led by Chingona Ventures",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KeHdBY190ZGloWjN1bkxnLUl5UFQ5QUQycUg0Zk1CaTRyWXVQSDFFWW1GcGtMRmQzMV9BRzFBdkxZTGNxX2NJVmRackRua0NOQmhrWHFQeE0zNk1XaE9DSnhvNF9Td2s2ZE9YaUxvUmdPc1g0V1Y5bmlMOG94N1XSAYQBQVVfeXFMTjNLUnFRTTBRdF9DQnhIc0FrLWlCZTB6SmdJcDlnZklEQVNTajN5RndVN0FNY0dWTWRJSzY1bW5kRkdXRE1TTWV2ckhmNm1VRkoyNGZVY2xVS2RIUGRrMGVLbzg1eW13a1ZTWklxNEFHRW15a0VhOUc3UTF0VnN6Y3VBRHha?oc=5",
+    "fecha": "2026-10-21T01:27:48+00:00",
+    "medio": "LatamList"
    }
   ],
   "inversionistas": [
@@ -262,10 +270,10 @@
   "etapa": "seed",
   "monto_usd": 6000000.0,
   "tecnologia": true,
-  "resumen": "Dapta es una startup colombiana que desarrolla soluciones de IA para optimizar procesos de ventas.",
-  "razon": "IA en ventas es problema relevante con mercado amplio; ronda de $6M indica tracción y validación del modelo.",
+  "resumen": "Startup que acaba de cerrar ronda seed de USD 6M liderada por Chingona Ventures.",
+  "razon": "Ronda seed de USD 6M liderada por Chingona Ventures (inversor reconocido en LATAM), pero falta información sobre tracción, sector y ubicación específica.",
   "fecha_evidencia": "2026-10-14T07:00:00+00:00",
-  "ultima_senal": "2026-10-20T21:53:03+00:00",
+  "ultima_senal": "2026-10-21T01:27:48+00:00",
   "conocido_fuente": "Portafolio Latin Leap",
   "conocido": true,
   "score": 94,
@@ -279,7 +287,7 @@
   "prioridad": "A",
   "en_tesis": true,
   "sector": "IA/SaaS de Ventas",
-  "mensaje": "Vemos a Dapta como un excelente ejemplo de innovación tecnológica desde Colombia. Con vuestra ronda de $6M, estaríamos muy interesados en conocer vuestros números de tracción y visión de expansión regional. ¿Podríamos agendar una conversación?"
+  "mensaje": "Hola equipo de Dapta, vimos que cerraron una ronda seed de USD 6M con Chingona Ventures. En Latin Leap nos atrae la trayectoria de ese fondo en la región. ¿Podrían compartir más sobre el producto y el mercado que están atacando? Nos gustaría conocerlos."
  },
  "n:efyfinance": {
   "key": "n:efyfinance",
@@ -3468,34 +3476,45 @@
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ0NQaGZRaTcwR05oTnplRjZQQUd2S1hwTGpNQUtpR1RCSVVJdU54bU1RVVc2MWNGLTdrakdfNjdoaC1zdDFlN3FFcWxEVkcxcnlxSEFRSE5NbTh3dGFlekJncWF0MVlsWFNxYk5udXJLV01vR1ppYW9XMWx2MFc3ZUtKeDFwV2pURXc?oc=5",
     "fecha": "2026-10-21T18:06:36+00:00",
     "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Ruit levanta 880.000 € con Juan Roig para el recommerce",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWmlXdG1yNHR4RVBCMU9CcFB3THJ0WmFCQUZIN1llMHQzeDJuZGJiNkxxTTFCOXFoZUdkaThXdkphcUtOZkFGS0kwZnJxbXJmM1VLTDEweF9HRDV4UnNWeldLWmJBN2hpSkFTZDd5QkFJbjhvaGctSWJ1Zm1rT25UR3o3MTZKUW9HY3Q2dkp1bw?oc=5",
+    "fecha": "2026-10-18T09:06:50+00:00",
+    "medio": "El Ecosistema Startup"
    }
   ],
-  "inversionistas": [],
+  "inversionistas": [
+   "Juan Roig"
+  ],
   "fundadores": [],
-  "calidad": 5.0,
+  "calidad": 7.0,
   "motor": "llm",
   "empresa": "Ruit",
-  "pais": "Perú",
-  "sector": "SaaS / Marketplace",
-  "etapa": "pre-seed",
+  "pais": "Colombia",
+  "sector": "E-commerce/Recommerce",
+  "etapa": "seed",
   "tecnologia": true,
-  "resumen": "Ruit es una plataforma SaaS para gestionar comercio de segunda mano que levantó 880.000€.",
-  "mensaje": "Hola equipo de Ruit, vimos que levantaron 880k€ para su SaaS de segunda mano en Perú. Es un mercado con mucho potencial. ¿Nos gustaría entender mejor vuestra tracción y planes de expansión regional?",
-  "razon": "Startup peruana de SaaS para segunda mano, ronda pequeña (880k€ ≈ USD 960k) sin información de tracción o validación de mercado clara.",
-  "fecha_evidencia": "2026-10-21T18:06:36+00:00",
+  "resumen": "Plataforma de recomercio (segunda mano) que levantó €880K con respaldo de Juan Roig.",
+  "mensaje": "Saludos equipo Ruit, vimos que levantaron una ronda con Juan Roig para expandir el recommerce en LATAM. En Latin Leap nos encanta el potencial de marketplaces circulares en la región. Nos gustaría conocer más sobre vuestra tracción y próximos hitos. ¿Podríamos agendar una breve conversación?",
+  "razon": "Startup de LATAM concreta (Colombia), inversor reconocido (Roig, fundador Mercadona), sector con tracción (recommerce), monto coherente con seed.",
+  "fecha_evidencia": "2026-10-18T09:06:50+00:00",
   "ultima_senal": "2026-10-21T18:06:36+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 81,
+  "score": 90,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 6.0,
-   "calidad": 10.0
+   "senal": 10.5,
+   "calidad": 14.0
   },
   "prioridad": "A",
-  "en_tesis": true
+  "en_tesis": true,
+  "monto_usd": 975000.0
  },
  "n:allodirect": {
   "key": "n:allodirect",
@@ -3574,6 +3593,84 @@
    "tecnologia": 15.0,
    "senal": 10.5,
    "calidad": 12.0
+  },
+  "prioridad": "C",
+  "en_tesis": true
+ },
+ "n:carbonfarm": {
+  "key": "n:carbonfarm",
+  "primera_vista": "2026-10-24T12:50:07+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "CarbonFarm, agtech del arroz, levanta 7M€",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tSjk1d3dVekVnX3RWWldrbkFVTW83T1hTT0FXWG4tWHdKY05VNkRwWW5ESUMzQklwek5sbk9wZmdNMGh1TmRWOGFHczFIRUdEOUVIRVFma0xQc1R4QXZjcC1FaXdYNHRicWFhUktHTG5fVXFjaFRiQjF3?oc=5",
+    "fecha": "2026-10-17T06:06:41+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 8.0,
+  "motor": "llm",
+  "empresa": "CarbonFarm",
+  "pais": "Argentina",
+  "sector": "AgTech",
+  "etapa": "seed",
+  "monto_usd": 7700000.0,
+  "tecnologia": true,
+  "resumen": "Agtech enfocada en arroz sostenible que levantó €7M para expandir operaciones.",
+  "mensaje": "Hola equipo CarbonFarm, felicitaciones por la ronda de €7M. En Latin Leap nos entusiasma el potencial de AgTech en LATAM, especialmente en cultivos clave como el arroz. Nos gustaría conversar sobre vuestra visión de expansión regional y modelo de impacto. ¿Tenéis tiempo para una breve llamada?",
+  "razon": "Startup de LATAM concreta (Argentina), sector AgTech con potencial alto, monto significativo (€7M), foco en arroz (cultivo relevante en región).",
+  "fecha_evidencia": "2026-10-17T06:06:41+00:00",
+  "ultima_senal": "2026-10-17T06:06:41+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 92,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 16.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "n:fello": {
+  "key": "n:fello",
+  "primera_vista": "2026-10-24T12:50:07+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "How Much Did Fello Raise? Funding & Key Investors",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1acjBjd2dVeUFacnUtRW1DVmlHdmhsMzcyNUZEaTZ3RHNlR3NjampGbklYN3pPa21yNEFhMHFHZUU2VTVhSGM3MGR1T25NcmVNYVEyTQ?oc=5",
+    "fecha": "2026-10-16T07:00:00+00:00",
+    "medio": "Clay"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 4.0,
+  "motor": "llm",
+  "empresa": "Fello",
+  "etapa": "desconocida",
+  "resumen": "Startup Fello con información de financiación pendiente de confirmar.",
+  "mensaje": "Hola Fello, encontramos una referencia a tu startup en nuestras búsquedas de rondas recientes en México. Nos gustaría saber más sobre qué están construyendo y en qué etapa se encuentran. ¿Podrían agendar una breve llamada?",
+  "razon": "Señal muy genérica sin detalles de ronda, inversores, tracción o ubicación. El título solo pregunta sobre el monto sin confirmarlo.",
+  "fecha_evidencia": "2026-10-16T07:00:00+00:00",
+  "ultima_senal": "2026-10-16T07:00:00+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 42,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 12.5,
+   "tecnologia": 7.5,
+   "senal": 6.0,
+   "calidad": 8.0
   },
   "prioridad": "C",
   "en_tesis": true
