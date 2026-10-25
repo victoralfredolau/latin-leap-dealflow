@@ -227,6 +227,73 @@
    "motor": "llm"
   },
   {
+   "key": "n:rebill",
+   "empresa": "Rebill",
+   "sitio_web": null,
+   "pais": "Argentina",
+   "ciudad": null,
+   "sector": "Fintech/Pagos",
+   "etapa": "seed",
+   "monto_usd": 5400000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Fintech argentina especializada en soluciones de pagos que levanta capital para expansión.",
+   "razon": "Fintech de pagos argentina con ronda seed ~USD 5.4M; sector financiero es grande y diferenciación en pagos es atractiva; geografía en tesis.",
+   "mensaje": "Hola equipo Rebill, vimos que levantaron USD 5.4M para potenciar su plataforma de pagos en Argentina. Nos interesa conocer la tracción actual y vuestra estrategia de expansión regional. ¿Disponibles para conversar?",
+   "score": 92,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 13.5,
+    "calidad": 14.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:00:44+00:00",
+   "fecha_evidencia": "2026-10-19T15:09:48+00:00",
+   "ultima_senal": "2026-10-22T15:48:43+00:00",
+   "senales": [
+    {
+     "fuente": "LatamList",
+     "tipo": "noticia",
+     "titulo": "Argentine fintech Rebill raises $5.4M Pre Series A round",
+     "url": "https://latamlist.com/argentine-fintech-rebill-raises-5-4m-pre-series-a-round/",
+     "fecha": "2026-10-20T23:24:46+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Rebill, la fintech argentina de pagos, levanta US$5,4M",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3dZZ3M4VFY4NFlJRC1sekJ2SVV0UG9DbUluT0s4TDZrQW1QbkZsa3dBZGlGSmxwY3djTWpfMlVfeWdLU1pQM3I2U3Z1WWh4elB2U1lUaU1QMnVWcERyVjloSS1SZ0dtdHUxNktyVlFuRzFXSlRpZTVCb3kxdGpVc0pTV1A1UThtLXFr?oc=5",
+     "fecha": "2026-10-21T18:51:38+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Rebill, fintech argentina, levanta US$5,4M pre-Serie A",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcUlKV016NW51alk0bDMyY3BCbENoWlQ4LVlYVXdob0dNWDEyMUl0NWNRcGZnS254TXBRQU1UdWU3YlloU0NiN3pyUXVYNkxnZzV1SlJtc1hwSkpTNHFYNmtYNzJwU3BpQnpDbUdCU3hKc0tjNm52czFYOGwycWVJa3JGTGR0V2VS?oc=5",
+     "fecha": "2026-10-22T15:48:43+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Rebill, la fintech argentina de pagos, levanta US$5,4M",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzdkTEdMUVNPSzZIcGJNVzhmc3h1UXlZWFR4V0JDNWlmYUhTSGk5STVHMWZqLWEycUJ1eE5ncjI1WTBmUU1iamNvbFhuaXRPQkVlMVFZa0FkMVlYLWJ4eXNNUzVTNVAzUGhtQnE3M0FTZkd5Z3VRenhGelZ1Q1pvc3ByTjA2TVRf?oc=5",
+     "fecha": "2026-10-19T15:09:48+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "n:peso",
    "empresa": "Peso",
    "sitio_web": null,
@@ -627,46 +694,44 @@
    "motor": "llm"
   },
   {
-   "key": "n:eclectic",
-   "empresa": "Eclectic AI",
+   "key": "n:symbe",
+   "empresa": "Symbe",
    "sitio_web": null,
-   "pais": "Chile",
+   "pais": "México",
    "ciudad": null,
-   "sector": "IA/Agentes",
+   "sector": "AI/Enterprise Software",
    "etapa": "seed",
-   "monto_usd": null,
-   "inversionistas": [
-    "Broota"
-   ],
+   "monto_usd": 5700000.0,
+   "inversionistas": [],
    "fundadores": [],
    "tecnologia": true,
-   "calidad": 6.0,
-   "resumen": "Eclectic AI desarrolla agentes de IA. Abierta a inversión a través de Broota.",
-   "razon": "IA es sector atractivo con tracción, pero sin detalles de ronda o traction reportados.",
-   "mensaje": "Nos llama la atención Eclectic AI y vuestra apuesta por agentes de IA en Chile. ¿Estarían abiertos a conversar sobre una posible inversión pre-seed o seed? Nos encantaría conocer el producto y el equipo en mayor detalle.",
-   "score": 88,
+   "calidad": 7.0,
+   "resumen": "Plataforma B2B que automatiza casos de negocio utilizando IA generativa.",
+   "razon": "Ronda seed de USD 5.7M en México (en tesis); solución B2B con AI es mercado grande y diferenciado; etapa y geografía alineadas.",
+   "mensaje": "Hola equipo Symbe, vimos que cerraron su ronda seed de USD 5.7M para automatizar business cases con IA. Nos interesa entender cómo están escalando en el mercado de enterprise B2B en México y LATAM. ¿Podríamos agendar una conversación?",
+   "score": 90,
    "desglose": {
     "geografia": 25.0,
     "etapa": 25.0,
     "tecnologia": 15.0,
     "senal": 10.5,
-    "calidad": 12.0
+    "calidad": 14.0
    },
    "prioridad": "A",
    "en_tesis": true,
    "conocido": false,
    "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-10T15:03:50+00:00",
-   "ultima_senal": "2026-10-10T15:03:50+00:00",
+   "primera_vista": "2026-10-25T12:49:33+00:00",
+   "fecha_evidencia": "2026-10-19T13:38:59+00:00",
+   "ultima_senal": "2026-10-19T13:38:59+00:00",
    "senales": [
     {
      "fuente": "Google News",
      "tipo": "noticia",
-     "titulo": "Eclectic AI: agentes de IA chilenos abren ronda en Broota",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVW1QQUM1Zjd5SzdrSEZVbklhQy1CVHl0clhWVGVqdUlpaE5ybVJhN2FJdW01cmFQU1Z2RWgwRDgyRnoxR3g4VkZ5NVpCeC1QSVJFTFlLdGpNNy1OMTctQVJqd3A0TFM4VFFlVTY1dnVTdEl1dXJlejJtTVc0T3BKQ21nUHBRYlI5ODlWLUhrZTc?oc=5",
-     "fecha": "2026-10-10T15:03:50+00:00",
-     "medio": "El Ecosistema Startup"
+     "titulo": "Symbe Closes $5.7M Seed Round to Automate B2B Business Cases With AI",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYUNRVVNra0wwVkc0QXROd0ZxajJPM1ZyZlF6WGlCSzUwN3ZuX2wzLUNHUWlnRmY5Z3dyTm1ja3liRUxpak80VlNTS2VqbHMtU3hhTVp6b3Y5cUhHd3ROemlvZlBnZHppdk11a0NVNnFwa25xREkxcHE3cXd4SEFZeFJicnQtTjg5QVZ2UUdFSlNfdnBfWHhLMWRkMG8ybHRaQm5tRF9vcGY?oc=5",
+     "fecha": "2026-10-19T13:38:59+00:00",
+     "medio": "AI Insider"
     }
    ],
    "motor": "llm"
@@ -1024,6 +1089,51 @@
    "motor": "llm"
   },
   {
+   "key": "n:eclectic",
+   "empresa": "Eclectic AI",
+   "sitio_web": null,
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": "IA/Agentes",
+   "etapa": "seed",
+   "monto_usd": null,
+   "inversionistas": [
+    "Broota"
+   ],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Eclectic AI desarrolla agentes de IA. Abierta a inversión a través de Broota.",
+   "razon": "IA es sector atractivo con tracción, pero sin detalles de ronda o traction reportados.",
+   "mensaje": "Nos llama la atención Eclectic AI y vuestra apuesta por agentes de IA en Chile. ¿Estarían abiertos a conversar sobre una posible inversión pre-seed o seed? Nos encantaría conocer el producto y el equipo en mayor detalle.",
+   "score": 86,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 12.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-10T15:03:50+00:00",
+   "ultima_senal": "2026-10-10T15:03:50+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Eclectic AI: agentes de IA chilenos abren ronda en Broota",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVW1QQUM1Zjd5SzdrSEZVbklhQy1CVHl0clhWVGVqdUlpaE5ybVJhN2FJdW01cmFQU1Z2RWgwRDgyRnoxR3g4VkZ5NVpCeC1QSVJFTFlLdGpNNy1OMTctQVJqd3A0TFM4VFFlVTY1dnVTdEl1dXJlejJtTVc0T3BKQ21nUHBRYlI5ODlWLUhrZTc?oc=5",
+     "fecha": "2026-10-10T15:03:50+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:dsac.ai",
    "empresa": "DSAC Chile",
    "sitio_web": "https://dsac.ai/",
@@ -1282,65 +1392,6 @@
     }
    ],
    "motor": "reglas"
-  },
-  {
-   "key": "n:rebill",
-   "empresa": "Rebill",
-   "sitio_web": null,
-   "pais": "Argentina",
-   "ciudad": null,
-   "sector": "Fintech",
-   "etapa": "serie-a",
-   "monto_usd": 5400000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "Rebill es una fintech argentina que levanta capital en etapa pre-Series A. Desarrollo de soluciones de pagos o gestión financiera digital.",
-   "razon": "Fintech argentina en etapa pre-Serie A con ronda significativa de USD 5.4M; tracción suficiente para avanzar a Serie A, pero llega tarde a Latin Leap (post-seed).",
-   "mensaje": "Felicidades a Rebill por el cierre de USD 5.4M. Vemos mucho potencial en fintechs argentinas con tracción clara. Aunque ya están en pre-Serie A, nos gustaría conocer su visión y explorar si hay sinergias futuras con el ecosistema de Latin Leap.",
-   "score": 75,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 7.5,
-    "tecnologia": 15.0,
-    "senal": 13.5,
-    "calidad": 14.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:00:44+00:00",
-   "fecha_evidencia": "2026-10-20T23:24:46+00:00",
-   "ultima_senal": "2026-10-22T15:48:43+00:00",
-   "senales": [
-    {
-     "fuente": "LatamList",
-     "tipo": "noticia",
-     "titulo": "Argentine fintech Rebill raises $5.4M Pre Series A round",
-     "url": "https://latamlist.com/argentine-fintech-rebill-raises-5-4m-pre-series-a-round/",
-     "fecha": "2026-10-20T23:24:46+00:00",
-     "medio": null
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Rebill, la fintech argentina de pagos, levanta US$5,4M",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3dZZ3M4VFY4NFlJRC1sekJ2SVV0UG9DbUluT0s4TDZrQW1QbkZsa3dBZGlGSmxwY3djTWpfMlVfeWdLU1pQM3I2U3Z1WWh4elB2U1lUaU1QMnVWcERyVjloSS1SZ0dtdHUxNktyVlFuRzFXSlRpZTVCb3kxdGpVc0pTV1A1UThtLXFr?oc=5",
-     "fecha": "2026-10-21T18:51:38+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Rebill, fintech argentina, levanta US$5,4M pre-Serie A",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcUlKV016NW51alk0bDMyY3BCbENoWlQ4LVlYVXdob0dNWDEyMUl0NWNRcGZnS254TXBRQU1UdWU3YlloU0NiN3pyUXVYNkxnZzV1SlJtc1hwSkpTNHFYNmtYNzJwU3BpQnpDbUdCU3hKc0tjNm52czFYOGwycWVJa3JGTGR0V2VS?oc=5",
-     "fecha": "2026-10-22T15:48:43+00:00",
-     "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
   },
   {
    "key": "d:fieldbeat.com",
@@ -3607,51 +3658,6 @@
    "motor": "reglas"
   },
   {
-   "key": "n:niubiq",
-   "empresa": "Niubiq",
-   "sitio_web": null,
-   "pais": "España",
-   "ciudad": null,
-   "sector": "Desconocido",
-   "etapa": "pre-seed",
-   "monto_usd": 447000.0,
-   "inversionistas": [
-    "Angels Capital de Juan Roig"
-   ],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 1.0,
-   "resumen": "Niubiq levantó EUR 410k (≈USD 447k) con Angels Capital de Juan Roig.",
-   "razon": "Ubicación en España (fuera de tesis LATAM hispanohablante); inversor reconocido (Juan Roig) pero mercado fuera de geografía objetivo.",
-   "mensaje": null,
-   "score": 45,
-   "desglose": {
-    "geografia": 0.0,
-    "etapa": 25.0,
-    "tecnologia": 7.5,
-    "senal": 10.5,
-    "calidad": 2.0
-   },
-   "prioridad": "Fuera de tesis",
-   "en_tesis": false,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-10T21:03:36+00:00",
-   "ultima_senal": "2026-10-10T21:03:36+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Niubiq levanta 410.000 euros con Angels Capital de Juan Roig",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRk9CZ1kxTzNvQ1pCU1NjVDUwX1RHeEVVRWsyZUtGX3ljTk8zM2ZSd3JzNTFHUFpWYkQtY2NFMTEteUVycV9mYmozWjREZTJyRFA0NlFBOGpKVkdKQ3hIdzNMdFFwNVlBM1VXYWt6MF9tbGt1YkFpcElWcFFyRU50NmVrbHkzNkxDd3VCOWpuWVk0X3ZnQUE?oc=5",
-     "fecha": "2026-10-10T21:03:36+00:00",
-     "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:typeoneenergy",
    "empresa": "Type One Energy",
    "sitio_web": null,
@@ -3779,6 +3785,51 @@
     }
    ],
    "motor": "reglas"
+  },
+  {
+   "key": "n:niubiq",
+   "empresa": "Niubiq",
+   "sitio_web": null,
+   "pais": "España",
+   "ciudad": null,
+   "sector": "Desconocido",
+   "etapa": "pre-seed",
+   "monto_usd": 447000.0,
+   "inversionistas": [
+    "Angels Capital de Juan Roig"
+   ],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 1.0,
+   "resumen": "Niubiq levantó EUR 410k (≈USD 447k) con Angels Capital de Juan Roig.",
+   "razon": "Ubicación en España (fuera de tesis LATAM hispanohablante); inversor reconocido (Juan Roig) pero mercado fuera de geografía objetivo.",
+   "mensaje": null,
+   "score": 44,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 25.0,
+    "tecnologia": 7.5,
+    "senal": 9.0,
+    "calidad": 2.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-10T21:03:36+00:00",
+   "ultima_senal": "2026-10-10T21:03:36+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Niubiq levanta 410.000 euros con Angels Capital de Juan Roig",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRk9CZ1kxTzNvQ1pCU1NjVDUwX1RHeEVVRWsyZUtGX3ljTk8zM2ZSd3JzNTFHUFpWYkQtY2NFMTEteUVycV9mYmozWjREZTJyRFA0NlFBOGpKVkdKQ3hIdzNMdFFwNVlBM1VXYWt6MF9tbGt1YkFpcElWcFFyRU50NmVrbHkzNkxDd3VCOWpuWVk0X3ZnQUE?oc=5",
+     "fecha": "2026-10-10T21:03:36+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
   },
   {
    "key": "n:prima",
@@ -3997,15 +4048,15 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-10-24T12:50:07+00:00",
+  "actualizado": "2026-10-25T12:49:33+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 58,
-  "prioridad_a_30d": 20,
-  "incremento_vs_baseline": 0.967,
-  "cumplimiento_meta": 9.67,
-  "total_deals": 88,
-  "total_calificados": 64,
+  "calificados_30d": 59,
+  "prioridad_a_30d": 21,
+  "incremento_vs_baseline": 0.983,
+  "cumplimiento_meta": 9.83,
+  "total_deals": 89,
+  "total_calificados": 65,
   "conocidos_detectados": 2,
   "por_semana": {
    "2025-06-16": 1,
@@ -4016,11 +4067,11 @@
    "2026-09-14": 1,
    "2026-10-05": 7,
    "2026-10-12": 22,
-   "2026-10-19": 29
+   "2026-10-19": 30
   },
   "por_fuente": {
    "Get on Board": 34,
-   "Google News": 22,
+   "Google News": 23,
    "Y Combinator": 6,
    "LatamList": 3,
    "Techla Media": 1
@@ -4028,7 +4079,7 @@
   "por_pais": {
    "Chile": 32,
    "?": 9,
-   "México": 7,
+   "México": 8,
    "Argentina": 6,
    "Colombia": 4,
    "Guatemala": 2,
@@ -4214,6 +4265,84 @@
       "fuente": "Y Combinator",
       "ok": true,
       "senales": 6,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 1,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 51,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-10-25T12:48:15+00:00",
+    "fin": "2026-10-25T12:49:33+00:00",
+    "senales_crudas": 339,
+    "descartadas_prefiltro": 145,
+    "procesadas": 18,
+    "deals_nuevos": 1,
+    "calificados_nuevos": 1,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 15,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 237,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 5,
       "error": null
      },
      {

@@ -403,6 +403,14 @@
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcUlKV016NW51alk0bDMyY3BCbENoWlQ4LVlYVXdob0dNWDEyMUl0NWNRcGZnS254TXBRQU1UdWU3YlloU0NiN3pyUXVYNkxnZzV1SlJtc1hwSkpTNHFYNmtYNzJwU3BpQnpDbUdCU3hKc0tjNm52czFYOGwycWVJa3JGTGR0V2VS?oc=5",
     "fecha": "2026-10-22T15:48:43+00:00",
     "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Rebill, la fintech argentina de pagos, levanta US$5,4M",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzdkTEdMUVNPSzZIcGJNVzhmc3h1UXlZWFR4V0JDNWlmYUhTSGk5STVHMWZqLWEycUJ1eE5ncjI1WTBmUU1iamNvbFhuaXRPQkVlMVFZa0FkMVlYLWJ4eXNNUzVTNVAzUGhtQnE3M0FTZkd5Z3VRenhGelZ1Q1pvc3ByTjA2TVRf?oc=5",
+    "fecha": "2026-10-19T15:09:48+00:00",
+    "medio": "El Ecosistema Startup"
    }
   ],
   "inversionistas": [],
@@ -411,27 +419,27 @@
   "motor": "llm",
   "empresa": "Rebill",
   "pais": "Argentina",
-  "etapa": "serie-a",
+  "etapa": "seed",
   "monto_usd": 5400000.0,
   "tecnologia": true,
-  "resumen": "Rebill es una fintech argentina que levanta capital en etapa pre-Series A. Desarrollo de soluciones de pagos o gestión financiera digital.",
-  "razon": "Fintech argentina en etapa pre-Serie A con ronda significativa de USD 5.4M; tracción suficiente para avanzar a Serie A, pero llega tarde a Latin Leap (post-seed).",
-  "fecha_evidencia": "2026-10-20T23:24:46+00:00",
+  "resumen": "Fintech argentina especializada en soluciones de pagos que levanta capital para expansión.",
+  "razon": "Fintech de pagos argentina con ronda seed ~USD 5.4M; sector financiero es grande y diferenciación en pagos es atractiva; geografía en tesis.",
+  "fecha_evidencia": "2026-10-19T15:09:48+00:00",
   "ultima_senal": "2026-10-22T15:48:43+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 75,
+  "score": 92,
   "desglose": {
    "geografia": 25.0,
-   "etapa": 7.5,
+   "etapa": 25.0,
    "tecnologia": 15.0,
    "senal": 13.5,
    "calidad": 14.0
   },
   "prioridad": "A",
   "en_tesis": true,
-  "sector": "Fintech",
-  "mensaje": "Felicidades a Rebill por el cierre de USD 5.4M. Vemos mucho potencial en fintechs argentinas con tracción clara. Aunque ya están en pre-Serie A, nos gustaría conocer su visión y explorar si hay sinergias futuras con el ecosistema de Latin Leap."
+  "sector": "Fintech/Pagos",
+  "mensaje": "Hola equipo Rebill, vimos que levantaron USD 5.4M para potenciar su plataforma de pagos en Argentina. Nos interesa conocer la tracción actual y vuestra estrategia de expansión regional. ¿Disponibles para conversar?"
  },
  "n:flai": {
   "key": "n:flai",
@@ -3026,12 +3034,12 @@
   "ultima_senal": "2026-10-10T21:03:36+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 45,
+  "score": 44,
   "desglose": {
    "geografia": 0.0,
    "etapa": 25.0,
    "tecnologia": 7.5,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 2.0
   },
   "prioridad": "Fuera de tesis",
@@ -3068,12 +3076,12 @@
   "ultima_senal": "2026-10-10T15:03:50+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 88,
+  "score": 86,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 12.0
   },
   "prioridad": "A",
@@ -3673,6 +3681,47 @@
    "calidad": 8.0
   },
   "prioridad": "C",
+  "en_tesis": true
+ },
+ "n:symbe": {
+  "key": "n:symbe",
+  "primera_vista": "2026-10-25T12:49:33+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Symbe Closes $5.7M Seed Round to Automate B2B Business Cases With AI",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYUNRVVNra0wwVkc0QXROd0ZxajJPM1ZyZlF6WGlCSzUwN3ZuX2wzLUNHUWlnRmY5Z3dyTm1ja3liRUxpak80VlNTS2VqbHMtU3hhTVp6b3Y5cUhHd3ROemlvZlBnZHppdk11a0NVNnFwa25xREkxcHE3cXd4SEFZeFJicnQtTjg5QVZ2UUdFSlNfdnBfWHhLMWRkMG8ybHRaQm5tRF9vcGY?oc=5",
+    "fecha": "2026-10-19T13:38:59+00:00",
+    "medio": "AI Insider"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 7.0,
+  "motor": "llm",
+  "empresa": "Symbe",
+  "pais": "México",
+  "sector": "AI/Enterprise Software",
+  "etapa": "seed",
+  "monto_usd": 5700000.0,
+  "tecnologia": true,
+  "resumen": "Plataforma B2B que automatiza casos de negocio utilizando IA generativa.",
+  "mensaje": "Hola equipo Symbe, vimos que cerraron su ronda seed de USD 5.7M para automatizar business cases con IA. Nos interesa entender cómo están escalando en el mercado de enterprise B2B en México y LATAM. ¿Podríamos agendar una conversación?",
+  "razon": "Ronda seed de USD 5.7M en México (en tesis); solución B2B con AI es mercado grande y diferenciado; etapa y geografía alineadas.",
+  "fecha_evidencia": "2026-10-19T13:38:59+00:00",
+  "ultima_senal": "2026-10-19T13:38:59+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 90,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 14.0
+  },
+  "prioridad": "A",
   "en_tesis": true
  }
 }
