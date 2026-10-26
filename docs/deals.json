@@ -1,89 +1,6 @@
 {
  "deals": [
   {
-   "key": "n:giraffebio",
-   "empresa": "Giraffe Bio",
-   "sitio_web": null,
-   "pais": "Argentina",
-   "ciudad": null,
-   "sector": "Biotech / Minería",
-   "etapa": "seed",
-   "monto_usd": 6400000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 8.0,
-   "resumen": "Giraffe Bio es una biotech enfocada en minería que utiliza IA y levantó USD 6,4M.",
-   "razon": "Biotech minera con IA en Argentina, ronda seed de USD 6,4M en mercado relevante, pero falta evidencia de tracción o inversionistas conocidos.",
-   "mensaje": "Hola equipo de Giraffe Bio, nos interesó mucho su ronda de USD 6,4M en biotech minera con IA. El cruce entre tecnología y recursos naturales es prometedor en LATAM. ¿Podríamos conocer más sobre vuestro modelo?",
-   "score": 94,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 13.5,
-    "calidad": 16.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:00:44+00:00",
-   "fecha_evidencia": "2026-10-13T19:02:27+00:00",
-   "ultima_senal": "2026-10-21T18:12:50+00:00",
-   "senales": [
-    {
-     "fuente": "LatamList",
-     "tipo": "noticia",
-     "titulo": "Argentine Giraffe Bio raises $6.4M seed round to improve copper recovery",
-     "url": "https://latamlist.com/argentine-giraffe-bio-raises-6-4m-seed-round-to-improve-copper-recovery/",
-     "fecha": "2026-10-15T19:23:21+00:00",
-     "medio": null
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Argentine Giraffe Bio raises $6.4M seed round to improve copper recovery",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSnlrYW41ZUNOaEVxcEtLeURBS3lTZF9zekpYUEpDOFJWeGswY1lJTXdQakJtcXJuUTl5aWVhYjZaNU1jUWh5eklsVFk4NmltTmI3X0M5eTdQcGVIeHlDYzhKcWFDZDlSaWxRamc1WWZnTXRma000T2xBZWtkRmNRZ1RsMzhSTXlNZndqdGFkZElNSWdvaElnMFB30gGfAUFVX3lxTE9HYWtMTnAyTHQ4LXVEQVFnWjhqZ0dPXzh6RDFPdDUxS3hyTmFaak1qd0lPQnpIUkJZbG1ndGhSdGRTV0NEWHdrSXNVdFA2ZGJLMktXMU5mMjhzcy1NdXRUb3FnRUtwZGJ5eUNTWDRBT0FBTGRTWTExdUNSX1BRYmwxLUFyZVg0VS1pLW9TTzNpUjJIZ2ZwTzBXX0FRaGdwOA?oc=5",
-     "fecha": "2026-10-15T19:27:53+00:00",
-     "medio": "LatamList"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Giraffe Bio levanta US$6,4M: reactivos con IA para cobre",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWkdMWGFud25nRlpDVXpGMEtEcnNtMHlTb21rQXA0Y3JoUkYwQmJaYmVTUHdwaTRIRXU5M0JfMFM0QlV2LVE4NjRKdG83M3FyMmdxREZESVE2S1dsMXVBRkEyNFVfZDM2T3BSaFllTDdlX1hSZGp4WFFKWVZWN3ZaRUZVZi10WHdLUW55NA?oc=5",
-     "fecha": "2026-10-21T18:12:49+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Giraffe Bio, startup argentina, levanta US$6,4M con IA",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQczFrbzB4djVZMk54MGNSOHRpRWVpRTNYOWdIV0ppanYxTUFyU2JyTU5BaXk2S08xQVNENXpwYzZuNU1QSmR6cHA4aXRCbmpVLUtOeDhScmtJMEdvZHhxNXoycHdabkNpMHBWUGQwTldOdWZ1MTJzblc3bTJzNzJKcldiSmU4ZVAy?oc=5",
-     "fecha": "2026-10-21T18:12:50+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Giraffe Bio raises $6.4M to squeeze more copper from existing mines",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS2VSendBMEo4aHJiaHg1dUQ0cTYzNEdpdEQxYVJPNHlid09XSUpNVFFkazNvZUw0NGUxVmhERHk0YmtSSGhkVXJGX2V5UmYxd0g5eUkyMjZxNDF3Q2FRTXM2NmQ5X1lGb0VSTkFYSjNseW5LLVlCMFFKRHVRZmFYbWFwbm8xNmpDdWhtVzlOLVBZSFpHYmY0c1huaXVvTFZxTFE?oc=5",
-     "fecha": "2026-10-13T19:02:27+00:00",
-     "medio": "Dealroom"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Giraffe Bio, biotech minera, levanta US$6,4M con IA",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmxCOENDaUJlZmNRdGhpdkxaZVNDN1o2QkhmQU1NaDFkMUx4XzJZTmo3Qk04bzFiRV9zUGNsMFFLRVByaUFqMEJXb2ZGa1RGMXM4Rm1kUGIxblVwczZCLWtHNUJLOGpaaVRhUkVLT0NCcVFGakg5ZXRRYTM1bmxnZ3otblU?oc=5",
-     "fecha": "2026-10-18T13:03:38+00:00",
-     "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:dapta",
    "empresa": "Dapta",
    "sitio_web": null,
@@ -177,6 +94,91 @@
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KeHdBY190ZGloWjN1bkxnLUl5UFQ5QUQycUg0Zk1CaTRyWXVQSDFFWW1GcGtMRmQzMV9BRzFBdkxZTGNxX2NJVmRackRua0NOQmhrWHFQeE0zNk1XaE9DSnhvNF9Td2s2ZE9YaUxvUmdPc1g0V1Y5bmlMOG94N1XSAYQBQVVfeXFMTjNLUnFRTTBRdF9DQnhIc0FrLWlCZTB6SmdJcDlnZklEQVNTajN5RndVN0FNY0dWTWRJSzY1bW5kRkdXRE1TTWV2ckhmNm1VRkoyNGZVY2xVS2RIUGRrMGVLbzg1eW13a1ZTWklxNEFHRW15a0VhOUc3UTF0VnN6Y3VBRHha?oc=5",
      "fecha": "2026-10-21T01:27:48+00:00",
      "medio": "LatamList"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:peso",
+   "empresa": "Peso",
+   "sitio_web": null,
+   "pais": "Bolivia",
+   "ciudad": null,
+   "sector": "Fintech",
+   "etapa": "pre-seed",
+   "monto_usd": null,
+   "inversionistas": [
+    "Tether"
+   ],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 8.0,
+   "resumen": "Peso es una cuenta global en dólares digitales que permite ahorrar, gastar, invertir y enviar dinero al exterior desde una sola app. Ofrece acceso a pagos cotidianos en USDT para usuarios en América Latina.",
+   "razon": "Fintech con tracción en mercado desatendido (dólares digitales en LATAM), respaldada por Tether (emisora de USDT), pero sin monto de ronda ni detalles de operación reportados.",
+   "mensaje": "Felicitaciones por cerrar la presemilla liderada por Tether. En Latin Leap seguimos de cerca las fintechs que democratizan acceso a divisas estables en LATAM. Nos encantaría conocer más sobre vuestra tracción de usuarios y estrategia de expansión regional. ¿Podríamos agendar una llamada?",
+   "score": 94,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 13.5,
+    "calidad": 16.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-21T13:25:21+00:00",
+   "ultima_senal": "2026-10-26T12:45:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Fintech boliviana Peso levanta una ronda pre-semilla liderada por Tether para expandir los pagos con USDT en Latam",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNWVkbzZSdklVQjRlOUl2SHEwOWdBOUJ1X1h6dDBUNlo2cHhTVmxJeVY3X2QzZkQ5N3JqbWYyS0NOQzBpRnVEWWJsZ2FsWmJQNWZuM1NQaHU1SkU0VUFrd0MtSkYtZHlmWWotaUowREM4VjVPQUhqVThXZmJDZmxPcHA5b1p1LVJFeWo1YlZNVUFmNGRUY1VEekYxLUhrOGhlTGpfT1FJTU5oZGxqVzhqc1Jld1lsS1VsMWNUaWd1TkZpX0Vja1BxSk5IcTdzSEk2M2I3Ymt0ODNaSUx6TmRmLV8zV2xyUQ?oc=5",
+     "fecha": "2026-10-22T14:32:25+00:00",
+     "medio": "Latam Fintech Hub"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Tether Leads Pre-Seed Round In Bolivia’s Peso To Expand USDT Payments Across Latin America: 11 outlets compared",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTzg4TFE0ckpEQjJoQ2tLQ2ZRaGx2cllzNWphZElLbVVpY1k4b1BVYndmNXI0S21fQjZaWDRWc3JpQlhBMFV2MjhIaE1HSDJPMnlCbmszSWFHLVJWN3pfdGxoTkpfTVV3cGpTS25NeEpVS3pFZ1NBSmVicmwtQ3JpOWw5bWhpQlhKOGExeHlTZ1prNkxyS2xtcFlQTXBsYnA2ME9pWGNycnRXM3djMnJpWmZpYUcwdXE4a1hsYW1vWHUySG16YVRyWldmZVZaVEh6TmJsY09HVWkyRFVJQmlHdDM5MEdrTGJDTmc?oc=5",
+     "fecha": "2026-10-22T00:10:47+00:00",
+     "medio": "NewsCord"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Tether Leads Pre-Seed Investment in Bolivian Fintech Peso to Scale USDT Payments Across Latin America",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaUVQdTQ4MWdMbVFMZmpUejFMUTNWYlAyeFhHLUE4bVNocmUzQ2JkM3JJd0hXLWFxS3JjdTZlUE1GTXdKaE1TTmRaX1IwRG41S3hhRU5rTVhRY1NhZWdGbVhVejJkemhqRVVYTlJMYlp5MjdZZTk4c1F3aUxhdXpzRGVDMXBaQTVVeFliaHNkamNoajA0bzNNTjZJcWh3X243MFBIQ3NqWTBpX1pQWmwxMTNZZ3paZzZtZ1VicGtNOFVralp4RnVQb0RIenpGOU1pNWxEVEJ5OTktc21nVFYwaWpKZU8?oc=5",
+     "fecha": "2026-10-23T01:27:08+00:00",
+     "medio": "Crowdfund Insider"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Bolivian fintech Peso raises pre-seed led by Tether to expand USDT payments in Latin America",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOaXVTYUVIZl9kZkwyT3pGRk5PTXdxd01sYVg4NmRhT2lkVEdMZXdPTGd4LXo5c2pEMmdMa2F3cGp4U1JEbktQS25NLWZnMTlFbU94WlZyQlB6Y1pHTjNQQ2Z3NzFsb0JBUHpsb0p3?oc=5",
+     "fecha": "2026-10-21T13:25:21+00:00",
+     "medio": "CryptoRank"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Fintech boliviana Peso capta pre-seed con Tether para ampliar pagos USDT en Latinoamérica",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDbUxWU0t0dWV4aE8xWk9qZTJPRVB0YkxSSEJsNHpldi1KUmNLMVVGRFVRY2RmaUNneHBwVHppT0t6dTdrbDl4MEZEYmtLRjRFVTMwTi1oeW9rU0NFaXJfM2xsbmo5WGh1MUQ5S1J5dWc4Zw?oc=5",
+     "fecha": "2026-10-21T13:25:21+00:00",
+     "medio": "CryptoRank"
+    },
+    {
+     "fuente": "Startups Latam",
+     "tipo": "noticia",
+     "titulo": "Tether lidera la ronda presemilla de Peso, la fintech boliviana que lleva el USDT a los pagos cotidianos en América Latina",
+     "url": "https://startupslatam.com/tether-lidera-la-ronda-presemilla-de-peso-la-fintech-boliviana-que-lleva-el-usdt-a-los-pagos-cotidianos-en-america-latina/",
+     "fecha": "2026-10-26T12:45:00+00:00",
+     "medio": null
     }
    ],
    "motor": "llm"
@@ -289,83 +291,6 @@
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzdkTEdMUVNPSzZIcGJNVzhmc3h1UXlZWFR4V0JDNWlmYUhTSGk5STVHMWZqLWEycUJ1eE5ncjI1WTBmUU1iamNvbFhuaXRPQkVlMVFZa0FkMVlYLWJ4eXNNUzVTNVAzUGhtQnE3M0FTZkd5Z3VRenhGelZ1Q1pvc3ByTjA2TVRf?oc=5",
      "fecha": "2026-10-19T15:09:48+00:00",
      "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
-   "key": "n:peso",
-   "empresa": "Peso",
-   "sitio_web": null,
-   "pais": "Bolivia",
-   "ciudad": null,
-   "sector": "Fintech",
-   "etapa": "pre-seed",
-   "monto_usd": null,
-   "inversionistas": [
-    "Tether"
-   ],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 8.0,
-   "resumen": "Fintech boliviana especializada en pagos con USDT que busca expandir soluciones de criptomonedas en Latinoamérica.",
-   "razon": "Fintech boliviana con respaldo de inversor cripto reconocido (Tether); enfoque en pagos USDT en LATAM alinea con tesis de Latin Leap; operación en país dentro de cobertura geográfica.",
-   "mensaje": "Hola equipo de Peso, vimos que acaban de captar pre-seed con Tether para ampliar pagos USDT en Latinoamérica. Nos interesa mucho la propuesta: fintech cripto en una geografía desatendida como Bolivia con tracción inversionista de nivel. Nos encantaría conversar sobre oportunidades de colaboración o inversión adicional. ¡Conectemos pronto!",
-   "score": 92,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 16.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-21T13:25:21+00:00",
-   "ultima_senal": "2026-10-23T01:27:08+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Fintech boliviana Peso levanta una ronda pre-semilla liderada por Tether para expandir los pagos con USDT en Latam",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNWVkbzZSdklVQjRlOUl2SHEwOWdBOUJ1X1h6dDBUNlo2cHhTVmxJeVY3X2QzZkQ5N3JqbWYyS0NOQzBpRnVEWWJsZ2FsWmJQNWZuM1NQaHU1SkU0VUFrd0MtSkYtZHlmWWotaUowREM4VjVPQUhqVThXZmJDZmxPcHA5b1p1LVJFeWo1YlZNVUFmNGRUY1VEekYxLUhrOGhlTGpfT1FJTU5oZGxqVzhqc1Jld1lsS1VsMWNUaWd1TkZpX0Vja1BxSk5IcTdzSEk2M2I3Ymt0ODNaSUx6TmRmLV8zV2xyUQ?oc=5",
-     "fecha": "2026-10-22T14:32:25+00:00",
-     "medio": "Latam Fintech Hub"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Tether Leads Pre-Seed Round In Bolivia’s Peso To Expand USDT Payments Across Latin America: 11 outlets compared",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTzg4TFE0ckpEQjJoQ2tLQ2ZRaGx2cllzNWphZElLbVVpY1k4b1BVYndmNXI0S21fQjZaWDRWc3JpQlhBMFV2MjhIaE1HSDJPMnlCbmszSWFHLVJWN3pfdGxoTkpfTVV3cGpTS25NeEpVS3pFZ1NBSmVicmwtQ3JpOWw5bWhpQlhKOGExeHlTZ1prNkxyS2xtcFlQTXBsYnA2ME9pWGNycnRXM3djMnJpWmZpYUcwdXE4a1hsYW1vWHUySG16YVRyWldmZVZaVEh6TmJsY09HVWkyRFVJQmlHdDM5MEdrTGJDTmc?oc=5",
-     "fecha": "2026-10-22T00:10:47+00:00",
-     "medio": "NewsCord"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Tether Leads Pre-Seed Investment in Bolivian Fintech Peso to Scale USDT Payments Across Latin America",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaUVQdTQ4MWdMbVFMZmpUejFMUTNWYlAyeFhHLUE4bVNocmUzQ2JkM3JJd0hXLWFxS3JjdTZlUE1GTXdKaE1TTmRaX1IwRG41S3hhRU5rTVhRY1NhZWdGbVhVejJkemhqRVVYTlJMYlp5MjdZZTk4c1F3aUxhdXpzRGVDMXBaQTVVeFliaHNkamNoajA0bzNNTjZJcWh3X243MFBIQ3NqWTBpX1pQWmwxMTNZZ3paZzZtZ1VicGtNOFVralp4RnVQb0RIenpGOU1pNWxEVEJ5OTktc21nVFYwaWpKZU8?oc=5",
-     "fecha": "2026-10-23T01:27:08+00:00",
-     "medio": "Crowdfund Insider"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Bolivian fintech Peso raises pre-seed led by Tether to expand USDT payments in Latin America",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOaXVTYUVIZl9kZkwyT3pGRk5PTXdxd01sYVg4NmRhT2lkVEdMZXdPTGd4LXo5c2pEMmdMa2F3cGp4U1JEbktQS25NLWZnMTlFbU94WlZyQlB6Y1pHTjNQQ2Z3NzFsb0JBUHpsb0p3?oc=5",
-     "fecha": "2026-10-21T13:25:21+00:00",
-     "medio": "CryptoRank"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Fintech boliviana Peso capta pre-seed con Tether para ampliar pagos USDT en Latinoamérica",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDbUxWU0t0dWV4aE8xWk9qZTJPRVB0YkxSSEJsNHpldi1KUmNLMVVGRFVRY2RmaUNneHBwVHppT0t6dTdrbDl4MEZEYmtLRjRFVTMwTi1oeW9rU0NFaXJfM2xsbmo5WGh1MUQ5S1J5dWc4Zw?oc=5",
-     "fecha": "2026-10-21T13:25:21+00:00",
-     "medio": "CryptoRank"
     }
    ],
    "motor": "llm"
@@ -1523,6 +1448,51 @@
    "motor": "llm"
   },
   {
+   "key": "n:databuddyanalytics",
+   "empresa": "Databuddy Analytics",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "Analytics/Data",
+   "etapa": "seed",
+   "monto_usd": 500000.0,
+   "inversionistas": [
+    "Y Combinator"
+   ],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Plataforma de analytics de datos respaldada por Y Combinator.",
+   "razon": "Respaldada por Y Combinator (aceleradora top global), etapa seed con ticket adecuado. Sin confirmación de país LATAM, pero señal fuerte de validación.",
+   "mensaje": "Hola equipo de Databuddy Analytics, nos impresionó que hayan sido aceptados en Y Combinator. Si tienen operaciones o planes en América Latina hispanohablante, nos encantaría conectar. ¿Estarían abiertos a una conversación?",
+   "score": 72,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 14.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-20T12:38:46+00:00",
+   "ultima_senal": "2026-10-20T12:38:46+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Databuddy Analytics raises $500,000 from Y Combinator",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcGZYeGpUNG1kcEpCRExrak1STWd3aURwUEZJdFFoWVg1dThlV2N4SUh1S1hPZGRTU0stZGN1T2tVOHJRVmxvMDJjQ05mc3hRR254RFltam9YZHZnNjBLc3o5bDNkV0RPeGlsTE1VdHNNNnBhd09aMS02WGIyUEJOazlB?oc=5",
+     "fecha": "2026-10-20T12:38:46+00:00",
+     "medio": "Wamda"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:factorit.com",
    "empresa": "Factor IT",
    "sitio_web": "http://www.factorit.com",
@@ -2485,6 +2455,92 @@
    "motor": "llm"
   },
   {
+   "key": "d:hf.solutions",
+   "empresa": "HF Solutions",
+   "sitio_web": "http://www.hf.solutions",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Empresa consultora en tecnología, especializada en diseño y desarrollo de software sobre la nube y mobile.",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 70,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 7.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-19T17:37:20+00:00",
+   "ultima_senal": "2026-10-19T17:37:20+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "HF Solutions está contratando: Back-end Developer – AWS",
+     "url": "https://www.getonbrd.com/jobs/backend-developer-pci-aws-hf-solutions-santiago",
+     "fecha": "2026-10-19T17:37:20+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:ailytics",
+   "empresa": "Ailytics",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "IA/Visión Computacional",
+   "etapa": "seed",
+   "monto_usd": 7400000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Solución de IA para análisis de video en sistemas CCTV industriales.",
+   "razon": "Ronda seed en rango típico, tecnología de IA aplicada a CCTV industrial (mercado real). Sin confirmación de país LATAM hispanohablante.",
+   "mensaje": "Hola equipo de Ailytics, vimos que cerraron US$7.4M para su plataforma de IA en CCTV industrial. La oportunidad en automatización de vigilancia en LATAM nos interesa. ¿Serían open a conectar y conocer más de su tracción y planes de expansión regional?",
+   "score": 70,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-26T03:03:30+00:00",
+   "ultima_senal": "2026-10-26T03:03:30+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Ailytics: IA para CCTV industrial levanta US$7,4M",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWmM2ZWxrTEd2R2U0TUxrS3c0bEJKYkllenRzUjY5VEZlUUdzZUdrWEpfb1pDWHZTbmg1OW1KcDBkMjNobjFGNG0yOFkwYU9nYmRnVzdxQ3otRlFoclZ0Q2FuMEEwRk1ZMV9TRXJhczY1U2VZNWpNVnY2eTlHaXcyRUVTNA?oc=5",
+     "fecha": "2026-10-26T03:03:30+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:poderjudicialvirtual.com",
    "empresa": "PoderJudicialVirtual.com",
    "sitio_web": "https://www.poderjudicialvirtual.com",
@@ -2786,6 +2842,178 @@
    "motor": "reglas"
   },
   {
+   "key": "d:i2btech.com",
+   "empresa": "I2B Technologies",
+   "sitio_web": "https://www.i2btech.com/es/inicio/",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Queremos que nuestros clientes vean en I2B el partner que los llevará a dar un salto cualitativo en su manera de hacer negocios. Nuestro valor no solo aparece en la gestación e implementación de una idea, sino en el acompañamiento permanent",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-07T16:10:07+00:00",
+   "ultima_senal": "2026-10-07T16:10:07+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "I2B Technologies está contratando: Tech Lead Outsystems con Inglés y Español (LATAM), Desarrollador/a Outsystems en Brasil con Inglés y/o Español",
+     "url": "https://www.getonbrd.com/jobs/desarrollador-a-outsystems-con-ingles-y-espanol-i2b-technologies-remote",
+     "fecha": "2026-10-07T16:10:07+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:biostack",
+   "empresa": "BioStack",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": 9500000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Healthtech startup BioStack raises $9.5M in seed funding round led by Peak XV, others YourStory.com",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-26T11:40:57+00:00",
+   "ultima_senal": "2026-10-26T11:40:57+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Healthtech startup BioStack raises $9.5M in seed funding round led by Peak XV, others",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUJhQzV5UGZKMHlXSkYtMDdWUDNjS2dEdXJJamdTY0FSTjUwTlh6R3ZTdXUwTDE1U3JNeHlYOHlBTGVyZW9QMlE1clFYeXBtRkhHVXhZRTlTWGNfSnNULXRVN0d4dDdMbVd3eVBjMUp0LUxBcFR0SDEteGJtc3FoSmNSc2luX192SnBrQlcwenFvd0Q2U2NR?oc=5",
+     "fecha": "2026-10-26T11:40:57+00:00",
+     "medio": "YourStory.com"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:theqa",
+   "empresa": "theQA",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": 550.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "theQA raises over $550,000 to scale AI-driven consumer research in Kuwait Wamda",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-21T07:00:00+00:00",
+   "ultima_senal": "2026-10-21T07:00:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "theQA raises over $550,000 to scale AI-driven consumer research in Kuwait",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYWNnUG5BZ1JyMjlvbEhCMm4xUFRma3FmYmZVLWJkYV9uNGlzdlZQLVM4VHplcmU4NWdlU1Zodk9CbUVBek92WWtIandLZ0ZZLWI0NGZlU19ndEdIUnU2WFlJZEJ3QWNyX1VTWEg3RWVzVWNreDFEOUpMMWF3U1VpaDEwQWZzdjhsbFhqQWdlYzRHRlZU?oc=5",
+     "fecha": "2026-10-21T07:00:00+00:00",
+     "medio": "Wamda"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:capquest",
+   "empresa": "CapQuest",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "Fintech",
+   "etapa": "pre-seed",
+   "monto_usd": 1000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Plataforma de fintech enfocada en expansión global.",
+   "razon": "Pre-seed en rango ideal, pero ubicación y tracción no confirmadas en el texto. Monto y etapa alineados con Latin Leap.",
+   "mensaje": "Hola CapQuest, vimos que levantaron US$1M en pre-seed y están en fase de expansión global. Nos interesa conectar con startups fintech de LATAM hispanohablante. ¿Tienen presencia en nuestra región o planes de crecer ahí?",
+   "score": 68,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-20T07:00:00+00:00",
+   "ultima_senal": "2026-10-20T07:00:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "CapQuest closes $1 million pre-Seed funding to expand globally",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOWdUcmhxRHk5dWtRQ1pSQ0JqQVZhT19aNXByeDljZVIxeUxPb1NsWUg0V3YwLWRtZmd0UFRsQkFtYllsNXFhX2E4dEhWUkl6Z2xUUHZ2OVlGZXVQWDMwY3N5OFRXSXlTakFCNk84QmNGYVdCMHhiT2txY0RMYUlzWWlxbkw0YVdib3dkVnVDTFJ3dw?oc=5",
+     "fecha": "2026-10-20T07:00:00+00:00",
+     "medio": "Wamda"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:graftonlatam.com",
    "empresa": "Grafton Latam",
    "sitio_web": "https://graftonlatam.com/",
@@ -3044,6 +3272,226 @@
    "motor": "reglas"
   },
   {
+   "key": "n:inve",
+   "empresa": "INVE",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": 300.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "INVE raises $300,000 from Outliers VC to scale eventtech platform across GCC Wamda",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 60,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 7.5,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-22T13:55:29+00:00",
+   "ultima_senal": "2026-10-22T13:55:29+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "INVE raises $300,000 from Outliers VC to scale eventtech platform across GCC",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUxiSnZvLU0zTnBBQXZ3ZHkxTlFtcVpCWk51SW96bkJzY29OekdxVUdXN0JDbXJmWTVHNGI0TTRJWTR5cldZMVlSVUpOVUZZLWo1Z0REUlVyWG5GU19TWWprSG1rVjdqVkpoTkFvUzdWLXZqeFVhbE9KaE1HZ0xSMUNtb1ZuZkNaN1FQTQ?oc=5",
+     "fecha": "2026-10-22T13:55:29+00:00",
+     "medio": "Wamda"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:healthcarestartupbiostack",
+   "empresa": "Healthcare startup BioStack",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": 9.5,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Healthcare startup BioStack raises $9.5 Mn in seed funding led by Peak XV Entrackr",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 60,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 7.5,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-26T11:54:53+00:00",
+   "ultima_senal": "2026-10-26T11:54:53+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Healthcare startup BioStack raises $9.5 Mn in seed funding led by Peak XV",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbXRPX1NTcVdPR0tFSHhFeUhDQU04dXIzQ3lvNHI5eXIwSGtWQ2dPQ0l6WU4xTjBBM2pKNmFDNTFXNUgxSWpvaUdvMDBvd3ZyREtGUFo2bHp4aEh5TDlZSHpfTV9McTlvcEFKeTdZdTlvSE1YWTNBQ0NhRzIwUGxCRkI5UmhIRnUtbDdtWW1yX1JhUEx0SVJlOER3RTFKczFqR3huYW53TnllS05HaXVz0gGvAUFVX3lxTE9tdE9fU1NxV09HS0VIeEV5SENBTTh1cjNDeW80cjl5cjBIa1ZDZ09DSXpZTjFOMEEzako2YUM1MVc1SDFJam9pR28wMG93dnJES0ZQWjZsenhoSHlMOVlIel9NX0xxOW9wQUp5N1l1OW9ITVhZM0FDQ2FHMjBQbEJGQjlSaEhGdS1sN21ZbXJfUmFQTHRJUmU4RHdFMUpzMWpHeG5hbndOeWVLTkdpdXM?oc=5",
+     "fecha": "2026-10-26T11:54:53+00:00",
+     "medio": "Entrackr"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:tanzanianehealthstartupmedikea",
+   "empresa": "Tanzanian e-health startup Medikea",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "pre-seed",
+   "monto_usd": 1200000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Tanzanian e-health startup Medikea raises $1.2m pre-seed funding - Disrupt Africa",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 60,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 7.5,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-26T09:00:48+00:00",
+   "ultima_senal": "2026-10-26T09:00:48+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Tanzanian e-health startup Medikea raises $1.2m pre-seed funding -",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON1JpT1k1MXhnVzJiME9xRXBHczNEVHZ5blVDZGwwWngyaTBFSnR5ZnpmTzBvU19YaTJFSGFHbktMSnhwSlhfWTRQZWxvUTNleUdldHBVeTJUemxpanNZS0ZSa3ZkNEVPaTl3VVNIMk1ycjB6Nkw4Z0x3NFM2LTFHeDdqSWxuZldwLXJWN1haZjBPcjMySlo5YlpMT3cwTGFMTWRF?oc=5",
+     "fecha": "2026-10-26T09:00:48+00:00",
+     "medio": "- Disrupt Africa"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:giraffebio",
+   "empresa": "Giraffe Bio",
+   "sitio_web": null,
+   "pais": "desconocido",
+   "ciudad": null,
+   "sector": "IA / Minería / Biotecnología",
+   "etapa": "seed",
+   "monto_usd": 6400000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 8.0,
+   "resumen": "Startup que utiliza IA para mejorar la extracción de cobre, levantó USD 6.4M.",
+   "razon": "Ronda seed robusta (USD 6.4M) en sector de IA aplicada a minería, mercado relevante en LATAM; falta confirmar ubicación.",
+   "mensaje": "Nos llamó la atención tu ronda de USD 6.4M con IA aplicada a minería. Con el potencial de cobre en Latinoamérica (Chile, Perú), nos gustaría conocer si tienes presencia o planes en la región. ¿Podríamos agendar una llamada?",
+   "score": 70,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 13.5,
+    "calidad": 16.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:00:44+00:00",
+   "fecha_evidencia": "2026-10-13T19:02:27+00:00",
+   "ultima_senal": "2026-10-26T00:03:30+00:00",
+   "senales": [
+    {
+     "fuente": "LatamList",
+     "tipo": "noticia",
+     "titulo": "Argentine Giraffe Bio raises $6.4M seed round to improve copper recovery",
+     "url": "https://latamlist.com/argentine-giraffe-bio-raises-6-4m-seed-round-to-improve-copper-recovery/",
+     "fecha": "2026-10-15T19:23:21+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Argentine Giraffe Bio raises $6.4M seed round to improve copper recovery",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSnlrYW41ZUNOaEVxcEtLeURBS3lTZF9zekpYUEpDOFJWeGswY1lJTXdQakJtcXJuUTl5aWVhYjZaNU1jUWh5eklsVFk4NmltTmI3X0M5eTdQcGVIeHlDYzhKcWFDZDlSaWxRamc1WWZnTXRma000T2xBZWtkRmNRZ1RsMzhSTXlNZndqdGFkZElNSWdvaElnMFB30gGfAUFVX3lxTE9HYWtMTnAyTHQ4LXVEQVFnWjhqZ0dPXzh6RDFPdDUxS3hyTmFaak1qd0lPQnpIUkJZbG1ndGhSdGRTV0NEWHdrSXNVdFA2ZGJLMktXMU5mMjhzcy1NdXRUb3FnRUtwZGJ5eUNTWDRBT0FBTGRTWTExdUNSX1BRYmwxLUFyZVg0VS1pLW9TTzNpUjJIZ2ZwTzBXX0FRaGdwOA?oc=5",
+     "fecha": "2026-10-15T19:27:53+00:00",
+     "medio": "LatamList"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Giraffe Bio levanta US$6,4M: reactivos con IA para cobre",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWkdMWGFud25nRlpDVXpGMEtEcnNtMHlTb21rQXA0Y3JoUkYwQmJaYmVTUHdwaTRIRXU5M0JfMFM0QlV2LVE4NjRKdG83M3FyMmdxREZESVE2S1dsMXVBRkEyNFVfZDM2T3BSaFllTDdlX1hSZGp4WFFKWVZWN3ZaRUZVZi10WHdLUW55NA?oc=5",
+     "fecha": "2026-10-21T18:12:49+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Giraffe Bio, startup argentina, levanta US$6,4M con IA",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQczFrbzB4djVZMk54MGNSOHRpRWVpRTNYOWdIV0ppanYxTUFyU2JyTU5BaXk2S08xQVNENXpwYzZuNU1QSmR6cHA4aXRCbmpVLUtOeDhScmtJMEdvZHhxNXoycHdabkNpMHBWUGQwTldOdWZ1MTJzblc3bTJzNzJKcldiSmU4ZVAy?oc=5",
+     "fecha": "2026-10-21T18:12:50+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Giraffe Bio raises $6.4M to squeeze more copper from existing mines",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS2VSendBMEo4aHJiaHg1dUQ0cTYzNEdpdEQxYVJPNHlid09XSUpNVFFkazNvZUw0NGUxVmhERHk0YmtSSGhkVXJGX2V5UmYxd0g5eUkyMjZxNDF3Q2FRTXM2NmQ5X1lGb0VSTkFYSjNseW5LLVlCMFFKRHVRZmFYbWFwbm8xNmpDdWhtVzlOLVBZSFpHYmY0c1huaXVvTFZxTFE?oc=5",
+     "fecha": "2026-10-13T19:02:27+00:00",
+     "medio": "Dealroom"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Giraffe Bio, biotech minera, levanta US$6,4M con IA",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmxCOENDaUJlZmNRdGhpdkxaZVNDN1o2QkhmQU1NaDFkMUx4XzJZTmo3Qk04bzFiRV9zUGNsMFFLRVByaUFqMEJXb2ZGa1RGMXM4Rm1kUGIxblVwczZCLWtHNUJLOGpaaVRhUkVLT0NCcVFGakg5ZXRRYTM1bmxnZ3otblU?oc=5",
+     "fecha": "2026-10-18T13:03:38+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Giraffe Bio levanta US$6,4M para extraer más cobre con IA",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSDVMWEpsZjZLbTRZbmRaYW5DTUZoa1BKaUFxdGdTb2luYVJmU3N2bm1KbFFZMnVuLXZzNThMaVdlLWVwc0QzUzFsb0lfRVlycm9teVlreXhEelo1VktIQkNGcUp3azl6OUlMOHNuM1BKWHJBOGFCd1dYMGliY1BrNW5aUkQ0LWRvakJhN2dHcw?oc=5",
+     "fecha": "2026-10-26T00:03:30+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "n:efyfinance",
    "empresa": "EFY Finance",
    "sitio_web": null,
@@ -3135,6 +3583,49 @@
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONnNna2JYQjExbENYUGtvdnBrM3dZc0ZLQkFTNE9TczVUM2w0NEZpNTc5ZVFxSHoxc09LekdMajVlLU9nX1pQUHQxZktTQVpuOE92bUdNQldBUlp6dDBHWGFuLVpVam9yRWJSU3hGb1dhQkMzLXZVUm41bGZtNjRxTE4tWTR6b0VMc1o5cDhmejQ1bkVkSEhaYjhrQmxyUXhVLXBPbFNsRE9mMmhuUWF2TWhGSTY?oc=5",
      "fecha": "2026-10-18T00:12:36+00:00",
      "medio": "Dealroom"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:electricplant",
+   "empresa": "Electric Plant",
+   "sitio_web": null,
+   "pais": "desconocido",
+   "ciudad": null,
+   "sector": "IA / AgriTech",
+   "etapa": "seed",
+   "monto_usd": 11200000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Plataforma de IA agrícola que levantó USD 11.2M para escalar operaciones.",
+   "razon": "Ronda seed sólida (USD 11.2M) en AgriTech con IA; sector estratégico en LATAM; ubicación aún por confirmar.",
+   "mensaje": "Seguimos tu ronda de USD 11.2M en IA agrícola. El sector agro es clave en Latinoamérica y queremos saber si tienes o planeas expansión en la región. Te invitamos a conectar con el equipo de Latin Leap.",
+   "score": 64,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 14.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-20T18:33:32+00:00",
+   "ultima_senal": "2026-10-20T18:33:32+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Electric Plant, startup de IA agrícola, levanta US$11,2M",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnVGSndXa05rWmtreW5Nay14Vl92cGM0M0NfWGhUVkhRR0s1VzdYSGNqdGNHWkJfeVBjcDlyMGtnRFN3TUdzR0NGRXlESXp0bkdBUllfczFpTmNYakFHd2VnMlhYTUJEOE9FSjYxNG90S0lpd21oUFROS0gyT2VtTEczamNqbS1aTzNZ?oc=5",
+     "fecha": "2026-10-20T18:33:32+00:00",
+     "medio": "El Ecosistema Startup"
     }
    ],
    "motor": "llm"
@@ -3438,6 +3929,49 @@
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcmE3ME1hazhZMzhMbVNob19JNDJKMUt3NDdoRjNaZlFjM1VBb0RlQ0tocUZyQjRxZ255VlhNRkVYNTB6SU9DcUNkaGFIdTdQMzZnLVVfSy1DRWNUbXNfQ2JyYi1Cckd0cVNFQmRBaF9ZWjVfN3kzaHF3aThFczdCUUVTX0FUWjRiQmhBaEhPcjFaU3Vnd1BrNi11cnRmSENvWkFvUFk5SXRRTXZLYmZLQ1NoX0dhcm56LWJtZzFoWVM2dEZsVXc?oc=5",
      "fecha": "2026-10-20T18:53:33+00:00",
      "medio": "AI Insider"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:ycbackedbiostack",
+   "empresa": "YC-backed BioStack",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "serie-a",
+   "monto_usd": 9500000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "YC-backed BioStack raises $9.5 million to turn messy hospital records into training data for medical AI Indian Startup News",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 50,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 7.5,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-26T13:41:12+00:00",
+   "ultima_senal": "2026-10-26T13:41:12+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "YC-backed BioStack raises $9.5 million to turn messy hospital records into training data for medical AI",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT293cENUMmxuS3BKdVU1TmI1SmlCWklZVVFVc1E0N0l2WFhKN0lVQ28zUGllSHFtWnZtWFRGN29tQVJyYXduMEZnMndSMlF3TjFjazc5Z1VUNWF6XzNZRzZvSGJNY19CX2F2VEdhNDFPYVBKNUY4emI3VlozU2diTjVBWXNqQ2k5VXlWQUt1Qkp5UjJIUzhxMWJPVTFDMy1wZHNlWDFvWTczZkNQYUZGYVhtNVE1UUpOY1lXZVNnaFotNDZKN2lnaG9DY1luazcyVlZuLTBXTF9JS2NZUEd6dHpB0gHiAUFVX3lxTE1Pb3dwQ1QybG5LcEp1VTVOYjVKaUJaSVlVUVVzUTQ3SXZYWEo3SVVDbzNQaWVIcW1adm1YVEY3b21BUnJhd24wRmcyd1IyUXdOMWNrNzlnVVQ1YXpfM1lHNm9IYk1jX0JfYXZUR2E0MU9hUEo1Rjh6YjdWWjNTZ2JONUFZc2pDaTlVeVZBS3VCSnlSMkhTOHExYk9VMUMzLXBkc2VYMW9ZNzNmQ1BhRkZhWG01UTVRSk5jWVdlU2doWi00Nko3aWdob0NjWW5rNzJWVm4tMFdMX0lLY1lQR3p0ekE?oc=5",
+     "fecha": "2026-10-26T13:41:12+00:00",
+     "medio": "Indian Startup News"
     }
    ],
    "motor": "reglas"
@@ -3832,6 +4366,135 @@
    "motor": "llm"
   },
   {
+   "key": "n:californiastartupshave",
+   "empresa": "California Startups Have",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "California Startups Have Raised More So Far In 2026 Than The Entire US Ever Has In A Single Year Crunchbase News",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 44,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 12.5,
+    "tecnologia": 7.5,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-26T11:00:35+00:00",
+   "ultima_senal": "2026-10-26T11:00:35+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "California Startups Have Raised More So Far In 2026 Than The Entire US Ever Has In A Single Year",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmNHdFJwVThneldHNms3UmVGeW9HUEk4V0ZPaFpiV0t6ZTQ3VTRmQ1FISnR1RThjVXFWQnNjbjM1aUxtQ2V4elFTa1M0cHBiVEc2NlQtQ3JYMDIwU1l0aXdQVk1UNWtld1pTWkU1OUtkaUtyRkw3ejZKbnpNZHp4NWplbFliQjB4a3BtS25nZlplanhnNnVQNF9B?oc=5",
+     "fecha": "2026-10-26T11:00:35+00:00",
+     "medio": "Crunchbase News"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:otcderivativesproviderswapglobal",
+   "empresa": "OTC derivatives provider SwapGlobal",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "OTC derivatives provider SwapGlobal secures funding to expand into pre-IPO shares CryptoRank",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 44,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 12.5,
+    "tecnologia": 7.5,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-23T07:00:00+00:00",
+   "ultima_senal": "2026-10-23T07:00:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "OTC derivatives provider SwapGlobal secures funding to expand into pre-IPO shares",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFTmJ1a1ZtUHBCTXJRNmpvOXFxSThyYWVjMHpMMUZmSG9YWm5RcTJCVE9vNmhYclpaLURrNTVxYUlBTkwxbG9UeEw3NUV3eUpyUXptNVdtSjhEYWJDdFM4ZVlkbGlyYlRlS2tteUoxejJVeFVfdVM3Uk02OA?oc=5",
+     "fecha": "2026-10-23T07:00:00+00:00",
+     "medio": "CryptoRank"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:photonbridge",
+   "empresa": "Photon Bridge",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Photon Bridge raises EUR 10 mln to scale up optical chip production Telecompaper",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 44,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 12.5,
+    "tecnologia": 7.5,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-21T10:26:58+00:00",
+   "ultima_senal": "2026-10-21T10:26:58+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Photon Bridge raises EUR 10 mln to scale up optical chip production",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUVqenlNckxiU1JweTg3Mk81QzVsS3phQ0tacllJOFFKYUd1MTVxUVN3bkZXWVVxNUdub1dGZHpKOTdmS0NHc1ptbVc1Zk1KWktpSHdVZDFldENFZGdGQ1lOQnkxYUJCRlNldFkyend2QzZtb0xGOGpwWWF4a2Iza3FjZnN0VDdiblNqV1F5ZkZJLUlqVWtMUHZEaXhSWWk4b0VvNERIaTh5TjREZlNV?oc=5",
+     "fecha": "2026-10-21T10:26:58+00:00",
+     "medio": "Telecompaper"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "n:prima",
    "empresa": "Prima",
    "sitio_web": null,
@@ -3961,6 +4624,49 @@
    "motor": "llm"
   },
   {
+   "key": "n:daytona",
+   "empresa": "Daytona",
+   "sitio_web": null,
+   "pais": "desconocido",
+   "ciudad": null,
+   "sector": "IA / Cloud Computing",
+   "etapa": "serie-b+",
+   "monto_usd": 60000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Plataforma cloud para agentes IA que levantó USD 60M con valuación de USD 1B.",
+   "razon": "Ronda grande de serie tardía (USD 60M) con valuación de unicornio; sin embargo, ubicación y mercado son inciertos para nuestro tesis LATAM.",
+   "mensaje": "Hemos visto la noticia sobre la ronda de USD 60M de Daytona. Si bien es una empresa impresionante en el espacio de IA, queremos confirmar si tiene operaciones o expansión planeada en Latinoamérica hispanohablante. Nos encantaría conversar si hay oportunidades de colaboración regional.",
+   "score": 38,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 0.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 12.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-25T00:03:40+00:00",
+   "ultima_senal": "2026-10-25T00:03:40+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Daytona, nube para agentes IA, levanta US$60M y vale US$1B",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSThuZ3ZJaUxCbURjZzd5LUQ5M29zM3R5ZFFQbUc3RU05c0YxSlA0UTlUNVAwbXBGcWNVNWIwd28xMTQyNVd1UnEyWVBpTldkMm9ncXJpcUVpeWZzM2NFbnd0alFXc1IxQlY0NXNUcVFIVVhfOUM0dE1tNDlqc3ZrcHgwRi16WUNjc1RWOUhR?oc=5",
+     "fecha": "2026-10-25T00:03:40+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "n:16startupsperuanasbuscan",
    "empresa": "16 startups peruanas buscan",
    "sitio_web": null,
@@ -4048,15 +4754,15 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-10-25T12:49:33+00:00",
+  "actualizado": "2026-10-26T14:55:10+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 59,
-  "prioridad_a_30d": 21,
-  "incremento_vs_baseline": 0.983,
-  "cumplimiento_meta": 9.83,
-  "total_deals": 89,
-  "total_calificados": 65,
+  "calificados_30d": 68,
+  "prioridad_a_30d": 20,
+  "incremento_vs_baseline": 1.133,
+  "cumplimiento_meta": 11.33,
+  "total_deals": 105,
+  "total_calificados": 74,
   "conocidos_detectados": 2,
   "por_semana": {
    "2025-06-16": 1,
@@ -4065,22 +4771,24 @@
    "2026-05-25": 1,
    "2026-07-20": 1,
    "2026-09-14": 1,
-   "2026-10-05": 7,
-   "2026-10-12": 22,
-   "2026-10-19": 30
+   "2026-10-05": 8,
+   "2026-10-12": 21,
+   "2026-10-19": 35,
+   "2026-10-26": 4
   },
   "por_fuente": {
-   "Get on Board": 34,
-   "Google News": 23,
+   "Get on Board": 36,
+   "Google News": 30,
    "Y Combinator": 6,
-   "LatamList": 3,
-   "Techla Media": 1
+   "LatamList": 2,
+   "Techla Media": 1,
+   "Startups Latam": 1
   },
   "por_pais": {
-   "Chile": 32,
-   "?": 9,
+   "Chile": 34,
+   "?": 17,
    "México": 8,
-   "Argentina": 6,
+   "Argentina": 5,
    "Colombia": 4,
    "Guatemala": 2,
    "Costa Rica": 1,
@@ -4355,6 +5063,84 @@
       "fuente": "Get on Board",
       "ok": true,
       "senales": 51,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-10-26T14:53:48+00:00",
+    "fin": "2026-10-26T14:55:10+00:00",
+    "senales_crudas": 368,
+    "descartadas_prefiltro": 155,
+    "procesadas": 30,
+    "deals_nuevos": 16,
+    "calificados_nuevos": 10,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 15,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 265,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 5,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 1,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 52,
       "error": null
      }
     ]
