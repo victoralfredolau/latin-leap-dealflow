@@ -1,104 +1,6 @@
 {
  "deals": [
   {
-   "key": "n:dapta",
-   "empresa": "Dapta",
-   "sitio_web": null,
-   "pais": "Colombia",
-   "ciudad": null,
-   "sector": "IA/SaaS de Ventas",
-   "etapa": "seed",
-   "monto_usd": 6000000.0,
-   "inversionistas": [
-    "500 Global",
-    "Broom Ventures",
-    "Chingona Ventures",
-    "Cometa",
-    "Crew Capital",
-    "Fen Ventures"
-   ],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 8.0,
-   "resumen": "Startup que acaba de cerrar ronda seed de USD 6M liderada por Chingona Ventures.",
-   "razon": "Ronda seed de USD 6M liderada por Chingona Ventures (inversor reconocido en LATAM), pero falta información sobre tracción, sector y ubicación específica.",
-   "mensaje": "Hola equipo de Dapta, vimos que cerraron una ronda seed de USD 6M con Chingona Ventures. En Latin Leap nos atrae la trayectoria de ese fondo en la región. ¿Podrían compartir más sobre el producto y el mercado que están atacando? Nos gustaría conocerlos.",
-   "score": 94,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 13.5,
-    "calidad": 16.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": true,
-   "conocido_fuente": "Portafolio Latin Leap",
-   "primera_vista": "2026-10-24T04:00:44+00:00",
-   "fecha_evidencia": "2026-10-14T07:00:00+00:00",
-   "ultima_senal": "2026-10-21T01:27:48+00:00",
-   "senales": [
-    {
-     "fuente": "LatamList",
-     "tipo": "noticia",
-     "titulo": "Dapta raises $6M seed round led by Chingona Ventures",
-     "url": "https://latamlist.com/dapta-raises-6m-seed-round-led-by-chingona-ventures/",
-     "fecha": "2026-10-20T21:53:03+00:00",
-     "medio": null
-    },
-    {
-     "fuente": "Startups Latam",
-     "tipo": "noticia",
-     "titulo": "Startup colombiana levanta US$6 millones para escalar sus agentes de IA en ventas para el mercado hispanohablante",
-     "url": "https://startupslatam.com/startup-colombiana-levanta-us6-millones-para-escalar-sus-agentes-de-ia-en-ventas-para-el-mercado-hispanohablante/",
-     "fecha": "2026-10-19T13:00:00+00:00",
-     "medio": null
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Dapta levanta US$6 millones para expandir su negocio de agentes de inteligencia artificial",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeTMzZGlCb29wejlCd1lrUk1ybkh2ZTRnbVBpa3FJNm5hNmtzZGVFNF9qSUlFdkF2b1dmVnp4TEVWcjhnLVJIeG91dkhLZ0Q2S2U2b0JRN0c0S2NTcUJYLVB5cjRNN2FQSVJpeUtTU3U0Tko0WG9rcDJ2eDdGYnZXZ3JlUHg0YTZXYkJvLUhROEh2M1ZUWV9RUFZoMmw5ZVBhNEEtWlN1VEpkbHNrWVFJTEJWWElJU254dElRTV84aEs2QVZDRmZHejlTSjQ4Xzk4VXdQa9IB2gFBVV95cUxPbjJqQnE3Mk8wZkloM2N4TnR3dml2Ml9LRFgxWGxWWGlaeU5FTkFoQVJ4RndCV0dxNVZ0dzlIczF6UTZaS1BwRHNWT3l3NHp6RnhLX01QMUNQd3hFWGVDalpvbVNCbDBSZWpxOFNQTEQzdTR6cUcyVTNZc0swNGdSZTN5TTlIZDFsdklYN1NURGVpNFhmLUVwUDlyR2pyNEN5X2ZZTE9mN1d6Q21UVG9reHNyejA5aVZnQWs0NGN5N3ZPZE9iSWpMQzBFNzIyNEM1dVVrejFoN1hHQQ?oc=5",
-     "fecha": "2026-10-14T07:00:00+00:00",
-     "medio": "Portafolio.co"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Dapta levanta US$6M para sus agentes de ventas en español",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONm5IZTVTN3M4czU5YnlUVXNpMXFrcXJsWk9UZWRtekJ5azM5THZobDJQNVdmaU12Rm0wZHU3UGpvY1pGb0o1ZTgtNUR2bEdYc3ZQNUtza1YzVWJXVUNaQlVPeTktSFItVm9IMWxfX1RQa0lldUg2c1E2M0dfNUtWaXN5U1RWZEdUbG5XLWdvRnM?oc=5",
-     "fecha": "2026-10-14T15:06:48+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Dapta, startup colombiana de agentes de IA, levanta US$6M",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcDZMaGhiSzZoT3F4czNZZzI3d3RrVjhEdFVMMUZmbkpycWtRNTYyOHVnUGxkdnFYX3VyQXdiQzlVUE0zVkdoVzU1VGJuWEsyMk1kZFpQUy1USXNsckVwZE9YaThZMnlmVWt3ZXFoZFR3akpvc1lKRXFIdXEtY2d6VXBqUFI3V1dLMkFsTE13?oc=5",
-     "fecha": "2026-10-15T05:33:39+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Dapta, startup colombiana de IA en ventas, levanta US$6M",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM1MxR0tmNXEwRlk2QmJYUnp5blZEN0kzRmVjdDFtUHgyWEdHMnFocmhKb2JNNkktdDJzbjItcWNyQzlFSUhpUkJLaVA0d3RBODVXazg5ODl2ZnJOcUZ0cUhPRFE0bUFSd2RGTXUweHdPUmdXc2hxRmUxZEJBUENJclhSd1lVaVNGUkJuZw?oc=5",
-     "fecha": "2026-10-15T06:03:27+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Dapta raises $6M seed round led by Chingona Ventures",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KeHdBY190ZGloWjN1bkxnLUl5UFQ5QUQycUg0Zk1CaTRyWXVQSDFFWW1GcGtMRmQzMV9BRzFBdkxZTGNxX2NJVmRackRua0NOQmhrWHFQeE0zNk1XaE9DSnhvNF9Td2s2ZE9YaUxvUmdPc1g0V1Y5bmlMOG94N1XSAYQBQVVfeXFMTjNLUnFRTTBRdF9DQnhIc0FrLWlCZTB6SmdJcDlnZklEQVNTajN5RndVN0FNY0dWTWRJSzY1bW5kRkdXRE1TTWV2ckhmNm1VRkoyNGZVY2xVS2RIUGRrMGVLbzg1eW13a1ZTWklxNEFHRW15a0VhOUc3UTF0VnN6Y3VBRHha?oc=5",
-     "fecha": "2026-10-21T01:27:48+00:00",
-     "medio": "LatamList"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:peso",
    "empresa": "Peso",
    "sitio_web": null,
@@ -2541,6 +2443,92 @@
    "motor": "llm"
   },
   {
+   "key": "n:colare",
+   "empresa": "Colare",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "HR/Recruitment Tech",
+   "etapa": "seed",
+   "monto_usd": 2500000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Colare ofrece una plataforma de evaluación especializada para ingenieros de hardware.",
+   "razon": "Ronda seed de US$2.5M en mercado interesante (evaluación técnica), pero sin datos de ubicación o tracción específica.",
+   "mensaje": "Vemos a Colare abordando un nicho importante en selección de talento técnico. La ronda de US$2.5M muestra validación del modelo. Nos encantaría conocer vuestra visión para LATAM hispanohablante.",
+   "score": 70,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-27T12:56:33+00:00",
+   "fecha_evidencia": "2026-10-27T01:51:39+00:00",
+   "ultima_senal": "2026-10-27T01:51:39+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Colare levanta US$2,5M para evaluar ingenieros de hardware",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdHRWYzYyUUhlTl9rRDJ2T3BuUTUtYlkwNldNUjk2ekVwZjlhVU84bk5pZEtzbTg0U21Tb0hFSUlnMEU2SWN3VnV3Z2dVdmJnWjlBODZrX0RzSVREeGJ5ZnE3blZzUm9kZ0pqcDlTbjJOQ2R1bVVmTHRlM0xMUkFRWUQxejdkWnl6LWo3Z1BxaEk?oc=5",
+     "fecha": "2026-10-27T01:51:39+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:mochatrade",
+   "empresa": "Mochatrade",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "FinTech",
+   "etapa": "seed",
+   "monto_usd": 5560000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Mochatrade recauda USD 5.56M para una plataforma de trading de acciones estadounidenses.",
+   "razon": "Ronda seed de USD 5.56M en FinTech (trading), indica momentum y inversión reconocida. Sin embargo, falta confirmar ubicación en LATAM hispanohablante y si es startup o plataforma más consolidada. Monto está en rango plausible seed.",
+   "mensaje": "Hola equipo de Mochatrade,\n\nVimos que cerraron USD 5.56M para expandir su plataforma de trading. Si tienen operaciones o están creciendo en América Latina hispanohablante, nos interesaría conocer vuestra estrategia y tracción en la región.\n\n¿Disponibles para una breve charla?",
+   "score": 70,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-27T12:56:33+00:00",
+   "fecha_evidencia": "2026-10-27T03:15:20+00:00",
+   "ultima_senal": "2026-10-27T03:15:20+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Mochatrade raises $5.56 million for US stock trading",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdjFYRFFvM1F6Rkk0UEVGenJXR1F5RE9hZTYxNDhUaThieElldFQ4ZjE3T25GZl96UHkxdm1fX0Y5ZnZQRU9ENFA1N1JSZHhpang1UEtncXV1aHZENXdWX3QtZF9VaFlCU3hEaEdqczZ3QzAtclpQNkRaMzVWcHJBMmxLZ3FBVllUc3Rldg?oc=5",
+     "fecha": "2026-10-27T03:15:20+00:00",
+     "medio": "grafa.com"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:poderjudicialvirtual.com",
    "empresa": "PoderJudicialVirtual.com",
    "sitio_web": "https://www.poderjudicialvirtual.com",
@@ -2665,49 +2653,6 @@
      "url": "https://www.getonbrd.com/jobs/ux-ui-designer-zaelot-remote",
      "fecha": "2026-10-07T13:09:05+00:00",
      "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "n:neofleetcapital",
-   "empresa": "NeoFleet Capital",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "pre-seed",
-   "monto_usd": 4000000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "NeoFleet Capital raises $4M pre-seed to finance taxi fleets in Senegal and Côte d’Ivoire Tech In Africa",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 68,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-13T07:00:00+00:00",
-   "ultima_senal": "2026-10-13T07:00:00+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "NeoFleet Capital raises $4M pre-seed to finance taxi fleets in Senegal and Côte d’Ivoire",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMjZ1Q1doSEdCTEJPdEVnWExkYmY3QmVYSV9SRlNVcXdzek5OUUtkMWJ3THBjTmlueHI5aUpsNkQzcFNfR1MyY0dtcTZ0WHJkcWxUREVNb2lGQzJRVGFtemRMY3R0N3dwTmZMTl9rZENacXp5LUdNZmN6Ql8tVHlFdjlQamRIb2Z2WFhRXzcwVHAxTEpJRE13cWFhQU52eUtSczI1NGYyQkVmdVJZSzkzajBBUlVyNzQ?oc=5",
-     "fecha": "2026-10-13T07:00:00+00:00",
-     "medio": "Tech In Africa"
     }
    ],
    "motor": "reglas"
@@ -2983,9 +2928,9 @@
    "fundadores": [],
    "tecnologia": true,
    "calidad": 5.0,
-   "resumen": "Plataforma de fintech enfocada en expansión global.",
-   "razon": "Pre-seed en rango ideal, pero ubicación y tracción no confirmadas en el texto. Monto y etapa alineados con Latin Leap.",
-   "mensaje": "Hola CapQuest, vimos que levantaron US$1M en pre-seed y están en fase de expansión global. Nos interesa conectar con startups fintech de LATAM hispanohablante. ¿Tienen presencia en nuestra región o planes de crecer ahí?",
+   "resumen": "CapQuest cierra una ronda pre-seed de USD 1M para expandirse globalmente.",
+   "razon": "Ronda pre-seed de USD 1M reportada, pero sin información de tracción, sector, ubicación o diferenciación visible en la señal.",
+   "mensaje": "Hola equipo de CapQuest,\n\nVimos que acaban de cerrar USD 1M en pre-seed para expansión global. En Latin Leap invertimos en startups tech en etapa temprana en Latinoamérica hispanohablante, y nos interesaría conocer más sobre vuestra solución y visión de mercado.\n\n¿Estarían disponibles para una conversación breve?",
    "score": 68,
    "desglose": {
     "geografia": 7.5,
@@ -3000,7 +2945,7 @@
    "conocido_fuente": null,
    "primera_vista": "2026-10-26T14:55:10+00:00",
    "fecha_evidencia": "2026-10-20T07:00:00+00:00",
-   "ultima_senal": "2026-10-20T07:00:00+00:00",
+   "ultima_senal": "2026-10-20T11:06:10+00:00",
    "senales": [
     {
      "fuente": "Google News",
@@ -3009,9 +2954,60 @@
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOWdUcmhxRHk5dWtRQ1pSQ0JqQVZhT19aNXByeDljZVIxeUxPb1NsWUg0V3YwLWRtZmd0UFRsQkFtYllsNXFhX2E4dEhWUkl6Z2xUUHZ2OVlGZXVQWDMwY3N5OFRXSXlTakFCNk84QmNGYVdCMHhiT2txY0RMYUlzWWlxbkw0YVdib3dkVnVDTFJ3dw?oc=5",
      "fecha": "2026-10-20T07:00:00+00:00",
      "medio": "Wamda"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "CapQuest closes $1 million pre-Seed funding to expand globally",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTFplN0RKWTV1RWtxeUE2TkFRQ3dzTzJKaFEzbmR0Qzk1bWFfejBpbjZRcjB3OUJjR0JXY3BrUnpaclI5cUFvWmJrbnA4M29fTDFmZ1c0aDlYVlBHT21fQmk0Qk91enQ1ZEFSYzFKZnhMSWRycTdUeUd0R0FtUGtvSW5ZdTBQR0ItN0x3?oc=5",
+     "fecha": "2026-10-20T11:06:10+00:00",
+     "medio": "Wamda"
     }
    ],
    "motor": "llm"
+  },
+  {
+   "key": "n:neofleetcapital",
+   "empresa": "NeoFleet Capital",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "pre-seed",
+   "monto_usd": 4000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "NeoFleet Capital raises $4M pre-seed to finance taxi fleets in Senegal and Côte d’Ivoire Tech In Africa",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 66,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-13T07:00:00+00:00",
+   "ultima_senal": "2026-10-13T07:00:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "NeoFleet Capital raises $4M pre-seed to finance taxi fleets in Senegal and Côte d’Ivoire",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMjZ1Q1doSEdCTEJPdEVnWExkYmY3QmVYSV9SRlNVcXdzek5OUUtkMWJ3THBjTmlueHI5aUpsNkQzcFNfR1MyY0dtcTZ0WHJkcWxUREVNb2lGQzJRVGFtemRMY3R0N3dwTmZMTl9rZENacXp5LUdNZmN6Ql8tVHlFdjlQamRIb2Z2WFhRXzcwVHAxTEpJRE13cWFhQU52eUtSczI1NGYyQkVmdVJZSzkzajBBUlVyNzQ?oc=5",
+     "fecha": "2026-10-13T07:00:00+00:00",
+     "medio": "Tech In Africa"
+    }
+   ],
+   "motor": "reglas"
   },
   {
    "key": "d:graftonlatam.com",
@@ -3492,6 +3488,112 @@
    "motor": "llm"
   },
   {
+   "key": "n:dapta",
+   "empresa": "Dapta",
+   "sitio_web": null,
+   "pais": "Desconocido (opera en LATAM)",
+   "ciudad": null,
+   "sector": "IA/SaaS",
+   "etapa": "seed",
+   "monto_usd": 6000000.0,
+   "inversionistas": [
+    "500 Global",
+    "Broom Ventures",
+    "Chingona Ventures",
+    "Cometa",
+    "Crew Capital",
+    "Fen Ventures"
+   ],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 8.0,
+   "resumen": "Dapta desarrolla agentes de ventas con IA para ayudar a PyMEs en EE.UU. y América Latina a automatizar procesos de venta.",
+   "razon": "Startup de IA enfocada en SMBs de LATAM (alineada con tesis), ronda de USD 6M en seed, propuesta clara. Falta verificar ubicación exacta en LATAM hispanohablante.",
+   "mensaje": "Felicidades por el cierre de USD 6M para Dapta. Nos llama la atención vuestra solución de agentes de IA dirigida a SMBs en Latinoamérica. Nos gustaría conocer más sobre vuestro tracción en la región y explorar si hay sinergia con Latin Leap. ¿Podemos agendar una llamada breve?",
+   "score": 70,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 13.5,
+    "calidad": 16.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": true,
+   "conocido_fuente": "Portafolio Latin Leap",
+   "primera_vista": "2026-10-24T04:00:44+00:00",
+   "fecha_evidencia": "2026-10-14T07:00:00+00:00",
+   "ultima_senal": "2026-10-21T01:27:48+00:00",
+   "senales": [
+    {
+     "fuente": "LatamList",
+     "tipo": "noticia",
+     "titulo": "Dapta raises $6M seed round led by Chingona Ventures",
+     "url": "https://latamlist.com/dapta-raises-6m-seed-round-led-by-chingona-ventures/",
+     "fecha": "2026-10-20T21:53:03+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Startups Latam",
+     "tipo": "noticia",
+     "titulo": "Startup colombiana levanta US$6 millones para escalar sus agentes de IA en ventas para el mercado hispanohablante",
+     "url": "https://startupslatam.com/startup-colombiana-levanta-us6-millones-para-escalar-sus-agentes-de-ia-en-ventas-para-el-mercado-hispanohablante/",
+     "fecha": "2026-10-19T13:00:00+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Dapta levanta US$6 millones para expandir su negocio de agentes de inteligencia artificial",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeTMzZGlCb29wejlCd1lrUk1ybkh2ZTRnbVBpa3FJNm5hNmtzZGVFNF9qSUlFdkF2b1dmVnp4TEVWcjhnLVJIeG91dkhLZ0Q2S2U2b0JRN0c0S2NTcUJYLVB5cjRNN2FQSVJpeUtTU3U0Tko0WG9rcDJ2eDdGYnZXZ3JlUHg0YTZXYkJvLUhROEh2M1ZUWV9RUFZoMmw5ZVBhNEEtWlN1VEpkbHNrWVFJTEJWWElJU254dElRTV84aEs2QVZDRmZHejlTSjQ4Xzk4VXdQa9IB2gFBVV95cUxPbjJqQnE3Mk8wZkloM2N4TnR3dml2Ml9LRFgxWGxWWGlaeU5FTkFoQVJ4RndCV0dxNVZ0dzlIczF6UTZaS1BwRHNWT3l3NHp6RnhLX01QMUNQd3hFWGVDalpvbVNCbDBSZWpxOFNQTEQzdTR6cUcyVTNZc0swNGdSZTN5TTlIZDFsdklYN1NURGVpNFhmLUVwUDlyR2pyNEN5X2ZZTE9mN1d6Q21UVG9reHNyejA5aVZnQWs0NGN5N3ZPZE9iSWpMQzBFNzIyNEM1dVVrejFoN1hHQQ?oc=5",
+     "fecha": "2026-10-14T07:00:00+00:00",
+     "medio": "Portafolio.co"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Dapta levanta US$6M para sus agentes de ventas en español",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONm5IZTVTN3M4czU5YnlUVXNpMXFrcXJsWk9UZWRtekJ5azM5THZobDJQNVdmaU12Rm0wZHU3UGpvY1pGb0o1ZTgtNUR2bEdYc3ZQNUtza1YzVWJXVUNaQlVPeTktSFItVm9IMWxfX1RQa0lldUg2c1E2M0dfNUtWaXN5U1RWZEdUbG5XLWdvRnM?oc=5",
+     "fecha": "2026-10-14T15:06:48+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Dapta, startup colombiana de agentes de IA, levanta US$6M",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcDZMaGhiSzZoT3F4czNZZzI3d3RrVjhEdFVMMUZmbkpycWtRNTYyOHVnUGxkdnFYX3VyQXdiQzlVUE0zVkdoVzU1VGJuWEsyMk1kZFpQUy1USXNsckVwZE9YaThZMnlmVWt3ZXFoZFR3akpvc1lKRXFIdXEtY2d6VXBqUFI3V1dLMkFsTE13?oc=5",
+     "fecha": "2026-10-15T05:33:39+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Dapta, startup colombiana de IA en ventas, levanta US$6M",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM1MxR0tmNXEwRlk2QmJYUnp5blZEN0kzRmVjdDFtUHgyWEdHMnFocmhKb2JNNkktdDJzbjItcWNyQzlFSUhpUkJLaVA0d3RBODVXazg5ODl2ZnJOcUZ0cUhPRFE0bUFSd2RGTXUweHdPUmdXc2hxRmUxZEJBUENJclhSd1lVaVNGUkJuZw?oc=5",
+     "fecha": "2026-10-15T06:03:27+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Dapta raises $6M seed round led by Chingona Ventures",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KeHdBY190ZGloWjN1bkxnLUl5UFQ5QUQycUg0Zk1CaTRyWXVQSDFFWW1GcGtMRmQzMV9BRzFBdkxZTGNxX2NJVmRackRua0NOQmhrWHFQeE0zNk1XaE9DSnhvNF9Td2s2ZE9YaUxvUmdPc1g0V1Y5bmlMOG94N1XSAYQBQVVfeXFMTjNLUnFRTTBRdF9DQnhIc0FrLWlCZTB6SmdJcDlnZklEQVNTajN5RndVN0FNY0dWTWRJSzY1bW5kRkdXRE1TTWV2ckhmNm1VRkoyNGZVY2xVS2RIUGRrMGVLbzg1eW13a1ZTWklxNEFHRW15a0VhOUc3UTF0VnN6Y3VBRHha?oc=5",
+     "fecha": "2026-10-21T01:27:48+00:00",
+     "medio": "LatamList"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Dapta Raises $6M to Accelerate the Adoption of AI Sales Agents to SMBs Across the U.S. and Latin America",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUURYaks0ak1peWdsLXVkc2ZKNWFTWW9TZlJDbDdaY0NRNVdOUWdtOWgyMm5KeHpfVEx5U192QW9uSVBGSXZ0SVB0eXlncWVVOUNyVlRsckp4QWlzWFhJSjM1WXV6UjZvaEVwdjBzRTR3NGVmWTlJZXNqVTVvTTBGSExUZjBBSkQ1TnV3bkdvS3pERHdyLXJCUFBuMmJFTGduMjBuS2ViUWlIeTZFdmdtY3hQcXFiSHlwTUgxUzk5dVJUVHhwbm1jVHlxNWpHT3RzdGgyWmVlOXhDQQ?oc=5",
+     "fecha": "2026-10-14T14:24:37+00:00",
+     "medio": "AiThority"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "n:efyfinance",
    "empresa": "EFY Finance",
    "sitio_web": null,
@@ -3625,6 +3727,68 @@
      "titulo": "Electric Plant, startup de IA agrícola, levanta US$11,2M",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnVGSndXa05rWmtreW5Nay14Vl92cGM0M0NfWGhUVkhRR0s1VzdYSGNqdGNHWkJfeVBjcDlyMGtnRFN3TUdzR0NGRXlESXp0bkdBUllfczFpTmNYakFHd2VnMlhYTUJEOE9FSjYxNG90S0lpd21oUFROS0gyT2VtTEczamNqbS1aTzNZ?oc=5",
      "fecha": "2026-10-20T18:33:32+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:niubiq",
+   "empresa": "Niubiq",
+   "sitio_web": null,
+   "pais": "España",
+   "ciudad": null,
+   "sector": "SaaS/IA",
+   "etapa": "seed",
+   "monto_usd": 465000.0,
+   "inversionistas": [
+    "Angels Capital de Juan Roig",
+    "Fondo de Juan Roig"
+   ],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Niubiq es una plataforma de IA para optimizar procesos de ventas.",
+   "razon": "Ronda pre-seed/seed con inversor reconocido. Repetida en señal anterior; espacio de mejora en confirmación de geolocalización LATAM.",
+   "mensaje": "Hemos seguido a Niubiq y el apoyo del fondo de Juan Roig nos parece muy positivo. Si están considerando expansión en Latinoamérica hispanohablante, nos encantaría conectar.",
+   "score": 62,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 12.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-10T21:03:36+00:00",
+   "ultima_senal": "2026-10-26T16:10:04+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Niubiq levanta 410.000 euros con Angels Capital de Juan Roig",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRk9CZ1kxTzNvQ1pCU1NjVDUwX1RHeEVVRWsyZUtGX3ljTk8zM2ZSd3JzNTFHUFpWYkQtY2NFMTEteUVycV9mYmozWjREZTJyRFA0NlFBOGpKVkdKQ3hIdzNMdFFwNVlBM1VXYWt6MF9tbGt1YkFpcElWcFFyRU50NmVrbHkzNkxDd3VCOWpuWVk0X3ZnQUE?oc=5",
+     "fecha": "2026-10-10T21:03:36+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Niubiq, IA para ventas, levanta 410.000 euros con Juan Roig",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWxfUUZUVjJMRlBEZFpHNjZON2MzNE5LWUYwanRDZi1uOFJVeXFUeU9rWmhQaUVBbjJLY0J6STM2b19JeEhMbWhzZy1yUVRFRE9GLVNReXpyWlZ6ZXk3MG5WS0xsbjJmWjhlc29iemJEbWJWMmJjZWhWT1Iwa0hvalJxLTlMR3BQa1lyR3pDbkxPUQ?oc=5",
+     "fecha": "2026-10-26T13:36:28+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Niubiq levanta 410.000 euros con el fondo de Juan Roig",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd2pYWGxFZWUzVHRpNnJJTGYwYXhmV3NHc2lnUVJzc0R0S2FoVWtWeEIxUzdHOGp6bkFYOE5HNzY0aHFNb0RCWm1aNEQ5dGJicXpMLW84WXZJbWNsaVF6ZUZteGY0eW9Sc3FtUzRhSzJyRTNPeWo4WGMxZFdoclV0d1FKbHQ3eGx2Sm8zZWF3?oc=5",
+     "fecha": "2026-10-26T16:10:04+00:00",
      "medio": "El Ecosistema Startup"
     }
    ],
@@ -4149,92 +4313,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:mattermachine",
-   "empresa": "Matter Machine",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "serie-a",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Matter Machine Closes £4M Pre-Series A to Scale AI-Powered Materials Discovery, Appoints Oxford Nanopore’s Gordon Sanghera AI Insider",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 46,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 7.5,
-    "tecnologia": 15.0,
-    "senal": 6.0,
-    "calidad": 10.0
-   },
-   "prioridad": "C",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-13T07:00:00+00:00",
-   "ultima_senal": "2026-10-13T07:00:00+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Matter Machine Closes £4M Pre-Series A to Scale AI-Powered Materials Discovery, Appoints Oxford Nanopore’s Gordon Sanghera",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeUozUi1MVWxDLW9VNGhFRjU0QVBDMi1hWU8taVJVcXBOWU1qa2NyalZ1QXU5QmlUZjhaUE9uaU1HVFBzLVhSX3NOaGI2VTJVU1JxbHhXNjRONkVpUG9VS09NUlZHUDJFTmNYUUdNb0psMzd1OXlqVGRabXRTWWFwa3VnMWV1QWhEOHliM0gyenVuZ0Q3RFpjZXc0emJHNl9hQTltYTNZNi1tS2VkeS1Ua2NqdDllQTQ1dF8wUzZZN2pyclRmZ3dPS2VVa1Atb21kU1lNR2lYV0RkR251c211WEpnUTd5dUhxcENiY3lB?oc=5",
-     "fecha": "2026-10-13T07:00:00+00:00",
-     "medio": "AI Insider"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "n:typeoneenergy",
-   "empresa": "Type One Energy",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 5.0,
-   "resumen": "La energía de fusión lleva décadas bajo investigación como una posible fuente de electricidad con bajas emisiones de carbono.",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 44,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 12.5,
-    "tecnologia": 7.5,
-    "senal": 6.0,
-    "calidad": 10.0
-   },
-   "prioridad": "C",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:00:44+00:00",
-   "fecha_evidencia": "2026-10-12T16:38:47+00:00",
-   "ultima_senal": "2026-10-12T16:38:47+00:00",
-   "senales": [
-    {
-     "fuente": "Contxto",
-     "tipo": "noticia",
-     "titulo": "Type One Energy levanta 200 millones de dólares para llevar la fusión nuclear al mercado",
-     "url": "https://contxto.com/es/energytech/type-one-energy-levanta-200-millones-de-dolares-para-llevar-la-fusion-nuclear-al-mercado/",
-     "fecha": "2026-10-12T16:38:47+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "n:tripwip",
    "empresa": "TripWip",
    "sitio_web": null,
@@ -4278,6 +4356,49 @@
    "motor": "llm"
   },
   {
+   "key": "n:mattermachine",
+   "empresa": "Matter Machine",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "serie-a",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Matter Machine Closes £4M Pre-Series A to Scale AI-Powered Materials Discovery, Appoints Oxford Nanopore’s Gordon Sanghera AI Insider",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 44,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 7.5,
+    "tecnologia": 15.0,
+    "senal": 4.5,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-13T07:00:00+00:00",
+   "ultima_senal": "2026-10-13T07:00:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Matter Machine Closes £4M Pre-Series A to Scale AI-Powered Materials Discovery, Appoints Oxford Nanopore’s Gordon Sanghera",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeUozUi1MVWxDLW9VNGhFRjU0QVBDMi1hWU8taVJVcXBOWU1qa2NyalZ1QXU5QmlUZjhaUE9uaU1HVFBzLVhSX3NOaGI2VTJVU1JxbHhXNjRONkVpUG9VS09NUlZHUDJFTmNYUUdNb0psMzd1OXlqVGRabXRTWWFwa3VnMWV1QWhEOHliM0gyenVuZ0Q3RFpjZXc0emJHNl9hQTltYTNZNi1tS2VkeS1Ua2NqdDllQTQ1dF8wUzZZN2pyclRmZ3dPS2VVa1Atb21kU1lNR2lYV0RkR251c211WEpnUTd5dUhxcENiY3lB?oc=5",
+     "fecha": "2026-10-13T07:00:00+00:00",
+     "medio": "AI Insider"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "n:cambridgewastetosafstartup",
    "empresa": "Cambridge waste-to-SAF startup",
    "sitio_web": null,
@@ -4319,51 +4440,6 @@
     }
    ],
    "motor": "reglas"
-  },
-  {
-   "key": "n:niubiq",
-   "empresa": "Niubiq",
-   "sitio_web": null,
-   "pais": "España",
-   "ciudad": null,
-   "sector": "Desconocido",
-   "etapa": "pre-seed",
-   "monto_usd": 447000.0,
-   "inversionistas": [
-    "Angels Capital de Juan Roig"
-   ],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 1.0,
-   "resumen": "Niubiq levantó EUR 410k (≈USD 447k) con Angels Capital de Juan Roig.",
-   "razon": "Ubicación en España (fuera de tesis LATAM hispanohablante); inversor reconocido (Juan Roig) pero mercado fuera de geografía objetivo.",
-   "mensaje": null,
-   "score": 44,
-   "desglose": {
-    "geografia": 0.0,
-    "etapa": 25.0,
-    "tecnologia": 7.5,
-    "senal": 9.0,
-    "calidad": 2.0
-   },
-   "prioridad": "Fuera de tesis",
-   "en_tesis": false,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-10T21:03:36+00:00",
-   "ultima_senal": "2026-10-10T21:03:36+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Niubiq levanta 410.000 euros con Angels Capital de Juan Roig",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRk9CZ1kxTzNvQ1pCU1NjVDUwX1RHeEVVRWsyZUtGX3ljTk8zM2ZSd3JzNTFHUFpWYkQtY2NFMTEteUVycV9mYmozWjREZTJyRFA0NlFBOGpKVkdKQ3hIdzNMdFFwNVlBM1VXYWt6MF9tbGt1YkFpcElWcFFyRU50NmVrbHkzNkxDd3VCOWpuWVk0X3ZnQUE?oc=5",
-     "fecha": "2026-10-10T21:03:36+00:00",
-     "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
   },
   {
    "key": "n:californiastartupshave",
@@ -4495,49 +4571,6 @@
    "motor": "reglas"
   },
   {
-   "key": "n:prima",
-   "empresa": "Prima",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "serie-b+",
-   "monto_usd": 20000000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Startup Causa Prima raises $20 million to tackle billing disputes with AI agents Yahoo Finance",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 43,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 0.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "Fuera de tesis",
-   "en_tesis": false,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-13T07:00:00+00:00",
-   "ultima_senal": "2026-10-13T07:00:00+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Startup Causa Prima raises $20 million to tackle billing disputes with AI agents",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNenZqbzg3VmRKcHlXeVBZQ0NvV2ZDMzdSdk9YZGpnVEdaT2pNQzk5ampSVW1GZVV3QzljdXpxcEZwbHBEVWk4Ujd6a044ZVlaUVZJaXltMGxNVGU2WXk2RnR1QWZvSmFSOUFIcHJLMjZpVWZsamtrYl8wTXlXbUxRcWtNT0JFem1hMVhiWXA1WXhDSlowS0hXbA?oc=5",
-     "fecha": "2026-10-13T07:00:00+00:00",
-     "medio": "Yahoo Finance"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "n:formic",
    "empresa": "Formic",
    "sitio_web": null,
@@ -4576,6 +4609,92 @@
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjFjMnpXM0pOYXZEbTE3dFFvMGlIUkFESHBSNVEtcHRkOV9GQWdzb2k4YzhKSjdyU2RCSnJlTmtXV3M2RG5WdmVWblk1R2twVmhvb0psSGJET29RclFDa3ZMOF9YMU51VEZqNlMxdHhsY1VqWEI3czhvbDlYYVBPN2tlZVhjUEFxcS1kekxNdXpmdHFyNW9QbmlEaVlWNFpfREg4RjNIYXUydTZfQ2M0SFEyV0RoT1hDM0tn?oc=5",
      "fecha": "2026-10-23T11:09:00+00:00",
      "medio": "AI Insider"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:typeoneenergy",
+   "empresa": "Type One Energy",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "La energía de fusión lleva décadas bajo investigación como una posible fuente de electricidad con bajas emisiones de carbono.",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 42,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 12.5,
+    "tecnologia": 7.5,
+    "senal": 4.5,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:00:44+00:00",
+   "fecha_evidencia": "2026-10-12T16:38:47+00:00",
+   "ultima_senal": "2026-10-12T16:38:47+00:00",
+   "senales": [
+    {
+     "fuente": "Contxto",
+     "tipo": "noticia",
+     "titulo": "Type One Energy levanta 200 millones de dólares para llevar la fusión nuclear al mercado",
+     "url": "https://contxto.com/es/energytech/type-one-energy-levanta-200-millones-de-dolares-para-llevar-la-fusion-nuclear-al-mercado/",
+     "fecha": "2026-10-12T16:38:47+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:prima",
+   "empresa": "Prima",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "serie-b+",
+   "monto_usd": 20000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Startup Causa Prima raises $20 million to tackle billing disputes with AI agents Yahoo Finance",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 42,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 0.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 10.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-13T07:00:00+00:00",
+   "ultima_senal": "2026-10-13T07:00:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Startup Causa Prima raises $20 million to tackle billing disputes with AI agents",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNenZqbzg3VmRKcHlXeVBZQ0NvV2ZDMzdSdk9YZGpnVEdaT2pNQzk5ampSVW1GZVV3QzljdXpxcEZwbHBEVWk4Ujd6a044ZVlaUVZJaXltMGxNVGU2WXk2RnR1QWZvSmFSOUFIcHJLMjZpVWZsamtrYl8wTXlXbUxRcWtNT0JFem1hMVhiWXA1WXhDSlowS0hXbA?oc=5",
+     "fecha": "2026-10-13T07:00:00+00:00",
+     "medio": "Yahoo Finance"
     }
    ],
    "motor": "reglas"
@@ -4754,15 +4873,15 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-10-26T14:55:10+00:00",
+  "actualizado": "2026-10-27T12:56:33+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 68,
+  "calificados_30d": 70,
   "prioridad_a_30d": 20,
-  "incremento_vs_baseline": 1.133,
-  "cumplimiento_meta": 11.33,
-  "total_deals": 105,
-  "total_calificados": 74,
+  "incremento_vs_baseline": 1.167,
+  "cumplimiento_meta": 11.67,
+  "total_deals": 107,
+  "total_calificados": 76,
   "conocidos_detectados": 2,
   "por_semana": {
    "2025-06-16": 1,
@@ -4774,11 +4893,11 @@
    "2026-10-05": 8,
    "2026-10-12": 21,
    "2026-10-19": 35,
-   "2026-10-26": 4
+   "2026-10-26": 6
   },
   "por_fuente": {
    "Get on Board": 36,
-   "Google News": 30,
+   "Google News": 32,
    "Y Combinator": 6,
    "LatamList": 2,
    "Techla Media": 1,
@@ -4786,7 +4905,7 @@
   },
   "por_pais": {
    "Chile": 34,
-   "?": 17,
+   "?": 19,
    "México": 8,
    "Argentina": 5,
    "Colombia": 4,
@@ -5141,6 +5260,84 @@
       "fuente": "Get on Board",
       "ok": true,
       "senales": 52,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-10-27T12:54:51+00:00",
+    "fin": "2026-10-27T12:56:33+00:00",
+    "senales_crudas": 342,
+    "descartadas_prefiltro": 149,
+    "procesadas": 25,
+    "deals_nuevos": 2,
+    "calificados_nuevos": 2,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 15,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 242,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 5,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 50,
       "error": null
      }
     ]

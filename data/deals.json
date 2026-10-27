@@ -24,12 +24,12 @@
   "ultima_senal": "2026-10-12T16:38:47+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 44,
+  "score": 42,
   "desglose": {
    "geografia": 7.5,
    "etapa": 12.5,
    "tecnologia": 7.5,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 10.0
   },
   "prioridad": "C",
@@ -260,6 +260,14 @@
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KeHdBY190ZGloWjN1bkxnLUl5UFQ5QUQycUg0Zk1CaTRyWXVQSDFFWW1GcGtMRmQzMV9BRzFBdkxZTGNxX2NJVmRackRua0NOQmhrWHFQeE0zNk1XaE9DSnhvNF9Td2s2ZE9YaUxvUmdPc1g0V1Y5bmlMOG94N1XSAYQBQVVfeXFMTjNLUnFRTTBRdF9DQnhIc0FrLWlCZTB6SmdJcDlnZklEQVNTajN5RndVN0FNY0dWTWRJSzY1bW5kRkdXRE1TTWV2ckhmNm1VRkoyNGZVY2xVS2RIUGRrMGVLbzg1eW13a1ZTWklxNEFHRW15a0VhOUc3UTF0VnN6Y3VBRHha?oc=5",
     "fecha": "2026-10-21T01:27:48+00:00",
     "medio": "LatamList"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Dapta Raises $6M to Accelerate the Adoption of AI Sales Agents to SMBs Across the U.S. and Latin America",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUURYaks0ak1peWdsLXVkc2ZKNWFTWW9TZlJDbDdaY0NRNVdOUWdtOWgyMm5KeHpfVEx5U192QW9uSVBGSXZ0SVB0eXlncWVVOUNyVlRsckp4QWlzWFhJSjM1WXV6UjZvaEVwdjBzRTR3NGVmWTlJZXNqVTVvTTBGSExUZjBBSkQ1TnV3bkdvS3pERHdyLXJCUFBuMmJFTGduMjBuS2ViUWlIeTZFdmdtY3hQcXFiSHlwTUgxUzk5dVJUVHhwbm1jVHlxNWpHT3RzdGgyWmVlOXhDQQ?oc=5",
+    "fecha": "2026-10-14T14:24:37+00:00",
+    "medio": "AiThority"
    }
   ],
   "inversionistas": [
@@ -274,28 +282,28 @@
   "calidad": 8.0,
   "motor": "llm",
   "empresa": "Dapta",
-  "pais": "Colombia",
+  "pais": "Desconocido (opera en LATAM)",
   "etapa": "seed",
   "monto_usd": 6000000.0,
   "tecnologia": true,
-  "resumen": "Startup que acaba de cerrar ronda seed de USD 6M liderada por Chingona Ventures.",
-  "razon": "Ronda seed de USD 6M liderada por Chingona Ventures (inversor reconocido en LATAM), pero falta información sobre tracción, sector y ubicación específica.",
+  "resumen": "Dapta desarrolla agentes de ventas con IA para ayudar a PyMEs en EE.UU. y América Latina a automatizar procesos de venta.",
+  "razon": "Startup de IA enfocada en SMBs de LATAM (alineada con tesis), ronda de USD 6M en seed, propuesta clara. Falta verificar ubicación exacta en LATAM hispanohablante.",
   "fecha_evidencia": "2026-10-14T07:00:00+00:00",
   "ultima_senal": "2026-10-21T01:27:48+00:00",
   "conocido_fuente": "Portafolio Latin Leap",
   "conocido": true,
-  "score": 94,
+  "score": 70,
   "desglose": {
-   "geografia": 25.0,
+   "geografia": 0.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
    "senal": 13.5,
    "calidad": 16.0
   },
-  "prioridad": "A",
-  "en_tesis": true,
-  "sector": "IA/SaaS de Ventas",
-  "mensaje": "Hola equipo de Dapta, vimos que cerraron una ronda seed de USD 6M con Chingona Ventures. En Latin Leap nos atrae la trayectoria de ese fondo en la región. ¿Podrían compartir más sobre el producto y el mercado que están atacando? Nos gustaría conocerlos."
+  "prioridad": "Fuera de tesis",
+  "en_tesis": false,
+  "sector": "IA/SaaS",
+  "mensaje": "Felicidades por el cierre de USD 6M para Dapta. Nos llama la atención vuestra solución de agentes de IA dirigida a SMBs en Latinoamérica. Nos gustaría conocer más sobre vuestro tracción en la región y explorar si hay sinergia con Latin Leap. ¿Podemos agendar una llamada breve?"
  },
  "n:efyfinance": {
   "key": "n:efyfinance",
@@ -2225,12 +2233,12 @@
   "ultima_senal": "2026-10-13T07:00:00+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 46,
+  "score": 44,
   "desglose": {
    "geografia": 7.5,
    "etapa": 7.5,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 10.0
   },
   "prioridad": "C",
@@ -2423,12 +2431,12 @@
   "ultima_senal": "2026-10-13T07:00:00+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 68,
+  "score": 66,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -2575,12 +2583,12 @@
   "ultima_senal": "2026-10-13T07:00:00+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 43,
+  "score": 42,
   "desglose": {
    "geografia": 7.5,
    "etapa": 0.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
   "prioridad": "Fuera de tesis",
@@ -3031,35 +3039,54 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRk9CZ1kxTzNvQ1pCU1NjVDUwX1RHeEVVRWsyZUtGX3ljTk8zM2ZSd3JzNTFHUFpWYkQtY2NFMTEteUVycV9mYmozWjREZTJyRFA0NlFBOGpKVkdKQ3hIdzNMdFFwNVlBM1VXYWt6MF9tbGt1YkFpcElWcFFyRU50NmVrbHkzNkxDd3VCOWpuWVk0X3ZnQUE?oc=5",
     "fecha": "2026-10-10T21:03:36+00:00",
     "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Niubiq, IA para ventas, levanta 410.000 euros con Juan Roig",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWxfUUZUVjJMRlBEZFpHNjZON2MzNE5LWUYwanRDZi1uOFJVeXFUeU9rWmhQaUVBbjJLY0J6STM2b19JeEhMbWhzZy1yUVRFRE9GLVNReXpyWlZ6ZXk3MG5WS0xsbjJmWjhlc29iemJEbWJWMmJjZWhWT1Iwa0hvalJxLTlMR3BQa1lyR3pDbkxPUQ?oc=5",
+    "fecha": "2026-10-26T13:36:28+00:00",
+    "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Niubiq levanta 410.000 euros con el fondo de Juan Roig",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd2pYWGxFZWUzVHRpNnJJTGYwYXhmV3NHc2lnUVJzc0R0S2FoVWtWeEIxUzdHOGp6bkFYOE5HNzY0aHFNb0RCWm1aNEQ5dGJicXpMLW84WXZJbWNsaVF6ZUZteGY0eW9Sc3FtUzRhSzJyRTNPeWo4WGMxZFdoclV0d1FKbHQ3eGx2Sm8zZWF3?oc=5",
+    "fecha": "2026-10-26T16:10:04+00:00",
+    "medio": "El Ecosistema Startup"
    }
   ],
   "inversionistas": [
-   "Angels Capital de Juan Roig"
+   "Angels Capital de Juan Roig",
+   "Fondo de Juan Roig"
   ],
   "fundadores": [],
-  "calidad": 1.0,
+  "calidad": 6.0,
   "motor": "llm",
   "empresa": "Niubiq",
   "pais": "España",
-  "sector": "Desconocido",
-  "etapa": "pre-seed",
-  "monto_usd": 447000.0,
-  "resumen": "Niubiq levantó EUR 410k (≈USD 447k) con Angels Capital de Juan Roig.",
-  "razon": "Ubicación en España (fuera de tesis LATAM hispanohablante); inversor reconocido (Juan Roig) pero mercado fuera de geografía objetivo.",
+  "sector": "SaaS/IA",
+  "etapa": "seed",
+  "monto_usd": 465000.0,
+  "resumen": "Niubiq es una plataforma de IA para optimizar procesos de ventas.",
+  "razon": "Ronda pre-seed/seed con inversor reconocido. Repetida en señal anterior; espacio de mejora en confirmación de geolocalización LATAM.",
   "fecha_evidencia": "2026-10-10T21:03:36+00:00",
-  "ultima_senal": "2026-10-10T21:03:36+00:00",
+  "ultima_senal": "2026-10-26T16:10:04+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 44,
+  "score": 62,
   "desglose": {
    "geografia": 0.0,
    "etapa": 25.0,
-   "tecnologia": 7.5,
-   "senal": 9.0,
-   "calidad": 2.0
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 12.0
   },
   "prioridad": "Fuera de tesis",
-  "en_tesis": false
+  "en_tesis": false,
+  "tecnologia": true,
+  "mensaje": "Hemos seguido a Niubiq y el apoyo del fondo de Juan Roig nos parece muy positivo. Si están considerando expansión en Latinoamérica hispanohablante, nos encantaría conectar."
  },
  "n:eclectic": {
   "key": "n:eclectic",
@@ -4284,6 +4311,14 @@
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOWdUcmhxRHk5dWtRQ1pSQ0JqQVZhT19aNXByeDljZVIxeUxPb1NsWUg0V3YwLWRtZmd0UFRsQkFtYllsNXFhX2E4dEhWUkl6Z2xUUHZ2OVlGZXVQWDMwY3N5OFRXSXlTakFCNk84QmNGYVdCMHhiT2txY0RMYUlzWWlxbkw0YVdib3dkVnVDTFJ3dw?oc=5",
     "fecha": "2026-10-20T07:00:00+00:00",
     "medio": "Wamda"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "CapQuest closes $1 million pre-Seed funding to expand globally",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTFplN0RKWTV1RWtxeUE2TkFRQ3dzTzJKaFEzbmR0Qzk1bWFfejBpbjZRcjB3OUJjR0JXY3BrUnpaclI5cUFvWmJrbnA4M29fTDFmZ1c0aDlYVlBHT21fQmk0Qk91enQ1ZEFSYzFKZnhMSWRycTdUeUd0R0FtUGtvSW5ZdTBQR0ItN0x3?oc=5",
+    "fecha": "2026-10-20T11:06:10+00:00",
+    "medio": "Wamda"
    }
   ],
   "inversionistas": [],
@@ -4295,11 +4330,11 @@
   "etapa": "pre-seed",
   "monto_usd": 1000000.0,
   "tecnologia": true,
-  "resumen": "Plataforma de fintech enfocada en expansión global.",
-  "mensaje": "Hola CapQuest, vimos que levantaron US$1M en pre-seed y están en fase de expansión global. Nos interesa conectar con startups fintech de LATAM hispanohablante. ¿Tienen presencia en nuestra región o planes de crecer ahí?",
-  "razon": "Pre-seed en rango ideal, pero ubicación y tracción no confirmadas en el texto. Monto y etapa alineados con Latin Leap.",
+  "resumen": "CapQuest cierra una ronda pre-seed de USD 1M para expandirse globalmente.",
+  "mensaje": "Hola equipo de CapQuest,\n\nVimos que acaban de cerrar USD 1M en pre-seed para expansión global. En Latin Leap invertimos en startups tech en etapa temprana en Latinoamérica hispanohablante, y nos interesaría conocer más sobre vuestra solución y visión de mercado.\n\n¿Estarían disponibles para una conversación breve?",
+  "razon": "Ronda pre-seed de USD 1M reportada, pero sin información de tracción, sector, ubicación o diferenciación visible en la señal.",
   "fecha_evidencia": "2026-10-20T07:00:00+00:00",
-  "ultima_senal": "2026-10-20T07:00:00+00:00",
+  "ultima_senal": "2026-10-20T11:06:10+00:00",
   "conocido_fuente": null,
   "conocido": false,
   "score": 68,
@@ -4351,6 +4386,86 @@
    "tecnologia": 15.0,
    "senal": 10.5,
    "calidad": 14.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:colare": {
+  "key": "n:colare",
+  "primera_vista": "2026-10-27T12:56:33+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Colare levanta US$2,5M para evaluar ingenieros de hardware",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdHRWYzYyUUhlTl9rRDJ2T3BuUTUtYlkwNldNUjk2ekVwZjlhVU84bk5pZEtzbTg0U21Tb0hFSUlnMEU2SWN3VnV3Z2dVdmJnWjlBODZrX0RzSVREeGJ5ZnE3blZzUm9kZ0pqcDlTbjJOQ2R1bVVmTHRlM0xMUkFRWUQxejdkWnl6LWo3Z1BxaEk?oc=5",
+    "fecha": "2026-10-27T01:51:39+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 6.0,
+  "motor": "llm",
+  "empresa": "Colare",
+  "sector": "HR/Recruitment Tech",
+  "etapa": "seed",
+  "monto_usd": 2500000.0,
+  "tecnologia": true,
+  "resumen": "Colare ofrece una plataforma de evaluación especializada para ingenieros de hardware.",
+  "mensaje": "Vemos a Colare abordando un nicho importante en selección de talento técnico. La ronda de US$2.5M muestra validación del modelo. Nos encantaría conocer vuestra visión para LATAM hispanohablante.",
+  "razon": "Ronda seed de US$2.5M en mercado interesante (evaluación técnica), pero sin datos de ubicación o tracción específica.",
+  "fecha_evidencia": "2026-10-27T01:51:39+00:00",
+  "ultima_senal": "2026-10-27T01:51:39+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 70,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 12.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:mochatrade": {
+  "key": "n:mochatrade",
+  "primera_vista": "2026-10-27T12:56:33+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Mochatrade raises $5.56 million for US stock trading",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdjFYRFFvM1F6Rkk0UEVGenJXR1F5RE9hZTYxNDhUaThieElldFQ4ZjE3T25GZl96UHkxdm1fX0Y5ZnZQRU9ENFA1N1JSZHhpang1UEtncXV1aHZENXdWX3QtZF9VaFlCU3hEaEdqczZ3QzAtclpQNkRaMzVWcHJBMmxLZ3FBVllUc3Rldg?oc=5",
+    "fecha": "2026-10-27T03:15:20+00:00",
+    "medio": "grafa.com"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 6.0,
+  "motor": "llm",
+  "empresa": "Mochatrade",
+  "sector": "FinTech",
+  "etapa": "seed",
+  "monto_usd": 5560000.0,
+  "tecnologia": true,
+  "resumen": "Mochatrade recauda USD 5.56M para una plataforma de trading de acciones estadounidenses.",
+  "mensaje": "Hola equipo de Mochatrade,\n\nVimos que cerraron USD 5.56M para expandir su plataforma de trading. Si tienen operaciones o están creciendo en América Latina hispanohablante, nos interesaría conocer vuestra estrategia y tracción en la región.\n\n¿Disponibles para una breve charla?",
+  "razon": "Ronda seed de USD 5.56M en FinTech (trading), indica momentum y inversión reconocida. Sin embargo, falta confirmar ubicación en LATAM hispanohablante y si es startup o plataforma más consolidada. Monto está en rango plausible seed.",
+  "fecha_evidencia": "2026-10-27T03:15:20+00:00",
+  "ultima_senal": "2026-10-27T03:15:20+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 70,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 12.0
   },
   "prioridad": "B",
   "en_tesis": true
