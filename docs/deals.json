@@ -564,6 +564,177 @@
    "motor": "llm"
   },
   {
+   "key": "n:viatik",
+   "empresa": "Viatik",
+   "sitio_web": null,
+   "pais": "Uruguay",
+   "ciudad": null,
+   "sector": "Movilidad / Ride-sharing",
+   "etapa": "seed",
+   "monto_usd": 600000.0,
+   "inversionistas": [
+    "Inversores vinculados a PedidosYa y Uber"
+   ],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Viatik es una startup de Uruguay enfocada en ride-sharing que levantó USD 600K en seed para expandir hacia Argentina.",
+   "razon": "Startup uruguaya en seed con USD 600K (en rango pre-seed/seed). Expande a Argentina aprovechando boom de ride-share. Geografía y sector claros, tracción regional potencial.",
+   "mensaje": "Hola equipo de Viatik, vimos que levantaron USD 600K seed desde Uruguay para entrar al mercado de ride-share en Argentina. Nos encanta el enfoque regional. ¿Podríamos conversar sobre vuestra estrategia de expansión?",
+   "score": 90,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 14.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-28T03:04:26+00:00",
+   "ultima_senal": "2026-10-28T10:28:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Viatik levantó US$ 600.000 con inversores vinculados a PedidosYa y Uber (la startup uruguaya acelera su expansión en Argentina)",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc1Y5aHk2enp1YTJWckh6X2Y4a0lSZEk5c2hzekZQX09GRWdNbE9WZGdidk5IWVhLdUhGNWwwVTZscy0xZXFwaUJVeVFHWWNHWF85VHJyaHpab2JRX25lU1l2UnF3NXBPSWY2aGg5dnJEalVKREUwcGJ6RWV5QlJSVERuWXdXZm45azR2Mk0yNEU1ZnZSRlJFTFp5T1JMdkxHczV3ZmlaVmVydC04SVl0dmQ4RUZZT1JKTUw4QjMycHpWZ3lzWW1jcll3a19jbk92ME9PaTh4NlROVFJYNmI5WFo4b3hITHlIN1HSAfwBQVVfeXFMTUNoUWNIM1VJX1YxSUszX2xsMlc1Nk9zOHZRR0c1ZUdWS180SkFyTnVabmdfTm9lOEJXNlhpckxZdzMyUjhsNW12S2ZvY2d1QkVHU2EyeWQ1YnZWODFxWlJta28yVWhGZHpYMldGLTVOd1luZi1uQ21GLWh6S0pkTmM0bVpiTTB5TUpjbDR6WG1aU29ULWJKRFJIdFBFdU1CRkczLVlTbGxXZkR0bnpGcFplREdob05RdlJ0cFJsSUhSTHNzUkRfMlFJVUdyNG1VT09UaGlEOEJLU1FqemhMM2pXdk9lMDZqZW1kaEJSbE9XSEdBeXlLVzM4b3dq?oc=5",
+     "fecha": "2026-10-28T03:04:26+00:00",
+     "medio": "InfoNegocios Uruguay"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Tras superar los 400.000 usuarios, la app de carpooling Viatik levanta US$ 600.000 para expandir sus rutas en Argentina",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcDBqbFhWVFdNYVE4Y2FnUVYwMUtSSS1mNVlIdEhONlM5dGFXbXJwVW9rLUtRNjAwLTl0bThULUh4U3pGa2hmZWJJOWJTRnlNTDFMaW5BcXVubFZrUWVNRUEyTXhCVk1nc2xwemlLY24yRWxoZlJRZFpDRUNIbFljVzNTS0dEa1ZjSm9NS1ZQZnhtOHg4bk1uR0VYbUVpY1NyOUxFZVFObDZ5VGh0V3cwclZxaklTX1B2T2J3LXd1VVRPNjUwWFpXSm5KWFFqSWtST1R4dWNldGdxT2ZJdlJJ0gHkAUFVX3lxTE0tejBXOEhFU3Bob1lFTXh3NzBiLUk4OXFlam5oMnRyR1NkeXBSeURiSmtoX2NUczNIU09wZ1lVbjhlU3pfc3RCaVpHcWJyNno1aml1b0lpUWtXMlM3YWtkOGhxMVIxUEZtNk1xbFpXcUdHOWJWOUVkYVRHOXY2eW9ZNnpDdm4wZDgtZTBGM0JQWW83czVaaHM5clQ0S0M5Z19lN0tDVHpHQS16ejNDM2VsZThsd1NKRmhjdkctUXpyVHQ3c0d6YlJRU0FMOHZzVTVBZGFTQVBONzFMLTNVeHYwdVNkTg?oc=5",
+     "fecha": "2026-10-28T10:28:00+00:00",
+     "medio": "Forbes Argentina"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "La app uruguaya de viajes compartidos Viatik captó US$ 600.000 de inversión y expandirá su operación en Argentina",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNzNueklvT21MS05JcFdQQVp4UkFtZWNPQmxGU3RCNFFLT2RiQUhYd0UwdDVPM0R5ZmZVODVlYVRPakJYZXdDNUJOSXhFeXE5NllUQzBkQXhISW9FZU5mX1V6MC04QnF1cHRnX2tzcTlpX0hmYTByTm1KQ3RZM1MxZkVaWmd1QmFxdFU5RWYxME1TYlZ3MWcxMndXQnlJY3BlajkxbmVDY3FWNUVDZllWYl8xa0dxTDRKMkJ3elQtN3FjczdjMW9TNDVYb1A1TEVERnlORGdzRmRROUFjY1dZazBB0gHiAUFVX3lxTE83M256SW9PbUxLTklwV1BBWnhSQW1lY09CbEZTdEI0UUtPZGJBSFh3RTB0NU8zRHlmZlU4NWVhVE9qQlhld0M1Qk5JeEV5cTk2WVRDMGRBeEhJb0VlTmZfVXowLThCcXVwdGdfa3NxOWlfSGZhMHJObUpDdFkzUzFmRVpaZ3VCYXF0VTlFZjEwTVNiVncxZzEyd1dCeUljcGVqOTFuZUNjcVY1RUNmWVZiXzFrR3FMNEoyQnd6VC03cWNzN2Mxb1M0NVhvUDVMRURGeU5EZ3NGZFE5QWNjV1lrMEE?oc=5",
+     "fecha": "2026-10-28T08:00:00+00:00",
+     "medio": "El Observador"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Viatik, startup uruguaya de viajes compartidos, captó US$ 600.000 en ronda de inversión",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPXzlhQVN2OTZLNlFVVTVNRU1oS2pOeHQ3NGtjS2Zmck42OWwzb2FjZEpSQ0trLVZGMW5OTXVNSFJVZ1c3SnZfcE9zNEVtRFN0R0xJU1RWM195R3JmN0FYQ1pUQXQ3TGR5NGQ5aDlwell1ejZBLXRaRkxob25NUUplanQ1MUxvOUE4d3RHMTRBM3YzRnVVanJXZ255aE9OVm1qQTA3amZzckJ1TUdSOUo5akRVUWhUcXBzTXF6YlJFVDI2UQ?oc=5",
+     "fecha": "2026-10-28T07:14:30+00:00",
+     "medio": "EL PAÍS Uruguay"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Uruguay's Viatik raises $600K seed to chase Argentina's ride-share boom",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcWZhRlJtV2ZhbHdlbmZtVjJ1Q2lmTFN4Mnd1d2E1ell2OU5qTzBfbkZWajBlSDBtUFhuSjdmSkxfbFh2Uzk4Q28xbHlNR3lqMVM5RFBicWt4b0g2UThXdVBnZl9pR2N3cFBETDJKVEMwaE42cVE1OU5KNUdLMzVUQ3BHbWZhWFNXTUhLNFJpOFVVazJuQmlqcjlPSURmLXJGaDZoa3MxWQ?oc=5",
+     "fecha": "2026-10-28T07:57:55+00:00",
+     "medio": "Dealroom"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:celes",
+   "empresa": "Celes",
+   "sitio_web": null,
+   "pais": "Colombia",
+   "ciudad": "Barranquilla",
+   "sector": "Retail / Comercio",
+   "etapa": "seed",
+   "monto_usd": 5000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Celes es una startup de retail basada en Barranquilla que levantó USD 5M para expandir su operación.",
+   "razon": "Startup retail de Colombia levantó USD 5M, cifra significativa para seed. Ubicación en Barranquilla (fuera de capitales tradicionales) sugiere oportunidad en segmento subatendido.",
+   "mensaje": "Hola equipo de Celes, nos enteramos de que levantaron USD 5M en Barranquilla para transformar el retail. Nos atrae mucho ver innovación en ciudades tier 2. ¿Nos gustaría conocer vuestro modelo y visión para LATAM?",
+   "score": 90,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 14.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-27T16:06:32+00:00",
+   "ultima_senal": "2026-10-27T16:06:32+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Celes, la startup de retail de Barranquilla, levanta US$5M",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRGQ4ZE00NWtSdU1HcUZBT2dSMHA2eFRXekhOSkE3TFhEY19NTi1lb1lnalVVaXg0ajM5LVc3cUo4U0FEUnFSNzZfLWhUc3BYeU1aenM2SGJhNWlWbmwwMDNmcVBOWjhrRXhQRnU2YW8wWDRfUGNCSXVZVTNjTENzUmtiSkFqOG0tUzcwZkpuZw?oc=5",
+     "fecha": "2026-10-27T16:06:32+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:uin",
+   "empresa": "UIN",
+   "sitio_web": null,
+   "pais": "Argentina",
+   "ciudad": null,
+   "sector": "fintech",
+   "etapa": "seed",
+   "monto_usd": 2000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "UIN utiliza inteligencia artificial para ayudar a bancos a retener usuarios mediante soluciones de engagement.",
+   "razon": "Ronda seed de USD 2M en fintech con IA para retención bancaria; caso de uso claro pero sin tracción o inversionistas mencionados.",
+   "mensaje": "Hola UIN, nos llamó la atención que levantaron USD 2M para retener usuarios de bancos con IA. Es un mercado crítico en LatAm. ¿Estarían abiertos a explorar una conversación con nuestro fondo? Estamos muy interesados en fintech innovador. Saludos.",
+   "score": 88,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 12.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-27T21:06:50+00:00",
+   "ultima_senal": "2026-10-28T01:33:44+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "UIN: startup argentina levanta US$2M para retener usuarios",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa1dpWl8xTXNMNEtRcENEeTdxMEJqSENUcjhXaTRXNEJaeVh6cHNGWGdKNlBwNm0taUFvMG1wQjZnZ1p3MGRBSktPeUUzRWR4YV81UGQyLXFIOWROOTZMODVvbEY0REVYM0JmWWhZYWVxeEp1QnZWUXJWNTRTRTkyRnlBTW10OTV6MEFBSmlhSG4?oc=5",
+     "fecha": "2026-10-28T01:33:44+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "UIN levanta US$2M para retener usuarios de bancos con IA",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONGktNVR3SWhDUWN4TlJSdWZkUHp0dnNKSzcwbGJyNzhwV2ZtclhiajhTZ3ZWX0s4LURWcDlFdnJMYWhueWlrMFdLSEJHRWNHbUI4aEtIQVlWSklMMWdLOGdaYmVvWjdudWFUa2FmUURFSW1IZkpHSzNaZ21wRUlfLTh4TENZSUxjZ09ZaXB1dw?oc=5",
+     "fecha": "2026-10-27T21:06:50+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:pokerclubhub.com",
    "empresa": "PokerClubHub",
    "sitio_web": "https://www.pokerclubhub.com",
@@ -1047,6 +1218,57 @@
    "motor": "llm"
   },
   {
+   "key": "n:furtilo",
+   "empresa": "Furtilo",
+   "sitio_web": null,
+   "pais": "México",
+   "ciudad": null,
+   "sector": "Logística / E-commerce",
+   "etapa": "seed",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Furtilo ofrece soluciones de entrega desde comercios locales en 500 pequeños pueblos, resolviendo el problema de logística última milla en zonas de baja densidad.",
+   "razon": "Modelo de entrega desde comercios locales en 500 pequeños pueblos muestra tracción y diferenciación en mercado latinoamericano fragmentado. Etapa seed con propuesta clara de valor.",
+   "mensaje": "Hola equipo de Furtilo, vimos que están levantando ronda seed para expandir entregas desde tiendas locales en pueblos pequeños. Nos encanta el modelo de logística distribuida para zonas desatendidas. ¿Podríamos charlar sobre vuestros planes en LATAM?",
+   "score": 85,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 14.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-21T06:02:00+00:00",
+   "ultima_senal": "2026-10-21T11:32:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Furtilo Raises Seed Funding to Deliver From Local Shops in 500 Small Towns",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTGM4eDNhZzE2dHRkUURlVzV2Rk1yZDJnNHZMZk13LWxpenRqRC1qN01LWlBhWUlrUjVtdFFBZFZDT3M0SjF4OU5BeTV3UkhKN2FERzVHM2k0LUdoQ3J6TUM5Z2xjeVJRcjMzN1pZQjRSblhrdmw0a1ZKRG9oNFJESzVHaWFCUHBRX1pjUEFSQWdMU2hscVZHcnhUdDYzRjlUNHVRT0E5a3JXYWFzMl80eGVMTU1nNjA?oc=5",
+     "fecha": "2026-10-21T11:32:00+00:00",
+     "medio": "India's News.Net"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Furtilo Raises Seed Funding to Deliver From Local Shops in 500 Small Towns",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeW1QR0VLQzNmajBJU2FuNzR5ZHA0bTdHSlBCbmFuZWJHV3RhdHJjQ3hMMDA1VFdieVpFbS0tSWFid08zX2VvcDJoUjRvd1hGUnh5eWhabGRQWXBKM2ZDYW9xRXpLUFRVdmF0ZFVnVE1fdURZaWRwemRuNVVlYzhGUjBEeFo4djZVWVdTRFNDN1JzblJZMnRPeWNqS2ZRa0xaYlpsVUJQeEU4XzBqWUxGb0Y1RkZxeWtnMjBwag?oc=5",
+     "fecha": "2026-10-21T06:02:00+00:00",
+     "medio": "Big News Network.com"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:iboostsocial.com.mx",
    "empresa": "iBoost Social",
    "sitio_web": "http://iboostsocial.com.mx/",
@@ -1390,6 +1612,92 @@
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcGZYeGpUNG1kcEpCRExrak1STWd3aURwUEZJdFFoWVg1dThlV2N4SUh1S1hPZGRTU0stZGN1T2tVOHJRVmxvMDJjQ05mc3hRR254RFltam9YZHZnNjBLc3o5bDNkV0RPeGlsTE1VdHNNNnBhd09aMS02WGIyUEJOazlB?oc=5",
      "fecha": "2026-10-20T12:38:46+00:00",
      "medio": "Wamda"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "d:muysimple.cl",
+   "empresa": "Muy Simple",
+   "sitio_web": "https://muysimple.cl/",
+   "pais": "Chile",
+   "ciudad": "Santiago",
+   "sector": "LegalTech",
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Plataforma LegalTech chilena que moderniza la gestión de trámites legales y notariales, permitiendo firmas digitales online para personas y empresas.",
+   "razon": "LegalTech operacional en Chile con producto claro (firmas digitales y trámites legales); busca talento senior indica cierto nivel de tracción, pero sin datos de ronda o tracción pública.",
+   "mensaje": "Hola equipo de Muy Simple, vimos que están en búsqueda de ingeniero/a senior—¡excelente señal de crecimiento! Nos interesa conocer más sobre el producto y su tracción actual en el mercado legal chileno. ¿Nos gustaría conversar en las próximas semanas?",
+   "score": 72,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 7.5,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-27T21:00:05+00:00",
+   "ultima_senal": "2026-10-27T21:00:05+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Muy Simple está contratando: Ingeniero/a de Software Senior/Staff",
+     "url": "https://www.getonbrd.com/jobs/ingeniero-a-de-software-senior-staff-muy-simple-santiago",
+     "fecha": "2026-10-27T21:00:05+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:tradl",
+   "empresa": "Tradl",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "fintech",
+   "etapa": "seed",
+   "monto_usd": 4100000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Tradl democratiza herramientas de trading institucional para inversores minoristas mediante una plataforma de tecnología.",
+   "razon": "Ronda seed de USD 4.1M en fintech de herramientas de trading institucional para retail; mercado atractivo pero sin clara diferenciación mencionada.",
+   "mensaje": "Hola equipo de Tradl, vimos que cerraron una ronda seed de USD 4.1M para llevar herramientas institucionales al retail. Nos encanta ver innovación en fintech que democratiza acceso. ¿Les interesaría conversar sobre oportunidades de expansión en LatAm? Saludos, Latin Leap.",
+   "score": 72,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 14.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-26T14:38:09+00:00",
+   "ultima_senal": "2026-10-26T14:38:09+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Tradl raises $4.1M seed to bring institutional trading tools to retail",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSkttU1RmRkdZdjZOMmc2LThyLVlIMC1RMWNBZU8tdjRLWjF1cDJzWUh6TVY2YlBpU25VQV9yZ2NFSlI5ZDc1SWpfdWNjY0RBN05HZkRKVUZxekE2ZUZmem1hTy1leVo1eUJkTWsyQ1d1Wl9IR3pNNTlTbzduRmlhWUt6QWVHRVk0S3ZKU2x4SXdjRS0wanpMb2ZRX1U1cFFDT1dkTGtR?oc=5",
+     "fecha": "2026-10-26T14:38:09+00:00",
+     "medio": "Dealroom"
     }
    ],
    "motor": "llm"
@@ -2529,6 +2837,264 @@
    "motor": "llm"
   },
   {
+   "key": "d:agilesoft.cl",
+   "empresa": "Agilesoft SpA",
+   "sitio_web": "http://www.agilesoft.cl",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Somos Agilesoft, un equipo apasionado por crear soluciones tecnológicas que marcan la diferencia. Desarrollamos software a medida, soporte especializado y outsourcing TI, formando equipos de alto nivel para proyectos en Chile y República Do",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 70,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 7.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-27T17:02:07+00:00",
+   "ultima_senal": "2026-10-27T17:02:07+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Agilesoft SpA está contratando: QA (Testing Funcional)",
+     "url": "https://www.getonbrd.com/jobs/ingeniero-qa-testing-funcional-agilesoft-spa-santiago",
+     "fecha": "2026-10-27T17:02:07+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "d:xintec.cl",
+   "empresa": "Xintec",
+   "sitio_web": "http://www.xintec.cl",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Expertos en Integración e Innovación Tecnológica. Consultora de tecnología desde 2008, creemos en la innovación, en las relaciones a largo plazo, en las personas y su capacidad de conformar equipos de trabajo para alcanzar grandes objetivos",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 70,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 7.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-14T14:43:14+00:00",
+   "ultima_senal": "2026-10-14T14:43:14+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Xintec está contratando: Desarrollador/a Front-end Senior, Desarrollador/a Full-Stack, DevOps Engineer (GCP)",
+     "url": "https://www.getonbrd.com/jobs/devops-engineer-gcp-xintec-santiago",
+     "fecha": "2026-10-14T14:43:14+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "d:treck.cl",
+   "empresa": "Treck S.A.",
+   "sitio_web": "http://www.treck.cl",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Desarrollamos, diseñamos y fabricamos productos de seguridad,  con grandes estándares de calidad, tecnologías y entes certificadores por sobre el resto del mercado.",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 70,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 7.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-27T18:39:38+00:00",
+   "ultima_senal": "2026-10-27T18:39:38+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Treck S.A. está contratando: Diseñador Gráfico",
+     "url": "https://www.getonbrd.com/jobs/disenador-grafico-treck-s-a-santiago",
+     "fecha": "2026-10-27T18:39:38+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "d:financiacapital.cl",
+   "empresa": "Financia Capital",
+   "sitio_web": "https://www.financiacapital.cl",
+   "pais": "Chile",
+   "ciudad": "Santiago",
+   "sector": "Fintech",
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Plataforma fintech que ofrece soluciones simples y efectivas de liquidez para empresas.",
+   "razon": "Fintech de liquidez empresarial con propuesta clara, pero sin información de etapa, ronda o tracción; datos insuficientes para calificación más alta.",
+   "mensaje": "Hola Financia Capital, notamos que están expandiendo su equipo de desarrollo—muy buena señal. Nos encantaría conocer más sobre la tracción actual de la plataforma y sus planes de expansión. ¿Podríamos agendar una breve llamada?",
+   "score": 70,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 7.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-27T20:46:08+00:00",
+   "ultima_senal": "2026-10-27T20:46:08+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Financia Capital está contratando: Desarrollador/a Full-Stack",
+     "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-financia-capital-santiago",
+     "fecha": "2026-10-27T20:46:08+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:layrz",
+   "empresa": "Layrz",
+   "sitio_web": null,
+   "pais": "Venezuela",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Layrz es la startup ganadora de la primera edición de Startup World Cup en Venezuela, demostrando capacidad competitiva en su mercado.",
+   "razon": "Ganadora de Startup World Cup Venezuela 2026, señal de validación competitiva. Ubicada en geografía de tesis. Falta información sobre ronda y sector específico.",
+   "mensaje": "Hola equipo de Layrz, felicidades por ganar la Startup World Cup Venezuela. Nos interesa conocer más sobre lo que están construyendo y los desafíos que resuelven. ¿Podrían contarnos sobre vuestro producto y planes de expansión?",
+   "score": 70,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-27T19:44:26+00:00",
+   "ultima_senal": "2026-10-27T19:44:26+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "La primera edición en Venezuela de la Startup World Cup tiene ganador: Layrz",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONTlQTVg3VElLNzAxQVV4LVBBWU1nNHpEVGVxVEZVV0l3VGc1RmNMSDFHalhqYzhnTThBN2FZdXh6Rmx6enN4OU03WXJNeXp5dG03cFI0b0pjc3RRbUlxWW95WVF3bnRqVFNtUnFBTXZzZmFMN1FJVUd4ejlRSkZ4azduRC00Y094U25pME5mS01fUWE2?oc=5",
+     "fecha": "2026-10-27T19:44:26+00:00",
+     "medio": "El Estímulo"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:qwikbuild",
+   "empresa": "QwikBuild",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "enterprise",
+   "etapa": "seed",
+   "monto_usd": 2300000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "QwikBuild es una plataforma de IA empresarial para expandir capacidades de automatización y análisis.",
+   "razon": "Ronda seed de USD 2.3M en plataforma enterprise AI; sin tracción o inversionistas de renombre mencionados.",
+   "mensaje": "Hola QwikBuild, vimos que cerraron USD 2.3M para su plataforma enterprise AI. El mercado de IA empresarial es muy dinámico en LatAm. ¿Les gustaría conversar con nuestro equipo sobre oportunidades de crecimiento? Saludos desde Latin Leap.",
+   "score": 70,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-28T00:00:25+00:00",
+   "ultima_senal": "2026-10-28T00:00:25+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Exclusive: QwikBuild Raises $2.3 Mn To Expand Enterprise AI Platform",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3d3UzJnTVBORFdKbUZlU1ZfTFEyalhMN3dTUWZFa3l2dWtIcVNOYWV1MG5hejZoQlJRcG1oRUgzQzA2MDV0V1FOdWxWNlBHVTVnSlRPd2U4aGlMOEZoNVhmdjZfOTNTeXlHMktNVFpfM0tqRjB5eWxFZDV5LWs5YllBY2o5VllvdlRmakpWTnF4OU9v?oc=5",
+     "fecha": "2026-10-28T00:00:25+00:00",
+     "medio": "Inc42"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:poderjudicialvirtual.com",
    "empresa": "PoderJudicialVirtual.com",
    "sitio_web": "https://www.poderjudicialvirtual.com",
@@ -2653,49 +3219,14 @@
      "url": "https://www.getonbrd.com/jobs/ux-ui-designer-zaelot-remote",
      "fecha": "2026-10-07T13:09:05+00:00",
      "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "n:causaprima",
-   "empresa": "Causa Prima",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "seed",
-   "monto_usd": 20000000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Causa Prima raises $20M seed from Base10 to let AI agents settle B2B invoices Tech Funding News",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 68,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-13T13:07:07+00:00",
-   "ultima_senal": "2026-10-13T13:07:07+00:00",
-   "senales": [
+    },
     {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Causa Prima raises $20M seed from Base10 to let AI agents settle B2B invoices",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNUlaS2FGUkFMUXJyV19CTTlPWV9OQnFvMnhUQ3NlZ1hINzFJejhoNG5TZy1XZ0laaUd4X2FfVFl0dWxuWjYyS3VreF9UYmF4YWN2ZkdYdDJIWWdkQ3I2Rmt0OTc2blc5bm9wVzVBdHEwb25fbnVFRjMtWTJyUExmOGpsc2lTWFNDT1EyY1ZJQzVsRUlIN3VuRXltZEYtTUVLSXNOYk9Ta1E?oc=5",
-     "fecha": "2026-10-13T13:07:07+00:00",
-     "medio": "Tech Funding News"
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Zaelot está contratando: Back-end Software Engineer",
+     "url": "https://www.getonbrd.com/jobs/backend-software-engineer-zaelot-remote-fbc2",
+     "fecha": "2026-10-07T13:09:05+00:00",
+     "medio": null
     }
    ],
    "motor": "reglas"
@@ -2859,7 +3390,7 @@
    "conocido_fuente": null,
    "primera_vista": "2026-10-26T14:55:10+00:00",
    "fecha_evidencia": "2026-10-26T11:40:57+00:00",
-   "ultima_senal": "2026-10-26T11:40:57+00:00",
+   "ultima_senal": "2026-10-26T13:17:28+00:00",
    "senales": [
     {
      "fuente": "Google News",
@@ -2868,6 +3399,14 @@
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUJhQzV5UGZKMHlXSkYtMDdWUDNjS2dEdXJJamdTY0FSTjUwTlh6R3ZTdXUwTDE1U3JNeHlYOHlBTGVyZW9QMlE1clFYeXBtRkhHVXhZRTlTWGNfSnNULXRVN0d4dDdMbVd3eVBjMUp0LUxBcFR0SDEteGJtc3FoSmNSc2luX192SnBrQlcwenFvd0Q2U2NR?oc=5",
      "fecha": "2026-10-26T11:40:57+00:00",
      "medio": "YourStory.com"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "BioStack Raises $9.5 Million Seed Funding to Build a Cross-Border Healthcare Data Network",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0RST2hjT0tia1hEOEtsS0lwS2dfN0tHWEpVUExrMU5HRlpNcmhhbE5pSVNaUnZhUGx2ZkVNaS1NNy04ZlE3WjdaR1ZwYk1JdXM0bm5JbEhzX1JYRXBjb3hVRE1sa1kyODg1YXE4X0FPSlJ3RmJncUN5LWxwcEEtU0VFWFlHc3pJcEtIVjk4c292NDVPWm5mbkdsaXBGVEpNaFM4c0RR?oc=5",
+     "fecha": "2026-10-26T13:17:28+00:00",
+     "medio": "https://ascendants.in/"
     }
    ],
    "motor": "reglas"
@@ -3005,6 +3544,49 @@
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMjZ1Q1doSEdCTEJPdEVnWExkYmY3QmVYSV9SRlNVcXdzek5OUUtkMWJ3THBjTmlueHI5aUpsNkQzcFNfR1MyY0dtcTZ0WHJkcWxUREVNb2lGQzJRVGFtemRMY3R0N3dwTmZMTl9rZENacXp5LUdNZmN6Ql8tVHlFdjlQamRIb2Z2WFhRXzcwVHAxTEpJRE13cWFhQU52eUtSczI1NGYyQkVmdVJZSzkzajBBUlVyNzQ?oc=5",
      "fecha": "2026-10-13T07:00:00+00:00",
      "medio": "Tech In Africa"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:causaprima",
+   "empresa": "Causa Prima",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": 20000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Causa Prima raises $20M seed from Base10 to let AI agents settle B2B invoices Tech Funding News",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 66,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-13T13:07:07+00:00",
+   "ultima_senal": "2026-10-13T13:07:07+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Causa Prima raises $20M seed from Base10 to let AI agents settle B2B invoices",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNUlaS2FGUkFMUXJyV19CTTlPWV9OQnFvMnhUQ3NlZ1hINzFJejhoNG5TZy1XZ0laaUd4X2FfVFl0dWxuWjYyS3VreF9UYmF4YWN2ZkdYdDJIWWdkQ3I2Rmt0OTc2blc5bm9wVzVBdHEwb25fbnVFRjMtWTJyUExmOGpsc2lTWFNDT1EyY1ZJQzVsRUlIN3VuRXltZEYtTUVLSXNOYk9Ta1E?oc=5",
+     "fecha": "2026-10-13T13:07:07+00:00",
+     "medio": "Tech Funding News"
     }
    ],
    "motor": "reglas"
@@ -3180,6 +3762,51 @@
     }
    ],
    "motor": "reglas"
+  },
+  {
+   "key": "n:artiso",
+   "empresa": "Artiso",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "pre-seed",
+   "monto_usd": 3000000.0,
+   "inversionistas": [
+    "Criteria Venture Tech"
+   ],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 6.0,
+   "resumen": "Artiso ha levantado una ronda pre-seed de USD 3M liderada por Criteria Venture Tech. La información disponible es limitada sobre el modelo de negocio y la geografía.",
+   "razon": "Ronda pre-seed de USD 3M liderada por fondo de VC reconocido (Criteria Venture Tech), pero falta información sobre tracción, sector y ubicación geográfica.",
+   "mensaje": "Hola equipo de Artiso, nos enteramos de que levantaron una ronda pre-seed de USD 3M con Criteria Venture Tech. Desde Latin Leap nos gustaría conocer más sobre el producto y la visión para América Latina hispanohablante. ¿Nos gustaría agendar una llamada para explorar sinergias?",
+   "score": 62,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 7.5,
+    "senal": 10.5,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-28T10:39:09+00:00",
+   "ultima_senal": "2026-10-28T10:39:09+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Artiso capta más de 3 millones en una ronda pre-semilla liderada por Criteria Venture Tech",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWdjNG5aWnRJaGQzdUV2REt3b3JVakh3YmJNOXVON19pSnU5RXlGUGxyMTdQLVk1QjdHMDFzSkZPaDJIbE1JYU9mZlF1UFppOWMzV2NRSnZ6UE1rUjVrWWRYbHpvVTdxWTN4TnNqdERRREpLdkNad3QwSHg0eFRlWGd4SHp2OFhDSEVtTjdWa29GSGVSdGR4eW5jczlGT0ZwR2xoTEg1YzU0bWw0VlhUSDVFVk1faDFBLUd2QnRyU0hjaE83WWV0T9IByAFBVV95cUxPcWdjNG5aWnRJaGQzdUV2REt3b3JVakh3YmJNOXVON19pSnU5RXlGUGxyMTdQLVk1QjdHMDFzSkZPaDJIbE1JYU9mZlF1UFppOWMzV2NRSnZ6UE1rUjVrWWRYbHpvVTdxWTN4TnNqdERRREpLdkNad3QwSHg0eFRlWGd4SHp2OFhDSEVtTjdWa29GSGVSdGR4eW5jczlGT0ZwR2xoTEg1YzU0bWw0VlhUSDVFVk1faDFBLUd2QnRyU0hjaE83WWV0Tw?oc=5",
+     "fecha": "2026-10-28T10:39:09+00:00",
+     "medio": "Demócrata"
+    }
+   ],
+   "motor": "llm"
   },
   {
    "key": "d:gruposud.com",
@@ -3392,6 +4019,49 @@
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON1JpT1k1MXhnVzJiME9xRXBHczNEVHZ5blVDZGwwWngyaTBFSnR5ZnpmTzBvU19YaTJFSGFHbktMSnhwSlhfWTRQZWxvUTNleUdldHBVeTJUemxpanNZS0ZSa3ZkNEVPaTl3VVNIMk1ycjB6Nkw4Z0x3NFM2LTFHeDdqSWxuZldwLXJWN1haZjBPcjMySlo5YlpMT3cwTGFMTWRF?oc=5",
      "fecha": "2026-10-26T09:00:48+00:00",
      "medio": "- Disrupt Africa"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:dubdub",
+   "empresa": "dubdub",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": 1300000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "dubdub Raises $1.3 Million Seed Funding Led by 3one4 Capital, Antler and Stellaris Venture Partners Indian Startup Times",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 60,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 7.5,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-28T06:32:30+00:00",
+   "ultima_senal": "2026-10-28T06:32:30+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "dubdub Raises $1.3 Million Seed Funding Led by 3one4 Capital, Antler and Stellaris Venture Partners",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZVc4M2pFd3kzMy1CdTVLMFI4ZHdyelVkcmc0bV95eGdiLXVPdU9aMzVzWVVTeTRYYjdENjJIdExjaHROZG9pd0paSC13U2M0NXRBU3QxUlpObkh0eERXUUROUUtITVRSaHN3QVdnR29aMUhPb3k5RndJSjFFLUcySmlIZXhlVWVUSFJKNk14ZVBrc3FDamJ5X1c3Wld5eE1EeEJJazJUb25BNEZXYlpZMlFuMGpPU2Y2OGxYWDBPTG4tMWwzMkJnbm9CUUdLcEYxUkY3VWNPa09pZm9p?oc=5",
+     "fecha": "2026-10-28T06:32:30+00:00",
+     "medio": "Indian Startup Times"
     }
    ],
    "motor": "reglas"
@@ -3881,49 +4551,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:furtilo",
-   "empresa": "Furtilo",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "seed",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 5.0,
-   "resumen": "Furtilo Raises Seed Funding to Deliver From Local Shops in 500 Small Towns India's News.Net",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 56,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 7.5,
-    "senal": 6.0,
-    "calidad": 10.0
-   },
-   "prioridad": "C",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-21T11:32:00+00:00",
-   "ultima_senal": "2026-10-21T11:32:00+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Furtilo Raises Seed Funding to Deliver From Local Shops in 500 Small Towns",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTGM4eDNhZzE2dHRkUURlVzV2Rk1yZDJnNHZMZk13LWxpenRqRC1qN01LWlBhWUlrUjVtdFFBZFZDT3M0SjF4OU5BeTV3UkhKN2FERzVHM2k0LUdoQ3J6TUM5Z2xjeVJRcjMzN1pZQjRSblhrdmw0a1ZKRG9oNFJESzVHaWFCUHBRX1pjUEFSQWdMU2hscVZHcnhUdDYzRjlUNHVRT0E5a3JXYWFzMl80eGVMTU1nNjA?oc=5",
-     "fecha": "2026-10-21T11:32:00+00:00",
-     "medio": "India's News.Net"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "n:town",
    "empresa": "Town",
    "sitio_web": null,
@@ -4136,6 +4763,49 @@
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT293cENUMmxuS3BKdVU1TmI1SmlCWklZVVFVc1E0N0l2WFhKN0lVQ28zUGllSHFtWnZtWFRGN29tQVJyYXduMEZnMndSMlF3TjFjazc5Z1VUNWF6XzNZRzZvSGJNY19CX2F2VEdhNDFPYVBKNUY4emI3VlozU2diTjVBWXNqQ2k5VXlWQUt1Qkp5UjJIUzhxMWJPVTFDMy1wZHNlWDFvWTczZkNQYUZGYVhtNVE1UUpOY1lXZVNnaFotNDZKN2lnaG9DY1luazcyVlZuLTBXTF9JS2NZUEd6dHpB0gHiAUFVX3lxTE1Pb3dwQ1QybG5LcEp1VTVOYjVKaUJaSVlVUVVzUTQ3SXZYWEo3SVVDbzNQaWVIcW1adm1YVEY3b21BUnJhd24wRmcyd1IyUXdOMWNrNzlnVVQ1YXpfM1lHNm9IYk1jX0JfYXZUR2E0MU9hUEo1Rjh6YjdWWjNTZ2JONUFZc2pDaTlVeVZBS3VCSnlSMkhTOHExYk9VMUMzLXBkc2VYMW9ZNzNmQ1BhRkZhWG01UTVRSk5jWVdlU2doWi00Nko3aWdob0NjWW5rNzJWVm4tMFdMX0lLY1lQR3p0ekE?oc=5",
      "fecha": "2026-10-26T13:41:12+00:00",
      "medio": "Indian Startup News"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:madica",
+   "empresa": "Madica",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "serie-a",
+   "monto_usd": 6000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Madica raises $6m to back early-stage African startups overlooked by traditional investors Technext24.com",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 50,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 7.5,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-27T13:00:00+00:00",
+   "ultima_senal": "2026-10-27T13:00:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Madica raises $6m to back early-stage African startups overlooked by traditional investors",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91dTlUTXZYQVp5azVnTFRtMTEzUXpRczFpdU1YbUZEd3g4WUQzclRmNndNSkdmYkU5d2VVcmpjR3plZ293LUthUXNSenlpeXhEMElKMEU1NDM1SHhhcndKX2NDenk0MUZEZ2JZd1k1R3hsWDNLNDktd3BVZGRMX0E?oc=5",
+     "fecha": "2026-10-27T13:00:00+00:00",
+     "medio": "Technext24.com"
     }
    ],
    "motor": "reglas"
@@ -4614,6 +5284,92 @@
    "motor": "reglas"
   },
   {
+   "key": "n:indiantradingplatformmochatrade",
+   "empresa": "Indian trading platform Mochatrade",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "serie-a",
+   "monto_usd": 5560000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Indian trading platform Mochatrade raises funding led by CoinFund, bringing total to $5.56M: The Block CryptoRank",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 43,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 7.5,
+    "tecnologia": 7.5,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-27T08:20:53+00:00",
+   "ultima_senal": "2026-10-27T08:20:53+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Indian trading platform Mochatrade raises funding led by CoinFund, bringing total to $5.56M: The Block",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yallWMVlpUXZGRXcxTEVVUnVsRUhVVHR4ZTBOTkFHMkROcUpUeElDZTJ3aXhjY3NlVFE0dzJGejdWMFlnUHpGbFNWNnoxM1pyRE9ZWWVLcElHT215Q29oWUg4c19HN3Nzc1RIYXRmcWo?oc=5",
+     "fecha": "2026-10-27T08:20:53+00:00",
+     "medio": "CryptoRank"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:an11personstartup",
+   "empresa": "An 11-person startup",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "serie-b+",
+   "monto_usd": 40000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "An 11-person startup raised $40 million to challenge robotics' data-hungry giants Business Insider Africa",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 43,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 0.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-27T10:00:01+00:00",
+   "ultima_senal": "2026-10-27T10:00:01+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "An 11-person startup raised $40 million to challenge robotics' data-hungry giants",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcVVlTmkxTnBqVDdHUmtQZjdjbHcwenVIcmw2SHhfN0tjdTVscUsyRVRWSTRhS2tXNWRlbEZlRTlYS2k1OVlRcVhWdUI0S01NbjBmQmNaeU9JYXBDaFJ3MkFYOF9LcV8zcjlaS3l2dEREd1pCS3RDeWpOYV9MaEFTdFZCV2FCcG9aRTEweUJJdnppVlQ1SGFHb0FyT1A4dFNoZ21RX2xyXzRDenM1RUliQXZLcmZBWlFsNkQwSTZBUHRYN3BzRFVxRVY4anE3UQ?oc=5",
+     "fecha": "2026-10-27T10:00:01+00:00",
+     "medio": "Business Insider Africa"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "n:typeoneenergy",
    "empresa": "Type One Energy",
    "sitio_web": null,
@@ -4738,6 +5494,49 @@
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1acjBjd2dVeUFacnUtRW1DVmlHdmhsMzcyNUZEaTZ3RHNlR3NjampGbklYN3pPa21yNEFhMHFHZUU2VTVhSGM3MGR1T25NcmVNYVEyTQ?oc=5",
      "fecha": "2026-10-16T07:00:00+00:00",
      "medio": "Clay"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:valendra",
+   "empresa": "Valendra",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 4.0,
+   "resumen": "Valendra es una startup que ganó el Concurso Cámara Next.",
+   "razon": "Ganadora de concurso (Cámara Next); sin información de ronda, sector, tracción o ubicación geográfica clara en LatAm.",
+   "mensaje": "Hola Valendra, felicidades por ganar el Concurso Cámara Next. Nos encantaría conocer más sobre vuestro proyecto y visión. ¿Estarían abiertos a una conversación con Latin Leap sobre oportunidades de inversión? Saludos.",
+   "score": 42,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 12.5,
+    "tecnologia": 7.5,
+    "senal": 6.0,
+    "calidad": 8.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-28T11:14:53+00:00",
+   "ultima_senal": "2026-10-28T11:14:53+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "La startup Valendra, ganadora del Concurso Cámara Next",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV3hXc0k4M252R3JVN3pINmpjYTl1ZFFjT295QW5BdVNpV0pNWl9aTlhvSGJxMmxUVnBWVUlZcjlray1EdWxMYjJ5c3ZuY3ptd0dFWFc2a1JwakpaSE5hbnl6SFY1cDVNVlFtbDlodXNuam9vU3B5TXkzUUlvVzVrSEJtZE4wa010UjBaQzdXdnFFZFpHbFl4aUtEd2ZqekFkOWRvR1Qwa2RPQ0dUcEI1RU8wOWhXbnQxam85TDRiONIBxAFBVV95cUxONEhSUTJ3OUpzbmlWTVhXOTBDZ21WUUdFUUR0eHdKRlBNNXJRN3U1enJwZmMtUzZGNElpdkRjRjZ1XzN6NHpDdm9EczdaM3pSUGYyM2tMbmRtcWtaWTJyRzRHX0tzRUxTcWJBVDZ0UTJOc0NSWjhpdE1fM09fckV6Ukt1cDZxTnFsVXFiQ0gxbzFzcDZjYmcxU2J2SjQ3QWhxZ3l3b2xEQlJJNE5lTnB4ZEZsd0tsdUVucjlLX1V4NlRfeG5Y?oc=5",
+     "fecha": "2026-10-28T11:14:53+00:00",
+     "medio": "Diario de Jerez"
     }
    ],
    "motor": "llm"
@@ -4873,15 +5672,15 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-10-27T12:56:33+00:00",
+  "actualizado": "2026-10-28T13:06:20+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 70,
-  "prioridad_a_30d": 20,
-  "incremento_vs_baseline": 1.167,
-  "cumplimiento_meta": 11.67,
-  "total_deals": 107,
-  "total_calificados": 76,
+  "calificados_30d": 84,
+  "prioridad_a_30d": 24,
+  "incremento_vs_baseline": 1.4,
+  "cumplimiento_meta": 14.0,
+  "total_deals": 124,
+  "total_calificados": 90,
   "conocidos_detectados": 2,
   "por_semana": {
    "2025-06-16": 1,
@@ -4891,29 +5690,30 @@
    "2026-07-20": 1,
    "2026-09-14": 1,
    "2026-10-05": 8,
-   "2026-10-12": 21,
-   "2026-10-19": 35,
-   "2026-10-26": 6
+   "2026-10-12": 22,
+   "2026-10-19": 36,
+   "2026-10-26": 18
   },
   "por_fuente": {
-   "Get on Board": 36,
-   "Google News": 32,
+   "Google News": 41,
+   "Get on Board": 41,
    "Y Combinator": 6,
    "LatamList": 2,
    "Techla Media": 1,
    "Startups Latam": 1
   },
   "por_pais": {
-   "Chile": 34,
-   "?": 19,
-   "México": 8,
-   "Argentina": 5,
-   "Colombia": 4,
+   "Chile": 39,
+   "?": 23,
+   "México": 9,
+   "Argentina": 6,
+   "Colombia": 5,
+   "Uruguay": 2,
    "Guatemala": 2,
    "Costa Rica": 1,
-   "Uruguay": 1,
    "Perú": 1,
-   "Bolivia": 1
+   "Bolivia": 1,
+   "Venezuela": 1
   },
   "corridas": [
    {
@@ -5338,6 +6138,84 @@
       "fuente": "Get on Board",
       "ok": true,
       "senales": 50,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-10-28T13:04:26+00:00",
+    "fin": "2026-10-28T13:06:20+00:00",
+    "senales_crudas": 320,
+    "descartadas_prefiltro": 130,
+    "procesadas": 40,
+    "deals_nuevos": 17,
+    "calificados_nuevos": 13,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 16,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 220,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 5,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 49,
       "error": null
      }
     ]

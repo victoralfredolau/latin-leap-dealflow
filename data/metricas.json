@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-10-27T12:56:33+00:00",
+ "actualizado": "2026-10-28T13:06:20+00:00",
  "baseline_mes": 60,
  "meta_incremental_mes": 6,
- "calificados_30d": 70,
- "prioridad_a_30d": 20,
- "incremento_vs_baseline": 1.167,
- "cumplimiento_meta": 11.67,
- "total_deals": 107,
- "total_calificados": 76,
+ "calificados_30d": 84,
+ "prioridad_a_30d": 24,
+ "incremento_vs_baseline": 1.4,
+ "cumplimiento_meta": 14.0,
+ "total_deals": 124,
+ "total_calificados": 90,
  "conocidos_detectados": 2,
  "por_semana": {
   "2025-06-16": 1,
@@ -17,29 +17,30 @@
   "2026-07-20": 1,
   "2026-09-14": 1,
   "2026-10-05": 8,
-  "2026-10-12": 21,
-  "2026-10-19": 35,
-  "2026-10-26": 6
+  "2026-10-12": 22,
+  "2026-10-19": 36,
+  "2026-10-26": 18
  },
  "por_fuente": {
-  "Get on Board": 36,
-  "Google News": 32,
+  "Google News": 41,
+  "Get on Board": 41,
   "Y Combinator": 6,
   "LatamList": 2,
   "Techla Media": 1,
   "Startups Latam": 1
  },
  "por_pais": {
-  "Chile": 34,
-  "?": 19,
-  "México": 8,
-  "Argentina": 5,
-  "Colombia": 4,
+  "Chile": 39,
+  "?": 23,
+  "México": 9,
+  "Argentina": 6,
+  "Colombia": 5,
+  "Uruguay": 2,
   "Guatemala": 2,
   "Costa Rica": 1,
-  "Uruguay": 1,
   "Perú": 1,
-  "Bolivia": 1
+  "Bolivia": 1,
+  "Venezuela": 1
  },
  "corridas": [
   {
@@ -464,6 +465,84 @@
      "fuente": "Get on Board",
      "ok": true,
      "senales": 50,
+     "error": null
+    }
+   ]
+  },
+  {
+   "inicio": "2026-10-28T13:04:26+00:00",
+   "fin": "2026-10-28T13:06:20+00:00",
+   "senales_crudas": 320,
+   "descartadas_prefiltro": 130,
+   "procesadas": 40,
+   "deals_nuevos": 17,
+   "calificados_nuevos": 13,
+   "motor": "llm",
+   "fuentes": [
+    {
+     "fuente": "LatamList",
+     "ok": true,
+     "senales": 10,
+     "error": null
+    },
+    {
+     "fuente": "Contxto",
+     "ok": true,
+     "senales": 16,
+     "error": null
+    },
+    {
+     "fuente": "Startupeable",
+     "ok": false,
+     "senales": 0,
+     "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+    },
+    {
+     "fuente": "TechCrunch LatAm",
+     "ok": true,
+     "senales": 0,
+     "error": null
+    },
+    {
+     "fuente": "Pulso Social",
+     "ok": false,
+     "senales": 0,
+     "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+    },
+    {
+     "fuente": "Startups Latam",
+     "ok": true,
+     "senales": 10,
+     "error": null
+    },
+    {
+     "fuente": "Techla Media",
+     "ok": true,
+     "senales": 10,
+     "error": null
+    },
+    {
+     "fuente": "Google News",
+     "ok": true,
+     "senales": 220,
+     "error": null
+    },
+    {
+     "fuente": "Y Combinator",
+     "ok": true,
+     "senales": 5,
+     "error": null
+    },
+    {
+     "fuente": "Hacker News",
+     "ok": true,
+     "senales": 0,
+     "error": null
+    },
+    {
+     "fuente": "Get on Board",
+     "ok": true,
+     "senales": 49,
      "error": null
     }
    ]
