@@ -832,6 +832,14 @@
     "url": "https://www.getonbrd.com/jobs/data-engineer-senior-dsac-chile-remote",
     "fecha": "2026-10-07T17:08:06+00:00",
     "medio": null
+   },
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "DSAC Chile está contratando: Data Engineer (GCP/Bigquery), Data Governance GCP",
+    "url": "https://www.getonbrd.com/jobs/data-governance-gcp-dsac-chile-remote",
+    "fecha": "2026-10-24T13:42:15+00:00",
+    "medio": null
    }
   ],
   "inversionistas": [],
@@ -849,15 +857,15 @@
   "mensaje": "Nos atrae el enfoque de DSAC Chile en IA y automatización para empresas en LATAM. Vemos que están contratando talento senior, lo que sugiere momentum. Nos gustaría conocer la tracción actual y visión de scaling. ¿Disponibles para una conversación en el próximo mes?",
   "razon": "Startup tecnológica chilena con foco en IA, ciberseguridad y automatización; equipo creciente; temas de alto impacto para empresas LATAM.",
   "fecha_evidencia": "2026-10-07T17:08:06+00:00",
-  "ultima_senal": "2026-10-07T17:08:06+00:00",
+  "ultima_senal": "2026-10-24T13:42:15+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 85,
+  "score": 86,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 7.5,
    "calidad": 14.0
   },
   "prioridad": "A",
@@ -1100,12 +1108,12 @@
   "ultima_senal": "2026-10-14T15:27:31+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 86,
+  "score": 85,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 14.0
   },
   "prioridad": "A",
@@ -1419,12 +1427,12 @@
   "ultima_senal": "2026-10-14T21:01:34+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -1495,12 +1503,12 @@
   "ultima_senal": "2026-10-14T16:00:50+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 62,
+  "score": 61,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 7.5,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -1534,12 +1542,12 @@
   "ultima_senal": "2026-10-14T15:59:48+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -1805,12 +1813,12 @@
   "ultima_senal": "2026-10-14T19:57:26+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -1827,6 +1835,14 @@
     "url": "https://www.getonbrd.com/jobs/front-end-android-sr-grupo-mariposa-remote-bfe3",
     "fecha": "2026-10-22T18:29:25+00:00",
     "medio": null
+   },
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Grupo Mariposa está contratando: Head of Enterprise Architecture & Integration, Arquitecto de Datos (Data & AI), QA Manual Tester",
+    "url": "https://www.getonbrd.com/jobs/qa-tester-grupo-mariposa-remote-8728",
+    "fecha": "2026-10-28T15:17:11+00:00",
+    "medio": null
    }
   ],
   "inversionistas": [],
@@ -1841,7 +1857,7 @@
   "resumen": "Somos una corporación multinacional de bebidas y alimentos fundada en 1885 con operaciones en más 14 países, con más de 15,000 colaboradores.",
   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
   "fecha_evidencia": "2026-10-22T18:29:25+00:00",
-  "ultima_senal": "2026-10-22T18:29:25+00:00",
+  "ultima_senal": "2026-10-28T15:17:11+00:00",
   "conocido_fuente": null,
   "conocido": false,
   "score": 70,
@@ -2124,12 +2140,12 @@
   "ultima_senal": "2026-10-14T19:07:07+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 90,
+  "score": 88,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 14.0
   },
   "prioridad": "A",
@@ -2477,12 +2493,12 @@
   "ultima_senal": "2026-10-14T15:05:21+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 50,
+  "score": 49,
   "desglose": {
    "geografia": 7.5,
    "etapa": 7.5,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
   "prioridad": "C",
@@ -2621,32 +2637,40 @@
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUxBQWhpMTdCTVQ3QTJ1VElpQXlFQ2trdTlUc25nTGVLQktoY1VoMDE0a3F2Y1h5X2lySzI1bW9DMHQzdzdKa2RTRmlET2JNeEF2V080bzJ6ZVJWQkJBZ3hVemxZX3FKejEzTUVteHl0MUFiNVNqb0lXazhLVGZYNTlrdWxyOWpHMFE?oc=5",
     "fecha": "2026-10-21T22:06:33+00:00",
     "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Flapping Airplanes, el laboratorio de IA, levanta US$1.000M",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRW9TQm8zaWxPSkloQURWaU80QnlzeHl4NzE2Wmg4aGU5WnlBMG5TZ2llUW1kTmNWYUNnLTZOVmNOTEpnUjlOTUZSTVZpOHNnTTFyaGtzR1Z0RjFBaVRQSWlvQW53bWVOQm9LMDc3cFBKV3V0RHM1Q0JmQzBoaTJTZDJzOHpHM3VXZnFRa1lNdkI?oc=5",
+    "fecha": "2026-10-21T21:03:28+00:00",
+    "medio": "El Ecosistema Startup"
    }
   ],
   "inversionistas": [],
   "fundadores": [],
-  "calidad": 5.0,
+  "calidad": 6.0,
   "motor": "llm",
   "empresa": "Flapping Airplanes",
   "etapa": "seed",
   "monto_usd": 1000000.0,
   "tecnologia": true,
-  "resumen": "Flapping Airplanes es una startup chilena de IA que levantó USD 1M.",
-  "razon": "Startup de IA en Chile dentro de tesis, pero sin información clara sobre tracción, modelo de negocio o inversionistas reconocidos.",
-  "fecha_evidencia": "2026-10-21T21:17:52+00:00",
+  "resumen": "Flapping Airplanes es un laboratorio de IA de Argentina que acaba de levantar USD 1 millón.",
+  "razon": "Laboratorio de IA que levanta USD 1M; origen argentino; sin embargo, falta claridad sobre etapa exacta e inversionistas que respalden.",
+  "fecha_evidencia": "2026-10-21T21:03:28+00:00",
   "ultima_senal": "2026-10-21T22:06:33+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "pais": "Chile",
+  "pais": "Argentina",
   "sector": "IA",
-  "mensaje": "Hola equipo de Flapping Airplanes, nos enteramos de su ronda de USD 1M en IA. Nos gustaría entender mejor el problema que resuelven y su tracción actual. ¿Estarían abiertos a una conversación?",
-  "score": 86,
+  "mensaje": "Hola Flapping Airplanes, nos enteramos de que levantaron USD 1M para su laboratorio de IA. Estamos muy interesados en conocer el equipo y la visión detrás del proyecto. ¿Estarían abiertos a una conversación con Latin Leap? Nos encantaría aprender más.",
+  "score": 88,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
    "senal": 10.5,
-   "calidad": 10.0
+   "calidad": 12.0
   },
   "prioridad": "A",
   "en_tesis": true
@@ -3179,12 +3203,12 @@
   "ultima_senal": "2026-10-15T11:21:49+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 12.0
   },
   "prioridad": "B",
@@ -3219,12 +3243,12 @@
   "ultima_senal": "2026-10-15T00:24:44+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 12.0
   },
   "prioridad": "B",
@@ -3340,12 +3364,12 @@
   "ultima_senal": "2026-10-14T18:29:09+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 90,
+  "score": 88,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 14.0
   },
   "prioridad": "A",
@@ -3380,12 +3404,12 @@
   "ultima_senal": "2026-10-14T15:36:41+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 72,
+  "score": 70,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 14.0
   },
   "prioridad": "B",
@@ -3429,12 +3453,12 @@
   "ultima_senal": "2026-10-14T14:51:43+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 90,
+  "score": 88,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 14.0
   },
   "prioridad": "A",
@@ -4299,34 +4323,43 @@
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWmM2ZWxrTEd2R2U0TUxrS3c0bEJKYkllenRzUjY5VEZlUUdzZUdrWEpfb1pDWHZTbmg1OW1KcDBkMjNobjFGNG0yOFkwYU9nYmRnVzdxQ3otRlFoclZ0Q2FuMEEwRk1ZMV9TRXJhczY1U2VZNWpNVnY2eTlHaXcyRUVTNA?oc=5",
     "fecha": "2026-10-26T03:03:30+00:00",
     "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Ailytics, visión IA industrial, levanta US$7,4M",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUMVNycUdybHpVN0s3MDN5NFlycHJXVFBBYm93eUROaU9sQUtORWx6Q2x6RFZTNGRVbWlUNXphMktHWUFLNkhtVnFtX0JQSWQ2X2wxd0ZkLWFfc0dxaXE0UjJzV0RpaC1HOXh5NlJmVmRqd1k2UXFQWF9TT3JDdTA?oc=5",
+    "fecha": "2026-10-29T09:03:31+00:00",
+    "medio": "El Ecosistema Startup"
    }
   ],
   "inversionistas": [],
   "fundadores": [],
-  "calidad": 6.0,
+  "calidad": 7.0,
   "motor": "llm",
   "empresa": "Ailytics",
-  "sector": "IA/Visión Computacional",
+  "sector": "IA / Visión por Computadora",
   "etapa": "seed",
   "monto_usd": 7400000.0,
   "tecnologia": true,
-  "resumen": "Solución de IA para análisis de video en sistemas CCTV industriales.",
-  "mensaje": "Hola equipo de Ailytics, vimos que cerraron US$7.4M para su plataforma de IA en CCTV industrial. La oportunidad en automatización de vigilancia en LATAM nos interesa. ¿Serían open a conectar y conocer más de su tracción y planes de expansión regional?",
-  "razon": "Ronda seed en rango típico, tecnología de IA aplicada a CCTV industrial (mercado real). Sin confirmación de país LATAM hispanohablante.",
+  "resumen": "Solución de visión artificial basada en IA para aplicaciones industriales.",
+  "mensaje": "Hola Ailytics, nos impresionó tu levantamiento de $7.4M para IA industrial. El mercado de automatización visual en América Latina es enorme. Nos encantaría explorar cómo Latin Leap puede acompañar vuestro crecimiento en la región. ¿Conversamos?",
+  "razon": "Startup argentina en tesis; sector IA industrial con aplicaciones B2B de alto valor; ronda de $7.4M indica validación y tracción; diferenciación clara en visión computacional industrial.",
   "fecha_evidencia": "2026-10-26T03:03:30+00:00",
-  "ultima_senal": "2026-10-26T03:03:30+00:00",
+  "ultima_senal": "2026-10-29T09:03:31+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 90,
   "desglose": {
-   "geografia": 7.5,
+   "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
    "senal": 10.5,
-   "calidad": 12.0
+   "calidad": 14.0
   },
-  "prioridad": "B",
-  "en_tesis": true
+  "prioridad": "A",
+  "en_tesis": true,
+  "pais": "Argentina"
  },
  "n:capquest": {
   "key": "n:capquest",
@@ -4565,12 +4598,12 @@
   "ultima_senal": "2026-10-14T14:43:14+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -4742,34 +4775,68 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcWZhRlJtV2ZhbHdlbmZtVjJ1Q2lmTFN4Mnd1d2E1ell2OU5qTzBfbkZWajBlSDBtUFhuSjdmSkxfbFh2Uzk4Q28xbHlNR3lqMVM5RFBicWt4b0g2UThXdVBnZl9pR2N3cFBETDJKVEMwaE42cVE1OU5KNUdLMzVUQ3BHbWZhWFNXTUhLNFJpOFVVazJuQmlqcjlPSURmLXJGaDZoa3MxWQ?oc=5",
     "fecha": "2026-10-28T07:57:55+00:00",
     "medio": "Dealroom"
+   },
+   {
+    "fuente": "Startups Latam",
+    "tipo": "noticia",
+    "titulo": "La uruguaya Viatik levanta US$600.000 en su segunda ronda para escalar los viajes compartidos entre ciudades en Argentina",
+    "url": "https://startupslatam.com/la-uruguaya-viatik-levanta-us600-000-en-su-segunda-ronda-para-escalar-los-viajes-compartidos-entre-ciudades-en-argentina/",
+    "fecha": "2026-10-28T14:00:00+00:00",
+    "medio": null
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Viatik, la startup uruguaya de viajes compartidos, levanta US$ 600.000 con un cofundador de PedidosYa y el ex número uno de Uber en Argentina",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOd0IyZ2U4T052a3dad3RwRng2aGwyVFpXUU5zS2h2TkRoT2RFLWJYb0lCTGxHLVgyakN2YzV1UldXMGlMZEZqcnJyTW1BcDlJSjNXZ092cTQ2Tng3TUN4NXNPSHRwS3ExaU1IUjI5cXZVeGlZcFkwRFJWMW9sMWt3ZzQxTEVzT0JkSFRCREl3SnNWakdJRndpeEhhTkZoakkwR00yZjVZODE1TkxaYXRBLVcxZU1hbWpMcXhqdVdjM3RWYkV1emk1aDlGNmR0UGJxVVBUWkVFenZvaXZrNVRmNVFkYmd5QnkycVIydE9R0gHzAUFVX3lxTFBKSXNJUzhYeFVnWlpPcGY4MlhuVlp3Q2lSQlRMa2ZuTjNlSkdRMTFMMHlEYi1xUmFnUGFUVTlBV3BpMmNOQ0hGSVVaSlZXNDBwa3c0VmNtWXN2TDM5bXdzQ3VPVkZEYU11WXhSRTY0WmNIOTk1dzF0STZzaGxvQ2huRU41eXNRUmZ4OFZjQjlRX2t5MGJvbGtUbmxCTWdvRGRYeVVvd21YWEtKb3FsMUZiVUFaT2ZzeHVsZHRjYkppWXBnbVpYakpmY1lLYVo3d1REX0ZQempiT3o3ZXJiY3lheXR0eldXY2dkMXRqZnUtQmlOdw?oc=5",
+    "fecha": "2026-10-28T12:54:37+00:00",
+    "medio": "Forbes Uruguay"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "La app uruguaya de viajes compartidos Viatik captó US$ 600.000 de inversión y expandirá su operación en Argentina",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYzhzN0YzMFlNQXNlY2pCWTVIcUtaeXh2MUxzbjR6MXcxb1U5RWhtN3hpeVoyS2VhbDA1VUZCMXFUQkRCMHpXZjVOcFV0c1o4RWx0VlBJOVR4YkdEMlFwb3lOcm52RmQ3ZGhSVHd6bGM4YWpmdVpMSVVBWGVRRktLSEhqdFdWNlJ1dmZwMDRrWjY2U3VRQ0FDT05SdXlCWDN5SlN3VGlOejFwU1pmem1VWV9zSnlyQWZZU2ZiMVZib0dkWnFkdl9WS3JnSUFOUWR4ejB2cWFVWlA3V1o10gHiAUFVX3lxTE83M256SW9PbUxLTklwV1BBWnhSQW1lY09CbEZTdEI0UUtPZGJBSFh3RTB0NU8zRHlmZlU4NWVhVE9qQlhld0M1Qk5JeEV5cTk2WVRDMGRBeEhJb0VlTmZfVXowLThCcXVwdGdfa3NxOWlfSGZhMHJObUpDdFkzUzFmRVpaZ3VCYXF0VTlFZjEwTVNiVncxZzEyd1dCeUljcGVqOTFuZUNjcVY1RUNmWVZiXzFrR3FMNEoyQnd6VC03cWNzN2Mxb1M0NVhvUDVMRURGeU5EZ3NGZFE5QWNjV1lrMEE?oc=5",
+    "fecha": "2026-10-28T08:00:00+00:00",
+    "medio": "El Observador"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Viatik, app uruguaya de viajes, levanta US$600.000",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHh3VlFGRnVFX0tiSVNBOW9lc1E3ZWpxTFRxNkJ0WlFvZEhuZ1FxY2tETGN0OVJMWUFybXpUR1RfZnBWZ3gtLS1NNnEtM196R2twdDhMaWJCeFc2dTU5aVNjMUhKbk9yM0xfVFFsSWdNVHI3RjltQnV0OURJMDUwME5uV1c?oc=5",
+    "fecha": "2026-10-28T23:03:28+00:00",
+    "medio": "El Ecosistema Startup"
    }
   ],
   "inversionistas": [
-   "Inversores vinculados a PedidosYa y Uber"
+   "Cofundador de PedidosYa, ex CEO de Uber Argentina",
+   "Inversores vinculados a PedidosYa y Uber",
+   "Plug and Play, Picante"
   ],
   "fundadores": [],
-  "calidad": 7.0,
+  "calidad": 8.0,
   "motor": "llm",
   "empresa": "Viatik",
   "pais": "Uruguay",
-  "sector": "Movilidad / Ride-sharing",
+  "sector": "travel-tech",
   "etapa": "seed",
   "monto_usd": 600000.0,
   "tecnologia": true,
-  "resumen": "Viatik es una startup de Uruguay enfocada en ride-sharing que levantó USD 600K en seed para expandir hacia Argentina.",
-  "mensaje": "Hola equipo de Viatik, vimos que levantaron USD 600K seed desde Uruguay para entrar al mercado de ride-share en Argentina. Nos encanta el enfoque regional. ¿Podríamos conversar sobre vuestra estrategia de expansión?",
-  "razon": "Startup uruguaya en seed con USD 600K (en rango pre-seed/seed). Expande a Argentina aprovechando boom de ride-share. Geografía y sector claros, tracción regional potencial.",
+  "resumen": "Viatik es una aplicación uruguaya para planificación y gestión de viajes que levantó USD 600.000.",
+  "mensaje": "Nos alegra mucho ver a Viatik levantando capital. Las aplicaciones de viajes tienen gran potencial en Latam, especialmente en mercados como Uruguay. Nos gustaría conocer más sobre vuestra estrategia de expansión regional y cómo están ganando usuarios.",
+  "razon": "Ronda seed de USD 600k, producto enfocado en viajes (mercado atractivo); sin embargo, falta información sobre tracción, diferenciación y equipo.",
   "fecha_evidencia": "2026-10-28T03:04:26+00:00",
-  "ultima_senal": "2026-10-28T10:28:00+00:00",
+  "ultima_senal": "2026-10-28T23:03:28+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 90,
+  "score": 94,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
-   "calidad": 14.0
+   "senal": 13.5,
+   "calidad": 16.0
   },
   "prioridad": "A",
   "en_tesis": true
@@ -4935,34 +5002,45 @@
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWdjNG5aWnRJaGQzdUV2REt3b3JVakh3YmJNOXVON19pSnU5RXlGUGxyMTdQLVk1QjdHMDFzSkZPaDJIbE1JYU9mZlF1UFppOWMzV2NRSnZ6UE1rUjVrWWRYbHpvVTdxWTN4TnNqdERRREpLdkNad3QwSHg0eFRlWGd4SHp2OFhDSEVtTjdWa29GSGVSdGR4eW5jczlGT0ZwR2xoTEg1YzU0bWw0VlhUSDVFVk1faDFBLUd2QnRyU0hjaE83WWV0T9IByAFBVV95cUxPcWdjNG5aWnRJaGQzdUV2REt3b3JVakh3YmJNOXVON19pSnU5RXlGUGxyMTdQLVk1QjdHMDFzSkZPaDJIbE1JYU9mZlF1UFppOWMzV2NRSnZ6UE1rUjVrWWRYbHpvVTdxWTN4TnNqdERRREpLdkNad3QwSHg0eFRlWGd4SHp2OFhDSEVtTjdWa29GSGVSdGR4eW5jczlGT0ZwR2xoTEg1YzU0bWw0VlhUSDVFVk1faDFBLUd2QnRyU0hjaE83WWV0Tw?oc=5",
     "fecha": "2026-10-28T10:39:09+00:00",
     "medio": "Demócrata"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Artiso AI levanta 3 millones en su ronda pre-seed con Criteria para aplicar la IA al diseño de moda",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53NkxYOUVDa01ST0tuYXZiQmNxaFBOd09iVzFCVHgtTWg2OEgxdWg1dlNkTnVjNm0xaGFTR1FKZ0JjSVBnYzZLNnMtUmNIY3hERklVTHRZVkh2Sk1HNG1JT2Jfb3dHNlE1bGp4aFNYSldzVWJl?oc=5",
+    "fecha": "2026-10-28T20:15:36+00:00",
+    "medio": "Merca2.es"
    }
   ],
   "inversionistas": [
+   "Criteria",
    "Criteria Venture Tech"
   ],
   "fundadores": [],
-  "calidad": 6.0,
+  "calidad": 7.0,
   "motor": "llm",
-  "empresa": "Artiso",
+  "empresa": "Artiso AI",
   "etapa": "pre-seed",
   "monto_usd": 3000000.0,
-  "resumen": "Artiso ha levantado una ronda pre-seed de USD 3M liderada por Criteria Venture Tech. La información disponible es limitada sobre el modelo de negocio y la geografía.",
-  "mensaje": "Hola equipo de Artiso, nos enteramos de que levantaron una ronda pre-seed de USD 3M con Criteria Venture Tech. Desde Latin Leap nos gustaría conocer más sobre el producto y la visión para América Latina hispanohablante. ¿Nos gustaría agendar una llamada para explorar sinergias?",
-  "razon": "Ronda pre-seed de USD 3M liderada por fondo de VC reconocido (Criteria Venture Tech), pero falta información sobre tracción, sector y ubicación geográfica.",
+  "resumen": "Artiso AI aplica inteligencia artificial al diseño de moda. Acaba de cerrar su ronda pre-seed de USD 3 millones con Criteria.",
+  "mensaje": "Hola equipo de Artiso AI, vimos que acaban de cerrar USD 3M en pre-seed con Criteria para revolucionar el diseño de moda con IA. Creemos que es un caso fascinante de tecnología transformando industrias tradicionales. Nos gustaría conectar y conocer vuestras métricas y proyecciones. ¡Saludos desde Latin Leap!",
+  "razon": "Ronda pre-seed de USD 3M con inversor reconocido (Criteria); aplicación de IA a industria grande (moda); tracción suficiente para levantar capital.",
   "fecha_evidencia": "2026-10-28T10:39:09+00:00",
-  "ultima_senal": "2026-10-28T10:39:09+00:00",
+  "ultima_senal": "2026-10-28T20:15:36+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 62,
+  "score": 72,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
-   "tecnologia": 7.5,
+   "tecnologia": 15.0,
    "senal": 10.5,
-   "calidad": 12.0
+   "calidad": 14.0
   },
   "prioridad": "B",
-  "en_tesis": true
+  "en_tesis": true,
+  "sector": "Moda & IA",
+  "tecnologia": true
  },
  "n:layrz": {
   "key": "n:layrz",
@@ -5063,6 +5141,14 @@
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRGQ4ZE00NWtSdU1HcUZBT2dSMHA2eFRXekhOSkE3TFhEY19NTi1lb1lnalVVaXg0ajM5LVc3cUo4U0FEUnFSNzZfLWhUc3BYeU1aenM2SGJhNWlWbmwwMDNmcVBOWjhrRXhQRnU2YW8wWDRfUGNCSXVZVTNjTENzUmtiSkFqOG0tUzcwZkpuZw?oc=5",
     "fecha": "2026-10-27T16:06:32+00:00",
     "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Celes, retailtech de Barranquilla, levanta US$5M",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmNycjAwNDhQVDJKUWdXZXE3endBUzBJV29OQmdyVVBhSFBtVnEyZHJlZ2tjV0NDVE9nX2twN0lEdEhxbTkzQ2VyRW0tc25MWGR3eXRVd01nZ2hTTGMyTFVMUi1kYkZDVDJsUjUyc2NZMi1FUW92RmdrZEMyVXR0S2Jn?oc=5",
+    "fecha": "2026-10-28T15:28:32+00:00",
+    "medio": "El Ecosistema Startup"
    }
   ],
   "inversionistas": [],
@@ -5072,15 +5158,15 @@
   "empresa": "Celes",
   "pais": "Colombia",
   "ciudad": "Barranquilla",
-  "sector": "Retail / Comercio",
+  "sector": "Retail Tech",
   "etapa": "seed",
   "monto_usd": 5000000.0,
   "tecnologia": true,
-  "resumen": "Celes es una startup de retail basada en Barranquilla que levantó USD 5M para expandir su operación.",
-  "mensaje": "Hola equipo de Celes, nos enteramos de que levantaron USD 5M en Barranquilla para transformar el retail. Nos atrae mucho ver innovación en ciudades tier 2. ¿Nos gustaría conocer vuestro modelo y visión para LATAM?",
-  "razon": "Startup retail de Colombia levantó USD 5M, cifra significativa para seed. Ubicación en Barranquilla (fuera de capitales tradicionales) sugiere oportunidad en segmento subatendido.",
+  "resumen": "Plataforma de retail tech con base en Barranquilla que ha levantado $5M en ronda seed.",
+  "mensaje": "Hola equipo de Celes, vimos que levantaron $5M para transformar el retail en Colombia. Nos encanta el potencial de retailtech en la región. Nos gustaría conocer más sobre vuestra tracción y visión. ¿Disponibles para una conversación?",
+  "razon": "Ubicación en LATAM hispanohablante confirmada (Barranquilla, Colombia); ronda de $5M coherente con seed; sector de retail tech con potencial en región; tracción no explícita pero ronda de este tamaño sugiere validación.",
   "fecha_evidencia": "2026-10-27T16:06:32+00:00",
-  "ultima_senal": "2026-10-27T16:06:32+00:00",
+  "ultima_senal": "2026-10-28T15:28:32+00:00",
   "conocido_fuente": null,
   "conocido": false,
   "score": 90,
@@ -5209,6 +5295,319 @@
    "calidad": 8.0
   },
   "prioridad": "C",
+  "en_tesis": true
+ },
+ "d:zervizgroup.com": {
+  "key": "d:zervizgroup.com",
+  "primera_vista": "2026-10-29T13:07:57+00:00",
+  "senales": [
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Zerviz Technologies está contratando: Práctica Profesional – Ingeniería",
+    "url": "https://www.getonbrd.com/jobs/practica-profesional-ingenieria-zerviz-technologies-santiago",
+    "fecha": "2026-10-28T13:15:35+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Zerviz Technologies",
+  "sitio_web": "http://www.zervizgroup.com",
+  "pais": "Chile",
+  "etapa": "desconocida",
+  "tecnologia": true,
+  "resumen": "Porque innovamos, implementamos y transformamos proyectos y procesos de transformación digital junto a la mejor tecnología ¡te estamos buscando! ⚡",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-10-28T13:15:35+00:00",
+  "ultima_senal": "2026-10-28T13:15:35+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 70,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 12.5,
+   "tecnologia": 15.0,
+   "senal": 7.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "d:dalca.cl": {
+  "key": "d:dalca.cl",
+  "primera_vista": "2026-10-29T13:07:57+00:00",
+  "senales": [
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Dalca S.A. está contratando: Ingeniero/a Operaciones TI",
+    "url": "https://www.getonbrd.com/jobs/ingeniero-a-operaciones-ti-dalca-s-a-santiago",
+    "fecha": "2026-10-28T20:01:18+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Dalca S.A.",
+  "sitio_web": "http://www.dalca.cl",
+  "pais": "Chile",
+  "etapa": "desconocida",
+  "tecnologia": true,
+  "resumen": "Dalca es una plataforma RIS/PACS chilena, 100% web, con la que clínicas, centros\nde imagenología y radiólogos gestionan e informan sus exámenes. ",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-10-28T20:01:18+00:00",
+  "ultima_senal": "2026-10-28T20:01:18+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 70,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 12.5,
+   "tecnologia": 15.0,
+   "senal": 7.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:americanadvancedmaterials": {
+  "key": "n:americanadvancedmaterials",
+  "primera_vista": "2026-10-29T13:07:57+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "American Advanced Materials raises seed funding to revive U.S. titanium sponge production",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUJJdW1rbzhCOVNvdl9xbmIwM3FOMFFwSFY2b2N0TnhkZVhJNHJmYmVHeGFwMnEydHhaZ0NqM0NRcEd2TlpfaS1yc0o0ZEVtSE5jNVJOVmEyUnZ5TldWdmI3Rm9OMVAzVFByTHE2cUI1RHl2U19GYU56bjQxREtwUnl6b0l3UlBVUmI2M1puOW9weU15LU9RYl9zMEx3bHB4T1FQYklNWWhfRnNwZ0VDNQ?oc=5",
+    "fecha": "2026-10-28T12:41:46+00:00",
+    "medio": "Traders Union"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "American Advanced Materials",
+  "etapa": "seed",
+  "resumen": "American Advanced Materials raises seed funding to revive U.S. titanium sponge production Traders Union",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-10-28T12:41:46+00:00",
+  "ultima_senal": "2026-10-28T12:41:46+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 56,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 7.5,
+   "senal": 6.0,
+   "calidad": 10.0
+  },
+  "prioridad": "C",
+  "en_tesis": true
+ },
+ "n:angolascyto": {
+  "key": "n:angolascyto",
+  "primera_vista": "2026-10-29T13:07:57+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Angola's CYTO raises $40K in angel round via Catalytic Africa matching model",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeWtYX1ZzeDNnTk1iTVVHUHZHaGJHd1hmVS1uU1FRdXczU0RjYjZwVjRlVTFTWXM1OEZVbGFKV2VZR0pya2pSdFhvZk9BRmc0ZjVBRzI5MlROWjhTWUxiS3VNWHVicElZaHczY1YzUzFvOWJOeGdtRy00OWY3UzNubmlKNlZyMTJxTjZfTlJRb3M0UWNlZGkta3lnb3FwZTVYeG0zN2NrdllGek9pLVE?oc=5",
+    "fecha": "2026-10-28T14:42:22+00:00",
+    "medio": "Dealroom"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Angola's CYTO",
+  "etapa": "seed",
+  "monto_usd": 40000.0,
+  "resumen": "Angola's CYTO raises $40K in angel round via Catalytic Africa matching model Dealroom",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-10-28T14:42:22+00:00",
+  "ultima_senal": "2026-10-28T14:42:22+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 60,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 7.5,
+   "senal": 10.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:southkoreasdevdi": {
+  "key": "n:southkoreasdevdi",
+  "primera_vista": "2026-10-29T13:07:57+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "South Korea's Devdi raises follow-on from MYSC to expand rent card payments",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0RUZ2tmT2dTYzItTU5xaGdpZnUySUVxNl9USnVwZV9ZSXBHQnl3LVg0aHhYc3VuNk0wbFFJak1aU2F1MkRBQlVlMjRIblRqaUpfZVRVdmt0LWRIRUpFbWoxbGZOWVUzUHFrYjNsT0YzcnJhS1VMcDluRmdDOTZVeGF2WTZIM2ZDczMtYy1hZlp5U2lJTWxkYkJNaWhIZWZ1c2VHTUxzdUJ3ei1ZU2c?oc=5",
+    "fecha": "2026-10-19T14:30:29+00:00",
+    "medio": "Dealroom"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "South Korea's Devdi",
+  "etapa": "desconocida",
+  "resumen": "South Korea's Devdi raises follow-on from MYSC to expand rent card payments Dealroom",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-10-19T14:30:29+00:00",
+  "ultima_senal": "2026-10-19T14:30:29+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 44,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 12.5,
+   "tecnologia": 7.5,
+   "senal": 6.0,
+   "calidad": 10.0
+  },
+  "prioridad": "C",
+  "en_tesis": true
+ },
+ "n:manualalinstante": {
+  "key": "n:manualalinstante",
+  "primera_vista": "2026-10-29T13:07:57+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Manual al Instante, startup industrial, gana el Demo Day",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2pBVmE5TUdPZENHSi12YXJ2a1p4eFM3dW12SlJwSXZ5SC1McF9vbGlYYjdjdVd1TVdoeGVGaHh2NUF0QWZEVWI0UnhLSFhBSmFOYURGc0JaS1JYbXN3OFI1VG92UXFwUGk2emNrdC1IRmdWTXJtQzY5ZkZYVTh1NERoeF9TSm5taGNNZlBn?oc=5",
+    "fecha": "2026-10-28T19:21:42+00:00",
+    "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "'Manual al Instante' gana el Demo Day Consolida Startup",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTUlzTkxwUWM2M0FHQnE3SDVZNXdWQjBxNlhjaUdpTzh3cGdSbl9BcGhFaEhFUVlRc3AxajhMNFNGWVczNGJ2aHZjeGNidzhwUlJmRDdPeTVBMmM1eUw1WHJPbnNuLTRKNFZ5WExHWE1zLU5pQzVRTUd3Qnd3VGw4cFhSRFJUc24yN2V1bC1vNjFZWkkxakZRRklERnI2V1Q0SjNYdWVOQ0Q2VFJHSHRPSUcxM1ZsR2ZMYlF1RjNHNHl6V0lxdG1POVItSldkemJ4WVFzSTFR?oc=5",
+    "fecha": "2026-10-28T16:43:06+00:00",
+    "medio": "El Día de Valladolid"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 6.0,
+  "motor": "llm",
+  "empresa": "Manual al Instante",
+  "sector": "desconocido",
+  "etapa": "pre-seed",
+  "tecnologia": true,
+  "resumen": "Manual al Instante es una startup ganadora del Demo Day de Consolida Startup. No hay detalles públicos sobre su propuesta de valor.",
+  "mensaje": "¡Felicitaciones por ganar el Demo Day de Consolida Startup! En Latin Leap nos interesa conocer más sobre Manual al Instante y cómo está resolviendo un problema en el mercado. Nos encantaría escuchar directamente de ustedes sobre la visión y los próximos pasos del proyecto.",
+  "razon": "Ganadora de Demo Day en aceleradora reconocida (Consolida Startup); sin embargo, falta información sobre el modelo de negocio y tracción.",
+  "fecha_evidencia": "2026-10-28T16:43:06+00:00",
+  "ultima_senal": "2026-10-28T19:21:42+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "pais": "Guatemala",
+  "score": 83,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 6.0,
+   "calidad": 12.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "n:kompanion": {
+  "key": "n:kompanion",
+  "primera_vista": "2026-10-29T13:07:57+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Kompanion raises €800K seed to build AI business-management platform",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmctWDV5c3BRYjdXSGk1bENCTTRmUENTTmhTYUhEdzVmdHlFQlJfSFFhMUZIM2g2M2wzWjhFYlFORFpMczhQY3NnSUQ3dFBqYXNxYVFPYUVyWXVmUVdKdjNOVHRPSzZwVFNEeXc4TFdLVE1wVGlqVzhYMGZKWDh6UzRzVXVyNzNlNEczMlBVYjBza3JqUzdQbTA4X21uNlNSYjhr?oc=5",
+    "fecha": "2026-10-19T17:39:59+00:00",
+    "medio": "Dealroom"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Kompanion",
+  "etapa": "seed",
+  "tecnologia": true,
+  "resumen": "Kompanion raises €800K seed to build AI business-management platform Dealroom",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-10-19T17:39:59+00:00",
+  "ultima_senal": "2026-10-19T17:39:59+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 64,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 6.0,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:aloja": {
+  "key": "n:aloja",
+  "primera_vista": "2026-10-29T13:07:57+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Aloja AI, precios con IA para tours, levanta US$1,4M",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWDhpbGNLSlZlU0FhNFlna08tdUpVdXFDVGtQakFmU05tektzalV2RGc4NjBuOWxpRnhBVXltRzZiVHQ3NkJDN3VuRXhBc2liNllDdjlJZHpGendVNUZ5aVZrZUdKdDFWTVNvc0xEdlgzdDc0S29tbGVMSkZVZWVvaUdsZUY2dw?oc=5",
+    "fecha": "2026-10-20T07:00:00+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 7.0,
+  "motor": "llm",
+  "empresa": "Aloja AI",
+  "pais": "Argentina",
+  "sector": "travel-tech / SaaS",
+  "etapa": "seed",
+  "monto_usd": 1400000.0,
+  "tecnologia": true,
+  "resumen": "Aloja AI es una plataforma que utiliza inteligencia artificial para optimizar precios dinámicos en tours y servicios turísticos.",
+  "mensaje": "Nos impresiona mucho la ronda que Aloja AI acaba de cerrar. El uso de IA para optimizar precios en turismo es un caso de uso muy promisorio en Latam. Nos encantaría conversar sobre cómo están escalando en la región y qué desafíos enfrentan para penetrar nuevos mercados.",
+  "razon": "Ronda seed típica (USD 1,4M), tecnología IA aplicada a un caso de uso real (fijación de precios dinámicos en turismo), mercado del turismo es relevante en Latam.",
+  "fecha_evidencia": "2026-10-20T07:00:00+00:00",
+  "ultima_senal": "2026-10-20T07:00:00+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 90,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 14.0
+  },
+  "prioridad": "A",
   "en_tesis": true
  }
 }
