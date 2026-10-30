@@ -197,51 +197,6 @@
    "motor": "llm"
   },
   {
-   "key": "d:examedi.cl",
-   "empresa": "Examedi",
-   "sitio_web": "https://examedi.cl",
-   "pais": "Chile",
-   "ciudad": "Santiago",
-   "sector": "Healthtech",
-   "etapa": "seed",
-   "monto_usd": null,
-   "inversionistas": [
-    "Y Combinator"
-   ],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 8.0,
-   "resumen": "Plataforma de exámenes médicos a domicilio que digitaliza y acelera trámites de salud. Busca ser el 'Uber' de servicios médicos en Chile.",
-   "razon": "Y Combinator 2021, modelo de marketplace en healthtech con tracción clara, problema relevante en mercado latinoamericano.",
-   "mensaje": "Vimos que Examedi está creciendo con el respaldo de Y Combinator y resolviendo un problema real en salud. Desde Latin Leap nos interesa conocer tu tracción actual y planes de expansión en LATAM. ¿Podríamos agendar una llamada para explorar cómo apoyarte?",
-   "score": 93,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 12.0,
-    "calidad": 16.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-15T17:58:44+00:00",
-   "ultima_senal": "2026-10-15T17:58:44+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Examedi está contratando: Software Engineer",
-     "url": "https://www.getonbrd.com/jobs/software-engineer-examedi-santiago",
-     "fecha": "2026-10-15T17:58:44+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:rebill",
    "empresa": "Rebill",
    "sitio_web": null,
@@ -304,6 +259,51 @@
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzdkTEdMUVNPSzZIcGJNVzhmc3h1UXlZWFR4V0JDNWlmYUhTSGk5STVHMWZqLWEycUJ1eE5ncjI1WTBmUU1iamNvbFhuaXRPQkVlMVFZa0FkMVlYLWJ4eXNNUzVTNVAzUGhtQnE3M0FTZkd5Z3VRenhGelZ1Q1pvc3ByTjA2TVRf?oc=5",
      "fecha": "2026-10-19T15:09:48+00:00",
      "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "d:examedi.cl",
+   "empresa": "Examedi",
+   "sitio_web": "https://examedi.cl",
+   "pais": "Chile",
+   "ciudad": "Santiago",
+   "sector": "Healthtech",
+   "etapa": "seed",
+   "monto_usd": null,
+   "inversionistas": [
+    "Y Combinator"
+   ],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 8.0,
+   "resumen": "Plataforma de exámenes médicos a domicilio que digitaliza y acelera trámites de salud. Busca ser el 'Uber' de servicios médicos en Chile.",
+   "razon": "Y Combinator 2021, modelo de marketplace en healthtech con tracción clara, problema relevante en mercado latinoamericano.",
+   "mensaje": "Vimos que Examedi está creciendo con el respaldo de Y Combinator y resolviendo un problema real en salud. Desde Latin Leap nos interesa conocer tu tracción actual y planes de expansión en LATAM. ¿Podríamos agendar una llamada para explorar cómo apoyarte?",
+   "score": 92,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 16.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-15T17:58:44+00:00",
+   "ultima_senal": "2026-10-15T17:58:44+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Examedi está contratando: Software Engineer",
+     "url": "https://www.getonbrd.com/jobs/software-engineer-examedi-santiago",
+     "fecha": "2026-10-15T17:58:44+00:00",
+     "medio": null
     }
    ],
    "motor": "llm"
@@ -390,49 +390,6 @@
      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRWs5SVZtNmp5MnBPQnBSQjBfS3dPOUx0MGhoT3dpMFR2TTY5UHY0M2plWTBuMUwyRV93QjVXWGpjc3YySHp4ZzM4VmhZcUJ1SnhuV3p6TzhkME05Mk9BLXFGNllLampWN0lNVW84QndQcjQ2T1U4TXdzWlgxZFQ0TlhNYUgtczVtTzA5bnhEUHQ4X19ONlR6ZHVLT2M5RWltUDdQTk9LNFN6WE9peWd3T1FnbWp6elFIWC14ZWs3UDYzdEVjOG9yN0xOM2hmVzF1cTRKSHQzZGk2Nkp3MjhtQjU1SDM1WEZDZEFmWFJJdFFxcWNuMWtmd1VkWG00cUZJaFNKNlhpaEc?oc=5",
      "fecha": "2026-10-22T16:56:47+00:00",
      "medio": "Flipr.news"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
-   "key": "n:crofabiotech",
-   "empresa": "CrofaBiotech",
-   "sitio_web": null,
-   "pais": "Argentina",
-   "ciudad": null,
-   "sector": "Biotech",
-   "etapa": "seed",
-   "monto_usd": 6000000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "Biotech argentina que desarrolla órganos de cerdo para trasplantes, financiada en ronda seed.",
-   "razon": "Biotech deep-tech en Argentina (mercado LATAM hispanohablante); ronda seed de USD 6M; problema complejo y diferenciado (órganos de cerdo para trasplantes); potencial de impacto global.",
-   "mensaje": "Hola equipo de CrofaBiotech, vimos que levantaron USD 6M para desarrollar xenotrasplantes de órganos de cerdo. Desde Latin Leap nos atrae mucho el potencial de deep-tech en biotech latinoamericana. Nos gustaría conocer más sobre vuestro desarrollo y cómo está evolucionando el producto. ¿Estaríais disponibles para una conversación?",
-   "score": 90,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 14.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-15T17:21:46+00:00",
-   "ultima_senal": "2026-10-15T17:21:46+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "CrofaBiotech raises $6M seed to develop pig organs for transplants in Argentina",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbHJyc3dMbEhBNlB3MVh4cVhES2JQM0xHeUJYT29wcEtkSVR6MzR1OTNHcnk1dDVZMEFrYU1SeElYWlJXX3NBenVuaXZzNTRFTG96cU1nTmt1STJwd3kzV29fOFdkd2pvS1p4YURGeGp4cGxIM1QwdjhxMUVKUXhoSlFia3NORm0yV0ZOZnJuejByVVdnWl9kT0pLSGw2NVBSMjA5aG43Y1RNVmZJS2VNb3Fn?oc=5",
-     "fecha": "2026-10-15T17:21:46+00:00",
-     "medio": "Dealroom"
     }
    ],
    "motor": "llm"
@@ -585,57 +542,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:celes",
-   "empresa": "Celes",
-   "sitio_web": null,
-   "pais": "Colombia",
-   "ciudad": "Barranquilla",
-   "sector": "Retail Tech",
-   "etapa": "seed",
-   "monto_usd": 5000000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "Plataforma de retail tech con base en Barranquilla que ha levantado $5M en ronda seed.",
-   "razon": "Ubicación en LATAM hispanohablante confirmada (Barranquilla, Colombia); ronda de $5M coherente con seed; sector de retail tech con potencial en región; tracción no explícita pero ronda de este tamaño sugiere validación.",
-   "mensaje": "Hola equipo de Celes, vimos que levantaron $5M para transformar el retail en Colombia. Nos encanta el potencial de retailtech en la región. Nos gustaría conocer más sobre vuestra tracción y visión. ¿Disponibles para una conversación?",
-   "score": 90,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 14.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-28T13:06:20+00:00",
-   "fecha_evidencia": "2026-10-27T16:06:32+00:00",
-   "ultima_senal": "2026-10-28T15:28:32+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Celes, la startup de retail de Barranquilla, levanta US$5M",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRGQ4ZE00NWtSdU1HcUZBT2dSMHA2eFRXekhOSkE3TFhEY19NTi1lb1lnalVVaXg0ajM5LVc3cUo4U0FEUnFSNzZfLWhUc3BYeU1aenM2SGJhNWlWbmwwMDNmcVBOWjhrRXhQRnU2YW8wWDRfUGNCSXVZVTNjTENzUmtiSkFqOG0tUzcwZkpuZw?oc=5",
-     "fecha": "2026-10-27T16:06:32+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Celes, retailtech de Barranquilla, levanta US$5M",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmNycjAwNDhQVDJKUWdXZXE3endBUzBJV29OQmdyVVBhSFBtVnEyZHJlZ2tjV0NDVE9nX2twN0lEdEhxbTkzQ2VyRW0tc25MWGR3eXRVd01nZ2hTTGMyTFVMUi1kYkZDVDJsUjUyc2NZMi1FUW92RmdrZEMyVXR0S2Jn?oc=5",
-     "fecha": "2026-10-28T15:28:32+00:00",
-     "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:aloja",
    "empresa": "Aloja AI",
    "sitio_web": null,
@@ -780,6 +686,49 @@
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRW9TQm8zaWxPSkloQURWaU80QnlzeHl4NzE2Wmg4aGU5WnlBMG5TZ2llUW1kTmNWYUNnLTZOVmNOTEpnUjlOTUZSTVZpOHNnTTFyaGtzR1Z0RjFBaVRQSWlvQW53bWVOQm9LMDc3cFBKV3V0RHM1Q0JmQzBoaTJTZDJzOHpHM3VXZnFRa1lNdkI?oc=5",
      "fecha": "2026-10-21T21:03:28+00:00",
      "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:crofabiotech",
+   "empresa": "CrofaBiotech",
+   "sitio_web": null,
+   "pais": "Argentina",
+   "ciudad": null,
+   "sector": "Biotech",
+   "etapa": "seed",
+   "monto_usd": 6000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Biotech argentina que desarrolla órganos de cerdo para trasplantes, financiada en ronda seed.",
+   "razon": "Biotech deep-tech en Argentina (mercado LATAM hispanohablante); ronda seed de USD 6M; problema complejo y diferenciado (órganos de cerdo para trasplantes); potencial de impacto global.",
+   "mensaje": "Hola equipo de CrofaBiotech, vimos que levantaron USD 6M para desarrollar xenotrasplantes de órganos de cerdo. Desde Latin Leap nos atrae mucho el potencial de deep-tech en biotech latinoamericana. Nos gustaría conocer más sobre vuestro desarrollo y cómo está evolucionando el producto. ¿Estaríais disponibles para una conversación?",
+   "score": 88,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 14.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-15T17:21:46+00:00",
+   "ultima_senal": "2026-10-15T17:21:46+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "CrofaBiotech raises $6M seed to develop pig organs for transplants in Argentina",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbHJyc3dMbEhBNlB3MVh4cVhES2JQM0xHeUJYT29wcEtkSVR6MzR1OTNHcnk1dDVZMEFrYU1SeElYWlJXX3NBenVuaXZzNTRFTG96cU1nTmt1STJwd3kzV29fOFdkd2pvS1p4YURGeGp4cGxIM1QwdjhxMUVKUXhoSlFia3NORm0yV0ZOZnJuejByVVdnWl9kT0pLSGw2NVBSMjA5aG43Y1RNVmZJS2VNb3Fn?oc=5",
+     "fecha": "2026-10-15T17:21:46+00:00",
+     "medio": "Dealroom"
     }
    ],
    "motor": "llm"
@@ -1509,57 +1458,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:manualalinstante",
-   "empresa": "Manual al Instante",
-   "sitio_web": null,
-   "pais": "Guatemala",
-   "ciudad": null,
-   "sector": "desconocido",
-   "etapa": "pre-seed",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 6.0,
-   "resumen": "Manual al Instante es una startup ganadora del Demo Day de Consolida Startup. No hay detalles públicos sobre su propuesta de valor.",
-   "razon": "Ganadora de Demo Day en aceleradora reconocida (Consolida Startup); sin embargo, falta información sobre el modelo de negocio y tracción.",
-   "mensaje": "¡Felicitaciones por ganar el Demo Day de Consolida Startup! En Latin Leap nos interesa conocer más sobre Manual al Instante y cómo está resolviendo un problema en el mercado. Nos encantaría escuchar directamente de ustedes sobre la visión y los próximos pasos del proyecto.",
-   "score": 83,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 6.0,
-    "calidad": 12.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-29T13:07:57+00:00",
-   "fecha_evidencia": "2026-10-28T16:43:06+00:00",
-   "ultima_senal": "2026-10-28T19:21:42+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Manual al Instante, startup industrial, gana el Demo Day",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2pBVmE5TUdPZENHSi12YXJ2a1p4eFM3dW12SlJwSXZ5SC1McF9vbGlYYjdjdVd1TVdoeGVGaHh2NUF0QWZEVWI0UnhLSFhBSmFOYURGc0JaS1JYbXN3OFI1VG92UXFwUGk2emNrdC1IRmdWTXJtQzY5ZkZYVTh1NERoeF9TSm5taGNNZlBn?oc=5",
-     "fecha": "2026-10-28T19:21:42+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "'Manual al Instante' gana el Demo Day Consolida Startup",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTUlzTkxwUWM2M0FHQnE3SDVZNXdWQjBxNlhjaUdpTzh3cGdSbl9BcGhFaEhFUVlRc3AxajhMNFNGWVczNGJ2aHZjeGNidzhwUlJmRDdPeTVBMmM1eUw1WHJPbnNuLTRKNFZ5WExHWE1zLU5pQzVRTUd3Qnd3VGw4cFhSRFJUc24yN2V1bC1vNjFZWkkxakZRRklERnI2V1Q0SjNYdWVOQ0Q2VFJHSHRPSUcxM1ZsR2ZMYlF1RjNHNHl6V0lxdG1POVItSldkemJ4WVFzSTFR?oc=5",
-     "fecha": "2026-10-28T16:43:06+00:00",
-     "medio": "El Día de Valladolid"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:allodirect",
    "empresa": "AlloDirect",
    "sitio_web": null,
@@ -1644,6 +1542,165 @@
     }
    ],
    "motor": "reglas"
+  },
+  {
+   "key": "n:celes",
+   "empresa": "Celes",
+   "sitio_web": null,
+   "pais": "Colombia",
+   "ciudad": "Barranquilla",
+   "sector": "Retail Tech / Software",
+   "etapa": "serie-a",
+   "monto_usd": 5000000.0,
+   "inversionistas": [
+    "SP Ventures (Brasil), Fulcrum Global Capital (EE.UU.), 30N Ventures (México), Taram Capital (Chile)"
+   ],
+   "fundadores": [
+    "Luis Ricardo Almanza (CEO), Luis Ballestas (COO), David"
+   ],
+   "tecnologia": true,
+   "calidad": 8.0,
+   "resumen": "Startup de software para empresas retail que operan en América Latina, con soluciones digitales para el sector comercial.",
+   "razon": "Serie A reciente (USD 5M) liderada por fondo brasileño de calidad, co-inversionistas reconocidos, sector retail de alto mercado en LatAm, tracción post-seed confirmada.",
+   "mensaje": "Felicidades por el cierre de su Serie A con SP Ventures y el equipo que armaron. Desde Latin Leap seguimos con interés a los mejores equipos de retail tech en la región. Si en futuras rondas consideran capital estratégico de un fondo centrado en LatAm hispanohablante, nos encantaría conversar sobre cómo podríamos sumar valor más allá del cheque.",
+   "score": 77,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 7.5,
+    "tecnologia": 15.0,
+    "senal": 13.5,
+    "calidad": 16.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-27T16:06:32+00:00",
+   "ultima_senal": "2026-10-29T15:07:10+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Celes, la startup de retail de Barranquilla, levanta US$5M",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRGQ4ZE00NWtSdU1HcUZBT2dSMHA2eFRXekhOSkE3TFhEY19NTi1lb1lnalVVaXg0ajM5LVc3cUo4U0FEUnFSNzZfLWhUc3BYeU1aenM2SGJhNWlWbmwwMDNmcVBOWjhrRXhQRnU2YW8wWDRfUGNCSXVZVTNjTENzUmtiSkFqOG0tUzcwZkpuZw?oc=5",
+     "fecha": "2026-10-27T16:06:32+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Celes, retailtech de Barranquilla, levanta US$5M",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmNycjAwNDhQVDJKUWdXZXE3endBUzBJV29OQmdyVVBhSFBtVnEyZHJlZ2tjV0NDVE9nX2twN0lEdEhxbTkzQ2VyRW0tc25MWGR3eXRVd01nZ2hTTGMyTFVMUi1kYkZDVDJsUjUyc2NZMi1FUW92RmdrZEMyVXR0S2Jn?oc=5",
+     "fecha": "2026-10-28T15:28:32+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Startups Latam",
+     "tipo": "noticia",
+     "titulo": "Startup Celes levanta US$5 millones liderada por SP Ventures para escalar en empresas retail por América Latina",
+     "url": "https://startupslatam.com/startup-celes-levanta-us5-millones-liderada-por-sp-ventures-para-escalar-en-empresas-retail-por-america-latina/",
+     "fecha": "2026-10-29T15:07:10+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:dream",
+   "empresa": "Dream",
+   "sitio_web": null,
+   "pais": "México",
+   "ciudad": null,
+   "sector": "Proptech / IA",
+   "etapa": "serie-a",
+   "monto_usd": 17000000.0,
+   "inversionistas": [
+    "a16z"
+   ],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 8.0,
+   "resumen": "Dream es una plataforma de IA que optimiza la operación y eficiencia de edificios.",
+   "razon": "Startup mexicana en geografía de tesis, levantó US$17M con a16z (inversor reconocido globalmente), solución de IA para edificios en sector proptech con potencial de mercado grande en LATAM.",
+   "mensaje": "Nos impresionó ver que Dream levantó US$17M con a16z para soluciones de IA en edificios inteligentes desde México. El mercado de proptech en LATAM es enorme y poco penetrado. ¿Están considerando expandir operaciones en otros países de la región o sería de interés dialogar sobre ello?",
+   "score": 74,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 7.5,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 16.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-19T18:52:55+00:00",
+   "ultima_senal": "2026-10-29T19:06:30+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Dream Labs Raises $90M in Seed Funding to Build Foundation Models for Any Robot",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR2xhZkd5MmEzUHF5M201VF8xN1VwQmc3b1FqUVVVYWxrc19DUUd1VV94YUd1N2lBb1BUT0h0QXE0R2JTTnV6cXp5enlkd1BnUDZZTjh1bGdOSkNDYWF6V1h4dGVsOXJMaGxRYkx1WmZIeHFDVVdGZmt6dnpJNk9hTTJTQ0xVYzNuZ184cWNoQVhwaUJWYU1HVC0zN3JGX09nVGk5b09xVENuOERBNkt1R2hUeklQZWc?oc=5",
+     "fecha": "2026-10-19T18:52:55+00:00",
+     "medio": "AI Insider"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Dream: IA para edificios levanta US$17M con a16z",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdml3Yl9sRVI0eldqVVdsS3lwRFFua2dodjE4VGhNeFBTbTNoRmxPX3dQckdabHhhemxUMXhZMzlIRi1FcTVjaWR5QUExR0FWczYzU3k4YVZzVWNkLUN0Q3RsbzR1ZHhhWGQ0Ui02RklWeUJfcUxSSzJ1WlAzSmJYb2kyNA?oc=5",
+     "fecha": "2026-10-29T19:06:30+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:mintive",
+   "empresa": "Mintive",
+   "sitio_web": null,
+   "pais": "México",
+   "ciudad": null,
+   "sector": "IA / SaaS",
+   "etapa": "serie-a",
+   "monto_usd": 7000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 8.0,
+   "resumen": "Mintive proporciona soluciones de identidad e infraestructura para agentes de inteligencia artificial.",
+   "razon": "Startup mexicana en geografía de tesis, producto de IA (identidad para agentes de IA) con tracción demostrada por ronda de US$7M, mercado de IA en LATAM en crecimiento acelerado.",
+   "mensaje": "Vimos que Mintive levantó US$7M enfocándose en infraestructura de identidad para agentes de IA, un tema cada vez más crítico en el ecosistema. El timing en México es excelente. ¿Podrían ayudarnos a entender mejor cómo ven la expansión latinoamericana del producto?",
+   "score": 74,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 7.5,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 16.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-30T13:06:09+00:00",
+   "fecha_evidencia": "2026-10-29T20:36:28+00:00",
+   "ultima_senal": "2026-10-29T20:36:28+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Mintive, identidad para agentes de IA, levanta US$7M",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWE5KckUtVmZKOUhFcXNOREVrcFFnUkJ4dGtiRzQwSkFWbV9sMFJPclM1Y1BXSVBYM2pOc05zczJzazYxT0JrU2xEYjFrdzhMUW02LWRBNjQ1dGZkbG5wOUY2cmwwVE5RN1Bpc2JGeWJNZlVUQjI4VUhidkpFV3JVSjdkVUNVTEU?oc=5",
+     "fecha": "2026-10-29T20:36:28+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
   },
   {
    "key": "d:fieldbeat.com",
@@ -1917,6 +1974,49 @@
    "motor": "llm"
   },
   {
+   "key": "n:sharewillow",
+   "empresa": "ShareWillow",
+   "sitio_web": null,
+   "pais": "Colombia",
+   "ciudad": null,
+   "sector": "Servicios / Marketplace",
+   "etapa": "serie-a",
+   "monto_usd": 8500000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "ShareWillow es una plataforma marketplace que conecta y facilita pagos a técnicos de oficios.",
+   "razon": "Startup colombiana en geografía de tesis, levantó ronda significativa (US$8.5M indica traction post-seed), modelo de marketplace digital para técnicos de oficios tiene mercado grande en LATAM.",
+   "mensaje": "Nos llamó la atención que ShareWillow haya levantado US$8.5M enfocándose en la digitalización de pagos para técnicos en Colombia. El mercado de servicios técnicos en LATAM es enorme y poco digitalizado. ¿Estarían abiertos a conversar sobre oportunidades de expansión regional con un fondo enfocado en la región?",
+   "score": 72,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 7.5,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 14.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-30T13:06:09+00:00",
+   "fecha_evidencia": "2026-10-29T17:00:45+00:00",
+   "ultima_senal": "2026-10-29T17:00:45+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "ShareWillow levanta US$8,5M para pagar a técnicos de oficios",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaEhRWXFzLWtmclpRYjhiMmJMVV9ocnFMMFJWbXZNWnR1Vlp4SWR1aFFUYjJCY1pYMHpHa2JmMjJycU1lN1NnMEZMMldRSDJpUGlFd05YbjhiSjZTYmYtV0s0Nm1KODIyMWdYSGg5eWFzNmx0YVlPb1hzUHBMMXpNZGJpd3k0Q1Fial9tRVhNTW5URVU?oc=5",
+     "fecha": "2026-10-29T17:00:45+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:factorit.com",
    "empresa": "Factor IT",
    "sitio_web": "http://www.factorit.com",
@@ -2132,49 +2232,6 @@
    "motor": "reglas"
   },
   {
-   "key": "d:artefact.com",
-   "empresa": "Artefact LatAm",
-   "sitio_web": "https://www.artefact.com/es/",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Artefact es una consultora líder a nivel mundial, dedicada a acelerar la adopción de datos e inteligencia artificial para generar un impacto positivo en las personas y las organizaciones.",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-15T14:46:24+00:00",
-   "ultima_senal": "2026-10-15T14:46:24+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Artefact LatAm está contratando: Data Engineer",
-     "url": "https://www.getonbrd.com/jobs/data-engineer-artefact-latam-ciudad-de-mexico-lima-bogota-santiago",
-     "fecha": "2026-10-15T14:46:24+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "d:itsmartglobal.com",
    "empresa": "ITSMART",
    "sitio_web": "https://itsmartglobal.com",
@@ -2212,49 +2269,6 @@
      "titulo": "ITSMART está contratando: Desarrollador Go y Node.js",
      "url": "https://www.getonbrd.com/jobs/desarrollador-go-y-node-js-itsmart-santiago",
      "fecha": "2026-10-23T17:08:04+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "d:bicevida.cl",
-   "empresa": "BICE VIDA",
-   "sitio_web": "http://www.bicevida.cl",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Líderes en el negocio de las aseguradoras en Chile, somos una empresa enfocada en satisfacer las necesidades de seguridad, prosperidad y protección de nuestros clientes. ",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-15T21:07:12+00:00",
-   "ultima_senal": "2026-10-15T21:07:12+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "BICE VIDA está contratando: Developer Java, Developer Front-end, Ingeniero de Datos Middle, Ingeniero de Datos Senior",
-     "url": "https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-bice-vida-santiago-cde7",
-     "fecha": "2026-10-15T21:07:12+00:00",
      "medio": null
     }
    ],
@@ -3282,6 +3296,49 @@
    "motor": "reglas"
   },
   {
+   "key": "d:artefact.com",
+   "empresa": "Artefact LatAm",
+   "sitio_web": "https://www.artefact.com/es/",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Artefact es una consultora líder a nivel mundial, dedicada a acelerar la adopción de datos e inteligencia artificial para generar un impacto positivo en las personas y las organizaciones.",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-15T14:46:24+00:00",
+   "ultima_senal": "2026-10-15T14:46:24+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Artefact LatAm está contratando: Data Engineer",
+     "url": "https://www.getonbrd.com/jobs/data-engineer-artefact-latam-ciudad-de-mexico-lima-bogota-santiago",
+     "fecha": "2026-10-15T14:46:24+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "d:solvoglobal.com",
    "empresa": "Solvo Global",
    "sitio_web": "https://solvoglobal.com/",
@@ -3362,6 +3419,49 @@
      "titulo": "Chipax está contratando: Senior Product Engineer",
      "url": "https://www.getonbrd.com/jobs/senior-product-engineer-chipax-remote",
      "fecha": "2026-10-14T15:59:48+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "d:bicevida.cl",
+   "empresa": "BICE VIDA",
+   "sitio_web": "http://www.bicevida.cl",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Líderes en el negocio de las aseguradoras en Chile, somos una empresa enfocada en satisfacer las necesidades de seguridad, prosperidad y protección de nuestros clientes. ",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-15T21:07:12+00:00",
+   "ultima_senal": "2026-10-15T21:07:12+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "BICE VIDA está contratando: Developer Java, Developer Front-end, Ingeniero de Datos Middle, Ingeniero de Datos Senior",
+     "url": "https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-bice-vida-santiago-cde7",
+     "fecha": "2026-10-15T21:07:12+00:00",
      "medio": null
     }
    ],
@@ -3449,49 +3549,6 @@
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmtRam9BRFZjaDdNenF2X2Y5T2JsM0VJckhjdXhDU1R0RXdZallESDl2V29valhROGo2dEZ1SElpWXNaUW5kR19UMnNGbHdjYkFGY1dCNF9GU0Y3WjRnSk1xdHdKMEwtYUFXQ19ZLWtXY2dPUmtlQU9hbjNCY0xDbWRGU1FxTVdJY3lQaXhjRTN1WDFIUlRjSFRaaFdmUU45ckpn0gGoAUFVX3lxTFBnQ21HRFhsczZqWXJublRuUGJYeU1jeDg4ZThYTEVRYVVIZHFsTTg5UF9jNDE4T05mWjk5elhBT0ZxVlVKSHc3WTBxd1RCcnE5Nmt5MmRzYmI1SVd1NXFwa2pOYlpHV0YwdzZJX2JJX2lOWnN2eWx4MmJ0bklVTXVobTZ6Zkx1QUZFTEt6WEFVMHFVWTZsRk94cW5qSk54ZXgwRF8wZnIxbw?oc=5",
      "fecha": "2026-10-19T16:33:22+00:00",
      "medio": "CNBC TV18"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "n:dream",
-   "empresa": "Dream Labs",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "seed",
-   "monto_usd": 90000000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Dream Labs Raises $90M in Seed Funding to Build Foundation Models for Any Robot AI Insider",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 68,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-19T18:52:55+00:00",
-   "ultima_senal": "2026-10-19T18:52:55+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Dream Labs Raises $90M in Seed Funding to Build Foundation Models for Any Robot",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR2xhZkd5MmEzUHF5M201VF8xN1VwQmc3b1FqUVVVYWxrc19DUUd1VV94YUd1N2lBb1BUT0h0QXE0R2JTTnV6cXp5enlkd1BnUDZZTjh1bGdOSkNDYWF6V1h4dGVsOXJMaGxRYkx1WmZIeHFDVVdGZmt6dnpJNk9hTTJTQ0xVYzNuZ184cWNoQVhwaUJWYU1HVC0zN3JGX09nVGk5b09xVENuOERBNkt1R2hUeklQZWc?oc=5",
-     "fecha": "2026-10-19T18:52:55+00:00",
-     "medio": "AI Insider"
     }
    ],
    "motor": "reglas"
@@ -4814,6 +4871,49 @@
    "motor": "llm"
   },
   {
+   "key": "n:delegancebrokerage",
+   "empresa": "Delegance Brokerage",
+   "sitio_web": null,
+   "pais": "desconocido",
+   "ciudad": null,
+   "sector": "Insurtech",
+   "etapa": "pre-seed",
+   "monto_usd": 3100000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Startup de seguros digitales que recauda USD 3.1M en pre-seed para escalar su plataforma de brokerage.",
+   "razon": "Startup insurtech pre-seed concreta con USD 3.1M recaudados; etapa y sector alineados; sin confirmación de LATAM pero nombre en español sugiere potencial regional.",
+   "mensaje": "Hola equipo de Delegance, vimos que levantaron USD 3.1M en pre-seed para su plataforma insurtech. Nos interesa conocer más sobre vuestra visión de digitizar seguros en América Latina. ¿Estarían abiertos a conversar con Latin Leap sobre posibles sinergias?",
+   "score": 62,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 12.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-30T13:06:09+00:00",
+   "fecha_evidencia": "2026-10-20T07:00:00+00:00",
+   "ultima_senal": "2026-10-20T07:00:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Startup insurtech Delegance Brokerage raises $3.1 million in pre-seed funding",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTEZVTld2OTNLbGxTa3pUa2V4MGRfZDlLd2s3bGxLVFdNaUxHTE9rVE9KTU5sX0hqekFmQ3gxVnNKLU8tbVRHRHc0YVgzODBTbkdFOW51WUR4NmRCU2NxWENhYnhSWXhReGhySzB5RDU0eEJjWVJSa3AxMUllcTBTSlYwUFh6ZzI4eDdXTUM0ZFUzY0ZYT1NFN1dVV2szWEhBRE5jTTRlVXhwZHdkbGwyVEFQNzN1SjRSUFVxQXJPbw?oc=5",
+     "fecha": "2026-10-20T07:00:00+00:00",
+     "medio": "theinsurer.com"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "n:scanntech",
    "empresa": "Scanntech",
    "sitio_web": null,
@@ -4894,6 +4994,65 @@
      "titulo": "Forgepoint, IA para fábricas, levanta US$9,8M",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NTzFIWlpfcmd4N3J2TkxYVC0xaGRmdTVTX3Z1RDdtSnlKTkhTTVZKV19zSS05eDBxNU5ENFFhdXpIS1NQRVpNbWI2OWR1THRxXy1hNUVQeFo4RXpXQVQ1NVV1amxwZW1QM1J0S25zUDZYRHVyQ2xHalp0Rm1tSUU?oc=5",
      "fecha": "2026-10-17T17:21:28+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:manualalinstante",
+   "empresa": "Manual al Instante",
+   "sitio_web": null,
+   "pais": "España",
+   "ciudad": "Valladolid",
+   "sector": "desconocido",
+   "etapa": "pre-seed",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Manual al Instante ganó el Demo Day de startups de Valladolid.",
+   "razon": "Startup española (fuera de tesis geográfica), sin información de tecnología, tracción o modelo de negocio en la señal.",
+   "mensaje": "¡Felicitaciones por ganar el Demo Day de Consolida Startup! En Latin Leap nos interesa conocer más sobre Manual al Instante y cómo está resolviendo un problema en el mercado. Nos encantaría escuchar directamente de ustedes sobre la visión y los próximos pasos del proyecto.",
+   "score": 58,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 12.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-29T13:07:57+00:00",
+   "fecha_evidencia": "2026-10-28T16:43:06+00:00",
+   "ultima_senal": "2026-10-29T16:57:52+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Manual al Instante, startup industrial, gana el Demo Day",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2pBVmE5TUdPZENHSi12YXJ2a1p4eFM3dW12SlJwSXZ5SC1McF9vbGlYYjdjdVd1TVdoeGVGaHh2NUF0QWZEVWI0UnhLSFhBSmFOYURGc0JaS1JYbXN3OFI1VG92UXFwUGk2emNrdC1IRmdWTXJtQzY5ZkZYVTh1NERoeF9TSm5taGNNZlBn?oc=5",
+     "fecha": "2026-10-28T19:21:42+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "'Manual al Instante' gana el Demo Day Consolida Startup",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTUlzTkxwUWM2M0FHQnE3SDVZNXdWQjBxNlhjaUdpTzh3cGdSbl9BcGhFaEhFUVlRc3AxajhMNFNGWVczNGJ2aHZjeGNidzhwUlJmRDdPeTVBMmM1eUw1WHJPbnNuLTRKNFZ5WExHWE1zLU5pQzVRTUd3Qnd3VGw4cFhSRFJUc24yN2V1bC1vNjFZWkkxakZRRklERnI2V1Q0SjNYdWVOQ0Q2VFJHSHRPSUcxM1ZsR2ZMYlF1RjNHNHl6V0lxdG1POVItSldkemJ4WVFzSTFR?oc=5",
+     "fecha": "2026-10-28T16:43:06+00:00",
+     "medio": "El Día de Valladolid"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Manual al Instante gana el Demo Day de startups de Valladolid",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMEtwbW1DOGpMQUotSDFlVGs2M0tJb1hfTUJRTHhhRUtPVG1zT0h1X3ZGQ0g2SWZVd29YVnR2VHRvby1uWXRRY3JTbnFkV29kd01ROXpRMUVacG8yTnp0WjlPaW5JcUFWWjBqOUM3M2tGUVRWSmd6LWNrLTg2Q0Y4NEEyVGZBNVZyQlktUVRXWW5XT2ktdm1r?oc=5",
+     "fecha": "2026-10-29T16:57:52+00:00",
      "medio": "El Ecosistema Startup"
     }
    ],
@@ -5891,49 +6050,6 @@
    "motor": "reglas"
   },
   {
-   "key": "n:fello",
-   "empresa": "Fello",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 4.0,
-   "resumen": "Startup Fello con información de financiación pendiente de confirmar.",
-   "razon": "Señal muy genérica sin detalles de ronda, inversores, tracción o ubicación. El título solo pregunta sobre el monto sin confirmarlo.",
-   "mensaje": "Hola Fello, encontramos una referencia a tu startup en nuestras búsquedas de rondas recientes en México. Nos gustaría saber más sobre qué están construyendo y en qué etapa se encuentran. ¿Podrían agendar una breve llamada?",
-   "score": 42,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 12.5,
-    "tecnologia": 7.5,
-    "senal": 6.0,
-    "calidad": 8.0
-   },
-   "prioridad": "C",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T12:50:07+00:00",
-   "fecha_evidencia": "2026-10-16T07:00:00+00:00",
-   "ultima_senal": "2026-10-16T07:00:00+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "How Much Did Fello Raise? Funding & Key Investors",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1acjBjd2dVeUFacnUtRW1DVmlHdmhsMzcyNUZEaTZ3RHNlR3NjampGbklYN3pPa21yNEFhMHFHZUU2VTVhSGM3MGR1T25NcmVNYVEyTQ?oc=5",
-     "fecha": "2026-10-16T07:00:00+00:00",
-     "medio": "Clay"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:valendra",
    "empresa": "Valendra",
    "sitio_web": null,
@@ -5972,6 +6088,49 @@
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV3hXc0k4M252R3JVN3pINmpjYTl1ZFFjT295QW5BdVNpV0pNWl9aTlhvSGJxMmxUVnBWVUlZcjlray1EdWxMYjJ5c3ZuY3ptd0dFWFc2a1JwakpaSE5hbnl6SFY1cDVNVlFtbDlodXNuam9vU3B5TXkzUUlvVzVrSEJtZE4wa010UjBaQzdXdnFFZFpHbFl4aUtEd2ZqekFkOWRvR1Qwa2RPQ0dUcEI1RU8wOWhXbnQxam85TDRiONIBxAFBVV95cUxONEhSUTJ3OUpzbmlWTVhXOTBDZ21WUUdFUUR0eHdKRlBNNXJRN3U1enJwZmMtUzZGNElpdkRjRjZ1XzN6NHpDdm9EczdaM3pSUGYyM2tMbmRtcWtaWTJyRzRHX0tzRUxTcWJBVDZ0UTJOc0NSWjhpdE1fM09fckV6Ukt1cDZxTnFsVXFiQ0gxbzFzcDZjYmcxU2J2SjQ3QWhxZ3l3b2xEQlJJNE5lTnB4ZEZsd0tsdUVucjlLX1V4NlRfeG5Y?oc=5",
      "fecha": "2026-10-28T11:14:53+00:00",
      "medio": "Diario de Jerez"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:fello",
+   "empresa": "Fello",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 4.0,
+   "resumen": "Startup Fello con información de financiación pendiente de confirmar.",
+   "razon": "Señal muy genérica sin detalles de ronda, inversores, tracción o ubicación. El título solo pregunta sobre el monto sin confirmarlo.",
+   "mensaje": "Hola Fello, encontramos una referencia a tu startup en nuestras búsquedas de rondas recientes en México. Nos gustaría saber más sobre qué están construyendo y en qué etapa se encuentran. ¿Podrían agendar una breve llamada?",
+   "score": 40,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 12.5,
+    "tecnologia": 7.5,
+    "senal": 4.5,
+    "calidad": 8.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T12:50:07+00:00",
+   "fecha_evidencia": "2026-10-16T07:00:00+00:00",
+   "ultima_senal": "2026-10-16T07:00:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "How Much Did Fello Raise? Funding & Key Investors",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1acjBjd2dVeUFacnUtRW1DVmlHdmhsMzcyNUZEaTZ3RHNlR3NjampGbklYN3pPa21yNEFhMHFHZUU2VTVhSGM3MGR1T25NcmVNYVEyTQ?oc=5",
+     "fecha": "2026-10-16T07:00:00+00:00",
+     "medio": "Clay"
     }
    ],
    "motor": "llm"
@@ -6020,49 +6179,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:16startupsperuanasbuscan",
-   "empresa": "16 startups peruanas buscan",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "serie-b+",
-   "monto_usd": 23100000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 5.0,
-   "resumen": "16 startups peruanas buscan levantar US$ 23,1 millones tras preparación para obtener inversión internacional Business Empresarial",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 36,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 0.0,
-    "tecnologia": 7.5,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "Fuera de tesis",
-   "en_tesis": false,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-15T23:48:25+00:00",
-   "ultima_senal": "2026-10-15T23:48:25+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "16 startups peruanas buscan levantar US$ 23,1 millones tras preparación para obtener inversión internacional",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQmQ0NGFRLXJXQWx2WVlEX2d6cC1NaUhVcWJtMzhoQmJJNnJSalQ0SUo5cVNkbjI2Y0dEMW9WVVFUZ3pKbWRXTm1VdnhqXzBuMi04TzYyUlRrb0hPcTVrV2RSVmZJaEZTODN3bGtIb3I2cllaQVZWRkQxUEItem1GNFJBd01RX1kwdW1LN1JKWTZxaUlEM0ZZV01SN2xhT1h4TncxTlFPNEt4MnM5eEhDR0VFSzhGMzBJMFppSjNTWmRrN1FVQ0t6NEozNDgzekNPQktiN0tLeV84RDloWkVV?oc=5",
-     "fecha": "2026-10-15T23:48:25+00:00",
-     "medio": "Business Empresarial"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "n:jeeves",
    "empresa": "Jeeves",
    "sitio_web": null,
@@ -6104,18 +6220,61 @@
     }
    ],
    "motor": "reglas"
+  },
+  {
+   "key": "n:16startupsperuanasbuscan",
+   "empresa": "16 startups peruanas buscan",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "serie-b+",
+   "monto_usd": 23100000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "16 startups peruanas buscan levantar US$ 23,1 millones tras preparación para obtener inversión internacional Business Empresarial",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 34,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 0.0,
+    "tecnologia": 7.5,
+    "senal": 9.0,
+    "calidad": 10.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-15T23:48:25+00:00",
+   "ultima_senal": "2026-10-15T23:48:25+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "16 startups peruanas buscan levantar US$ 23,1 millones tras preparación para obtener inversión internacional",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQmQ0NGFRLXJXQWx2WVlEX2d6cC1NaUhVcWJtMzhoQmJJNnJSalQ0SUo5cVNkbjI2Y0dEMW9WVVFUZ3pKbWRXTm1VdnhqXzBuMi04TzYyUlRrb0hPcTVrV2RSVmZJaEZTODN3bGtIb3I2cllaQVZWRkQxUEItem1GNFJBd01RX1kwdW1LN1JKWTZxaUlEM0ZZV01SN2xhT1h4TncxTlFPNEt4MnM5eEhDR0VFSzhGMzBJMFppSjNTWmRrN1FVQ0t6NEozNDgzekNPQktiN0tLeV84RDloWkVV?oc=5",
+     "fecha": "2026-10-15T23:48:25+00:00",
+     "medio": "Business Empresarial"
+    }
+   ],
+   "motor": "reglas"
   }
  ],
  "metricas": {
-  "actualizado": "2026-10-29T13:07:57+00:00",
+  "actualizado": "2026-10-30T13:06:09+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 90,
-  "prioridad_a_30d": 27,
-  "incremento_vs_baseline": 1.5,
-  "cumplimiento_meta": 15.0,
-  "total_deals": 132,
-  "total_calificados": 96,
+  "calificados_30d": 91,
+  "prioridad_a_30d": 26,
+  "incremento_vs_baseline": 1.517,
+  "cumplimiento_meta": 15.17,
+  "total_deals": 135,
+  "total_calificados": 97,
   "conocidos_detectados": 2,
   "por_semana": {
    "2025-06-16": 1,
@@ -6127,24 +6286,24 @@
    "2026-10-05": 8,
    "2026-10-12": 22,
    "2026-10-19": 38,
-   "2026-10-26": 22
+   "2026-10-26": 23
   },
   "por_fuente": {
-   "Google News": 45,
+   "Google News": 46,
    "Get on Board": 43,
    "Y Combinator": 6,
+   "Startups Latam": 3,
    "LatamList": 2,
-   "Startups Latam": 2,
    "Techla Media": 1
   },
   "por_pais": {
    "Chile": 40,
-   "?": 24,
+   "?": 23,
+   "México": 11,
    "Argentina": 9,
-   "México": 9,
-   "Colombia": 5,
-   "Guatemala": 3,
+   "Colombia": 6,
    "Uruguay": 2,
+   "Guatemala": 2,
    "Costa Rica": 1,
    "Perú": 1,
    "Bolivia": 1,
@@ -6711,6 +6870,84 @@
       "fuente": "Google News",
       "ok": true,
       "senales": 260,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 5,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 48,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-10-30T13:04:17+00:00",
+    "fin": "2026-10-30T13:06:09+00:00",
+    "senales_crudas": 362,
+    "descartadas_prefiltro": 152,
+    "procesadas": 33,
+    "deals_nuevos": 3,
+    "calificados_nuevos": 2,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 15,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 264,
       "error": null
      },
      {
