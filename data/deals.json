@@ -63,12 +63,12 @@
   "ultima_senal": "2026-10-16T16:40:03+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 60,
+  "score": 59,
   "desglose": {
    "geografia": 25.0,
    "etapa": 0.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
   "prioridad": "Fuera de tesis",
@@ -1603,32 +1603,44 @@
     "url": "https://www.getonbrd.com/jobs/full-stack-engineer-cumplo-santiago-3dd2",
     "fecha": "2026-10-21T19:50:45+00:00",
     "medio": null
+   },
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Cumplo está contratando: Full-Stack Engineer, DevOps",
+    "url": "https://www.getonbrd.com/jobs/dev-ops-cumplo-santiago",
+    "fecha": "2026-10-30T20:45:57+00:00",
+    "medio": null
    }
   ],
   "inversionistas": [],
   "fundadores": [],
-  "calidad": 5.0,
-  "motor": "reglas",
+  "calidad": 6.0,
+  "motor": "llm",
   "empresa": "Cumplo",
   "sitio_web": "http://www.cumplo.cl",
   "pais": "Chile",
   "etapa": "desconocida",
-  "resumen": "Conectamos a pequeñas y medianas empresas que necesitan financiamiento con inversionistas e instituciones que estén dispuestas a invertir en sus sueños y proyectos.",
-  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "resumen": "Cumplo es un marketplace que conecta pequeñas y medianas empresas que buscan financiamiento con inversionistas e instituciones dispuestas a invertir.",
+  "razon": "Fintech con propuesta clara (crowdfunding/marketplace de financiamiento B2B), opera en mercado de LATAM, etapa operacional desconocida pero señal reciente de contratación sugiere tracción.",
   "fecha_evidencia": "2026-10-21T19:50:45+00:00",
-  "ultima_senal": "2026-10-21T19:50:45+00:00",
+  "ultima_senal": "2026-10-30T20:45:57+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 62,
+  "score": 72,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
-   "tecnologia": 7.5,
+   "tecnologia": 15.0,
    "senal": 7.5,
-   "calidad": 10.0
+   "calidad": 12.0
   },
   "prioridad": "B",
-  "en_tesis": true
+  "en_tesis": true,
+  "ciudad": "Santiago",
+  "sector": "Fintech / Financiero",
+  "tecnologia": true,
+  "mensaje": "Hola equipo Cumplo, nos interesa mucho el modelo de marketplace que están construyendo para democratizar el financiamiento de pymes en Chile. Vemos que están en búsqueda de talento técnico, ¿estarían abiertos a conversar sobre oportunidades de inversión? Nos encantaría conocer más de la tracción y visión del equipo."
  },
  "d:42labs.cl": {
   "key": "d:42labs.cl",
@@ -2220,12 +2232,12 @@
   "ultima_senal": "2026-10-16T14:39:22+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 53,
+  "score": 52,
   "desglose": {
    "geografia": 7.5,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 12.0
   },
   "prioridad": "C",
@@ -3735,12 +3747,12 @@
   "ultima_senal": "2026-10-17T06:06:41+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 92,
+  "score": 90,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 16.0
   },
   "prioridad": "A",
@@ -4069,31 +4081,44 @@
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUxiSnZvLU0zTnBBQXZ3ZHkxTlFtcVpCWk51SW96bkJzY29OekdxVUdXN0JDbXJmWTVHNGI0TTRJWTR5cldZMVlSVUpOVUZZLWo1Z0REUlVyWG5GU19TWWprSG1rVjdqVkpoTkFvUzdWLXZqeFVhbE9KaE1HZ0xSMUNtb1ZuZkNaN1FQTQ?oc=5",
     "fecha": "2026-10-22T13:55:29+00:00",
     "medio": "Wamda"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Event-Tech Startup INVE Raises US$300,000 in Pre-seed Funding from Outliers VC",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3RYYklTVS12M00xN2xXakYxSldOcFZXYjVBSWhVN09abExxTThJeWZQb3F3LVA5N2ZQS2lONlpKRnVDeTVfTU1seEVmMkEyRDh1Zm10UWducWZqWHhWckxqbDJTSnZTbTdjS3ZtaUl1ZHUzVVQ0S0dqY2VvR3JrZXg0a2xleHRGZWp3VS1FcHpiX211R2d5SV96TVFrMG5t?oc=5",
+    "fecha": "2026-10-24T20:30:38+00:00",
+    "medio": "Techeconomy"
    }
   ],
-  "inversionistas": [],
+  "inversionistas": [
+   "Outliers VC"
+  ],
   "fundadores": [],
-  "calidad": 5.0,
-  "motor": "reglas",
+  "calidad": 6.0,
+  "motor": "llm",
   "empresa": "INVE",
-  "etapa": "seed",
-  "monto_usd": 300.0,
-  "resumen": "INVE raises $300,000 from Outliers VC to scale eventtech platform across GCC Wamda",
-  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "etapa": "pre-seed",
+  "monto_usd": 300000.0,
+  "resumen": "Startup de event-tech que levantó USD 300K en ronda pre-seed con Outliers VC.",
+  "razon": "Pre-seed con inversión respaldada por Outliers VC (fondo reconocido en LATAM); sector específico (event-tech) sugiere diferenciación; monto bajo (<USD 1M) es típico de etapa.",
   "fecha_evidencia": "2026-10-22T13:55:29+00:00",
-  "ultima_senal": "2026-10-22T13:55:29+00:00",
+  "ultima_senal": "2026-10-24T20:30:38+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 60,
+  "score": 70,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
-   "tecnologia": 7.5,
+   "tecnologia": 15.0,
    "senal": 10.5,
-   "calidad": 10.0
+   "calidad": 12.0
   },
   "prioridad": "B",
-  "en_tesis": true
+  "en_tesis": true,
+  "sector": "Event-Tech",
+  "tecnologia": true,
+  "mensaje": "Hola equipo INVE, vimos que acababan de cerrar una ronda pre-seed con Outliers VC en event-tech, un sector en expansión en LATAM. Nos gustaría conocerlos y explorar si podemos ser aliados en fases próximas de crecimiento. ¿Les parece una conversación? Saludos, Latin Leap."
  },
  "n:healthcarestartupbiostack": {
   "key": "n:healthcarestartupbiostack",

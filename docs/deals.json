@@ -309,49 +309,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:carbonfarm",
-   "empresa": "CarbonFarm",
-   "sitio_web": null,
-   "pais": "Argentina",
-   "ciudad": null,
-   "sector": "AgTech",
-   "etapa": "seed",
-   "monto_usd": 7700000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 8.0,
-   "resumen": "Agtech enfocada en arroz sostenible que levantó €7M para expandir operaciones.",
-   "razon": "Startup de LATAM concreta (Argentina), sector AgTech con potencial alto, monto significativo (€7M), foco en arroz (cultivo relevante en región).",
-   "mensaje": "Hola equipo CarbonFarm, felicitaciones por la ronda de €7M. En Latin Leap nos entusiasma el potencial de AgTech en LATAM, especialmente en cultivos clave como el arroz. Nos gustaría conversar sobre vuestra visión de expansión regional y modelo de impacto. ¿Tenéis tiempo para una breve llamada?",
-   "score": 92,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 16.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T12:50:07+00:00",
-   "fecha_evidencia": "2026-10-17T06:06:41+00:00",
-   "ultima_senal": "2026-10-17T06:06:41+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "CarbonFarm, agtech del arroz, levanta 7M€",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tSjk1d3dVekVnX3RWWldrbkFVTW83T1hTT0FXWG4tWHdKY05VNkRwWW5ESUMzQklwek5sbk9wZmdNMGh1TmRWOGFHczFIRUdEOUVIRVFma0xQc1R4QXZjcC1FaXdYNHRicWFhUktHTG5fVXFjaFRiQjF3?oc=5",
-     "fecha": "2026-10-17T06:06:41+00:00",
-     "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:desconocida",
    "empresa": "Desconocida",
    "sitio_web": null,
@@ -442,6 +399,49 @@
      "titulo": "Ruit levanta 880.000 € con Juan Roig para el recommerce",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWmlXdG1yNHR4RVBCMU9CcFB3THJ0WmFCQUZIN1llMHQzeDJuZGJiNkxxTTFCOXFoZUdkaThXdkphcUtOZkFGS0kwZnJxbXJmM1VLTDEweF9HRDV4UnNWeldLWmJBN2hpSkFTZDd5QkFJbjhvaGctSWJ1Zm1rT25UR3o3MTZKUW9HY3Q2dkp1bw?oc=5",
      "fecha": "2026-10-18T09:06:50+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:carbonfarm",
+   "empresa": "CarbonFarm",
+   "sitio_web": null,
+   "pais": "Argentina",
+   "ciudad": null,
+   "sector": "AgTech",
+   "etapa": "seed",
+   "monto_usd": 7700000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 8.0,
+   "resumen": "Agtech enfocada en arroz sostenible que levantó €7M para expandir operaciones.",
+   "razon": "Startup de LATAM concreta (Argentina), sector AgTech con potencial alto, monto significativo (€7M), foco en arroz (cultivo relevante en región).",
+   "mensaje": "Hola equipo CarbonFarm, felicitaciones por la ronda de €7M. En Latin Leap nos entusiasma el potencial de AgTech en LATAM, especialmente en cultivos clave como el arroz. Nos gustaría conversar sobre vuestra visión de expansión regional y modelo de impacto. ¿Tenéis tiempo para una breve llamada?",
+   "score": 90,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 16.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T12:50:07+00:00",
+   "fecha_evidencia": "2026-10-17T06:06:41+00:00",
+   "ultima_senal": "2026-10-17T06:06:41+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "CarbonFarm, agtech del arroz, levanta 7M€",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tSjk1d3dVekVnX3RWWldrbkFVTW83T1hTT0FXWG4tWHdKY05VNkRwWW5ESUMzQklwek5sbk9wZmdNMGh1TmRWOGFHczFIRUdEOUVIRVFma0xQc1R4QXZjcC1FaXdYNHRicWFhUktHTG5fVXFjaFRiQjF3?oc=5",
+     "fecha": "2026-10-17T06:06:41+00:00",
      "medio": "El Ecosistema Startup"
     }
    ],
@@ -1703,6 +1703,57 @@
    "motor": "llm"
   },
   {
+   "key": "d:cumplo.cl",
+   "empresa": "Cumplo",
+   "sitio_web": "http://www.cumplo.cl",
+   "pais": "Chile",
+   "ciudad": "Santiago",
+   "sector": "Fintech / Financiero",
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Cumplo es un marketplace que conecta pequeñas y medianas empresas que buscan financiamiento con inversionistas e instituciones dispuestas a invertir.",
+   "razon": "Fintech con propuesta clara (crowdfunding/marketplace de financiamiento B2B), opera en mercado de LATAM, etapa operacional desconocida pero señal reciente de contratación sugiere tracción.",
+   "mensaje": "Hola equipo Cumplo, nos interesa mucho el modelo de marketplace que están construyendo para democratizar el financiamiento de pymes en Chile. Vemos que están en búsqueda de talento técnico, ¿estarían abiertos a conversar sobre oportunidades de inversión? Nos encantaría conocer más de la tracción y visión del equipo.",
+   "score": 72,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 7.5,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-21T19:50:45+00:00",
+   "ultima_senal": "2026-10-30T20:45:57+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Cumplo está contratando: Full-Stack Engineer",
+     "url": "https://www.getonbrd.com/jobs/full-stack-engineer-cumplo-santiago-3dd2",
+     "fecha": "2026-10-21T19:50:45+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Cumplo está contratando: Full-Stack Engineer, DevOps",
+     "url": "https://www.getonbrd.com/jobs/dev-ops-cumplo-santiago",
+     "fecha": "2026-10-30T20:45:57+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:fieldbeat.com",
    "empresa": "FieldBeat",
    "sitio_web": "http://www.fieldbeat.com",
@@ -2770,6 +2821,59 @@
     }
    ],
    "motor": "reglas"
+  },
+  {
+   "key": "n:inve",
+   "empresa": "INVE",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "Event-Tech",
+   "etapa": "pre-seed",
+   "monto_usd": 300000.0,
+   "inversionistas": [
+    "Outliers VC"
+   ],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Startup de event-tech que levantó USD 300K en ronda pre-seed con Outliers VC.",
+   "razon": "Pre-seed con inversión respaldada por Outliers VC (fondo reconocido en LATAM); sector específico (event-tech) sugiere diferenciación; monto bajo (<USD 1M) es típico de etapa.",
+   "mensaje": "Hola equipo INVE, vimos que acababan de cerrar una ronda pre-seed con Outliers VC en event-tech, un sector en expansión en LATAM. Nos gustaría conocerlos y explorar si podemos ser aliados en fases próximas de crecimiento. ¿Les parece una conversación? Saludos, Latin Leap.",
+   "score": 70,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-22T13:55:29+00:00",
+   "ultima_senal": "2026-10-24T20:30:38+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "INVE raises $300,000 from Outliers VC to scale eventtech platform across GCC",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUxiSnZvLU0zTnBBQXZ3ZHkxTlFtcVpCWk51SW96bkJzY29OekdxVUdXN0JDbXJmWTVHNGI0TTRJWTR5cldZMVlSVUpOVUZZLWo1Z0REUlVyWG5GU19TWWprSG1rVjdqVkpoTkFvUzdWLXZqeFVhbE9KaE1HZ0xSMUNtb1ZuZkNaN1FQTQ?oc=5",
+     "fecha": "2026-10-22T13:55:29+00:00",
+     "medio": "Wamda"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Event-Tech Startup INVE Raises US$300,000 in Pre-seed Funding from Outliers VC",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3RYYklTVS12M00xN2xXakYxSldOcFZXYjVBSWhVN09abExxTThJeWZQb3F3LVA5N2ZQS2lONlpKRnVDeTVfTU1seEVmMkEyRDh1Zm10UWducWZqWHhWckxqbDJTSnZTbTdjS3ZtaUl1ZHUzVVQ0S0dqY2VvR3JrZXg0a2xleHRGZWp3VS1FcHpiX211R2d5SV96TVFrMG5t?oc=5",
+     "fecha": "2026-10-24T20:30:38+00:00",
+     "medio": "Techeconomy"
+    }
+   ],
+   "motor": "llm"
   },
   {
    "key": "n:colare",
@@ -4043,49 +4147,6 @@
    "motor": "reglas"
   },
   {
-   "key": "d:cumplo.cl",
-   "empresa": "Cumplo",
-   "sitio_web": "http://www.cumplo.cl",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 5.0,
-   "resumen": "Conectamos a pequeñas y medianas empresas que necesitan financiamiento con inversionistas e instituciones que estén dispuestas a invertir en sus sueños y proyectos.",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 62,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 7.5,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-21T19:50:45+00:00",
-   "ultima_senal": "2026-10-21T19:50:45+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Cumplo está contratando: Full-Stack Engineer",
-     "url": "https://www.getonbrd.com/jobs/full-stack-engineer-cumplo-santiago-3dd2",
-     "fecha": "2026-10-21T19:50:45+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "d:movek.cl",
    "empresa": "Movek",
    "sitio_web": "http://movek.cl",
@@ -4253,49 +4314,6 @@
      "url": "https://www.getonbrd.com/jobs/operational-automation-engineer-comunidadfeliz-remote",
      "fecha": "2026-10-07T23:42:36+00:00",
      "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "n:inve",
-   "empresa": "INVE",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "seed",
-   "monto_usd": 300.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 5.0,
-   "resumen": "INVE raises $300,000 from Outliers VC to scale eventtech platform across GCC Wamda",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 60,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 7.5,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-26T14:55:10+00:00",
-   "fecha_evidencia": "2026-10-22T13:55:29+00:00",
-   "ultima_senal": "2026-10-22T13:55:29+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "INVE raises $300,000 from Outliers VC to scale eventtech platform across GCC",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUxiSnZvLU0zTnBBQXZ3ZHkxTlFtcVpCWk51SW96bkJzY29OekdxVUdXN0JDbXJmWTVHNGI0TTRJWTR5cldZMVlSVUpOVUZZLWo1Z0REUlVyWG5GU19TWWprSG1rVjdqVkpoTkFvUzdWLXZqeFVhbE9KaE1HZ0xSMUNtb1ZuZkNaN1FQTQ?oc=5",
-     "fecha": "2026-10-22T13:55:29+00:00",
-     "medio": "Wamda"
     }
    ],
    "motor": "reglas"
@@ -4929,12 +4947,12 @@
    "resumen": "Uruguayan retail technology company Scanntech raised $180M in a round led by L Catterton, with participation from Partners…",
    "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
    "mensaje": null,
-   "score": 60,
+   "score": 59,
    "desglose": {
     "geografia": 25.0,
     "etapa": 0.0,
     "tecnologia": 15.0,
-    "senal": 10.5,
+    "senal": 9.0,
     "calidad": 10.0
    },
    "prioridad": "Fuera de tesis",
@@ -5162,12 +5180,12 @@
    "resumen": "Neopausia es una clínica online enfocada en salud femenina, particularmente menopausia. Nathalie Wilk lidera el proyecto con determinación a pesar del escepticismo inicial de inversores.",
    "razon": "Clínica online de salud femenina (menopausia) con founder determinada que ya levanta capital; mercado de salud digital es atractivo, pero falta tracción y ubicación geográfica clara.",
    "mensaje": "Hola Nathalie, nos llegó tu historia en Neopausia y nos encanta tu determinación. Desde Latin Leap trabajamos con founders que construyen en sectores de alto impacto como salud digital. ¿Te gustaría conversar sobre cómo apoyarte en tu siguiente ronda? Un abrazo.",
-   "score": 53,
+   "score": 52,
    "desglose": {
     "geografia": 7.5,
     "etapa": 12.5,
     "tecnologia": 15.0,
-    "senal": 6.0,
+    "senal": 4.5,
     "calidad": 12.0
    },
    "prioridad": "C",
@@ -6266,7 +6284,7 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-10-30T13:06:09+00:00",
+  "actualizado": "2026-10-31T12:58:01+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
   "calificados_30d": 91,
@@ -6966,6 +6984,84 @@
       "fuente": "Get on Board",
       "ok": true,
       "senales": 48,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-10-31T12:56:38+00:00",
+    "fin": "2026-10-31T12:58:01+00:00",
+    "senales_crudas": 333,
+    "descartadas_prefiltro": 140,
+    "procesadas": 21,
+    "deals_nuevos": 0,
+    "calificados_nuevos": 0,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 16,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 232,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 5,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 50,
       "error": null
      }
     ]
