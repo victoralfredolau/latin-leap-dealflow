@@ -1415,6 +1415,49 @@
    "motor": "llm"
   },
   {
+   "key": "n:odycell",
+   "empresa": "Odycell",
+   "sitio_web": null,
+   "pais": "Argentina",
+   "ciudad": null,
+   "sector": "biotech",
+   "etapa": "seed",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Startup argentina de biotech que ha levantado capital semilla.",
+   "razon": "Startup argentina de biotech en etapa semilla, sector de mayor complejidad técnica y potencial de impacto, dentro de geografía objetivo.",
+   "mensaje": "Vimos que Odycell está entre los emprendimientos de capital semilla argentino más destacados. En Latin Leap somos muy selectivos con biotech en etapa temprana. ¿Podríamos conocer más sobre el proyecto y el equipo?",
+   "score": 83,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 12.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-01T12:58:05+00:00",
+   "fecha_evidencia": "2026-11-01T12:09:30+00:00",
+   "ultima_senal": "2026-11-01T12:09:30+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Agrology, Give Zero y Odycell: el capital semilla argentino",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb0kxN1p0NFhxcGM3NHNHV01uZGtfYTcwWDZ2eVJqSDFhOGJUcVd1NzRMYkJndllEeTIzWENyM1pfR0U2bC1Gdml2aWlHbjRQVnZRVVhSQllPb3JVYUlKOHZkV1d1WDI0QkREY2x3ekE5cUN2ZHVCM0wwTXFUc0F1MEFna3VRY3lrWDliNGgtTHl0Zw?oc=5",
+     "fecha": "2026-11-01T12:09:30+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "n:wealth2b",
    "empresa": "Wealth2B",
    "sitio_web": null,
@@ -1430,12 +1473,12 @@
    "resumen": "Wealth2B es una plataforma de IA para inversión dirigida a bancos con expansión planeada a US$300M para 2027.",
    "razon": "Startup de IA para inversión en banca; ubicación potencial en Centroamérica o Caribe hispanohablante (en tesis); menciona meta ambiciosa (US$300M en 2027) pero sin ronda reportada ni tracción verificada.",
    "mensaje": "Hola equipo de Wealth2B, vimos que están trabajando en IA para inversión bancaria con objetivos ambiciosos para 2027. Nos interesa conectar con founders de LATAM hispanohablante. ¿Podríamos agendar una breve conversación para conocer mejor el proyecto?",
-   "score": 83,
+   "score": 82,
    "desglose": {
     "geografia": 25.0,
     "etapa": 25.0,
     "tecnologia": 15.0,
-    "senal": 6.0,
+    "senal": 4.5,
     "calidad": 12.0
    },
    "prioridad": "A",
@@ -1496,6 +1539,92 @@
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ2RfQ191Ykg2Nzh3b3hFNEpWc0tUeUpHRERZY2tXRXpXZkZ0MzREXzFUZWMzUHhNLXJaUUFUYWR3X1RrTTZSY0JtaHhvd19ObG5CSndYeWkyVlhLS1QyczdjSk1yckNJd1hRamNyUVRadEtTcHRVcTNnbXdadV9JRTVLVjNlUklJ?oc=5",
      "fecha": "2026-10-21T22:31:00+00:00",
      "medio": "nwitimes.com"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:agrology",
+   "empresa": "Agrology",
+   "sitio_web": null,
+   "pais": "Argentina",
+   "ciudad": null,
+   "sector": "agtech",
+   "etapa": "seed",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Startup argentina enfocada en agtech que ha levantado capital semilla.",
+   "razon": "Startup argentina en etapa semilla con tracción en capital semilla, pero sin detalles de monto o diferenciación específica en la señal.",
+   "mensaje": "Vimos que Agrology está en el radar del ecosistema de capital semilla argentino. Nos gustaría conocer más sobre el producto y la visión del equipo. ¿Estarían abiertos a una conversación con Latin Leap?",
+   "score": 81,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-01T12:58:05+00:00",
+   "fecha_evidencia": "2026-11-01T12:09:30+00:00",
+   "ultima_senal": "2026-11-01T12:09:30+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Agrology, Give Zero y Odycell: el capital semilla argentino",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb0kxN1p0NFhxcGM3NHNHV01uZGtfYTcwWDZ2eVJqSDFhOGJUcVd1NzRMYkJndllEeTIzWENyM1pfR0U2bC1Gdml2aWlHbjRQVnZRVVhSQllPb3JVYUlKOHZkV1d1WDI0QkREY2x3ekE5cUN2ZHVCM0wwTXFUc0F1MEFna3VRY3lrWDliNGgtTHl0Zw?oc=5",
+     "fecha": "2026-11-01T12:09:30+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:givezero",
+   "empresa": "Give Zero",
+   "sitio_web": null,
+   "pais": "Argentina",
+   "ciudad": null,
+   "sector": "fintech/impacto",
+   "etapa": "seed",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Startup argentina de fintech o impacto social que ha levantado capital semilla.",
+   "razon": "Startup argentina de fintech/impacto en etapa semilla, pero sin detalles específicos de tracción o diferenciación en la señal.",
+   "mensaje": "Notamos que Give Zero es parte del ecosistema argentino de capital semilla. Nos interesa mucho el segmento fintech con propósito social en LatAm. ¿Podríamos agendar una breve conversación?",
+   "score": 81,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-01T12:58:05+00:00",
+   "fecha_evidencia": "2026-11-01T12:09:30+00:00",
+   "ultima_senal": "2026-11-01T12:09:30+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Agrology, Give Zero y Odycell: el capital semilla argentino",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb0kxN1p0NFhxcGM3NHNHV01uZGtfYTcwWDZ2eVJqSDFhOGJUcVd1NzRMYkJndllEeTIzWENyM1pfR0U2bC1Gdml2aWlHbjRQVnZRVVhSQllPb3JVYUlKOHZkV1d1WDI0QkREY2x3ekE5cUN2ZHVCM0wwTXFUc0F1MEFna3VRY3lrWDliNGgtTHl0Zw?oc=5",
+     "fecha": "2026-11-01T12:09:30+00:00",
+     "medio": "El Ecosistema Startup"
     }
    ],
    "motor": "llm"
@@ -2721,65 +2850,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:harbor",
-   "empresa": "Harbor",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": "Insurtech / IA",
-   "etapa": "seed",
-   "monto_usd": 10000000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 6.0,
-   "resumen": "Harbor es una insurtech que cubre riesgos de agentes de IA.",
-   "razon": "Insurtech enfocada en agentes de IA con USD 10M en seed, modelo diferenciado pero sin claridad sobre geografía de operación.",
-   "mensaje": "Hola equipo de Harbor, vimos que levantaron USD 10M como insurtech de agentes de IA. Es un espacio muy oportuno. ¿Tienen presencia o planes en América Latina? Nos encantaría conversar.",
-   "score": 70,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 12.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-13T15:33:25+00:00",
-   "ultima_senal": "2026-10-18T05:24:32+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Harbor levanta US$10M para asegurar a agentes de IA",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3I3YkxGTzNOMk5Mei0xand1UlZWRDEzd3N1SW5VWkJnaUxZQWZDOHlUV1pJbXdWUHJnb1hldlktdFNIQWZlbTIzZHdxS1hETS1GSXd1LU5rTXhoeWhzbnNnTnI4MGllNTFyM1lIRzM2c05CME5VZXQyWXViX1dRQjMtdjJwOVFX?oc=5",
-     "fecha": "2026-10-16T13:09:34+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Harbor, seguros para agentes de IA, levanta US$10M",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa3V3TXJ4ejhkV3hjWEl2aVhrTnVicTdhSXlWcmN5bThNSnpiVlliOXhGLUFlaXJVa3RRVVpuamF0allFTmJqN0F5SEFTbS1PaTVCTnh1b05mQzB6eGFKQTlidmZmeUQwb3ZremhwR3dKeGNRdEtJcnZ1UUU4R3VMNUc0U08?oc=5",
-     "fecha": "2026-10-13T15:33:25+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Harbor, insurtech de agentes de IA, levanta US$10M",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWTI1cC04UDFrRExCUEh1N2p5U1lwRmNkUG1kenQwbmRwSVFiaE9vbjI1Wk5hMzhtX3dqY2dqYThNZzhyYjlsaDJqUTB2S1VmM2x3a3FzdV9aV1l2Z3hZSjFXZklfRzUyUnZOVnFpcDdObW9nTm80UmN1akJoQkJjbWtNU1c3YTQ?oc=5",
-     "fecha": "2026-10-18T05:24:32+00:00",
-     "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "d:hf.solutions",
    "empresa": "HF Solutions",
    "sitio_web": "http://www.hf.solutions",
@@ -3744,6 +3814,65 @@
    "motor": "llm"
   },
   {
+   "key": "n:harbor",
+   "empresa": "Harbor",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "Insurtech / IA",
+   "etapa": "seed",
+   "monto_usd": 10000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Harbor es una insurtech que cubre riesgos de agentes de IA.",
+   "razon": "Insurtech enfocada en agentes de IA con USD 10M en seed, modelo diferenciado pero sin claridad sobre geografía de operación.",
+   "mensaje": "Hola equipo de Harbor, vimos que levantaron USD 10M como insurtech de agentes de IA. Es un espacio muy oportuno. ¿Tienen presencia o planes en América Latina? Nos encantaría conversar.",
+   "score": 68,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-13T15:33:25+00:00",
+   "ultima_senal": "2026-10-18T05:24:32+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Harbor levanta US$10M para asegurar a agentes de IA",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3I3YkxGTzNOMk5Mei0xand1UlZWRDEzd3N1SW5VWkJnaUxZQWZDOHlUV1pJbXdWUHJnb1hldlktdFNIQWZlbTIzZHdxS1hETS1GSXd1LU5rTXhoeWhzbnNnTnI4MGllNTFyM1lIRzM2c05CME5VZXQyWXViX1dRQjMtdjJwOVFX?oc=5",
+     "fecha": "2026-10-16T13:09:34+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Harbor, seguros para agentes de IA, levanta US$10M",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa3V3TXJ4ejhkV3hjWEl2aVhrTnVicTdhSXlWcmN5bThNSnpiVlliOXhGLUFlaXJVa3RRVVpuamF0allFTmJqN0F5SEFTbS1PaTVCTnh1b05mQzB6eGFKQTlidmZmeUQwb3ZremhwR3dKeGNRdEtJcnZ1UUU4R3VMNUc0U08?oc=5",
+     "fecha": "2026-10-13T15:33:25+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Harbor, insurtech de agentes de IA, levanta US$10M",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWTI1cC04UDFrRExCUEh1N2p5U1lwRmNkUG1kenQwbmRwSVFiaE9vbjI1Wk5hMzhtX3dqY2dqYThNZzhyYjlsaDJqUTB2S1VmM2x3a3FzdV9aV1l2Z3hZSjFXZklfRzUyUnZOVnFpcDdObW9nTm80UmN1akJoQkJjbWtNU1c3YTQ?oc=5",
+     "fecha": "2026-10-18T05:24:32+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:i2btech.com",
    "empresa": "I2B Technologies",
    "sitio_web": "https://www.i2btech.com/es/inicio/",
@@ -4491,6 +4620,49 @@
    "motor": "reglas"
   },
   {
+   "key": "n:deleverstartup",
+   "empresa": "Delever startup",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": 380.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Delever startup raises $380,000 from AloqaVentures and Nexus Club Spot.uz",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 60,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 7.5,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-01T12:58:05+00:00",
+   "fecha_evidencia": "2026-10-31T03:04:27+00:00",
+   "ultima_senal": "2026-10-31T03:04:27+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Delever startup raises $380,000 from AloqaVentures and Nexus Club",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nQUlnSEtMaWVoTDlZOW8tZ29iaGNEYV9kQnl5czB4UVNFOXY4YUVlRWxUazZhTm1Ha1NPNzl3RmVvTVU1eGsyNWs4R0NiOTk4bi1oYw?oc=5",
+     "fecha": "2026-10-31T03:04:27+00:00",
+     "medio": "Spot.uz"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "n:giraffebio",
    "empresa": "Giraffe Bio",
    "sitio_web": null,
@@ -4741,49 +4913,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:matria",
-   "empresa": "Matria",
-   "sitio_web": null,
-   "pais": "desconocido",
-   "ciudad": null,
-   "sector": "healthtech",
-   "etapa": "seed",
-   "monto_usd": 6500000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "Matria conecta datos hospitalarios fragmentados en América Latina para mejorar la interoperabilidad y acceso a información clínica. Plataforma SaaS dirigida a sistemas de salud.",
-   "razon": "Ronda de seed de USD 6.5M en healthtech dirigida al mercado latinoamericano, problema claro (fragmentación de datos hospitalarios), tracción regional evident.",
-   "mensaje": "Hola equipo de Matria,\n\nVimos que levantaron USD 6.5M para conectar datos hospitalarios en América Latina, un problema crítico que tiene enorme potencial. Nos encantaría conocer cómo están escalando la adopción en la región.\n\n¿Estarían abiertos a una conversación breve?\n\nSaludos,\nLatin Leap",
-   "score": 64,
-   "desglose": {
-    "geografia": 0.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 14.0
-   },
-   "prioridad": "Fuera de tesis",
-   "en_tesis": false,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-18T00:12:36+00:00",
-   "ultima_senal": "2026-10-18T00:12:36+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Matria raises $6.5M seed to connect fragmented hospital data across Latin America",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONnNna2JYQjExbENYUGtvdnBrM3dZc0ZLQkFTNE9TczVUM2w0NEZpNTc5ZVFxSHoxc09LekdMajVlLU9nX1pQUHQxZktTQVpuOE92bUdNQldBUlp6dDBHWGFuLVpVam9yRWJSU3hGb1dhQkMzLXZVUm41bGZtNjRxTE4tWTR6b0VMc1o5cDhmejQ1bkVkSEhaYjhrQmxyUXhVLXBPbFNsRE9mMmhuUWF2TWhGSTY?oc=5",
-     "fecha": "2026-10-18T00:12:36+00:00",
-     "medio": "Dealroom"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:electricplant",
    "empresa": "Electric Plant",
    "sitio_web": null,
@@ -4822,6 +4951,49 @@
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnVGSndXa05rWmtreW5Nay14Vl92cGM0M0NfWGhUVkhRR0s1VzdYSGNqdGNHWkJfeVBjcDlyMGtnRFN3TUdzR0NGRXlESXp0bkdBUllfczFpTmNYakFHd2VnMlhYTUJEOE9FSjYxNG90S0lpd21oUFROS0gyT2VtTEczamNqbS1aTzNZ?oc=5",
      "fecha": "2026-10-20T18:33:32+00:00",
      "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:matria",
+   "empresa": "Matria",
+   "sitio_web": null,
+   "pais": "desconocido",
+   "ciudad": null,
+   "sector": "healthtech",
+   "etapa": "seed",
+   "monto_usd": 6500000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Matria conecta datos hospitalarios fragmentados en América Latina para mejorar la interoperabilidad y acceso a información clínica. Plataforma SaaS dirigida a sistemas de salud.",
+   "razon": "Ronda de seed de USD 6.5M en healthtech dirigida al mercado latinoamericano, problema claro (fragmentación de datos hospitalarios), tracción regional evident.",
+   "mensaje": "Hola equipo de Matria,\n\nVimos que levantaron USD 6.5M para conectar datos hospitalarios en América Latina, un problema crítico que tiene enorme potencial. Nos encantaría conocer cómo están escalando la adopción en la región.\n\n¿Estarían abiertos a una conversación breve?\n\nSaludos,\nLatin Leap",
+   "score": 63,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 14.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-18T00:12:36+00:00",
+   "ultima_senal": "2026-10-18T00:12:36+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Matria raises $6.5M seed to connect fragmented hospital data across Latin America",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONnNna2JYQjExbENYUGtvdnBrM3dZc0ZLQkFTNE9TczVUM2w0NEZpNTc5ZVFxSHoxc09LekdMajVlLU9nX1pQUHQxZktTQVpuOE92bUdNQldBUlp6dDBHWGFuLVpVam9yRWJSU3hGb1dhQkMzLXZVUm41bGZtNjRxTE4tWTR6b0VMc1o5cDhmejQ1bkVkSEhaYjhrQmxyUXhVLXBPbFNsRE9mMmhuUWF2TWhGSTY?oc=5",
+     "fecha": "2026-10-18T00:12:36+00:00",
+     "medio": "Dealroom"
     }
    ],
    "motor": "llm"
@@ -4975,49 +5147,6 @@
    "motor": "reglas"
   },
   {
-   "key": "n:forgepoint",
-   "empresa": "Forgepoint",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": "Manufactura / IA Industrial",
-   "etapa": "desconocida",
-   "monto_usd": 9800000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 6.0,
-   "resumen": "Forgepoint es una startup de IA enfocada en automatización y optimización de procesos de fabricación que levantó USD 9.8M.",
-   "razon": "IA para manufactura es un mercado relevante; USD 9.8M sugiere validación, pero sin confirmación de ubicación en LATAM hispanohablante.",
-   "mensaje": "Notamos que Forgepoint levantó USD 9.8M en IA para fábricas. ¿Tiene base o equipo en LATAM hispanohablante? Nos interesa mucho esta vertical de manufactura + IA.",
-   "score": 58,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 12.0
-   },
-   "prioridad": "C",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-17T17:21:28+00:00",
-   "ultima_senal": "2026-10-17T17:21:28+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Forgepoint, IA para fábricas, levanta US$9,8M",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NTzFIWlpfcmd4N3J2TkxYVC0xaGRmdTVTX3Z1RDdtSnlKTkhTTVZKV19zSS05eDBxNU5ENFFhdXpIS1NQRVpNbWI2OWR1THRxXy1hNUVQeFo4RXpXQVQ1NVV1amxwZW1QM1J0S25zUDZYRHVyQ2xHalp0Rm1tSUU?oc=5",
-     "fecha": "2026-10-17T17:21:28+00:00",
-     "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:manualalinstante",
    "empresa": "Manual al Instante",
    "sitio_web": null,
@@ -5030,9 +5159,9 @@
    "fundadores": [],
    "tecnologia": true,
    "calidad": 6.0,
-   "resumen": "Manual al Instante ganó el Demo Day de startups de Valladolid.",
-   "razon": "Startup española (fuera de tesis geográfica), sin información de tecnología, tracción o modelo de negocio en la señal.",
-   "mensaje": "¡Felicitaciones por ganar el Demo Day de Consolida Startup! En Latin Leap nos interesa conocer más sobre Manual al Instante y cómo está resolviendo un problema en el mercado. Nos encantaría escuchar directamente de ustedes sobre la visión y los próximos pasos del proyecto.",
+   "resumen": "Startup ganadora del Demo Day Consolida que avanza a semifinales del South Summit. Ubicada en Valladolid, España.",
+   "razon": "Ganadora de Demo Day de aceleradora reconocida y semifinalista en South Summit, indicadores de tracción y validación temprana.",
+   "mensaje": "Felicidades por ganar el Demo Day de Consolida y llegar a semifinales del South Summit. Desde Latin Leap estamos atentos al ecosistema europeo y nos gustaría conocer más sobre Manual al Instante, especialmente si tienen planes de expansión en Latinoamérica. ¿Podríamos agendar una breve llamada?",
    "score": 58,
    "desglose": {
     "geografia": 0.0,
@@ -5072,6 +5201,14 @@
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMEtwbW1DOGpMQUotSDFlVGs2M0tJb1hfTUJRTHhhRUtPVG1zT0h1X3ZGQ0g2SWZVd29YVnR2VHRvby1uWXRRY3JTbnFkV29kd01ROXpRMUVacG8yTnp0WjlPaW5JcUFWWjBqOUM3M2tGUVRWSmd6LWNrLTg2Q0Y4NEEyVGZBNVZyQlktUVRXWW5XT2ktdm1r?oc=5",
      "fecha": "2026-10-29T16:57:52+00:00",
      "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Manual al Instante gana el Demo Day Consolida Startup en Valladolid y pasa a semifinales del South Summit",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSndGMllxN3NtRFFHemhsQnhySnNCZlB5TXBJWmJsYlFzOEJubk1maDBNOXBBRnBNWmFqY2J0WWNFejdKSWNVMmx3RWRIYUIyTTM4bTJwT0xkM08zd1ZXVzJtRXVOcDFsdXpDeXdKVW9MT3ZuTnZraG5qc01sUmk2dXdMSmlDY1lhVmd0Vm5EZDNsc0plUXZwR1VrbjZyNzF0TlBYZ19HZnNPM1FuWWpFYzdLQnJsNUNXZVhwYktBbWZTSmx4RHd6cUxmRXItWFFJZUJ6cTlwbUZjTnQzcTdxSXEtRlNXSTJKZll4Q3Vqdk9XdzlYTk5weGFIQmJIMExrZ0E?oc=5",
+     "fecha": "2026-10-28T17:34:36+00:00",
+     "medio": "El Economista"
     }
    ],
    "motor": "llm"
@@ -5120,6 +5257,49 @@
    "motor": "llm"
   },
   {
+   "key": "n:forgepoint",
+   "empresa": "Forgepoint",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "Manufactura / IA Industrial",
+   "etapa": "desconocida",
+   "monto_usd": 9800000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Forgepoint es una startup de IA enfocada en automatización y optimización de procesos de fabricación que levantó USD 9.8M.",
+   "razon": "IA para manufactura es un mercado relevante; USD 9.8M sugiere validación, pero sin confirmación de ubicación en LATAM hispanohablante.",
+   "mensaje": "Notamos que Forgepoint levantó USD 9.8M en IA para fábricas. ¿Tiene base o equipo en LATAM hispanohablante? Nos interesa mucho esta vertical de manufactura + IA.",
+   "score": 56,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 12.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-17T17:21:28+00:00",
+   "ultima_senal": "2026-10-17T17:21:28+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Forgepoint, IA para fábricas, levanta US$9,8M",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NTzFIWlpfcmd4N3J2TkxYVC0xaGRmdTVTX3Z1RDdtSnlKTkhTTVZKV19zSS05eDBxNU5ENFFhdXpIS1NQRVpNbWI2OWR1THRxXy1hNUVQeFo4RXpXQVQ1NVV1amxwZW1QM1J0S25zUDZYRHVyQ2xHalp0Rm1tSUU?oc=5",
+     "fecha": "2026-10-17T17:21:28+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "n:americanadvancedmaterials",
    "empresa": "American Advanced Materials",
    "sitio_web": null,
@@ -5161,6 +5341,49 @@
     }
    ],
    "motor": "reglas"
+  },
+  {
+   "key": "n:ykrobotics",
+   "empresa": "YK-Robotics",
+   "sitio_web": null,
+   "pais": "desconocido",
+   "ciudad": null,
+   "sector": "robotics",
+   "etapa": "seed",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Startup de robótica que cerró ronda semilla de 2.5M€ en conjunto con otro emprendimiento.",
+   "razon": "Startup de robotics en etapa semilla con ronda reportada, pero sin evidencia clara de ubicación en Latinoamérica hispanohablante.",
+   "mensaje": "Notamos que YK-Robotics ha cerrado una ronda semilla. En Latin Leap siempre buscamos a los mejores equipos de hardware y robotics en LatAm. ¿Estarían abiertos a conocer a nuestro equipo?",
+   "score": 56,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-01T12:58:05+00:00",
+   "fecha_evidencia": "2026-11-01T08:06:34+00:00",
+   "ultima_senal": "2026-11-01T08:06:34+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Talky Labs y YK-Robotics cierran 2,5M€ en rondas semilla",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaXk5V05lT2NTajZwV1JIWUZBcXVPYkxqa3RyRTdhRG05UnZ4V1R6V2lnSlcxU2pxRTJhZWRRMlR6dkVOVUJEQkVlNmxNaS1HbThVVV9mWVBYckFzRGhHaXR5WGppT0xiVGkycnF5NEp6TUZfSGxhaU9PMURURXVUQ1ZwYzVFdnE4SVlGOURSWQ?oc=5",
+     "fecha": "2026-11-01T08:06:34+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
   },
   {
    "key": "n:neopausia",
@@ -5332,6 +5555,49 @@
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91dTlUTXZYQVp5azVnTFRtMTEzUXpRczFpdU1YbUZEd3g4WUQzclRmNndNSkdmYkU5d2VVcmpjR3plZ293LUthUXNSenlpeXhEMElKMEU1NDM1SHhhcndKX2NDenk0MUZEZ2JZd1k1R3hsWDNLNDktd3BVZGRMX0E?oc=5",
      "fecha": "2026-10-27T13:00:00+00:00",
      "medio": "Technext24.com"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:disruptive",
+   "empresa": "Disruptive",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "serie-a",
+   "monto_usd": 10000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Disruptive levanta US$10.000M para IA y defensa El Ecosistema Startup",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 50,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 7.5,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-01T12:58:05+00:00",
+   "fecha_evidencia": "2026-10-27T19:06:37+00:00",
+   "ultima_senal": "2026-10-27T19:06:37+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Disruptive levanta US$10.000M para IA y defensa",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWTFWNVhweER3WGhiWlQ5NllVcDg5VDc3aS0yb3phY2RXUFRfTHZnUDJJa3hJbHJsU181RE1UVlhEVWlJclVnck1tVU9zTFVBQ0RPZFFJSmI3eDR5OW5GWTZuajNMd0JSanZBYVg5dGlIM0dxdFU3OVF4NTc5bVB0UEUxVQ?oc=5",
+     "fecha": "2026-10-27T19:06:37+00:00",
+     "medio": "El Ecosistema Startup"
     }
    ],
    "motor": "reglas"
@@ -5547,6 +5813,49 @@
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORk5ESG1na2hvOW5xa1NRRDl6OUdpQ1hJdlB0VHl4VzZWc3FwS2lGeUV0UGh6Y2pGYVg5Z2NyenpiS1hQTUN0eWk3VXVZazlBd1Z4WVlIckVWZG1hdXVOS1pMc2locTVZVkVoWnktcmRnSHUxaFg3UWJTdFc5RXc0bGdoTXNtNFVFajBRNWthaTFibjF3dVZ2anhvc2l1U0Z0eXpUYmtrUF9Nek41Vno2b3VrNkFWVk04YWNKeEpZay1DOV81VlczaVRpazlweHk0QTdfUktR0gHbAUFVX3lxTE9GMGI2NF9xTWdHMGd1eXN6cjg0M3QyUl85bmRXejJCNkRaeVItRld5aUFYM3UzQllzdTRxVDQzbElJTmRzdjZtUEJIVXkybjNDcW1qNW02alRBMzZ5QVRXUDlNMXU3cTVzU3g4ckQ4TlV6WVZDN01ZQ2piXy0wcEEweTVZX2RLSm8tVzNNSTBoclV4eGVjUkszY3ZKN2JPQVVNajVFdkt1RFBDeDVsLUlGejY3d1BYbUdORXhFV28zMnZ2SmZ6RkpBU09hUHJlRjh0S2hUbVM3QjJocw?oc=5",
      "fecha": "2026-10-23T11:45:29+00:00",
      "medio": "ET Entrepreneur"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:talky",
+   "empresa": "Talky Labs",
+   "sitio_web": null,
+   "pais": "desconocido",
+   "ciudad": null,
+   "sector": "desconocido",
+   "etapa": "seed",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 4.0,
+   "resumen": "Startup que cerró ronda semilla de 2.5M€ en conjunto con otra emprendimiento.",
+   "razon": "Startup en etapa semilla con ronda reportada (2.5M€ compartida), pero sin evidencia clara de ubicación en Latinoamérica hispanohablante.",
+   "mensaje": "Vimos que Talky Labs ha cerrado una ronda semilla recientemente. Nos gustaría saber más sobre el equipo y el producto. ¿Hay oportunidad de conocerse en una próxima conversación?",
+   "score": 46,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 25.0,
+    "tecnologia": 7.5,
+    "senal": 6.0,
+    "calidad": 8.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-01T12:58:05+00:00",
+   "fecha_evidencia": "2026-11-01T08:06:34+00:00",
+   "ultima_senal": "2026-11-01T08:06:34+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Talky Labs y YK-Robotics cierran 2,5M€ en rondas semilla",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaXk5V05lT2NTajZwV1JIWUZBcXVPYkxqa3RyRTdhRG05UnZ4V1R6V2lnSlcxU2pxRTJhZWRRMlR6dkVOVUJEQkVlNmxNaS1HbThVVV9mWVBYckFzRGhHaXR5WGppT0xiVGkycnF5NEp6TUZfSGxhaU9PMURURXVUQ1ZwYzVFdnE4SVlGOURSWQ?oc=5",
+     "fecha": "2026-11-01T08:06:34+00:00",
+     "medio": "El Ecosistema Startup"
     }
    ],
    "motor": "llm"
@@ -6284,15 +6593,15 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-10-31T12:58:01+00:00",
+  "actualizado": "2026-11-01T12:58:05+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 91,
-  "prioridad_a_30d": 26,
-  "incremento_vs_baseline": 1.517,
-  "cumplimiento_meta": 15.17,
-  "total_deals": 135,
-  "total_calificados": 97,
+  "calificados_30d": 95,
+  "prioridad_a_30d": 29,
+  "incremento_vs_baseline": 1.583,
+  "cumplimiento_meta": 15.83,
+  "total_deals": 142,
+  "total_calificados": 101,
   "conocidos_detectados": 2,
   "por_semana": {
    "2025-06-16": 1,
@@ -6304,10 +6613,10 @@
    "2026-10-05": 8,
    "2026-10-12": 22,
    "2026-10-19": 38,
-   "2026-10-26": 23
+   "2026-10-26": 27
   },
   "por_fuente": {
-   "Google News": 46,
+   "Google News": 50,
    "Get on Board": 43,
    "Y Combinator": 6,
    "Startups Latam": 3,
@@ -6316,9 +6625,9 @@
   },
   "por_pais": {
    "Chile": 40,
-   "?": 23,
+   "?": 24,
+   "Argentina": 12,
    "México": 11,
-   "Argentina": 9,
    "Colombia": 6,
    "Uruguay": 2,
    "Guatemala": 2,
@@ -7044,6 +7353,84 @@
       "fuente": "Google News",
       "ok": true,
       "senales": 232,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 5,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 50,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-11-01T12:56:52+00:00",
+    "fin": "2026-11-01T12:58:05+00:00",
+    "senales_crudas": 314,
+    "descartadas_prefiltro": 136,
+    "procesadas": 15,
+    "deals_nuevos": 7,
+    "calificados_nuevos": 4,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 16,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 213,
       "error": null
      },
      {
