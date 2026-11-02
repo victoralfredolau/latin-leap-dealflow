@@ -2331,6 +2331,14 @@
     "url": "https://startupslatam.com/tether-lidera-la-ronda-presemilla-de-peso-la-fintech-boliviana-que-lleva-el-usdt-a-los-pagos-cotidianos-en-america-latina/",
     "fecha": "2026-10-26T12:45:00+00:00",
     "medio": null
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Tether Leads Pre-Seed Round for Bolivia's Peso to Expand Stablecoin Payments in Latin America",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDlkd2pBc2s3ZWtfcmREbG1UYVdaeEVWc0tUYnZiT2FpT1VjWFJZYzVBTlJLbXAxRU1zR0x3bWZCNm1ZUDRYbl9rZU1OVWtMSHhVMnV5UGIwVE5HUUdNOE5qOVBxYTFzbU9qeUxTRjBVZWV6X28ySnFGaHRwX19TOG5fTkNUaS04bHFIaG9aVHVnSXE5ekV0eDBNQjRieDlHaE9CWXo5b1dENndmOEVMbWNzR3pKN0dROUJoYTFGUDVYTkxSaWc?oc=5",
+    "fecha": "2026-10-21T07:00:00+00:00",
+    "medio": "KuCoin"
    }
   ],
   "inversionistas": [
@@ -2341,13 +2349,13 @@
   "motor": "llm",
   "empresa": "Peso",
   "pais": "Bolivia",
-  "sector": "Fintech",
+  "sector": "FinTech / Criptomonedas",
   "etapa": "pre-seed",
   "tecnologia": true,
-  "resumen": "Peso es una cuenta global en dólares digitales que permite ahorrar, gastar, invertir y enviar dinero al exterior desde una sola app. Ofrece acceso a pagos cotidianos en USDT para usuarios en América Latina.",
-  "mensaje": "Felicitaciones por cerrar la presemilla liderada por Tether. En Latin Leap seguimos de cerca las fintechs que democratizan acceso a divisas estables en LATAM. Nos encantaría conocer más sobre vuestra tracción de usuarios y estrategia de expansión regional. ¿Podríamos agendar una llamada?",
-  "razon": "Fintech con tracción en mercado desatendido (dólares digitales en LATAM), respaldada por Tether (emisora de USDT), pero sin monto de ronda ni detalles de operación reportados.",
-  "fecha_evidencia": "2026-10-21T13:25:21+00:00",
+  "resumen": "Peso es una stablecoin de Bolivia que levanta pre-seed liderado por Tether para expandir pagos en América Latina.",
+  "mensaje": "Hola equipo Peso, nos fascinó saber que Tether lidera vuestra ronda pre-seed para expandir pagos con stablecoin en Latinoamérica. Bolivia tiene un mercado financiero con mucho potencial. ¿Podríamos agendar una conversación sobre vuestra tracción actual y roadmap?",
+  "razon": "Peso está en Bolivia (dentro de tesis), levanta pre-seed con Tether (inversor reconocido en cripto), y aborda pagos con stablecoin en LATAM. Tracción potencial en fintech.",
+  "fecha_evidencia": "2026-10-21T07:00:00+00:00",
   "ultima_senal": "2026-10-26T12:45:00+00:00",
   "conocido_fuente": null,
   "conocido": false,
@@ -5048,6 +5056,14 @@
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53NkxYOUVDa01ST0tuYXZiQmNxaFBOd09iVzFCVHgtTWg2OEgxdWg1dlNkTnVjNm0xaGFTR1FKZ0JjSVBnYzZLNnMtUmNIY3hERklVTHRZVkh2Sk1HNG1JT2Jfb3dHNlE1bGp4aFNYSldzVWJl?oc=5",
     "fecha": "2026-10-28T20:15:36+00:00",
     "medio": "Merca2.es"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Artiso capta más de 3 millones en una ronda pre-semilla liderada por Criteria Venture Tech",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMlI5QXYyTHdKd1hrOHFrelJHcGQtNGpCU0FHQTBhYmhqcG9lMElnZnlKN0pfRHY5Ny1DdVg2RHNKendWYjRDbEhzcEw5bFY2TmtYblFTXy1HNTBCb2ltbHZPV0xUMElDaHlfUVcxdVpmYUZlM2lkQWx3UElJbnl1S2l5UEJnWXFxdFMxX0JvNlFjeVRxOEtLYThKbFNySElKdE9rQkE5c0xHRWxQblZwLTI4TDdaZWM2NkQtOFRLeUE0T03SAcgBQVVfeXFMT3FnYzRuWlp0SWhkM3VFdkRLd29yVWpId2JiTTl1TjdfaUp1OUV5RlBscjE3UC1ZNUI3RzAxc0pGT2gySGxNSWFPZmZRdVBaaTljM1djUUp2elBNa1I1a1lkWGx6b1U3cVkzeE5zanREUURKS3ZDWnd0MEh4NHhUZVhneEh6djhYQ0hFbU43VmtvRkhlUnRkeHluY3M5Rk9GcEdsaExINWM1NG1sNFZYVEg1RVZNX2gxQS1HdkJ0clNIY2hPN1lldE8?oc=5",
+    "fecha": "2026-10-28T10:39:09+00:00",
+    "medio": "Demócrata"
    }
   ],
   "inversionistas": [
@@ -5057,28 +5073,29 @@
   "fundadores": [],
   "calidad": 7.0,
   "motor": "llm",
-  "empresa": "Artiso AI",
+  "empresa": "Artiso",
   "etapa": "pre-seed",
   "monto_usd": 3000000.0,
-  "resumen": "Artiso AI aplica inteligencia artificial al diseño de moda. Acaba de cerrar su ronda pre-seed de USD 3 millones con Criteria.",
-  "mensaje": "Hola equipo de Artiso AI, vimos que acaban de cerrar USD 3M en pre-seed con Criteria para revolucionar el diseño de moda con IA. Creemos que es un caso fascinante de tecnología transformando industrias tradicionales. Nos gustaría conectar y conocer vuestras métricas y proyecciones. ¡Saludos desde Latin Leap!",
-  "razon": "Ronda pre-seed de USD 3M con inversor reconocido (Criteria); aplicación de IA a industria grande (moda); tracción suficiente para levantar capital.",
+  "resumen": "Artiso levantó más de USD 3M en una ronda pre-semilla liderada por Criteria Venture Tech.",
+  "mensaje": "Hola equipo Artiso, vimos que captan más de USD 3M en pre-seed con Criteria Venture Tech. Si están con enfoque en América Latina hispanohablante, nos gustaría conocer más sobre vuestra tracción y visión. ¡Estamos siempre atentos a innovadores de alto potencial!",
+  "razon": "Artiso levantó >USD 3M en pre-seed con inversor reconocido (Criteria Venture Tech), pero España está fuera de la geografía de Latin Leap. Si fuese de LATAM, sería atractivo; ubicación desconocida en la señal.",
   "fecha_evidencia": "2026-10-28T10:39:09+00:00",
   "ultima_senal": "2026-10-28T20:15:36+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 72,
+  "score": 64,
   "desglose": {
-   "geografia": 7.5,
+   "geografia": 0.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
    "senal": 10.5,
    "calidad": 14.0
   },
-  "prioridad": "B",
-  "en_tesis": true,
-  "sector": "Moda & IA",
-  "tecnologia": true
+  "prioridad": "Fuera de tesis",
+  "en_tesis": false,
+  "sector": "Tecnología",
+  "tecnologia": true,
+  "pais": "España"
  },
  "n:layrz": {
   "key": "n:layrz",
