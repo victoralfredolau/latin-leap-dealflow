@@ -1911,12 +1911,12 @@
   "ultima_senal": "2026-10-19T19:51:14+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -2758,12 +2758,12 @@
   "ultima_senal": "2026-10-19T16:33:22+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 68,
+  "score": 66,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -3316,12 +3316,12 @@
   "ultima_senal": "2026-10-20T01:33:30+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 72,
+  "score": 70,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 14.0
   },
   "prioridad": "B",
@@ -3582,12 +3582,12 @@
   "ultima_senal": "2026-10-20T02:22:01+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 56,
+  "score": 55,
   "desglose": {
    "geografia": 25.0,
    "etapa": 0.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 6.0
   },
   "prioridad": "Fuera de tesis",
@@ -3833,12 +3833,12 @@
   "ultima_senal": "2026-10-19T13:38:59+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 90,
+  "score": 88,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 14.0
   },
   "prioridad": "A",
@@ -3911,12 +3911,12 @@
   "ultima_senal": "2026-10-19T17:37:20+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -4444,12 +4444,12 @@
   "ultima_senal": "2026-10-20T11:06:10+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 68,
+  "score": 66,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -4486,12 +4486,12 @@
   "ultima_senal": "2026-10-20T12:38:46+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 72,
+  "score": 70,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 14.0
   },
   "prioridad": "B",
@@ -4853,6 +4853,14 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHh3VlFGRnVFX0tiSVNBOW9lc1E3ZWpxTFRxNkJ0WlFvZEhuZ1FxY2tETGN0OVJMWUFybXpUR1RfZnBWZ3gtLS1NNnEtM196R2twdDhMaWJCeFc2dTU5aVNjMUhKbk9yM0xfVFFsSWdNVHI3RjltQnV0OURJMDUwME5uV1c?oc=5",
     "fecha": "2026-10-28T23:03:28+00:00",
     "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "LatamList",
+    "tipo": "noticia",
+    "titulo": "Viatik raises $600K to expand in Argentina",
+    "url": "https://latamlist.com/viatik-raises-600k-to-expand-in-argentina/",
+    "fecha": "2026-10-29T22:55:54+00:00",
+    "medio": null
    }
   ],
   "inversionistas": [
@@ -4865,15 +4873,15 @@
   "motor": "llm",
   "empresa": "Viatik",
   "pais": "Uruguay",
-  "sector": "travel-tech",
+  "sector": "Movilidad / Carpooling",
   "etapa": "seed",
   "monto_usd": 600000.0,
   "tecnologia": true,
-  "resumen": "Viatik es una aplicación uruguaya para planificación y gestión de viajes que levantó USD 600.000.",
-  "mensaje": "Nos alegra mucho ver a Viatik levantando capital. Las aplicaciones de viajes tienen gran potencial en Latam, especialmente en mercados como Uruguay. Nos gustaría conocer más sobre vuestra estrategia de expansión regional y cómo están ganando usuarios.",
-  "razon": "Ronda seed de USD 600k, producto enfocado en viajes (mercado atractivo); sin embargo, falta información sobre tracción, diferenciación y equipo.",
+  "resumen": "Viatik es una plataforma de carpooling uruguaya que levantó USD 600K para expandir en Argentina con inversionistas como Plug and Play y Picante.",
+  "mensaje": "Hola equipo de Viatik, felicitaciones por cerrar la ronda de USD 600K con Plug and Play. La expansión a Argentina es un movimiento estratégico interesante. Nos gustaría dialogar sobre cómo ven el modelo de carpooling en la región y si hay espacio para colaboración. ¡Un saludo!",
+  "razon": "Ronda seed de USD 600K con inversionistas reconocidos (Plug and Play); expansion a Argentina indica tracción regional, aunque carpooling es mercado competido.",
   "fecha_evidencia": "2026-10-28T03:04:26+00:00",
-  "ultima_senal": "2026-10-28T23:03:28+00:00",
+  "ultima_senal": "2026-10-29T22:55:54+00:00",
   "conocido_fuente": null,
   "conocido": false,
   "score": 94,
@@ -5064,6 +5072,14 @@
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMlI5QXYyTHdKd1hrOHFrelJHcGQtNGpCU0FHQTBhYmhqcG9lMElnZnlKN0pfRHY5Ny1DdVg2RHNKendWYjRDbEhzcEw5bFY2TmtYblFTXy1HNTBCb2ltbHZPV0xUMElDaHlfUVcxdVpmYUZlM2lkQWx3UElJbnl1S2l5UEJnWXFxdFMxX0JvNlFjeVRxOEtLYThKbFNySElKdE9rQkE5c0xHRWxQblZwLTI4TDdaZWM2NkQtOFRLeUE0T03SAcgBQVVfeXFMT3FnYzRuWlp0SWhkM3VFdkRLd29yVWpId2JiTTl1TjdfaUp1OUV5RlBscjE3UC1ZNUI3RzAxc0pGT2gySGxNSWFPZmZRdVBaaTljM1djUUp2elBNa1I1a1lkWGx6b1U3cVkzeE5zanREUURKS3ZDWnd0MEh4NHhUZVhneEh6djhYQ0hFbU43VmtvRkhlUnRkeHluY3M5Rk9GcEdsaExINWM1NG1sNFZYVEg1RVZNX2gxQS1HdkJ0clNIY2hPN1lldE8?oc=5",
     "fecha": "2026-10-28T10:39:09+00:00",
     "medio": "Demócrata"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Artiso, Talky Labs e YK-Robotics levantan 5,5M€ en IA",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVzF1MEthYmZCS1VmNTFvMWlFY0JzWGhwelpFU2RkMVdfaTVGUG14VzZrMWdUeUQtaW9jNWRTa0V5a19WTm9RZzNsRXB6WjVTR2dHUUQxSURNZnlHNHpSejE1alFibmtHSWZSRzF4YzhGSmpLb2loRXk2ZTdkZE1JNmRPa19wV0d2M3c?oc=5",
+    "fecha": "2026-11-03T12:06:37+00:00",
+    "medio": "El Ecosistema Startup"
    }
   ],
   "inversionistas": [
@@ -5076,11 +5092,11 @@
   "empresa": "Artiso",
   "etapa": "pre-seed",
   "monto_usd": 3000000.0,
-  "resumen": "Artiso levantó más de USD 3M en una ronda pre-semilla liderada por Criteria Venture Tech.",
-  "mensaje": "Hola equipo Artiso, vimos que captan más de USD 3M en pre-seed con Criteria Venture Tech. Si están con enfoque en América Latina hispanohablante, nos gustaría conocer más sobre vuestra tracción y visión. ¡Estamos siempre atentos a innovadores de alto potencial!",
-  "razon": "Artiso levantó >USD 3M en pre-seed con inversor reconocido (Criteria Venture Tech), pero España está fuera de la geografía de Latin Leap. Si fuese de LATAM, sería atractivo; ubicación desconocida en la señal.",
+  "resumen": "Startup de IA que levantó capital junto a otros emprendimientos en ronda conjunta.",
+  "mensaje": "Hemos visto que Artiso está levantando capital en el ecosistema IA. Si tienen operaciones en América Latina hispanohablante, nos encantaría conocer más sobre vuestra propuesta y trayectoria.",
+  "razon": "Ronda en IA, monto reportado en EUR (~5.5M) sin conversión clara a USD; ubicación geográfica no mencionada; etapa pre-seed estimada por el contexto de noticia.",
   "fecha_evidencia": "2026-10-28T10:39:09+00:00",
-  "ultima_senal": "2026-10-28T20:15:36+00:00",
+  "ultima_senal": "2026-11-03T12:06:37+00:00",
   "conocido_fuente": null,
   "conocido": false,
   "score": 64,
@@ -5093,7 +5109,7 @@
   },
   "prioridad": "Fuera de tesis",
   "en_tesis": false,
-  "sector": "Tecnología",
+  "sector": "IA",
   "tecnologia": true,
   "pais": "España"
  },
@@ -5540,12 +5556,12 @@
   "ultima_senal": "2026-10-19T14:30:29+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 44,
+  "score": 42,
   "desglose": {
    "geografia": 7.5,
    "etapa": 12.5,
    "tecnologia": 7.5,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 10.0
   },
   "prioridad": "C",
@@ -5642,12 +5658,12 @@
   "ultima_senal": "2026-10-19T17:39:59+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 64,
+  "score": 62,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -5683,12 +5699,12 @@
   "ultima_senal": "2026-10-20T07:00:00+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 90,
+  "score": 88,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 14.0
   },
   "prioridad": "A",
@@ -5724,12 +5740,12 @@
   "ultima_senal": "2026-10-20T07:00:00+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 62,
+  "score": 61,
   "desglose": {
    "geografia": 0.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 12.0
   },
   "prioridad": "Fuera de tesis",
@@ -5948,33 +5964,42 @@
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaXk5V05lT2NTajZwV1JIWUZBcXVPYkxqa3RyRTdhRG05UnZ4V1R6V2lnSlcxU2pxRTJhZWRRMlR6dkVOVUJEQkVlNmxNaS1HbThVVV9mWVBYckFzRGhHaXR5WGppT0xiVGkycnF5NEp6TUZfSGxhaU9PMURURXVUQ1ZwYzVFdnE4SVlGOURSWQ?oc=5",
     "fecha": "2026-11-01T08:06:34+00:00",
     "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Artiso, Talky Labs e YK-Robotics levantan 5,5M€ en IA",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVzF1MEthYmZCS1VmNTFvMWlFY0JzWGhwelpFU2RkMVdfaTVGUG14VzZrMWdUeUQtaW9jNWRTa0V5a19WTm9RZzNsRXB6WjVTR2dHUUQxSURNZnlHNHpSejE1alFibmtHSWZSRzF4YzhGSmpLb2loRXk2ZTdkZE1JNmRPa19wV0d2M3c?oc=5",
+    "fecha": "2026-11-03T12:06:37+00:00",
+    "medio": "El Ecosistema Startup"
    }
   ],
   "inversionistas": [],
   "fundadores": [],
-  "calidad": 4.0,
+  "calidad": 5.0,
   "motor": "llm",
   "empresa": "Talky Labs",
   "pais": "desconocido",
-  "sector": "desconocido",
-  "etapa": "seed",
-  "resumen": "Startup que cerró ronda semilla de 2.5M€ en conjunto con otra emprendimiento.",
-  "mensaje": "Vimos que Talky Labs ha cerrado una ronda semilla recientemente. Nos gustaría saber más sobre el equipo y el producto. ¿Hay oportunidad de conocerse en una próxima conversación?",
-  "razon": "Startup en etapa semilla con ronda reportada (2.5M€ compartida), pero sin evidencia clara de ubicación en Latinoamérica hispanohablante.",
+  "sector": "IA",
+  "etapa": "pre-seed",
+  "resumen": "Startup de IA que participó en ronda de financiamiento conjunto junto a otros emprendimientos.",
+  "mensaje": "Vimos que Talky Labs está levantando en el sector IA. Si tienen operaciones en LATAM hispanohablante, nos gustaría conectar para conocer vuestro producto y vision.",
+  "razon": "Ronda en IA, monto reportado en EUR (~5.5M distribuido entre startups) sin detalle individual; ubicación no especificada; etapa estimada como pre-seed.",
   "fecha_evidencia": "2026-11-01T08:06:34+00:00",
-  "ultima_senal": "2026-11-01T08:06:34+00:00",
+  "ultima_senal": "2026-11-03T12:06:37+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 46,
+  "score": 56,
   "desglose": {
    "geografia": 0.0,
    "etapa": 25.0,
-   "tecnologia": 7.5,
+   "tecnologia": 15.0,
    "senal": 6.0,
-   "calidad": 8.0
+   "calidad": 10.0
   },
   "prioridad": "Fuera de tesis",
-  "en_tesis": false
+  "en_tesis": false,
+  "tecnologia": true
  },
  "n:ykrobotics": {
   "key": "n:ykrobotics",
@@ -5987,6 +6012,14 @@
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaXk5V05lT2NTajZwV1JIWUZBcXVPYkxqa3RyRTdhRG05UnZ4V1R6V2lnSlcxU2pxRTJhZWRRMlR6dkVOVUJEQkVlNmxNaS1HbThVVV9mWVBYckFzRGhHaXR5WGppT0xiVGkycnF5NEp6TUZfSGxhaU9PMURURXVUQ1ZwYzVFdnE4SVlGOURSWQ?oc=5",
     "fecha": "2026-11-01T08:06:34+00:00",
     "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Artiso, Talky Labs e YK-Robotics levantan 5,5M€ en IA",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVzF1MEthYmZCS1VmNTFvMWlFY0JzWGhwelpFU2RkMVdfaTVGUG14VzZrMWdUeUQtaW9jNWRTa0V5a19WTm9RZzNsRXB6WjVTR2dHUUQxSURNZnlHNHpSejE1alFibmtHSWZSRzF4YzhGSmpLb2loRXk2ZTdkZE1JNmRPa19wV0d2M3c?oc=5",
+    "fecha": "2026-11-03T12:06:37+00:00",
+    "medio": "El Ecosistema Startup"
    }
   ],
   "inversionistas": [],
@@ -5995,14 +6028,14 @@
   "motor": "llm",
   "empresa": "YK-Robotics",
   "pais": "desconocido",
-  "sector": "robotics",
-  "etapa": "seed",
+  "sector": "IA / Robótica",
+  "etapa": "pre-seed",
   "tecnologia": true,
-  "resumen": "Startup de robótica que cerró ronda semilla de 2.5M€ en conjunto con otro emprendimiento.",
-  "mensaje": "Notamos que YK-Robotics ha cerrado una ronda semilla. En Latin Leap siempre buscamos a los mejores equipos de hardware y robotics en LatAm. ¿Estarían abiertos a conocer a nuestro equipo?",
-  "razon": "Startup de robotics en etapa semilla con ronda reportada, pero sin evidencia clara de ubicación en Latinoamérica hispanohablante.",
+  "resumen": "Empresa de robótica impulsada por IA que participó en financiamiento grupal.",
+  "mensaje": "Notamos que YK-Robotics está levantando en el espacio de IA y robótica. Si operan en América Latina hispanohablante, nos gustaría explorar una conversación sobre vuestro proyecto.",
+  "razon": "Startup de IA/robótica en ronda conjunta (~5.5M EUR repartido); ubicación no confirmada; etapa estimada como pre-seed.",
   "fecha_evidencia": "2026-11-01T08:06:34+00:00",
-  "ultima_senal": "2026-11-01T08:06:34+00:00",
+  "ultima_senal": "2026-11-03T12:06:37+00:00",
   "conocido_fuente": null,
   "conocido": false,
   "score": 56,
@@ -6085,6 +6118,325 @@
    "geografia": 7.5,
    "etapa": 7.5,
    "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 10.0
+  },
+  "prioridad": "C",
+  "en_tesis": true
+ },
+ "n:hashi": {
+  "key": "n:hashi",
+  "primera_vista": "2026-11-03T13:14:28+00:00",
+  "senales": [
+   {
+    "fuente": "Startups Latam",
+    "tipo": "noticia",
+    "titulo": "Hashi desembarca en Chile e inicia operaciones tras levantar US$4 millones",
+    "url": "https://startupslatam.com/hashi-desembarca-en-chile-e-inicia-operaciones-tras-levantar-us4-millones/",
+    "fecha": "2026-11-02T15:38:27+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [
+   "Gonzalo Waisman, Tomás Ferreira"
+  ],
+  "calidad": 7.0,
+  "motor": "llm",
+  "empresa": "Hashi",
+  "pais": "Argentina",
+  "sector": "SaaS / Automatización",
+  "etapa": "seed",
+  "monto_usd": 4000000.0,
+  "tecnologia": true,
+  "resumen": "Hashi es una plataforma de automatización o SaaS fundada en 2023 que opera en múltiples industrias y países latinoamericanos. Ha alcanzado más de 500 clientes y está expandiendo operaciones a Chile.",
+  "mensaje": "Hola Gonzalo y Tomás, nos entusiasma ver el crecimiento de Hashi en Latinoamérica (500+ clientes en 18 países es notable). Notamos que acaban de desembarcar en Chile: nos gustaría conocer más sobre cómo están abordando la expansión regional y si hay oportunidades de colaboración con Latin Leap. ¡Saludos!",
+  "razon": "Startup con tracción clara (500+ clientes en 18 países, 12 industrias), ronda de USD 4M indica validación, expansión regional en marcha desde 2023.",
+  "fecha_evidencia": "2026-11-02T15:38:27+00:00",
+  "ultima_senal": "2026-11-02T15:38:27+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 90,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 14.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "n:fina": {
+  "key": "n:fina",
+  "primera_vista": "2026-11-03T13:14:28+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "La startup Fina levanta US$1 millón en ronda de inversión para acelerar la digitalización de las pymes venezolanas",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR2pmZzlZcFNtVEpKRjdnNl9ma1ZWVWVtLU9VaF9nXzRheFVFOWkxYXQ1NFlFRVA5YVR2cnFlVUZ1ZnZqRTJCaE10QlFsSlM1WlhscjNsTTVOSE1CYVlERHY2bTdnUHEtRVhDS0RlZmwxb3dKT0NPVTR5TE0zcnFiQzJ2RjlJRzhLSEw4R0p1Q0lZLXEzbFhsX2ZHTGdmTWRIeS1YeVJvZzhHVnY3MFc1ZmZkN0trb3QxQ1E3amVDZjZYSlRKd042bHVQa1kyWXByVUJ3M0VkcVhYZDZHMG9renJIZw?oc=5",
+    "fecha": "2026-11-02T21:23:27+00:00",
+    "medio": "AlbertoNews"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Fina, la fintech de pymes venezolanas, levanta US$1M",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTU85U1ZfWmxRSV9FS2NrWnBWTTh2elVQajRMLUJsdjVnY1FXNUVYTUtmZVpvMUg1ZXk4emNKN0poMVBLQU9lczVfZjNXQS1keTBjQUxOUHZsTGpHVFZXSFlqSHVtbWhtN2F1U0hSOWhQejZwUEtPazBMRFg3cy1JbEhqU2NWZU0?oc=5",
+    "fecha": "2026-11-02T23:48:31+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 7.0,
+  "motor": "llm",
+  "empresa": "Fina",
+  "pais": "Venezuela",
+  "sector": "Fintech",
+  "etapa": "seed",
+  "monto_usd": 1000000.0,
+  "tecnologia": true,
+  "resumen": "Fintech que proporciona soluciones financieras a pequeñas y medianas empresas venezolanas, abordando una brecha crítica en acceso a crédito y servicios bancarios.",
+  "mensaje": "Hemos visto el lanzamiento de Fina y nos impresiona cómo están democratizando las finanzas para pymes en Venezuela, un mercado con enorme potencial. Nos gustaría conocer más sobre vuestra tracción y visión regional. ¿Podríamos agendar una conversación breve?",
+  "razon": "Fintech para pymes en mercado desatendido (Venezuela), ronda seed confirmada, sector de alto impacto en LATAM.",
+  "fecha_evidencia": "2026-11-02T21:23:27+00:00",
+  "ultima_senal": "2026-11-02T23:48:31+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 90,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 14.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "n:stablecoininfrastructurefirmbloquo": {
+  "key": "n:stablecoininfrastructurefirmbloquo",
+  "primera_vista": "2026-11-03T13:14:28+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Stablecoin infrastructure firm Bloquo raises over R$20 million seed led by Crescera and Triaxis: Startupz",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rMThmUkhFN0NiWFZBRlViVmp1UnZqNkh3SGg3bVlLcmE2WE1ZckM1WGFEWGVsWGY4VWljZXFMT3Yyb3U4eUpKTGRrZ25MYndqOWRjd1lqS05RcU52VHBMSVRFWGozZ1pRaHlV?oc=5",
+    "fecha": "2026-10-31T07:00:00+00:00",
+    "medio": "CryptoRank"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Stablecoin infrastructure firm Bloquo",
+  "etapa": "seed",
+  "monto_usd": 20000000.0,
+  "resumen": "Stablecoin infrastructure firm Bloquo raises over R$20 million seed led by Crescera and Triaxis: Startupz CryptoRank",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-10-31T07:00:00+00:00",
+  "ultima_senal": "2026-10-31T07:00:00+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 60,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 7.5,
+   "senal": 10.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:tutorintelligence": {
+  "key": "n:tutorintelligence",
+  "primera_vista": "2026-11-03T13:14:28+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Tutor Intelligence Raises $75M in Series B Funding to Expand Robot Production and AI Training",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdFVuaVVLOS1xNjI4YUFMSHd0NWtYLVloTk8zTld1WUtESFFGWWlyQ1pPYkNXRm5NQWJBSzN5NDFiUnFJZGNLaFowUi11VDJkdXVXX2Q0azFTT0xwY2xTOF80VmJZdGIxZXdVemNmZW1Uby12aVhhcGVEM0VIbkVQRUJLa1RiWlpycHlMclJCWldWY2FXM1BCeVRyZ3Z1ZGxDUkNiN19MTjlIa0hZcDVWRFpERFU3M1lUbFJ0bFUzMUwxdjlWSGdLQTBR?oc=5",
+    "fecha": "2026-11-02T21:06:06+00:00",
+    "medio": "AI Insider"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Tutor Intelligence",
+  "etapa": "serie-b+",
+  "monto_usd": 75000000.0,
+  "tecnologia": true,
+  "resumen": "Tutor Intelligence Raises $75M in Series B Funding to Expand Robot Production and AI Training AI Insider",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-02T21:06:06+00:00",
+  "ultima_senal": "2026-11-02T21:06:06+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 43,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 0.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 10.0
+  },
+  "prioridad": "Fuera de tesis",
+  "en_tesis": false
+ },
+ "n:savory": {
+  "key": "n:savory",
+  "primera_vista": "2026-11-03T13:14:28+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Savory closes $201.5 million fund as startups in AI, healthcare and defense raise capital",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS2dpRDFrV0RNV1BhdVdIekJobUpOVGVteTBGel81b3h4TzgwMkRER0QySkdPbFU1aUxmQ3JFV1BCOFlQQWwxTFdxeHZVZkNoYkJzQ2d4QWlxUWI5YW52VFc4S1JTX0JjYnNtREFfc25WaWN1XzhUaG85bThHRktiZmp5ODFvWDBHUUFRWm1lS0c0S1hVVEFJMkJnZ2d3VWdfeWxBUm1uRlZzWHFaTjlyVkZMaFR2aGljMk1sUzhYTnN5bW12UlozVGVPZDd0MGpUQVdSeUxZZUk?oc=5",
+    "fecha": "2026-11-03T04:29:01+00:00",
+    "medio": "Utah Business"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Savory",
+  "etapa": "serie-b+",
+  "monto_usd": 201500000.0,
+  "tecnologia": true,
+  "resumen": "Savory closes $201.5 million fund as startups in AI, healthcare and defense raise capital Utah Business",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-03T04:29:01+00:00",
+  "ultima_senal": "2026-11-03T04:29:01+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 43,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 0.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 10.0
+  },
+  "prioridad": "Fuera de tesis",
+  "en_tesis": false
+ },
+ "n:syrianfoodtechpercent": {
+  "key": "n:syrianfoodtechpercent",
+  "primera_vista": "2026-11-03T13:14:28+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Syrian foodtech Percent Labs closes seed round at over $1 million valuation",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWVYLVl1WTY2Z0NTbWwwUFhBeHRJRlA0VWdkNE5OMkdGUW1NVm9fbnJFZDdGRFFXVlB4dU1yTEl5ZlA2c1RVcmpTTGpyQmxTanNIdllYb0xkX2hpQ2RzbUxVeS1GUG81VEZFb1BTRXFoVTBNZU5KLUliNjIzUm54UU8zajJoRmV0Q2FkWVl2Ri1nUlpTWXlhcnhrSDM?oc=5",
+    "fecha": "2026-11-02T12:23:01+00:00",
+    "medio": "Wamda"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Syrian foodtech Percent Labs",
+  "etapa": "seed",
+  "monto_usd": 1000000.0,
+  "resumen": "Syrian foodtech Percent Labs closes seed round at over $1 million valuation Wamda",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-02T12:23:01+00:00",
+  "ultima_senal": "2026-11-02T12:23:01+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 60,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 7.5,
+   "senal": 10.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:clark": {
+  "key": "n:clark",
+  "primera_vista": "2026-11-03T13:14:28+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Clark, startup de IA para auditorías, levanta US$11M",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeVZ3WmNjU1RzZkZNaHI0em81emFXS0tUa1ZiTGlEclVnRmlCYWZWSGE3VVN1Tkg2OVQwTld1czN1MjY1am5oZGxBVkk3Z3gtTlBRMlcyZ3dPZWhmTGc5SkNRY1c5dlU5T0dMTnRuWXU2VlROQXg1c240eEVScVhOWHpWRDFIMzA?oc=5",
+    "fecha": "2026-11-02T19:51:45+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 6.0,
+  "motor": "llm",
+  "empresa": "Clark",
+  "sector": "Enterprise / Auditoría",
+  "etapa": "serie-a",
+  "monto_usd": 11000000.0,
+  "tecnologia": true,
+  "resumen": "Plataforma de IA especializada en automatizar y optimizar procesos de auditoría para empresas.",
+  "mensaje": "Notamos que Clark está revolucionando auditoría con IA. Aunque ya están en una etapa más avanzada, nos encantaría estar en el radar para futuras iniciativas regionales en LATAM hispanohablante. ¡Felicidades por la ronda!",
+  "razon": "Startup de IA en vertical B2B con ronda significativa, pero etapa (Serie A) está fuera del foco pre-seed/seed de Latin Leap; ubicación geográfica no confirmada en LATAM hispanohablante.",
+  "fecha_evidencia": "2026-11-02T19:51:45+00:00",
+  "ultima_senal": "2026-11-02T19:51:45+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 52,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 7.5,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 12.0
+  },
+  "prioridad": "C",
+  "en_tesis": true
+ },
+ "n:loamy": {
+  "key": "n:loamy",
+  "primera_vista": "2026-11-03T13:14:28+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Loamy raises $6M to flag produce before a buyer rejects it",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OWC1yWmUzWFhTcUI3Nk1oS1V2T2MwTFJoUS03cXowVVBRcldZdnpSVGFLSTQ2R2t1NV9WVC1GbC0xekk5MWlIdzU2Uk5Wemw2VnpkNlVHVUU2Qk9WdHVuMGJiYnlfQ1lRSDhxX1ZHa3FCVEFyT3hYWmY3SExxZw?oc=5",
+    "fecha": "2026-11-03T13:00:00+00:00",
+    "medio": "FreightWaves"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Loamy",
+  "etapa": "serie-a",
+  "monto_usd": 6000000.0,
+  "resumen": "Loamy raises $6M to flag produce before a buyer rejects it FreightWaves",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-03T13:00:00+00:00",
+  "ultima_senal": "2026-11-03T13:00:00+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 43,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 7.5,
+   "tecnologia": 7.5,
    "senal": 10.5,
    "calidad": 10.0
   },

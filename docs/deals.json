@@ -99,7 +99,7 @@
    "sitio_web": null,
    "pais": "Uruguay",
    "ciudad": null,
-   "sector": "travel-tech",
+   "sector": "Movilidad / Carpooling",
    "etapa": "seed",
    "monto_usd": 600000.0,
    "inversionistas": [
@@ -110,9 +110,9 @@
    "fundadores": [],
    "tecnologia": true,
    "calidad": 8.0,
-   "resumen": "Viatik es una aplicación uruguaya para planificación y gestión de viajes que levantó USD 600.000.",
-   "razon": "Ronda seed de USD 600k, producto enfocado en viajes (mercado atractivo); sin embargo, falta información sobre tracción, diferenciación y equipo.",
-   "mensaje": "Nos alegra mucho ver a Viatik levantando capital. Las aplicaciones de viajes tienen gran potencial en Latam, especialmente en mercados como Uruguay. Nos gustaría conocer más sobre vuestra estrategia de expansión regional y cómo están ganando usuarios.",
+   "resumen": "Viatik es una plataforma de carpooling uruguaya que levantó USD 600K para expandir en Argentina con inversionistas como Plug and Play y Picante.",
+   "razon": "Ronda seed de USD 600K con inversionistas reconocidos (Plug and Play); expansion a Argentina indica tracción regional, aunque carpooling es mercado competido.",
+   "mensaje": "Hola equipo de Viatik, felicitaciones por cerrar la ronda de USD 600K con Plug and Play. La expansión a Argentina es un movimiento estratégico interesante. Nos gustaría dialogar sobre cómo ven el modelo de carpooling en la región y si hay espacio para colaboración. ¡Un saludo!",
    "score": 94,
    "desglose": {
     "geografia": 25.0,
@@ -127,7 +127,7 @@
    "conocido_fuente": null,
    "primera_vista": "2026-10-28T13:06:20+00:00",
    "fecha_evidencia": "2026-10-28T03:04:26+00:00",
-   "ultima_senal": "2026-10-28T23:03:28+00:00",
+   "ultima_senal": "2026-10-29T22:55:54+00:00",
    "senales": [
     {
      "fuente": "Google News",
@@ -200,6 +200,14 @@
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHh3VlFGRnVFX0tiSVNBOW9lc1E3ZWpxTFRxNkJ0WlFvZEhuZ1FxY2tETGN0OVJMWUFybXpUR1RfZnBWZ3gtLS1NNnEtM196R2twdDhMaWJCeFc2dTU5aVNjMUhKbk9yM0xfVFFsSWdNVHI3RjltQnV0OURJMDUwME5uV1c?oc=5",
      "fecha": "2026-10-28T23:03:28+00:00",
      "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "LatamList",
+     "tipo": "noticia",
+     "titulo": "Viatik raises $600K to expand in Argentina",
+     "url": "https://latamlist.com/viatik-raises-600k-to-expand-in-argentina/",
+     "fecha": "2026-10-29T22:55:54+00:00",
+     "medio": null
     }
    ],
    "motor": "llm"
@@ -456,49 +464,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:symbe",
-   "empresa": "Symbe",
-   "sitio_web": null,
-   "pais": "México",
-   "ciudad": null,
-   "sector": "AI/Enterprise Software",
-   "etapa": "seed",
-   "monto_usd": 5700000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "Plataforma B2B que automatiza casos de negocio utilizando IA generativa.",
-   "razon": "Ronda seed de USD 5.7M en México (en tesis); solución B2B con AI es mercado grande y diferenciado; etapa y geografía alineadas.",
-   "mensaje": "Hola equipo Symbe, vimos que cerraron su ronda seed de USD 5.7M para automatizar business cases con IA. Nos interesa entender cómo están escalando en el mercado de enterprise B2B en México y LATAM. ¿Podríamos agendar una conversación?",
-   "score": 90,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 14.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-25T12:49:33+00:00",
-   "fecha_evidencia": "2026-10-19T13:38:59+00:00",
-   "ultima_senal": "2026-10-19T13:38:59+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Symbe Closes $5.7M Seed Round to Automate B2B Business Cases With AI",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYUNRVVNra0wwVkc0QXROd0ZxajJPM1ZyZlF6WGlCSzUwN3ZuX2wzLUNHUWlnRmY5Z3dyTm1ja3liRUxpak80VlNTS2VqbHMtU3hhTVp6b3Y5cUhHd3ROemlvZlBnZHppdk11a0NVNnFwa25xREkxcHE3cXd4SEFZeFJicnQtTjg5QVZ2UUdFSlNfdnBfWHhLMWRkMG8ybHRaQm5tRF9vcGY?oc=5",
-     "fecha": "2026-10-19T13:38:59+00:00",
-     "medio": "AI Insider"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:ailytics",
    "empresa": "Ailytics",
    "sitio_web": null,
@@ -550,21 +515,23 @@
    "motor": "llm"
   },
   {
-   "key": "n:aloja",
-   "empresa": "Aloja AI",
+   "key": "n:hashi",
+   "empresa": "Hashi",
    "sitio_web": null,
    "pais": "Argentina",
    "ciudad": null,
-   "sector": "travel-tech / SaaS",
+   "sector": "SaaS / Automatización",
    "etapa": "seed",
-   "monto_usd": 1400000.0,
+   "monto_usd": 4000000.0,
    "inversionistas": [],
-   "fundadores": [],
+   "fundadores": [
+    "Gonzalo Waisman, Tomás Ferreira"
+   ],
    "tecnologia": true,
    "calidad": 7.0,
-   "resumen": "Aloja AI es una plataforma que utiliza inteligencia artificial para optimizar precios dinámicos en tours y servicios turísticos.",
-   "razon": "Ronda seed típica (USD 1,4M), tecnología IA aplicada a un caso de uso real (fijación de precios dinámicos en turismo), mercado del turismo es relevante en Latam.",
-   "mensaje": "Nos impresiona mucho la ronda que Aloja AI acaba de cerrar. El uso de IA para optimizar precios en turismo es un caso de uso muy promisorio en Latam. Nos encantaría conversar sobre cómo están escalando en la región y qué desafíos enfrentan para penetrar nuevos mercados.",
+   "resumen": "Hashi es una plataforma de automatización o SaaS fundada en 2023 que opera en múltiples industrias y países latinoamericanos. Ha alcanzado más de 500 clientes y está expandiendo operaciones a Chile.",
+   "razon": "Startup con tracción clara (500+ clientes en 18 países, 12 industrias), ronda de USD 4M indica validación, expansión regional en marcha desde 2023.",
+   "mensaje": "Hola Gonzalo y Tomás, nos entusiasma ver el crecimiento de Hashi en Latinoamérica (500+ clientes en 18 países es notable). Notamos que acaban de desembarcar en Chile: nos gustaría conocer más sobre cómo están abordando la expansión regional y si hay oportunidades de colaboración con Latin Leap. ¡Saludos!",
    "score": 90,
    "desglose": {
     "geografia": 25.0,
@@ -577,16 +544,67 @@
    "en_tesis": true,
    "conocido": false,
    "conocido_fuente": null,
-   "primera_vista": "2026-10-29T13:07:57+00:00",
-   "fecha_evidencia": "2026-10-20T07:00:00+00:00",
-   "ultima_senal": "2026-10-20T07:00:00+00:00",
+   "primera_vista": "2026-11-03T13:14:28+00:00",
+   "fecha_evidencia": "2026-11-02T15:38:27+00:00",
+   "ultima_senal": "2026-11-02T15:38:27+00:00",
+   "senales": [
+    {
+     "fuente": "Startups Latam",
+     "tipo": "noticia",
+     "titulo": "Hashi desembarca en Chile e inicia operaciones tras levantar US$4 millones",
+     "url": "https://startupslatam.com/hashi-desembarca-en-chile-e-inicia-operaciones-tras-levantar-us4-millones/",
+     "fecha": "2026-11-02T15:38:27+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:fina",
+   "empresa": "Fina",
+   "sitio_web": null,
+   "pais": "Venezuela",
+   "ciudad": null,
+   "sector": "Fintech",
+   "etapa": "seed",
+   "monto_usd": 1000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Fintech que proporciona soluciones financieras a pequeñas y medianas empresas venezolanas, abordando una brecha crítica en acceso a crédito y servicios bancarios.",
+   "razon": "Fintech para pymes en mercado desatendido (Venezuela), ronda seed confirmada, sector de alto impacto en LATAM.",
+   "mensaje": "Hemos visto el lanzamiento de Fina y nos impresiona cómo están democratizando las finanzas para pymes en Venezuela, un mercado con enorme potencial. Nos gustaría conocer más sobre vuestra tracción y visión regional. ¿Podríamos agendar una conversación breve?",
+   "score": 90,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 14.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-03T13:14:28+00:00",
+   "fecha_evidencia": "2026-11-02T21:23:27+00:00",
+   "ultima_senal": "2026-11-02T23:48:31+00:00",
    "senales": [
     {
      "fuente": "Google News",
      "tipo": "noticia",
-     "titulo": "Aloja AI, precios con IA para tours, levanta US$1,4M",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWDhpbGNLSlZlU0FhNFlna08tdUpVdXFDVGtQakFmU05tektzalV2RGc4NjBuOWxpRnhBVXltRzZiVHQ3NkJDN3VuRXhBc2liNllDdjlJZHpGendVNUZ5aVZrZUdKdDFWTVNvc0xEdlgzdDc0S29tbGVMSkZVZWVvaUdsZUY2dw?oc=5",
-     "fecha": "2026-10-20T07:00:00+00:00",
+     "titulo": "La startup Fina levanta US$1 millón en ronda de inversión para acelerar la digitalización de las pymes venezolanas",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR2pmZzlZcFNtVEpKRjdnNl9ma1ZWVWVtLU9VaF9nXzRheFVFOWkxYXQ1NFlFRVA5YVR2cnFlVUZ1ZnZqRTJCaE10QlFsSlM1WlhscjNsTTVOSE1CYVlERHY2bTdnUHEtRVhDS0RlZmwxb3dKT0NPVTR5TE0zcnFiQzJ2RjlJRzhLSEw4R0p1Q0lZLXEzbFhsX2ZHTGdmTWRIeS1YeVJvZzhHVnY3MFc1ZmZkN0trb3QxQ1E3amVDZjZYSlRKd042bHVQa1kyWXByVUJ3M0VkcVhYZDZHMG9renJIZw?oc=5",
+     "fecha": "2026-11-02T21:23:27+00:00",
+     "medio": "AlbertoNews"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Fina, la fintech de pymes venezolanas, levanta US$1M",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTU85U1ZfWmxRSV9FS2NrWnBWTTh2elVQajRMLUJsdjVnY1FXNUVYTUtmZVpvMUg1ZXk4emNKN0poMVBLQU9lczVfZjNXQS1keTBjQUxOUHZsTGpHVFZXSFlqSHVtbWhtN2F1U0hSOWhQejZwUEtPazBMRFg3cy1JbEhqU2NWZU0?oc=5",
+     "fecha": "2026-11-02T23:48:31+00:00",
      "medio": "El Ecosistema Startup"
     }
    ],
@@ -836,6 +854,49 @@
    "motor": "llm"
   },
   {
+   "key": "n:symbe",
+   "empresa": "Symbe",
+   "sitio_web": null,
+   "pais": "México",
+   "ciudad": null,
+   "sector": "AI/Enterprise Software",
+   "etapa": "seed",
+   "monto_usd": 5700000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Plataforma B2B que automatiza casos de negocio utilizando IA generativa.",
+   "razon": "Ronda seed de USD 5.7M en México (en tesis); solución B2B con AI es mercado grande y diferenciado; etapa y geografía alineadas.",
+   "mensaje": "Hola equipo Symbe, vimos que cerraron su ronda seed de USD 5.7M para automatizar business cases con IA. Nos interesa entender cómo están escalando en el mercado de enterprise B2B en México y LATAM. ¿Podríamos agendar una conversación?",
+   "score": 88,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 14.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-25T12:49:33+00:00",
+   "fecha_evidencia": "2026-10-19T13:38:59+00:00",
+   "ultima_senal": "2026-10-19T13:38:59+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Symbe Closes $5.7M Seed Round to Automate B2B Business Cases With AI",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYUNRVVNra0wwVkc0QXROd0ZxajJPM1ZyZlF6WGlCSzUwN3ZuX2wzLUNHUWlnRmY5Z3dyTm1ja3liRUxpak80VlNTS2VqbHMtU3hhTVp6b3Y5cUhHd3ROemlvZlBnZHppdk11a0NVNnFwa25xREkxcHE3cXd4SEFZeFJicnQtTjg5QVZ2UUdFSlNfdnBfWHhLMWRkMG8ybHRaQm5tRF9vcGY?oc=5",
+     "fecha": "2026-10-19T13:38:59+00:00",
+     "medio": "AI Insider"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "n:uin",
    "empresa": "UIN",
    "sitio_web": null,
@@ -881,6 +942,49 @@
      "titulo": "UIN levanta US$2M para retener usuarios de bancos con IA",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONGktNVR3SWhDUWN4TlJSdWZkUHp0dnNKSzcwbGJyNzhwV2ZtclhiajhTZ3ZWX0s4LURWcDlFdnJMYWhueWlrMFdLSEJHRWNHbUI4aEtIQVlWSklMMWdLOGdaYmVvWjdudWFUa2FmUURFSW1IZkpHSzNaZ21wRUlfLTh4TENZSUxjZ09ZaXB1dw?oc=5",
      "fecha": "2026-10-27T21:06:50+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:aloja",
+   "empresa": "Aloja AI",
+   "sitio_web": null,
+   "pais": "Argentina",
+   "ciudad": null,
+   "sector": "travel-tech / SaaS",
+   "etapa": "seed",
+   "monto_usd": 1400000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Aloja AI es una plataforma que utiliza inteligencia artificial para optimizar precios dinámicos en tours y servicios turísticos.",
+   "razon": "Ronda seed típica (USD 1,4M), tecnología IA aplicada a un caso de uso real (fijación de precios dinámicos en turismo), mercado del turismo es relevante en Latam.",
+   "mensaje": "Nos impresiona mucho la ronda que Aloja AI acaba de cerrar. El uso de IA para optimizar precios en turismo es un caso de uso muy promisorio en Latam. Nos encantaría conversar sobre cómo están escalando en la región y qué desafíos enfrentan para penetrar nuevos mercados.",
+   "score": 88,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 14.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-29T13:07:57+00:00",
+   "fecha_evidencia": "2026-10-20T07:00:00+00:00",
+   "ultima_senal": "2026-10-20T07:00:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Aloja AI, precios con IA para tours, levanta US$1,4M",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWDhpbGNLSlZlU0FhNFlna08tdUpVdXFDVGtQakFmU05tektzalV2RGc4NjBuOWxpRnhBVXltRzZiVHQ3NkJDN3VuRXhBc2liNllDdjlJZHpGendVNUZ5aVZrZUdKdDFWTVNvc0xEdlgzdDc0S29tbGVMSkZVZWVvaUdsZUY2dw?oc=5",
+     "fecha": "2026-10-20T07:00:00+00:00",
      "medio": "El Ecosistema Startup"
     }
    ],
@@ -1934,94 +2038,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:bioplaster",
-   "empresa": "Bioplaster",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": "DeepTech/Materiales",
-   "etapa": "pre-seed",
-   "monto_usd": 1500000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "Bioplaster desarrolla bioplásticos a partir de sargazo como alternativa sostenible a plásticos convencionales.",
-   "razon": "DeepTech con propuesta sostenible (sargazo) atractiva; escala y mercado potencial alto; ronda modesta pero coherente con etapa.",
-   "mensaje": "Bioplaster nos parece una oportunidad interesante en la intersección de sostenibilidad y materiales avanzados. Con vuestro enfoque en sargazo, ¿estarían abiertos a conversar sobre oportunidades de crecimiento en la región?",
-   "score": 72,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 14.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-20T01:33:30+00:00",
-   "ultima_senal": "2026-10-20T01:33:30+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Bioplaster: bioplásticos de sargazo y US$1.5M levantados",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaDlqbm81NmJiLW5yTWU1ZXlXUWFJa0RPalBrc2pFczN1RHRSVURJU2ZKeVNLTkFiaEdyd1NwNS1ia3Z0YzZ3LWNGVWVtZXdpbWp1UDdYc3ZGajVBZFc1bnFpZWlaek5wMzlpYnF4NXlDamlEZXBiWE1TR0p5c0xPd29YejRVaWxUWnp0Wkt3?oc=5",
-     "fecha": "2026-10-20T01:33:30+00:00",
-     "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
-   "key": "n:databuddyanalytics",
-   "empresa": "Databuddy Analytics",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": "Analytics/Data",
-   "etapa": "seed",
-   "monto_usd": 500000.0,
-   "inversionistas": [
-    "Y Combinator"
-   ],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "Plataforma de analytics de datos respaldada por Y Combinator.",
-   "razon": "Respaldada por Y Combinator (aceleradora top global), etapa seed con ticket adecuado. Sin confirmación de país LATAM, pero señal fuerte de validación.",
-   "mensaje": "Hola equipo de Databuddy Analytics, nos impresionó que hayan sido aceptados en Y Combinator. Si tienen operaciones o planes en América Latina hispanohablante, nos encantaría conectar. ¿Estarían abiertos a una conversación?",
-   "score": 72,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 14.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-26T14:55:10+00:00",
-   "fecha_evidencia": "2026-10-20T12:38:46+00:00",
-   "ultima_senal": "2026-10-20T12:38:46+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Databuddy Analytics raises $500,000 from Y Combinator",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcGZYeGpUNG1kcEpCRExrak1STWd3aURwUEZJdFFoWVg1dThlV2N4SUh1S1hPZGRTU0stZGN1T2tVOHJRVmxvMDJjQ05mc3hRR254RFltam9YZHZnNjBLc3o5bDNkV0RPeGlsTE1VdHNNNnBhd09aMS02WGIyUEJOazlB?oc=5",
-     "fecha": "2026-10-20T12:38:46+00:00",
-     "medio": "Wamda"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "d:muysimple.cl",
    "empresa": "Muy Simple",
    "sitio_web": "https://muysimple.cl/",
@@ -2589,49 +2605,6 @@
    "motor": "reglas"
   },
   {
-   "key": "d:leytonmedia.com",
-   "empresa": "LeytonMedia",
-   "sitio_web": "http://leytonmedia.com",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Ayudamos a las empresas con su transformación digital, Creamos experiencias  para conectar a las marcas con sus usuarios desde 1994",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-19T19:51:14+00:00",
-   "ultima_senal": "2026-10-19T19:51:14+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "LeytonMedia está contratando: Diseñador Digital",
-     "url": "https://www.getonbrd.com/jobs/disenador-digital-leytonmedia-santiago-481e",
-     "fecha": "2026-10-19T19:51:14+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "d:softserveinc.com",
    "empresa": "Softserve",
    "sitio_web": "https://www.softserveinc.com",
@@ -2761,6 +2734,49 @@
    "motor": "reglas"
   },
   {
+   "key": "n:bioplaster",
+   "empresa": "Bioplaster",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "DeepTech/Materiales",
+   "etapa": "pre-seed",
+   "monto_usd": 1500000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Bioplaster desarrolla bioplásticos a partir de sargazo como alternativa sostenible a plásticos convencionales.",
+   "razon": "DeepTech con propuesta sostenible (sargazo) atractiva; escala y mercado potencial alto; ronda modesta pero coherente con etapa.",
+   "mensaje": "Bioplaster nos parece una oportunidad interesante en la intersección de sostenibilidad y materiales avanzados. Con vuestro enfoque en sargazo, ¿estarían abiertos a conversar sobre oportunidades de crecimiento en la región?",
+   "score": 70,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 14.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-20T01:33:30+00:00",
+   "ultima_senal": "2026-10-20T01:33:30+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Bioplaster: bioplásticos de sargazo y US$1.5M levantados",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaDlqbm81NmJiLW5yTWU1ZXlXUWFJa0RPalBrc2pFczN1RHRSVURJU2ZKeVNLTkFiaEdyd1NwNS1ia3Z0YzZ3LWNGVWVtZXdpbWp1UDdYc3ZGajVBZFc1bnFpZWlaek5wMzlpYnF4NXlDamlEZXBiWE1TR0p5c0xPd29YejRVaWxUWnp0Wkt3?oc=5",
+     "fecha": "2026-10-20T01:33:30+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "n:uvi",
    "empresa": "Uvi",
    "sitio_web": null,
@@ -2802,49 +2818,6 @@
     }
    ],
    "motor": "llm"
-  },
-  {
-   "key": "d:hf.solutions",
-   "empresa": "HF Solutions",
-   "sitio_web": "http://www.hf.solutions",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Empresa consultora en tecnología, especializada en diseño y desarrollo de software sobre la nube y mobile.",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-26T14:55:10+00:00",
-   "fecha_evidencia": "2026-10-19T17:37:20+00:00",
-   "ultima_senal": "2026-10-19T17:37:20+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "HF Solutions está contratando: Back-end Developer – AWS",
-     "url": "https://www.getonbrd.com/jobs/backend-developer-pci-aws-hf-solutions-santiago",
-     "fecha": "2026-10-19T17:37:20+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
   },
   {
    "key": "n:inve",
@@ -2895,6 +2868,51 @@
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3RYYklTVS12M00xN2xXakYxSldOcFZXYjVBSWhVN09abExxTThJeWZQb3F3LVA5N2ZQS2lONlpKRnVDeTVfTU1seEVmMkEyRDh1Zm10UWducWZqWHhWckxqbDJTSnZTbTdjS3ZtaUl1ZHUzVVQ0S0dqY2VvR3JrZXg0a2xleHRGZWp3VS1FcHpiX211R2d5SV96TVFrMG5t?oc=5",
      "fecha": "2026-10-24T20:30:38+00:00",
      "medio": "Techeconomy"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:databuddyanalytics",
+   "empresa": "Databuddy Analytics",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "Analytics/Data",
+   "etapa": "seed",
+   "monto_usd": 500000.0,
+   "inversionistas": [
+    "Y Combinator"
+   ],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Plataforma de analytics de datos respaldada por Y Combinator.",
+   "razon": "Respaldada por Y Combinator (aceleradora top global), etapa seed con ticket adecuado. Sin confirmación de país LATAM, pero señal fuerte de validación.",
+   "mensaje": "Hola equipo de Databuddy Analytics, nos impresionó que hayan sido aceptados en Y Combinator. Si tienen operaciones o planes en América Latina hispanohablante, nos encantaría conectar. ¿Estarían abiertos a una conversación?",
+   "score": 70,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 14.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-20T12:38:46+00:00",
+   "ultima_senal": "2026-10-20T12:38:46+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Databuddy Analytics raises $500,000 from Y Combinator",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcGZYeGpUNG1kcEpCRExrak1STWd3aURwUEZJdFFoWVg1dThlV2N4SUh1S1hPZGRTU0stZGN1T2tVOHJRVmxvMDJjQ05mc3hRR254RFltam9YZHZnNjBLc3o5bDNkV0RPeGlsTE1VdHNNNnBhd09aMS02WGIyUEJOazlB?oc=5",
+     "fecha": "2026-10-20T12:38:46+00:00",
+     "medio": "Wamda"
     }
    ],
    "motor": "llm"
@@ -3639,27 +3657,27 @@
    "motor": "reglas"
   },
   {
-   "key": "n:revrag",
-   "empresa": "RevRag AI",
-   "sitio_web": null,
-   "pais": null,
+   "key": "d:leytonmedia.com",
+   "empresa": "LeytonMedia",
+   "sitio_web": "http://leytonmedia.com",
+   "pais": "Chile",
    "ciudad": null,
    "sector": null,
-   "etapa": "seed",
-   "monto_usd": 2500000.0,
+   "etapa": "desconocida",
+   "monto_usd": null,
    "inversionistas": [],
    "fundadores": [],
    "tecnologia": true,
    "calidad": 5.0,
-   "resumen": "RevRag AI raises $2.5 million: How its AI agents aim to fix a costly fintech problem CNBC TV18",
+   "resumen": "Ayudamos a las empresas con su transformación digital, Creamos experiencias  para conectar a las marcas con sus usuarios desde 1994",
    "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
    "mensaje": null,
    "score": 68,
    "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
+    "geografia": 25.0,
+    "etapa": 12.5,
     "tecnologia": 15.0,
-    "senal": 10.5,
+    "senal": 6.0,
     "calidad": 10.0
    },
    "prioridad": "B",
@@ -3667,16 +3685,16 @@
    "conocido": false,
    "conocido_fuente": null,
    "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-19T16:33:22+00:00",
-   "ultima_senal": "2026-10-19T16:33:22+00:00",
+   "fecha_evidencia": "2026-10-19T19:51:14+00:00",
+   "ultima_senal": "2026-10-19T19:51:14+00:00",
    "senales": [
     {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "RevRag AI raises $2.5 million: How its AI agents aim to fix a costly fintech problem",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmtRam9BRFZjaDdNenF2X2Y5T2JsM0VJckhjdXhDU1R0RXdZallESDl2V29valhROGo2dEZ1SElpWXNaUW5kR19UMnNGbHdjYkFGY1dCNF9GU0Y3WjRnSk1xdHdKMEwtYUFXQ19ZLWtXY2dPUmtlQU9hbjNCY0xDbWRGU1FxTVdJY3lQaXhjRTN1WDFIUlRjSFRaaFdmUU45ckpn0gGoAUFVX3lxTFBnQ21HRFhsczZqWXJublRuUGJYeU1jeDg4ZThYTEVRYVVIZHFsTTg5UF9jNDE4T05mWjk5elhBT0ZxVlVKSHc3WTBxd1RCcnE5Nmt5MmRzYmI1SVd1NXFwa2pOYlpHV0YwdzZJX2JJX2lOWnN2eWx4MmJ0bklVTXVobTZ6Zkx1QUZFTEt6WEFVMHFVWTZsRk94cW5qSk54ZXgwRF8wZnIxbw?oc=5",
-     "fecha": "2026-10-19T16:33:22+00:00",
-     "medio": "CNBC TV18"
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "LeytonMedia está contratando: Diseñador Digital",
+     "url": "https://www.getonbrd.com/jobs/disenador-digital-leytonmedia-santiago-481e",
+     "fecha": "2026-10-19T19:51:14+00:00",
+     "medio": null
     }
    ],
    "motor": "reglas"
@@ -3870,6 +3888,49 @@
    "motor": "reglas"
   },
   {
+   "key": "d:hf.solutions",
+   "empresa": "HF Solutions",
+   "sitio_web": "http://www.hf.solutions",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Empresa consultora en tecnología, especializada en diseño y desarrollo de software sobre la nube y mobile.",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-19T17:37:20+00:00",
+   "ultima_senal": "2026-10-19T17:37:20+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "HF Solutions está contratando: Back-end Developer – AWS",
+     "url": "https://www.getonbrd.com/jobs/backend-developer-pci-aws-hf-solutions-santiago",
+     "fecha": "2026-10-19T17:37:20+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "n:biostack",
    "empresa": "BioStack",
    "sitio_web": null,
@@ -3962,57 +4023,6 @@
     }
    ],
    "motor": "reglas"
-  },
-  {
-   "key": "n:capquest",
-   "empresa": "CapQuest",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": "Fintech",
-   "etapa": "pre-seed",
-   "monto_usd": 1000000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "CapQuest cierra una ronda pre-seed de USD 1M para expandirse globalmente.",
-   "razon": "Ronda pre-seed de USD 1M reportada, pero sin información de tracción, sector, ubicación o diferenciación visible en la señal.",
-   "mensaje": "Hola equipo de CapQuest,\n\nVimos que acaban de cerrar USD 1M en pre-seed para expansión global. En Latin Leap invertimos en startups tech en etapa temprana en Latinoamérica hispanohablante, y nos interesaría conocer más sobre vuestra solución y visión de mercado.\n\n¿Estarían disponibles para una conversación breve?",
-   "score": 68,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-26T14:55:10+00:00",
-   "fecha_evidencia": "2026-10-20T07:00:00+00:00",
-   "ultima_senal": "2026-10-20T11:06:10+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "CapQuest closes $1 million pre-Seed funding to expand globally",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOWdUcmhxRHk5dWtRQ1pSQ0JqQVZhT19aNXByeDljZVIxeUxPb1NsWUg0V3YwLWRtZmd0UFRsQkFtYllsNXFhX2E4dEhWUkl6Z2xUUHZ2OVlGZXVQWDMwY3N5OFRXSXlTakFCNk84QmNGYVdCMHhiT2txY0RMYUlzWWlxbkw0YVdib3dkVnVDTFJ3dw?oc=5",
-     "fecha": "2026-10-20T07:00:00+00:00",
-     "medio": "Wamda"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "CapQuest closes $1 million pre-Seed funding to expand globally",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTFplN0RKWTV1RWtxeUE2TkFRQ3dzTzJKaFEzbmR0Qzk1bWFfejBpbjZRcjB3OUJjR0JXY3BrUnpaclI5cUFvWmJrbnA4M29fTDFmZ1c0aDlYVlBHT21fQmk0Qk91enQ1ZEFSYzFKZnhMSWRycTdUeUd0R0FtUGtvSW5ZdTBQR0ItN0x3?oc=5",
-     "fecha": "2026-10-20T11:06:10+00:00",
-     "medio": "Wamda"
-    }
-   ],
-   "motor": "llm"
   },
   {
    "key": "d:xintec.cl",
@@ -4144,47 +4154,98 @@
    "motor": "reglas"
   },
   {
-   "key": "n:kompanion",
-   "empresa": "Kompanion",
+   "key": "n:revrag",
+   "empresa": "RevRag AI",
    "sitio_web": null,
    "pais": null,
    "ciudad": null,
    "sector": null,
    "etapa": "seed",
-   "monto_usd": null,
+   "monto_usd": 2500000.0,
    "inversionistas": [],
    "fundadores": [],
    "tecnologia": true,
    "calidad": 5.0,
-   "resumen": "Kompanion raises €800K seed to build AI business-management platform Dealroom",
+   "resumen": "RevRag AI raises $2.5 million: How its AI agents aim to fix a costly fintech problem CNBC TV18",
    "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
    "mensaje": null,
-   "score": 64,
+   "score": 66,
    "desglose": {
     "geografia": 7.5,
     "etapa": 25.0,
     "tecnologia": 15.0,
-    "senal": 6.0,
+    "senal": 9.0,
     "calidad": 10.0
    },
    "prioridad": "B",
    "en_tesis": true,
    "conocido": false,
    "conocido_fuente": null,
-   "primera_vista": "2026-10-29T13:07:57+00:00",
-   "fecha_evidencia": "2026-10-19T17:39:59+00:00",
-   "ultima_senal": "2026-10-19T17:39:59+00:00",
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-19T16:33:22+00:00",
+   "ultima_senal": "2026-10-19T16:33:22+00:00",
    "senales": [
     {
      "fuente": "Google News",
      "tipo": "noticia",
-     "titulo": "Kompanion raises €800K seed to build AI business-management platform",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmctWDV5c3BRYjdXSGk1bENCTTRmUENTTmhTYUhEdzVmdHlFQlJfSFFhMUZIM2g2M2wzWjhFYlFORFpMczhQY3NnSUQ3dFBqYXNxYVFPYUVyWXVmUVdKdjNOVHRPSzZwVFNEeXc4TFdLVE1wVGlqVzhYMGZKWDh6UzRzVXVyNzNlNEczMlBVYjBza3JqUzdQbTA4X21uNlNSYjhr?oc=5",
-     "fecha": "2026-10-19T17:39:59+00:00",
-     "medio": "Dealroom"
+     "titulo": "RevRag AI raises $2.5 million: How its AI agents aim to fix a costly fintech problem",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmtRam9BRFZjaDdNenF2X2Y5T2JsM0VJckhjdXhDU1R0RXdZallESDl2V29valhROGo2dEZ1SElpWXNaUW5kR19UMnNGbHdjYkFGY1dCNF9GU0Y3WjRnSk1xdHdKMEwtYUFXQ19ZLWtXY2dPUmtlQU9hbjNCY0xDbWRGU1FxTVdJY3lQaXhjRTN1WDFIUlRjSFRaaFdmUU45ckpn0gGoAUFVX3lxTFBnQ21HRFhsczZqWXJublRuUGJYeU1jeDg4ZThYTEVRYVVIZHFsTTg5UF9jNDE4T05mWjk5elhBT0ZxVlVKSHc3WTBxd1RCcnE5Nmt5MmRzYmI1SVd1NXFwa2pOYlpHV0YwdzZJX2JJX2lOWnN2eWx4MmJ0bklVTXVobTZ6Zkx1QUZFTEt6WEFVMHFVWTZsRk94cW5qSk54ZXgwRF8wZnIxbw?oc=5",
+     "fecha": "2026-10-19T16:33:22+00:00",
+     "medio": "CNBC TV18"
     }
    ],
    "motor": "reglas"
+  },
+  {
+   "key": "n:capquest",
+   "empresa": "CapQuest",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "Fintech",
+   "etapa": "pre-seed",
+   "monto_usd": 1000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "CapQuest cierra una ronda pre-seed de USD 1M para expandirse globalmente.",
+   "razon": "Ronda pre-seed de USD 1M reportada, pero sin información de tracción, sector, ubicación o diferenciación visible en la señal.",
+   "mensaje": "Hola equipo de CapQuest,\n\nVimos que acaban de cerrar USD 1M en pre-seed para expansión global. En Latin Leap invertimos en startups tech en etapa temprana en Latinoamérica hispanohablante, y nos interesaría conocer más sobre vuestra solución y visión de mercado.\n\n¿Estarían disponibles para una conversación breve?",
+   "score": 66,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-20T07:00:00+00:00",
+   "ultima_senal": "2026-10-20T11:06:10+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "CapQuest closes $1 million pre-Seed funding to expand globally",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOWdUcmhxRHk5dWtRQ1pSQ0JqQVZhT19aNXByeDljZVIxeUxPb1NsWUg0V3YwLWRtZmd0UFRsQkFtYllsNXFhX2E4dEhWUkl6Z2xUUHZ2OVlGZXVQWDMwY3N5OFRXSXlTakFCNk84QmNGYVdCMHhiT2txY0RMYUlzWWlxbkw0YVdib3dkVnVDTFJ3dw?oc=5",
+     "fecha": "2026-10-20T07:00:00+00:00",
+     "medio": "Wamda"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "CapQuest closes $1 million pre-Seed funding to expand globally",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTFplN0RKWTV1RWtxeUE2TkFRQ3dzTzJKaFEzbmR0Qzk1bWFfejBpbjZRcjB3OUJjR0JXY3BrUnpaclI5cUFvWmJrbnA4M29fTDFmZ1c0aDlYVlBHT21fQmk0Qk91enQ1ZEFSYzFKZnhMSWRycTdUeUd0R0FtUGtvSW5ZdTBQR0ItN0x3?oc=5",
+     "fecha": "2026-10-20T11:06:10+00:00",
+     "medio": "Wamda"
+    }
+   ],
+   "motor": "llm"
   },
   {
    "key": "d:graftonlatam.com",
@@ -4268,6 +4329,49 @@
      "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-movek-remote",
      "fecha": "2026-10-22T13:24:09+00:00",
      "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:kompanion",
+   "empresa": "Kompanion",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Kompanion raises €800K seed to build AI business-management platform Dealroom",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 62,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 4.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-29T13:07:57+00:00",
+   "fecha_evidencia": "2026-10-19T17:39:59+00:00",
+   "ultima_senal": "2026-10-19T17:39:59+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Kompanion raises €800K seed to build AI business-management platform",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmctWDV5c3BRYjdXSGk1bENCTTRmUENTTmhTYUhEdzVmdHlFQlJfSFFhMUZIM2g2M2wzWjhFYlFORFpMczhQY3NnSUQ3dFBqYXNxYVFPYUVyWXVmUVdKdjNOVHRPSzZwVFNEeXc4TFdLVE1wVGlqVzhYMGZKWDh6UzRzVXVyNzNlNEczMlBVYjBza3JqUzdQbTA4X21uNlNSYjhr?oc=5",
+     "fecha": "2026-10-19T17:39:59+00:00",
+     "medio": "Dealroom"
     }
    ],
    "motor": "reglas"
@@ -4617,6 +4721,92 @@
    "motor": "reglas"
   },
   {
+   "key": "n:stablecoininfrastructurefirmbloquo",
+   "empresa": "Stablecoin infrastructure firm Bloquo",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": 20000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Stablecoin infrastructure firm Bloquo raises over R$20 million seed led by Crescera and Triaxis: Startupz CryptoRank",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 60,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 7.5,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-03T13:14:28+00:00",
+   "fecha_evidencia": "2026-10-31T07:00:00+00:00",
+   "ultima_senal": "2026-10-31T07:00:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Stablecoin infrastructure firm Bloquo raises over R$20 million seed led by Crescera and Triaxis: Startupz",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rMThmUkhFN0NiWFZBRlViVmp1UnZqNkh3SGg3bVlLcmE2WE1ZckM1WGFEWGVsWGY4VWljZXFMT3Yyb3U4eUpKTGRrZ25MYndqOWRjd1lqS05RcU52VHBMSVRFWGozZ1pRaHlV?oc=5",
+     "fecha": "2026-10-31T07:00:00+00:00",
+     "medio": "CryptoRank"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:syrianfoodtechpercent",
+   "empresa": "Syrian foodtech Percent Labs",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": 1000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Syrian foodtech Percent Labs closes seed round at over $1 million valuation Wamda",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 60,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 7.5,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-03T13:14:28+00:00",
+   "fecha_evidencia": "2026-11-02T12:23:01+00:00",
+   "ultima_senal": "2026-11-02T12:23:01+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Syrian foodtech Percent Labs closes seed round at over $1 million valuation",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWVYLVl1WTY2Z0NTbWwwUFhBeHRJRlA0VWdkNE5OMkdGUW1NVm9fbnJFZDdGRFFXVlB4dU1yTEl5ZlA2c1RVcmpTTGpyQmxTanNIdllYb0xkX2hpQ2RzbUxVeS1GUG81VEZFb1BTRXFoVTBNZU5KLUliNjIzUm54UU8zajJoRmV0Q2FkWVl2Ri1nUlpTWXlhcnhrSDM?oc=5",
+     "fecha": "2026-11-02T12:23:01+00:00",
+     "medio": "Wamda"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "n:giraffebio",
    "empresa": "Giraffe Bio",
    "sitio_web": null,
@@ -4915,7 +5105,7 @@
    "sitio_web": null,
    "pais": "España",
    "ciudad": null,
-   "sector": "Tecnología",
+   "sector": "IA",
    "etapa": "pre-seed",
    "monto_usd": 3000000.0,
    "inversionistas": [
@@ -4925,9 +5115,9 @@
    "fundadores": [],
    "tecnologia": true,
    "calidad": 7.0,
-   "resumen": "Artiso levantó más de USD 3M en una ronda pre-semilla liderada por Criteria Venture Tech.",
-   "razon": "Artiso levantó >USD 3M en pre-seed con inversor reconocido (Criteria Venture Tech), pero España está fuera de la geografía de Latin Leap. Si fuese de LATAM, sería atractivo; ubicación desconocida en la señal.",
-   "mensaje": "Hola equipo Artiso, vimos que captan más de USD 3M en pre-seed con Criteria Venture Tech. Si están con enfoque en América Latina hispanohablante, nos gustaría conocer más sobre vuestra tracción y visión. ¡Estamos siempre atentos a innovadores de alto potencial!",
+   "resumen": "Startup de IA que levantó capital junto a otros emprendimientos en ronda conjunta.",
+   "razon": "Ronda en IA, monto reportado en EUR (~5.5M) sin conversión clara a USD; ubicación geográfica no mencionada; etapa pre-seed estimada por el contexto de noticia.",
+   "mensaje": "Hemos visto que Artiso está levantando capital en el ecosistema IA. Si tienen operaciones en América Latina hispanohablante, nos encantaría conocer más sobre vuestra propuesta y trayectoria.",
    "score": 64,
    "desglose": {
     "geografia": 0.0,
@@ -4942,7 +5132,7 @@
    "conocido_fuente": null,
    "primera_vista": "2026-10-28T13:06:20+00:00",
    "fecha_evidencia": "2026-10-28T10:39:09+00:00",
-   "ultima_senal": "2026-10-28T20:15:36+00:00",
+   "ultima_senal": "2026-11-03T12:06:37+00:00",
    "senales": [
     {
      "fuente": "Google News",
@@ -4967,6 +5157,14 @@
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMlI5QXYyTHdKd1hrOHFrelJHcGQtNGpCU0FHQTBhYmhqcG9lMElnZnlKN0pfRHY5Ny1DdVg2RHNKendWYjRDbEhzcEw5bFY2TmtYblFTXy1HNTBCb2ltbHZPV0xUMElDaHlfUVcxdVpmYUZlM2lkQWx3UElJbnl1S2l5UEJnWXFxdFMxX0JvNlFjeVRxOEtLYThKbFNySElKdE9rQkE5c0xHRWxQblZwLTI4TDdaZWM2NkQtOFRLeUE0T03SAcgBQVVfeXFMT3FnYzRuWlp0SWhkM3VFdkRLd29yVWpId2JiTTl1TjdfaUp1OUV5RlBscjE3UC1ZNUI3RzAxc0pGT2gySGxNSWFPZmZRdVBaaTljM1djUUp2elBNa1I1a1lkWGx6b1U3cVkzeE5zanREUURKS3ZDWnd0MEh4NHhUZVhneEh6djhYQ0hFbU43VmtvRkhlUnRkeHluY3M5Rk9GcEdsaExINWM1NG1sNFZYVEg1RVZNX2gxQS1HdkJ0clNIY2hPN1lldE8?oc=5",
      "fecha": "2026-10-28T10:39:09+00:00",
      "medio": "Demócrata"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Artiso, Talky Labs e YK-Robotics levantan 5,5M€ en IA",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVzF1MEthYmZCS1VmNTFvMWlFY0JzWGhwelpFU2RkMVdfaTVGUG14VzZrMWdUeUQtaW9jNWRTa0V5a19WTm9RZzNsRXB6WjVTR2dHUUQxSURNZnlHNHpSejE1alFibmtHSWZSRzF4YzhGSmpLb2loRXk2ZTdkZE1JNmRPa19wV0d2M3c?oc=5",
+     "fecha": "2026-11-03T12:06:37+00:00",
+     "medio": "El Ecosistema Startup"
     }
    ],
    "motor": "llm"
@@ -5092,12 +5290,12 @@
    "resumen": "Startup de seguros digitales que recauda USD 3.1M en pre-seed para escalar su plataforma de brokerage.",
    "razon": "Startup insurtech pre-seed concreta con USD 3.1M recaudados; etapa y sector alineados; sin confirmación de LATAM pero nombre en español sugiere potencial regional.",
    "mensaje": "Hola equipo de Delegance, vimos que levantaron USD 3.1M en pre-seed para su plataforma insurtech. Nos interesa conocer más sobre vuestra visión de digitizar seguros en América Latina. ¿Estarían abiertos a conversar con Latin Leap sobre posibles sinergias?",
-   "score": 62,
+   "score": 61,
    "desglose": {
     "geografia": 0.0,
     "etapa": 25.0,
     "tecnologia": 15.0,
-    "senal": 10.5,
+    "senal": 9.0,
     "calidad": 12.0
    },
    "prioridad": "Fuera de tesis",
@@ -5230,49 +5428,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:town",
-   "empresa": "Town",
-   "sitio_web": null,
-   "pais": "México",
-   "ciudad": null,
-   "sector": "IA / SaaS",
-   "etapa": "serie-b+",
-   "monto_usd": 108000000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 3.0,
-   "resumen": "Town desarrolla agentes de IA por empleado y levantó USD 108M en ronda de crecimiento.",
-   "razon": "Town levantó USD 108M (serie B+), fuera del rango de inversión pre-seed/seed de Latin Leap; etapa y tamaño no alineados con tesis del fondo.",
-   "mensaje": null,
-   "score": 56,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 0.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 6.0
-   },
-   "prioridad": "Fuera de tesis",
-   "en_tesis": false,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-20T02:22:01+00:00",
-   "ultima_senal": "2026-10-20T02:22:01+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Town levanta US$108M con agentes de IA por empleado",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZllpenRJcjBZMDltUEx2YVdIYk5iTDJUT2x0OXNBVGVvWEhOdzdyT09oQ09HYkxpc185cXB1VkZoM0JWSDZBVVlSem9DMDJVVUxwT215RzhxV2I3RjNMQXFQczE5WnlBaHppcnJ3M2Vra0FGLVppRVdkdkkwWUhsdWZKWVpHMWpo?oc=5",
-     "fecha": "2026-10-20T02:22:01+00:00",
-     "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:forgepoint",
    "empresa": "Forgepoint",
    "sitio_web": null,
@@ -5359,21 +5514,21 @@
    "motor": "reglas"
   },
   {
-   "key": "n:ykrobotics",
-   "empresa": "YK-Robotics",
+   "key": "n:talky",
+   "empresa": "Talky Labs",
    "sitio_web": null,
    "pais": "desconocido",
    "ciudad": null,
-   "sector": "robotics",
-   "etapa": "seed",
+   "sector": "IA",
+   "etapa": "pre-seed",
    "monto_usd": null,
    "inversionistas": [],
    "fundadores": [],
    "tecnologia": true,
    "calidad": 5.0,
-   "resumen": "Startup de robótica que cerró ronda semilla de 2.5M€ en conjunto con otro emprendimiento.",
-   "razon": "Startup de robotics en etapa semilla con ronda reportada, pero sin evidencia clara de ubicación en Latinoamérica hispanohablante.",
-   "mensaje": "Notamos que YK-Robotics ha cerrado una ronda semilla. En Latin Leap siempre buscamos a los mejores equipos de hardware y robotics en LatAm. ¿Estarían abiertos a conocer a nuestro equipo?",
+   "resumen": "Startup de IA que participó en ronda de financiamiento conjunto junto a otros emprendimientos.",
+   "razon": "Ronda en IA, monto reportado en EUR (~5.5M distribuido entre startups) sin detalle individual; ubicación no especificada; etapa estimada como pre-seed.",
+   "mensaje": "Vimos que Talky Labs está levantando en el sector IA. Si tienen operaciones en LATAM hispanohablante, nos gustaría conectar para conocer vuestro producto y vision.",
    "score": 56,
    "desglose": {
     "geografia": 0.0,
@@ -5388,7 +5543,7 @@
    "conocido_fuente": null,
    "primera_vista": "2026-11-01T12:58:05+00:00",
    "fecha_evidencia": "2026-11-01T08:06:34+00:00",
-   "ultima_senal": "2026-11-01T08:06:34+00:00",
+   "ultima_senal": "2026-11-03T12:06:37+00:00",
    "senales": [
     {
      "fuente": "Google News",
@@ -5396,6 +5551,108 @@
      "titulo": "Talky Labs y YK-Robotics cierran 2,5M€ en rondas semilla",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaXk5V05lT2NTajZwV1JIWUZBcXVPYkxqa3RyRTdhRG05UnZ4V1R6V2lnSlcxU2pxRTJhZWRRMlR6dkVOVUJEQkVlNmxNaS1HbThVVV9mWVBYckFzRGhHaXR5WGppT0xiVGkycnF5NEp6TUZfSGxhaU9PMURURXVUQ1ZwYzVFdnE4SVlGOURSWQ?oc=5",
      "fecha": "2026-11-01T08:06:34+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Artiso, Talky Labs e YK-Robotics levantan 5,5M€ en IA",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVzF1MEthYmZCS1VmNTFvMWlFY0JzWGhwelpFU2RkMVdfaTVGUG14VzZrMWdUeUQtaW9jNWRTa0V5a19WTm9RZzNsRXB6WjVTR2dHUUQxSURNZnlHNHpSejE1alFibmtHSWZSRzF4YzhGSmpLb2loRXk2ZTdkZE1JNmRPa19wV0d2M3c?oc=5",
+     "fecha": "2026-11-03T12:06:37+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:ykrobotics",
+   "empresa": "YK-Robotics",
+   "sitio_web": null,
+   "pais": "desconocido",
+   "ciudad": null,
+   "sector": "IA / Robótica",
+   "etapa": "pre-seed",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Empresa de robótica impulsada por IA que participó en financiamiento grupal.",
+   "razon": "Startup de IA/robótica en ronda conjunta (~5.5M EUR repartido); ubicación no confirmada; etapa estimada como pre-seed.",
+   "mensaje": "Notamos que YK-Robotics está levantando en el espacio de IA y robótica. Si operan en América Latina hispanohablante, nos gustaría explorar una conversación sobre vuestro proyecto.",
+   "score": 56,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-01T12:58:05+00:00",
+   "fecha_evidencia": "2026-11-01T08:06:34+00:00",
+   "ultima_senal": "2026-11-03T12:06:37+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Talky Labs y YK-Robotics cierran 2,5M€ en rondas semilla",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaXk5V05lT2NTajZwV1JIWUZBcXVPYkxqa3RyRTdhRG05UnZ4V1R6V2lnSlcxU2pxRTJhZWRRMlR6dkVOVUJEQkVlNmxNaS1HbThVVV9mWVBYckFzRGhHaXR5WGppT0xiVGkycnF5NEp6TUZfSGxhaU9PMURURXVUQ1ZwYzVFdnE4SVlGOURSWQ?oc=5",
+     "fecha": "2026-11-01T08:06:34+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Artiso, Talky Labs e YK-Robotics levantan 5,5M€ en IA",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVzF1MEthYmZCS1VmNTFvMWlFY0JzWGhwelpFU2RkMVdfaTVGUG14VzZrMWdUeUQtaW9jNWRTa0V5a19WTm9RZzNsRXB6WjVTR2dHUUQxSURNZnlHNHpSejE1alFibmtHSWZSRzF4YzhGSmpLb2loRXk2ZTdkZE1JNmRPa19wV0d2M3c?oc=5",
+     "fecha": "2026-11-03T12:06:37+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:town",
+   "empresa": "Town",
+   "sitio_web": null,
+   "pais": "México",
+   "ciudad": null,
+   "sector": "IA / SaaS",
+   "etapa": "serie-b+",
+   "monto_usd": 108000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 3.0,
+   "resumen": "Town desarrolla agentes de IA por empleado y levantó USD 108M en ronda de crecimiento.",
+   "razon": "Town levantó USD 108M (serie B+), fuera del rango de inversión pre-seed/seed de Latin Leap; etapa y tamaño no alineados con tesis del fondo.",
+   "mensaje": null,
+   "score": 55,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 0.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 6.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-20T02:22:01+00:00",
+   "ultima_senal": "2026-10-20T02:22:01+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Town levanta US$108M con agentes de IA por empleado",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZllpenRJcjBZMDltUEx2YVdIYk5iTDJUT2x0OXNBVGVvWEhOdzdyT09oQ09HYkxpc185cXB1VkZoM0JWSDZBVVlSem9DMDJVVUxwT215RzhxV2I3RjNMQXFQczE5WnlBaHppcnJ3M2Vra0FGLVppRVdkdkkwWUhsdWZKWVpHMWpo?oc=5",
+     "fecha": "2026-10-20T02:22:01+00:00",
      "medio": "El Ecosistema Startup"
     }
    ],
@@ -5442,6 +5699,49 @@
      "url": "https://startupslatam.com/que-lindo-tu-proyectito-la-intuicion-de-la-founder-que-construye-neopausia/",
      "fecha": "2026-10-16T14:39:22+00:00",
      "medio": null
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:clark",
+   "empresa": "Clark",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "Enterprise / Auditoría",
+   "etapa": "serie-a",
+   "monto_usd": 11000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Plataforma de IA especializada en automatizar y optimizar procesos de auditoría para empresas.",
+   "razon": "Startup de IA en vertical B2B con ronda significativa, pero etapa (Serie A) está fuera del foco pre-seed/seed de Latin Leap; ubicación geográfica no confirmada en LATAM hispanohablante.",
+   "mensaje": "Notamos que Clark está revolucionando auditoría con IA. Aunque ya están en una etapa más avanzada, nos encantaría estar en el radar para futuras iniciativas regionales en LATAM hispanohablante. ¡Felicidades por la ronda!",
+   "score": 52,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 7.5,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 12.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-03T13:14:28+00:00",
+   "fecha_evidencia": "2026-11-02T19:51:45+00:00",
+   "ultima_senal": "2026-11-02T19:51:45+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Clark, startup de IA para auditorías, levanta US$11M",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeVZ3WmNjU1RzZkZNaHI0em81emFXS0tUa1ZiTGlEclVnRmlCYWZWSGE3VVN1Tkg2OVQwTld1czN1MjY1am5oZGxBVkk3Z3gtTlBRMlcyZ3dPZWhmTGc5SkNRY1c5dlU5T0dMTnRuWXU2VlROQXg1c240eEVScVhOWHpWRDFIMzA?oc=5",
+     "fecha": "2026-11-02T19:51:45+00:00",
+     "medio": "El Ecosistema Startup"
     }
    ],
    "motor": "llm"
@@ -5834,49 +6134,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:talky",
-   "empresa": "Talky Labs",
-   "sitio_web": null,
-   "pais": "desconocido",
-   "ciudad": null,
-   "sector": "desconocido",
-   "etapa": "seed",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 4.0,
-   "resumen": "Startup que cerró ronda semilla de 2.5M€ en conjunto con otra emprendimiento.",
-   "razon": "Startup en etapa semilla con ronda reportada (2.5M€ compartida), pero sin evidencia clara de ubicación en Latinoamérica hispanohablante.",
-   "mensaje": "Vimos que Talky Labs ha cerrado una ronda semilla recientemente. Nos gustaría saber más sobre el equipo y el producto. ¿Hay oportunidad de conocerse en una próxima conversación?",
-   "score": 46,
-   "desglose": {
-    "geografia": 0.0,
-    "etapa": 25.0,
-    "tecnologia": 7.5,
-    "senal": 6.0,
-    "calidad": 8.0
-   },
-   "prioridad": "Fuera de tesis",
-   "en_tesis": false,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-11-01T12:58:05+00:00",
-   "fecha_evidencia": "2026-11-01T08:06:34+00:00",
-   "ultima_senal": "2026-11-01T08:06:34+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Talky Labs y YK-Robotics cierran 2,5M€ en rondas semilla",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaXk5V05lT2NTajZwV1JIWUZBcXVPYkxqa3RyRTdhRG05UnZ4V1R6V2lnSlcxU2pxRTJhZWRRMlR6dkVOVUJEQkVlNmxNaS1HbThVVV9mWVBYckFzRGhHaXR5WGppT0xiVGkycnF5NEp6TUZfSGxhaU9PMURURXVUQ1ZwYzVFdnE4SVlGOURSWQ?oc=5",
-     "fecha": "2026-11-01T08:06:34+00:00",
-     "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:tripwip",
    "empresa": "TripWip",
    "sitio_web": null,
@@ -6135,49 +6392,6 @@
    "motor": "reglas"
   },
   {
-   "key": "n:southkoreasdevdi",
-   "empresa": "South Korea's Devdi",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 5.0,
-   "resumen": "South Korea's Devdi raises follow-on from MYSC to expand rent card payments Dealroom",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 44,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 12.5,
-    "tecnologia": 7.5,
-    "senal": 6.0,
-    "calidad": 10.0
-   },
-   "prioridad": "C",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-29T13:07:57+00:00",
-   "fecha_evidencia": "2026-10-19T14:30:29+00:00",
-   "ultima_senal": "2026-10-19T14:30:29+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "South Korea's Devdi raises follow-on from MYSC to expand rent card payments",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0RUZ2tmT2dTYzItTU5xaGdpZnUySUVxNl9USnVwZV9ZSXBHQnl3LVg0aHhYc3VuNk0wbFFJak1aU2F1MkRBQlVlMjRIblRqaUpfZVRVdmt0LWRIRUpFbWoxbGZOWVUzUHFrYjNsT0YzcnJhS1VMcDluRmdDOTZVeGF2WTZIM2ZDczMtYy1hZlp5U2lJTWxkYkJNaWhIZWZ1c2VHTUxzdUJ3ei1ZU2c?oc=5",
-     "fecha": "2026-10-19T14:30:29+00:00",
-     "medio": "Dealroom"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "n:formic",
    "empresa": "Formic",
    "sitio_web": null,
@@ -6302,6 +6516,135 @@
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcVVlTmkxTnBqVDdHUmtQZjdjbHcwenVIcmw2SHhfN0tjdTVscUsyRVRWSTRhS2tXNWRlbEZlRTlYS2k1OVlRcVhWdUI0S01NbjBmQmNaeU9JYXBDaFJ3MkFYOF9LcV8zcjlaS3l2dEREd1pCS3RDeWpOYV9MaEFTdFZCV2FCcG9aRTEweUJJdnppVlQ1SGFHb0FyT1A4dFNoZ21RX2xyXzRDenM1RUliQXZLcmZBWlFsNkQwSTZBUHRYN3BzRFVxRVY4anE3UQ?oc=5",
      "fecha": "2026-10-27T10:00:01+00:00",
      "medio": "Business Insider Africa"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:tutorintelligence",
+   "empresa": "Tutor Intelligence",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "serie-b+",
+   "monto_usd": 75000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Tutor Intelligence Raises $75M in Series B Funding to Expand Robot Production and AI Training AI Insider",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 43,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 0.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-03T13:14:28+00:00",
+   "fecha_evidencia": "2026-11-02T21:06:06+00:00",
+   "ultima_senal": "2026-11-02T21:06:06+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Tutor Intelligence Raises $75M in Series B Funding to Expand Robot Production and AI Training",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdFVuaVVLOS1xNjI4YUFMSHd0NWtYLVloTk8zTld1WUtESFFGWWlyQ1pPYkNXRm5NQWJBSzN5NDFiUnFJZGNLaFowUi11VDJkdXVXX2Q0azFTT0xwY2xTOF80VmJZdGIxZXdVemNmZW1Uby12aVhhcGVEM0VIbkVQRUJLa1RiWlpycHlMclJCWldWY2FXM1BCeVRyZ3Z1ZGxDUkNiN19MTjlIa0hZcDVWRFpERFU3M1lUbFJ0bFUzMUwxdjlWSGdLQTBR?oc=5",
+     "fecha": "2026-11-02T21:06:06+00:00",
+     "medio": "AI Insider"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:savory",
+   "empresa": "Savory",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "serie-b+",
+   "monto_usd": 201500000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Savory closes $201.5 million fund as startups in AI, healthcare and defense raise capital Utah Business",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 43,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 0.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-03T13:14:28+00:00",
+   "fecha_evidencia": "2026-11-03T04:29:01+00:00",
+   "ultima_senal": "2026-11-03T04:29:01+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Savory closes $201.5 million fund as startups in AI, healthcare and defense raise capital",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS2dpRDFrV0RNV1BhdVdIekJobUpOVGVteTBGel81b3h4TzgwMkRER0QySkdPbFU1aUxmQ3JFV1BCOFlQQWwxTFdxeHZVZkNoYkJzQ2d4QWlxUWI5YW52VFc4S1JTX0JjYnNtREFfc25WaWN1XzhUaG85bThHRktiZmp5ODFvWDBHUUFRWm1lS0c0S1hVVEFJMkJnZ2d3VWdfeWxBUm1uRlZzWHFaTjlyVkZMaFR2aGljMk1sUzhYTnN5bW12UlozVGVPZDd0MGpUQVdSeUxZZUk?oc=5",
+     "fecha": "2026-11-03T04:29:01+00:00",
+     "medio": "Utah Business"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:loamy",
+   "empresa": "Loamy",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "serie-a",
+   "monto_usd": 6000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Loamy raises $6M to flag produce before a buyer rejects it FreightWaves",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 43,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 7.5,
+    "tecnologia": 7.5,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-03T13:14:28+00:00",
+   "fecha_evidencia": "2026-11-03T13:00:00+00:00",
+   "ultima_senal": "2026-11-03T13:00:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Loamy raises $6M to flag produce before a buyer rejects it",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OWC1yWmUzWFhTcUI3Nk1oS1V2T2MwTFJoUS03cXowVVBRcldZdnpSVGFLSTQ2R2t1NV9WVC1GbC0xekk5MWlIdzU2Uk5Wemw2VnpkNlVHVUU2Qk9WdHVuMGJiYnlfQ1lRSDhxX1ZHa3FCVEFyT3hYWmY3SExxZw?oc=5",
+     "fecha": "2026-11-03T13:00:00+00:00",
+     "medio": "FreightWaves"
     }
    ],
    "motor": "reglas"
@@ -6434,6 +6777,49 @@
     }
    ],
    "motor": "llm"
+  },
+  {
+   "key": "n:southkoreasdevdi",
+   "empresa": "South Korea's Devdi",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "South Korea's Devdi raises follow-on from MYSC to expand rent card payments Dealroom",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 42,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 12.5,
+    "tecnologia": 7.5,
+    "senal": 4.5,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-29T13:07:57+00:00",
+   "fecha_evidencia": "2026-10-19T14:30:29+00:00",
+   "ultima_senal": "2026-10-19T14:30:29+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "South Korea's Devdi raises follow-on from MYSC to expand rent card payments",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0RUZ2tmT2dTYzItTU5xaGdpZnUySUVxNl9USnVwZV9ZSXBHQnl3LVg0aHhYc3VuNk0wbFFJak1aU2F1MkRBQlVlMjRIblRqaUpfZVRVdmt0LWRIRUpFbWoxbGZOWVUzUHFrYjNsT0YzcnJhS1VMcDluRmdDOTZVeGF2WTZIM2ZDczMtYy1hZlp5U2lJTWxkYkJNaWhIZWZ1c2VHTUxzdUJ3ei1ZU2c?oc=5",
+     "fecha": "2026-10-19T14:30:29+00:00",
+     "medio": "Dealroom"
+    }
+   ],
+   "motor": "reglas"
   },
   {
    "key": "n:fello",
@@ -6609,15 +6995,15 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-11-02T13:19:18+00:00",
+  "actualizado": "2026-11-03T13:14:28+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 94,
-  "prioridad_a_30d": 29,
-  "incremento_vs_baseline": 1.567,
-  "cumplimiento_meta": 15.67,
-  "total_deals": 142,
-  "total_calificados": 100,
+  "calificados_30d": 98,
+  "prioridad_a_30d": 31,
+  "incremento_vs_baseline": 1.633,
+  "cumplimiento_meta": 16.33,
+  "total_deals": 150,
+  "total_calificados": 104,
   "conocidos_detectados": 2,
   "por_semana": {
    "2025-06-16": 1,
@@ -6629,28 +7015,29 @@
    "2026-10-05": 8,
    "2026-10-12": 22,
    "2026-10-19": 38,
-   "2026-10-26": 26
+   "2026-10-26": 27,
+   "2026-11-02": 3
   },
   "por_fuente": {
-   "Google News": 49,
+   "Google News": 52,
    "Get on Board": 43,
    "Y Combinator": 6,
-   "Startups Latam": 3,
-   "LatamList": 2,
+   "Startups Latam": 4,
+   "LatamList": 3,
    "Techla Media": 1
   },
   "por_pais": {
    "Chile": 40,
-   "?": 23,
-   "Argentina": 12,
+   "?": 25,
+   "Argentina": 13,
    "México": 11,
    "Colombia": 6,
    "Uruguay": 2,
    "Guatemala": 2,
+   "Venezuela": 2,
    "Costa Rica": 1,
    "Perú": 1,
-   "Bolivia": 1,
-   "Venezuela": 1
+   "Bolivia": 1
   },
   "corridas": [
    {
@@ -7543,6 +7930,84 @@
       "fuente": "Get on Board",
       "ok": true,
       "senales": 51,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-11-03T13:13:06+00:00",
+    "fin": "2026-11-03T13:14:28+00:00",
+    "senales_crudas": 294,
+    "descartadas_prefiltro": 127,
+    "procesadas": 21,
+    "deals_nuevos": 8,
+    "calificados_nuevos": 4,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 15,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 194,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 5,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 50,
       "error": null
      }
     ]
