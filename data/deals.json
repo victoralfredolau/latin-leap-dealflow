@@ -292,12 +292,12 @@
   "ultima_senal": "2026-10-21T01:27:48+00:00",
   "conocido_fuente": "Portafolio Latin Leap",
   "conocido": true,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 0.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 13.5,
+   "senal": 12.0,
    "calidad": 16.0
   },
   "prioridad": "Fuera de tesis",
@@ -342,12 +342,12 @@
   "ultima_senal": "2026-10-20T22:07:06+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 68,
+  "score": 66,
   "desglose": {
    "geografia": 0.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 13.5,
+   "senal": 12.0,
    "calidad": 14.0
   },
   "prioridad": "Fuera de tesis",
@@ -766,12 +766,12 @@
   "ultima_senal": "2026-10-20T14:08:54+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 69,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 7.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 14.0
   },
   "prioridad": "B",
@@ -810,12 +810,12 @@
   "ultima_senal": "2026-10-20T19:23:49+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 84,
+  "score": 83,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 12.0
   },
   "prioridad": "A",
@@ -1066,12 +1066,12 @@
   "ultima_senal": "2026-10-20T19:46:35+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -1564,6 +1564,14 @@
     "url": "https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-bice-vida-santiago-cde7",
     "fecha": "2026-10-15T21:07:12+00:00",
     "medio": null
+   },
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "BICE VIDA está contratando: Developer Full-Stack, Ingeniero de Datos Middle, Ingeniero de Datos Senior, Product Designer",
+    "url": "https://www.getonbrd.com/jobs/product-designer-bice-vida-santiago-137c",
+    "fecha": "2026-11-03T19:13:25+00:00",
+    "medio": null
    }
   ],
   "inversionistas": [],
@@ -1578,15 +1586,15 @@
   "resumen": "Líderes en el negocio de las aseguradoras en Chile, somos una empresa enfocada en satisfacer las necesidades de seguridad, prosperidad y protección de nuestros clientes. ",
   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
   "fecha_evidencia": "2026-10-15T21:07:12+00:00",
-  "ultima_senal": "2026-10-15T21:07:12+00:00",
+  "ultima_senal": "2026-11-03T19:13:25+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 68,
+  "score": 70,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 7.5,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -1747,12 +1755,12 @@
   "ultima_senal": "2026-10-20T19:44:06+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -1769,6 +1777,14 @@
     "url": "https://www.getonbrd.com/jobs/ingeniero-infraestructura-it-ot-onpremise-cloud-agrosuper-rancagua",
     "fecha": "2026-10-20T22:01:03+00:00",
     "medio": null
+   },
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Agrosuper está contratando: Ingeniero Gobierno de Datos, Jefe de People Analytics, Ingeniero Infraestructura IT/Ot Onpremise & Cloud, Analista Calidad Faenadora San Vicente, Monitor Calida",
+    "url": "https://www.getonbrd.com/jobs/ingeniero-a-de-calidad-de-datos-agrosuper-rancagua",
+    "fecha": "2026-11-03T15:41:39+00:00",
+    "medio": null
    }
   ],
   "inversionistas": [],
@@ -1783,7 +1799,7 @@
   "resumen": "En Agrosuper nos motiva hacer las cosas siempre mejor, con espíritu de crecimiento y desarrollo, disfrutando lo bueno de la vida  ¡Ven a ser parte!",
   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
   "fecha_evidencia": "2026-10-20T22:01:03+00:00",
-  "ultima_senal": "2026-10-20T22:01:03+00:00",
+  "ultima_senal": "2026-11-03T15:41:39+00:00",
   "conocido_fuente": null,
   "conocido": false,
   "score": 70,
@@ -2551,12 +2567,12 @@
   "ultima_senal": "2026-10-20T18:53:33+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 50,
+  "score": 49,
   "desglose": {
    "geografia": 7.5,
    "etapa": 7.5,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
   "prioridad": "C",
@@ -2840,12 +2856,12 @@
   "ultima_senal": "2026-10-21T11:32:00+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 85,
+  "score": 84,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 14.0
   },
   "prioridad": "A",
@@ -4268,12 +4284,12 @@
   "ultima_senal": "2026-10-21T10:26:58+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 44,
+  "score": 42,
   "desglose": {
    "geografia": 7.5,
    "etapa": 12.5,
    "tecnologia": 7.5,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 10.0
   },
   "prioridad": "C",
@@ -4306,12 +4322,12 @@
   "ultima_senal": "2026-10-21T07:00:00+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 68,
+  "score": 66,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -4347,12 +4363,12 @@
   "ultima_senal": "2026-10-20T18:33:32+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 64,
+  "score": 63,
   "desglose": {
    "geografia": 0.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 14.0
   },
   "prioridad": "Fuera de tesis",
@@ -4861,10 +4877,19 @@
     "url": "https://latamlist.com/viatik-raises-600k-to-expand-in-argentina/",
     "fecha": "2026-10-29T22:55:54+00:00",
     "medio": null
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Viatik, la startup uruguaya de viajes compartidos, levanta US$ 600.000 con un cofundador de PedidosYa y el ex número uno de Uber en Argentina",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlMwUGwzMmdzMGFHa0JTd2ZCUTVRNUUzS05SVDJFakp5bmQxZGV1UVJCWWZQOUNpaU4zOWthZjNJb1A2U0NDZExQc0g4Rms4ZFNTNUdEQUUzazNBYURZZld4TkJqaHJxWnZiWFhESXEzQ0dMQVJFbkNaTjloY1FFT21RVkl0elFON1lfQm02VElWelR5?oc=5",
+    "fecha": "2026-10-28T11:07:00+00:00",
+    "medio": "Yahoo"
    }
   ],
   "inversionistas": [
    "Cofundador de PedidosYa, ex CEO de Uber Argentina",
+   "Cofundador de PedidosYa, ex VP Uber Argentina",
    "Inversores vinculados a PedidosYa y Uber",
    "Plug and Play, Picante"
   ],
@@ -4873,13 +4898,13 @@
   "motor": "llm",
   "empresa": "Viatik",
   "pais": "Uruguay",
-  "sector": "Movilidad / Carpooling",
+  "sector": "Movilidad / Marketplace",
   "etapa": "seed",
   "monto_usd": 600000.0,
   "tecnologia": true,
-  "resumen": "Viatik es una plataforma de carpooling uruguaya que levantó USD 600K para expandir en Argentina con inversionistas como Plug and Play y Picante.",
-  "mensaje": "Hola equipo de Viatik, felicitaciones por cerrar la ronda de USD 600K con Plug and Play. La expansión a Argentina es un movimiento estratégico interesante. Nos gustaría dialogar sobre cómo ven el modelo de carpooling en la región y si hay espacio para colaboración. ¡Un saludo!",
-  "razon": "Ronda seed de USD 600K con inversionistas reconocidos (Plug and Play); expansion a Argentina indica tracción regional, aunque carpooling es mercado competido.",
+  "resumen": "Viatik es una startup uruguaya de viajes compartidos que acaba de captar USD 600K con inversionistas de alto pedigree regional.",
+  "mensaje": "Hola equipo de Viatik, felicidades por la ronda con el equipo de PedidosYa y Uber. Desde Latin Leap seguimos el ecosistema de movilidad en LATAM y nos gustaría aprender más sobre vuestra estrategia regional. ¿Hay espacio para una conversación?",
+  "razon": "Ronda de USD 600K con inversionistas con track record comprobado (PedidosYa, Uber); mercado de movilidad en LATAM es escalable; tiene tracción suficiente para seed.",
   "fecha_evidencia": "2026-10-28T03:04:26+00:00",
   "ultima_senal": "2026-10-29T22:55:54+00:00",
   "conocido_fuente": null,
@@ -6441,6 +6466,128 @@
    "calidad": 10.0
   },
   "prioridad": "C",
+  "en_tesis": true
+ },
+ "d:roboticaxai.com": {
+  "key": "d:roboticaxai.com",
+  "primera_vista": "2026-11-04T13:16:31+00:00",
+  "senales": [
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Robotica AI está contratando: Desarrollador iOS (Arkit y Roomplan)",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-ios-arkit-y-roomplan-robotica-ai-remote",
+    "fecha": "2026-11-04T01:58:15+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 6.0,
+  "motor": "llm",
+  "empresa": "Robotica AI",
+  "sitio_web": "https://www.roboticaxai.com/otis-sports",
+  "pais": "Colombia",
+  "sector": "IA / Automatización / Software",
+  "etapa": "desconocida",
+  "tecnologia": true,
+  "resumen": "Robotica AI desarrolla soluciones tecnológicas con inteligencia artificial, automatización y desarrollo de software, integrando tecnologías emergentes como AR/RoomPlan.",
+  "mensaje": "Hola equipo de Robotica AI, vimos que están expandiendo con especialistas en iOS y ARKit. Desde Latin Leap nos interesa conocer más sobre vuestro modelo de negocio, tracción actual y planes de crecimiento. ¿Podríamos agendar una conversación breve?",
+  "razon": "Startup de IA y automatización con tecnologías emergentes; contrata talento senior (iOS/ARKit), señal de crecimiento. Falta claridad sobre tracción y financiación.",
+  "fecha_evidencia": "2026-11-04T01:58:15+00:00",
+  "ultima_senal": "2026-11-04T01:58:15+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 72,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 12.5,
+   "tecnologia": 15.0,
+   "senal": 7.5,
+   "calidad": 12.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "d:prontopaga.com": {
+  "key": "d:prontopaga.com",
+  "primera_vista": "2026-11-04T13:16:31+00:00",
+  "senales": [
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "ProntoPaga está contratando: React Front-end Engineer (Semi Senior), Node.js Back-end Engineer (Senior), React Front-end Engineer (Senior)",
+    "url": "https://www.getonbrd.com/jobs/react-front-end-engineer-senior-prontopaga-santiago",
+    "fecha": "2026-11-03T15:44:13+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 7.0,
+  "motor": "llm",
+  "empresa": "ProntoPaga",
+  "sitio_web": "https://www2.prontopaga.com/",
+  "pais": "Chile",
+  "ciudad": "Santiago",
+  "sector": "Fintech / Pagos",
+  "etapa": "desconocida",
+  "tecnologia": true,
+  "resumen": "ProntoPaga es una plataforma regional especializada en recaudación y dispersión de pagos para comercios, diferenciada por velocidad y soluciones locales.",
+  "mensaje": "Hola equipo de ProntoPaga, impresiona el ritmo de contratación que llevan (React, Node.js Senior). Nos atrae vuestra propuesta en pagos regionales. ¿Estarían abiertos a una conversación sobre oportunidades de inversión en vuestra siguiente etapa?",
+  "razon": "Plataforma regional de pagos con propuesta clara (recaudación y dispersión más rápida del mercado), activa contratación de talento senior indica tracción y crecimiento. Mercado regional de pagos es atractivo.",
+  "fecha_evidencia": "2026-11-03T15:44:13+00:00",
+  "ultima_senal": "2026-11-03T15:44:13+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 74,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 12.5,
+   "tecnologia": 15.0,
+   "senal": 7.5,
+   "calidad": 14.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "d:integratz.cl": {
+  "key": "d:integratz.cl",
+  "primera_vista": "2026-11-04T13:16:31+00:00",
+  "senales": [
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "INTEGRATZ está contratando: Senior Data Engineer (Databricks), Sr Data Engineer (Microsoft Fabric, Power BI, and Purview), Data Architect (Microsoft Fabric)",
+    "url": "https://www.getonbrd.com/jobs/data-architect-microsoft-fabric-integratz-vina-del-mar-8c2e",
+    "fecha": "2026-11-03T14:13:32+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "INTEGRATZ",
+  "sitio_web": "https://integratz.cl/",
+  "pais": "Chile",
+  "etapa": "desconocida",
+  "tecnologia": true,
+  "resumen": "Automatizamos con inteligencia, integramos con precisión, innovamos con impacto.",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-03T14:13:32+00:00",
+  "ultima_senal": "2026-11-03T14:13:32+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 70,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 12.5,
+   "tecnologia": 15.0,
+   "senal": 7.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
   "en_tesis": true
  }
 }

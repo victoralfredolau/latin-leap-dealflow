@@ -99,20 +99,21 @@
    "sitio_web": null,
    "pais": "Uruguay",
    "ciudad": null,
-   "sector": "Movilidad / Carpooling",
+   "sector": "Movilidad / Marketplace",
    "etapa": "seed",
    "monto_usd": 600000.0,
    "inversionistas": [
     "Cofundador de PedidosYa, ex CEO de Uber Argentina",
+    "Cofundador de PedidosYa, ex VP Uber Argentina",
     "Inversores vinculados a PedidosYa y Uber",
     "Plug and Play, Picante"
    ],
    "fundadores": [],
    "tecnologia": true,
    "calidad": 8.0,
-   "resumen": "Viatik es una plataforma de carpooling uruguaya que levantó USD 600K para expandir en Argentina con inversionistas como Plug and Play y Picante.",
-   "razon": "Ronda seed de USD 600K con inversionistas reconocidos (Plug and Play); expansion a Argentina indica tracción regional, aunque carpooling es mercado competido.",
-   "mensaje": "Hola equipo de Viatik, felicitaciones por cerrar la ronda de USD 600K con Plug and Play. La expansión a Argentina es un movimiento estratégico interesante. Nos gustaría dialogar sobre cómo ven el modelo de carpooling en la región y si hay espacio para colaboración. ¡Un saludo!",
+   "resumen": "Viatik es una startup uruguaya de viajes compartidos que acaba de captar USD 600K con inversionistas de alto pedigree regional.",
+   "razon": "Ronda de USD 600K con inversionistas con track record comprobado (PedidosYa, Uber); mercado de movilidad en LATAM es escalable; tiene tracción suficiente para seed.",
+   "mensaje": "Hola equipo de Viatik, felicidades por la ronda con el equipo de PedidosYa y Uber. Desde Latin Leap seguimos el ecosistema de movilidad en LATAM y nos gustaría aprender más sobre vuestra estrategia regional. ¿Hay espacio para una conversación?",
    "score": 94,
    "desglose": {
     "geografia": 25.0,
@@ -208,6 +209,14 @@
      "url": "https://latamlist.com/viatik-raises-600k-to-expand-in-argentina/",
      "fecha": "2026-10-29T22:55:54+00:00",
      "medio": null
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Viatik, la startup uruguaya de viajes compartidos, levanta US$ 600.000 con un cofundador de PedidosYa y el ex número uno de Uber en Argentina",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlMwUGwzMmdzMGFHa0JTd2ZCUTVRNUUzS05SVDJFakp5bmQxZGV1UVJCWWZQOUNpaU4zOWthZjNJb1A2U0NDZExQc0g4Rms4ZFNTNUdEQUUzazNBYURZZld4TkJqaHJxWnZiWFhESXEzQ0dMQVJFbkNaTjloY1FFT21RVkl0elFON1lfQm02VElWelR5?oc=5",
+     "fecha": "2026-10-28T11:07:00+00:00",
+     "medio": "Yahoo"
     }
    ],
    "motor": "llm"
@@ -1446,12 +1455,12 @@
    "resumen": "Furtilo ofrece soluciones de entrega desde comercios locales en 500 pequeños pueblos, resolviendo el problema de logística última milla en zonas de baja densidad.",
    "razon": "Modelo de entrega desde comercios locales en 500 pequeños pueblos muestra tracción y diferenciación en mercado latinoamericano fragmentado. Etapa seed con propuesta clara de valor.",
    "mensaje": "Hola equipo de Furtilo, vimos que están levantando ronda seed para expandir entregas desde tiendas locales en pueblos pequeños. Nos encanta el modelo de logística distribuida para zonas desatendidas. ¿Podríamos charlar sobre vuestros planes en LATAM?",
-   "score": 85,
+   "score": 84,
    "desglose": {
     "geografia": 25.0,
     "etapa": 25.0,
     "tecnologia": 15.0,
-    "senal": 6.0,
+    "senal": 4.5,
     "calidad": 14.0
    },
    "prioridad": "A",
@@ -1499,12 +1508,12 @@
    "resumen": "Academia de e-commerce en español que entrena emprendedores de LATAM y España a vender productos virales en redes sociales.",
    "razon": "Startup con founder identificado, modelo de negocio claro (e-commerce academy), equipo remoto en crecimiento; mercado LATAM + España; traction inicial documentada.",
    "mensaje": "Vimos que iBoost Social sigue expandiendo equipo y trabajando con emprendedores en todo LATAM. Nos interesa conocer más sobre vuestra visión de escala en la región y el modelo que está funcionando. ¿Podríamos conectar con Jair o el equipo en las próximas semanas?",
-   "score": 84,
+   "score": 83,
    "desglose": {
     "geografia": 25.0,
     "etapa": 25.0,
     "tecnologia": 15.0,
-    "senal": 7.5,
+    "senal": 6.0,
     "calidad": 12.0
    },
    "prioridad": "A",
@@ -1944,6 +1953,49 @@
    "motor": "llm"
   },
   {
+   "key": "d:prontopaga.com",
+   "empresa": "ProntoPaga",
+   "sitio_web": "https://www2.prontopaga.com/",
+   "pais": "Chile",
+   "ciudad": "Santiago",
+   "sector": "Fintech / Pagos",
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "ProntoPaga es una plataforma regional especializada en recaudación y dispersión de pagos para comercios, diferenciada por velocidad y soluciones locales.",
+   "razon": "Plataforma regional de pagos con propuesta clara (recaudación y dispersión más rápida del mercado), activa contratación de talento senior indica tracción y crecimiento. Mercado regional de pagos es atractivo.",
+   "mensaje": "Hola equipo de ProntoPaga, impresiona el ritmo de contratación que llevan (React, Node.js Senior). Nos atrae vuestra propuesta en pagos regionales. ¿Estarían abiertos a una conversación sobre oportunidades de inversión en vuestra siguiente etapa?",
+   "score": 74,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 7.5,
+    "calidad": 14.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-04T13:16:31+00:00",
+   "fecha_evidencia": "2026-11-03T15:44:13+00:00",
+   "ultima_senal": "2026-11-03T15:44:13+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "ProntoPaga está contratando: React Front-end Engineer (Semi Senior), Node.js Back-end Engineer (Senior), React Front-end Engineer (Senior)",
+     "url": "https://www.getonbrd.com/jobs/react-front-end-engineer-senior-prontopaga-santiago",
+     "fecha": "2026-11-03T15:44:13+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:cumplo.cl",
    "empresa": "Cumplo",
    "sitio_web": "http://www.cumplo.cl",
@@ -2167,6 +2219,49 @@
    "motor": "llm"
   },
   {
+   "key": "d:roboticaxai.com",
+   "empresa": "Robotica AI",
+   "sitio_web": "https://www.roboticaxai.com/otis-sports",
+   "pais": "Colombia",
+   "ciudad": null,
+   "sector": "IA / Automatización / Software",
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Robotica AI desarrolla soluciones tecnológicas con inteligencia artificial, automatización y desarrollo de software, integrando tecnologías emergentes como AR/RoomPlan.",
+   "razon": "Startup de IA y automatización con tecnologías emergentes; contrata talento senior (iOS/ARKit), señal de crecimiento. Falta claridad sobre tracción y financiación.",
+   "mensaje": "Hola equipo de Robotica AI, vimos que están expandiendo con especialistas en iOS y ARKit. Desde Latin Leap nos interesa conocer más sobre vuestro modelo de negocio, tracción actual y planes de crecimiento. ¿Podríamos agendar una conversación breve?",
+   "score": 72,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 7.5,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-04T13:16:31+00:00",
+   "fecha_evidencia": "2026-11-04T01:58:15+00:00",
+   "ultima_senal": "2026-11-04T01:58:15+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Robotica AI está contratando: Desarrollador iOS (Arkit y Roomplan)",
+     "url": "https://www.getonbrd.com/jobs/desarrollador-ios-arkit-y-roomplan-robotica-ai-remote",
+     "fecha": "2026-11-04T01:58:15+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:factorit.com",
    "empresa": "Factor IT",
    "sitio_web": "http://www.factorit.com",
@@ -2204,49 +2299,6 @@
      "titulo": "Factor IT está contratando: Technical Lead Senior, Back-end Java Developer Semisenior, Desarrollador/a Back-end Semi Senior – GCP, Desarrollador/a Full-Stack Senior, Engineering Manager Se",
      "url": "https://www.getonbrd.com/jobs/qa-funcional-manual-y-automatizacion-factor-it-santiago",
      "fecha": "2026-10-22T21:22:44+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "d:lisit.cl",
-   "empresa": "Lisit",
-   "sitio_web": "https://www.lisit.cl/",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Creamos, desarrollamos e implementamos servicios de software capaces de proporcionar herramientas de automatización y optimización requeridos manteniendo constante el foco de innovación y pasión por los desafíos.",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-20T19:46:35+00:00",
-   "ultima_senal": "2026-10-20T19:46:35+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Lisit está contratando: Consultor C4c, Arquitecto/a Salesforce, Consultor/a Salesforce Junior, Technical Lead Salesforce, Desarrollador/a Salesforce, Data Governance Analyst, Data Engi",
-     "url": "https://www.getonbrd.com/jobs/data-engineering-lisit-santiago",
-     "fecha": "2026-10-20T19:46:35+00:00",
      "medio": null
     }
    ],
@@ -2425,6 +2477,57 @@
    "motor": "reglas"
   },
   {
+   "key": "d:bicevida.cl",
+   "empresa": "BICE VIDA",
+   "sitio_web": "http://www.bicevida.cl",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Líderes en el negocio de las aseguradoras en Chile, somos una empresa enfocada en satisfacer las necesidades de seguridad, prosperidad y protección de nuestros clientes. ",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 70,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 7.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-15T21:07:12+00:00",
+   "ultima_senal": "2026-11-03T19:13:25+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "BICE VIDA está contratando: Developer Java, Developer Front-end, Ingeniero de Datos Middle, Ingeniero de Datos Senior",
+     "url": "https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-bice-vida-santiago-cde7",
+     "fecha": "2026-10-15T21:07:12+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "BICE VIDA está contratando: Developer Full-Stack, Ingeniero de Datos Middle, Ingeniero de Datos Senior, Product Designer",
+     "url": "https://www.getonbrd.com/jobs/product-designer-bice-vida-santiago-137c",
+     "fecha": "2026-11-03T19:13:25+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "d:42labs.cl",
    "empresa": "42Labs",
    "sitio_web": "https://www.42labs.cl",
@@ -2468,49 +2571,6 @@
    "motor": "reglas"
   },
   {
-   "key": "d:codeable.la",
-   "empresa": "Codeable",
-   "sitio_web": "https://www.codeable.la/",
-   "pais": "Perú",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Codeable es una escuela de programación de alta calidad que invierte en sus estudiantes y los entrena como software developers altamente empleables. ",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-20T19:44:06+00:00",
-   "ultima_senal": "2026-10-20T19:44:06+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Codeable está contratando: Data Engineer",
-     "url": "https://www.getonbrd.com/jobs/data-engineer-codeable-lima",
-     "fecha": "2026-10-20T19:44:06+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "d:trabajos.agrosuper.cl",
    "empresa": "Agrosuper",
    "sitio_web": "https://trabajos.agrosuper.cl/",
@@ -2540,7 +2600,7 @@
    "conocido_fuente": null,
    "primera_vista": "2026-10-24T04:33:14+00:00",
    "fecha_evidencia": "2026-10-20T22:01:03+00:00",
-   "ultima_senal": "2026-10-20T22:01:03+00:00",
+   "ultima_senal": "2026-11-03T15:41:39+00:00",
    "senales": [
     {
      "fuente": "Get on Board",
@@ -2548,6 +2608,14 @@
      "titulo": "Agrosuper está contratando: Jefe de People Analytics, Ingeniero Gobierno de Datos, Ingeniero/a de Calidad de Datos, Ingeniero Infraestructura IT/Ot Onpremise & Cloud",
      "url": "https://www.getonbrd.com/jobs/ingeniero-infraestructura-it-ot-onpremise-cloud-agrosuper-rancagua",
      "fecha": "2026-10-20T22:01:03+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Agrosuper está contratando: Ingeniero Gobierno de Datos, Jefe de People Analytics, Ingeniero Infraestructura IT/Ot Onpremise & Cloud, Analista Calidad Faenadora San Vicente, Monitor Calida",
+     "url": "https://www.getonbrd.com/jobs/ingeniero-a-de-calidad-de-datos-agrosuper-rancagua",
+     "fecha": "2026-11-03T15:41:39+00:00",
      "medio": null
     }
    ],
@@ -3305,47 +3373,47 @@
    "motor": "reglas"
   },
   {
-   "key": "d:poderjudicialvirtual.com",
-   "empresa": "PoderJudicialVirtual.com",
-   "sitio_web": "https://www.poderjudicialvirtual.com",
-   "pais": "México",
-   "ciudad": "Remoto",
-   "sector": "Legal Tech",
-   "etapa": "serie-a",
+   "key": "d:integratz.cl",
+   "empresa": "INTEGRATZ",
+   "sitio_web": "https://integratz.cl/",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
    "monto_usd": null,
    "inversionistas": [],
    "fundadores": [],
    "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "Plataforma mexicana de legal tech que automatiza el seguimiento de expedientes judicales y búsqueda de antecedentes legales.",
-   "razon": "Startup legal tech mexicana con >5 años en mercado, tracción con despachos y áreas legales; modelo B2B claro; sigue creciendo (busca talento).",
-   "mensaje": "Nos impresiona que PoderJudicialVirtual.com lleve más de 5 años consolidando tracción en legal tech en México con un modelo B2B sólido. Nos gustaría conversar sobre vuestras próximas etapas de crecimiento y cómo Latin Leap podría acompañaros en esta expansión. ¿Hay un momento para un café virtual en los próximos días?",
-   "score": 69,
+   "calidad": 5.0,
+   "resumen": "Automatizamos con inteligencia, integramos con precisión, innovamos con impacto.",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 70,
    "desglose": {
     "geografia": 25.0,
-    "etapa": 7.5,
+    "etapa": 12.5,
     "tecnologia": 15.0,
     "senal": 7.5,
-    "calidad": 14.0
+    "calidad": 10.0
    },
    "prioridad": "B",
    "en_tesis": true,
    "conocido": false,
    "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-20T14:08:54+00:00",
-   "ultima_senal": "2026-10-20T14:08:54+00:00",
+   "primera_vista": "2026-11-04T13:16:31+00:00",
+   "fecha_evidencia": "2026-11-03T14:13:32+00:00",
+   "ultima_senal": "2026-11-03T14:13:32+00:00",
    "senales": [
     {
      "fuente": "Get on Board",
      "tipo": "contratacion",
-     "titulo": "PoderJudicialVirtual.com está contratando: Ingeniero Full-Stack Laravel/Vue",
-     "url": "https://www.getonbrd.com/jobs/ingeniero-full-stack-laravel-vue-poderjudicialvirtual-com-remote",
-     "fecha": "2026-10-20T14:08:54+00:00",
+     "titulo": "INTEGRATZ está contratando: Senior Data Engineer (Databricks), Sr Data Engineer (Microsoft Fabric, Power BI, and Purview), Data Architect (Microsoft Fabric)",
+     "url": "https://www.getonbrd.com/jobs/data-architect-microsoft-fabric-integratz-vina-del-mar-8c2e",
+     "fecha": "2026-11-03T14:13:32+00:00",
      "medio": null
     }
    ],
-   "motor": "llm"
+   "motor": "reglas"
   },
   {
    "key": "d:rankmi.com",
@@ -3389,6 +3457,92 @@
     }
    ],
    "motor": "llm"
+  },
+  {
+   "key": "d:poderjudicialvirtual.com",
+   "empresa": "PoderJudicialVirtual.com",
+   "sitio_web": "https://www.poderjudicialvirtual.com",
+   "pais": "México",
+   "ciudad": "Remoto",
+   "sector": "Legal Tech",
+   "etapa": "serie-a",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Plataforma mexicana de legal tech que automatiza el seguimiento de expedientes judicales y búsqueda de antecedentes legales.",
+   "razon": "Startup legal tech mexicana con >5 años en mercado, tracción con despachos y áreas legales; modelo B2B claro; sigue creciendo (busca talento).",
+   "mensaje": "Nos impresiona que PoderJudicialVirtual.com lleve más de 5 años consolidando tracción en legal tech en México con un modelo B2B sólido. Nos gustaría conversar sobre vuestras próximas etapas de crecimiento y cómo Latin Leap podría acompañaros en esta expansión. ¿Hay un momento para un café virtual en los próximos días?",
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 7.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 14.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-20T14:08:54+00:00",
+   "ultima_senal": "2026-10-20T14:08:54+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "PoderJudicialVirtual.com está contratando: Ingeniero Full-Stack Laravel/Vue",
+     "url": "https://www.getonbrd.com/jobs/ingeniero-full-stack-laravel-vue-poderjudicialvirtual-com-remote",
+     "fecha": "2026-10-20T14:08:54+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "d:lisit.cl",
+   "empresa": "Lisit",
+   "sitio_web": "https://www.lisit.cl/",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Creamos, desarrollamos e implementamos servicios de software capaces de proporcionar herramientas de automatización y optimización requeridos manteniendo constante el foco de innovación y pasión por los desafíos.",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-20T19:46:35+00:00",
+   "ultima_senal": "2026-10-20T19:46:35+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Lisit está contratando: Consultor C4c, Arquitecto/a Salesforce, Consultor/a Salesforce Junior, Technical Lead Salesforce, Desarrollador/a Salesforce, Data Governance Analyst, Data Engi",
+     "url": "https://www.getonbrd.com/jobs/data-engineering-lisit-santiago",
+     "fecha": "2026-10-20T19:46:35+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
   },
   {
    "key": "d:zaelot.com",
@@ -3571,10 +3725,10 @@
    "motor": "reglas"
   },
   {
-   "key": "d:bicevida.cl",
-   "empresa": "BICE VIDA",
-   "sitio_web": "http://www.bicevida.cl",
-   "pais": "Chile",
+   "key": "d:codeable.la",
+   "empresa": "Codeable",
+   "sitio_web": "https://www.codeable.la/",
+   "pais": "Perú",
    "ciudad": null,
    "sector": null,
    "etapa": "desconocida",
@@ -3583,7 +3737,7 @@
    "fundadores": [],
    "tecnologia": true,
    "calidad": 5.0,
-   "resumen": "Líderes en el negocio de las aseguradoras en Chile, somos una empresa enfocada en satisfacer las necesidades de seguridad, prosperidad y protección de nuestros clientes. ",
+   "resumen": "Codeable es una escuela de programación de alta calidad que invierte en sus estudiantes y los entrena como software developers altamente empleables. ",
    "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
    "mensaje": null,
    "score": 68,
@@ -3599,15 +3753,15 @@
    "conocido": false,
    "conocido_fuente": null,
    "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-15T21:07:12+00:00",
-   "ultima_senal": "2026-10-15T21:07:12+00:00",
+   "fecha_evidencia": "2026-10-20T19:44:06+00:00",
+   "ultima_senal": "2026-10-20T19:44:06+00:00",
    "senales": [
     {
      "fuente": "Get on Board",
      "tipo": "contratacion",
-     "titulo": "BICE VIDA está contratando: Developer Java, Developer Front-end, Ingeniero de Datos Middle, Ingeniero de Datos Senior",
-     "url": "https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-bice-vida-santiago-cde7",
-     "fecha": "2026-10-15T21:07:12+00:00",
+     "titulo": "Codeable está contratando: Data Engineer",
+     "url": "https://www.getonbrd.com/jobs/data-engineer-codeable-lima",
+     "fecha": "2026-10-20T19:44:06+00:00",
      "medio": null
     }
    ],
@@ -3982,49 +4136,6 @@
    "motor": "reglas"
   },
   {
-   "key": "n:theqa",
-   "empresa": "theQA",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "seed",
-   "monto_usd": 550.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "theQA raises over $550,000 to scale AI-driven consumer research in Kuwait Wamda",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 68,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-26T14:55:10+00:00",
-   "fecha_evidencia": "2026-10-21T07:00:00+00:00",
-   "ultima_senal": "2026-10-21T07:00:00+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "theQA raises over $550,000 to scale AI-driven consumer research in Kuwait",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYWNnUG5BZ1JyMjlvbEhCMm4xUFRma3FmYmZVLWJkYV9uNGlzdlZQLVM4VHplcmU4NWdlU1Zodk9CbUVBek92WWtIandLZ0ZZLWI0NGZlU19ndEdIUnU2WFlJZEJ3QWNyX1VTWEg3RWVzVWNreDFEOUpMMWF3U1VpaDEwQWZzdjhsbFhqQWdlYzRHRlZU?oc=5",
-     "fecha": "2026-10-21T07:00:00+00:00",
-     "medio": "Wamda"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "d:xintec.cl",
    "empresa": "Xintec",
    "sitio_web": "http://www.xintec.cl",
@@ -4192,6 +4303,49 @@
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmtRam9BRFZjaDdNenF2X2Y5T2JsM0VJckhjdXhDU1R0RXdZallESDl2V29valhROGo2dEZ1SElpWXNaUW5kR19UMnNGbHdjYkFGY1dCNF9GU0Y3WjRnSk1xdHdKMEwtYUFXQ19ZLWtXY2dPUmtlQU9hbjNCY0xDbWRGU1FxTVdJY3lQaXhjRTN1WDFIUlRjSFRaaFdmUU45ckpn0gGoAUFVX3lxTFBnQ21HRFhsczZqWXJublRuUGJYeU1jeDg4ZThYTEVRYVVIZHFsTTg5UF9jNDE4T05mWjk5elhBT0ZxVlVKSHc3WTBxd1RCcnE5Nmt5MmRzYmI1SVd1NXFwa2pOYlpHV0YwdzZJX2JJX2lOWnN2eWx4MmJ0bklVTXVobTZ6Zkx1QUZFTEt6WEFVMHFVWTZsRk94cW5qSk54ZXgwRF8wZnIxbw?oc=5",
      "fecha": "2026-10-19T16:33:22+00:00",
      "medio": "CNBC TV18"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:theqa",
+   "empresa": "theQA",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": 550.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "theQA raises over $550,000 to scale AI-driven consumer research in Kuwait Wamda",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 66,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-21T07:00:00+00:00",
+   "ultima_senal": "2026-10-21T07:00:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "theQA raises over $550,000 to scale AI-driven consumer research in Kuwait",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYWNnUG5BZ1JyMjlvbEhCMm4xUFRma3FmYmZVLWJkYV9uNGlzdlZQLVM4VHplcmU4NWdlU1Zodk9CbUVBek92WWtIandLZ0ZZLWI0NGZlU19ndEdIUnU2WFlJZEJ3QWNyX1VTWEg3RWVzVWNreDFEOUpMMWF3U1VpaDEwQWZzdjhsbFhqQWdlYzRHRlZU?oc=5",
+     "fecha": "2026-10-21T07:00:00+00:00",
+     "medio": "Wamda"
     }
    ],
    "motor": "reglas"
@@ -4920,12 +5074,12 @@
    "resumen": "Dapta desarrolla agentes de ventas con IA para ayudar a PyMEs en EE.UU. y América Latina a automatizar procesos de venta.",
    "razon": "Startup de IA enfocada en SMBs de LATAM (alineada con tesis), ronda de USD 6M en seed, propuesta clara. Falta verificar ubicación exacta en LATAM hispanohablante.",
    "mensaje": "Felicidades por el cierre de USD 6M para Dapta. Nos llama la atención vuestra solución de agentes de IA dirigida a SMBs en Latinoamérica. Nos gustaría conocer más sobre vuestro tracción en la región y explorar si hay sinergia con Latin Leap. ¿Podemos agendar una llamada breve?",
-   "score": 70,
+   "score": 68,
    "desglose": {
     "geografia": 0.0,
     "etapa": 25.0,
     "tecnologia": 15.0,
-    "senal": 13.5,
+    "senal": 12.0,
     "calidad": 16.0
    },
    "prioridad": "Fuera de tesis",
@@ -5021,12 +5175,12 @@
    "resumen": "EFY Finance es una plataforma fintech que expande el uso institucional de stablecoins (USDT) en América Latina.",
    "razon": "Respaldo de Tether (inversor institucional reconocido) en ronda seed enfocada en América Latina; propuesta clara de expansión de stablecoins para uso institucional.",
    "mensaje": "Hola equipo de EFY Finance, vimos con interés que Tether ha liderado su ronda seed para expandir stablecoins en la región. Desde Latin Leap creemos en soluciones fintech que democraticen el acceso a instrumentos institucionales. ¿Podrían comentarnos sobre su tracción actual y roadmap para los próximos 12 meses?",
-   "score": 68,
+   "score": 66,
    "desglose": {
     "geografia": 0.0,
     "etapa": 25.0,
     "tecnologia": 15.0,
-    "senal": 13.5,
+    "senal": 12.0,
     "calidad": 14.0
    },
    "prioridad": "Fuera de tesis",
@@ -5052,49 +5206,6 @@
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mSnd0SVhXakJWY0h2ZzQxWVFsQU5IU2tZdDdrVUtsaHU2UldCU2duQ1ZDeTJpNmtSdjhvT2lYYmhKMnpYNm5xQ1JhQ3FCWTJKQmxjQ1RCNjRPOEFIa2VQclhsVHVoWFRCajlhN1VhNFdrQQ?oc=5",
      "fecha": "2026-10-13T07:00:00+00:00",
      "medio": "CryptoRank"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
-   "key": "n:electricplant",
-   "empresa": "Electric Plant",
-   "sitio_web": null,
-   "pais": "desconocido",
-   "ciudad": null,
-   "sector": "IA / AgriTech",
-   "etapa": "seed",
-   "monto_usd": 11200000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "Plataforma de IA agrícola que levantó USD 11.2M para escalar operaciones.",
-   "razon": "Ronda seed sólida (USD 11.2M) en AgriTech con IA; sector estratégico en LATAM; ubicación aún por confirmar.",
-   "mensaje": "Seguimos tu ronda de USD 11.2M en IA agrícola. El sector agro es clave en Latinoamérica y queremos saber si tienes o planeas expansión en la región. Te invitamos a conectar con el equipo de Latin Leap.",
-   "score": 64,
-   "desglose": {
-    "geografia": 0.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 14.0
-   },
-   "prioridad": "Fuera de tesis",
-   "en_tesis": false,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-26T14:55:10+00:00",
-   "fecha_evidencia": "2026-10-20T18:33:32+00:00",
-   "ultima_senal": "2026-10-20T18:33:32+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Electric Plant, startup de IA agrícola, levanta US$11,2M",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnVGSndXa05rWmtreW5Nay14Vl92cGM0M0NfWGhUVkhRR0s1VzdYSGNqdGNHWkJfeVBjcDlyMGtnRFN3TUdzR0NGRXlESXp0bkdBUllfczFpTmNYakFHd2VnMlhYTUJEOE9FSjYxNG90S0lpd21oUFROS0gyT2VtTEczamNqbS1aTzNZ?oc=5",
-     "fecha": "2026-10-20T18:33:32+00:00",
-     "medio": "El Ecosistema Startup"
     }
    ],
    "motor": "llm"
@@ -5208,6 +5319,49 @@
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONnNna2JYQjExbENYUGtvdnBrM3dZc0ZLQkFTNE9TczVUM2w0NEZpNTc5ZVFxSHoxc09LekdMajVlLU9nX1pQUHQxZktTQVpuOE92bUdNQldBUlp6dDBHWGFuLVpVam9yRWJSU3hGb1dhQkMzLXZVUm41bGZtNjRxTE4tWTR6b0VMc1o5cDhmejQ1bkVkSEhaYjhrQmxyUXhVLXBPbFNsRE9mMmhuUWF2TWhGSTY?oc=5",
      "fecha": "2026-10-18T00:12:36+00:00",
      "medio": "Dealroom"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:electricplant",
+   "empresa": "Electric Plant",
+   "sitio_web": null,
+   "pais": "desconocido",
+   "ciudad": null,
+   "sector": "IA / AgriTech",
+   "etapa": "seed",
+   "monto_usd": 11200000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Plataforma de IA agrícola que levantó USD 11.2M para escalar operaciones.",
+   "razon": "Ronda seed sólida (USD 11.2M) en AgriTech con IA; sector estratégico en LATAM; ubicación aún por confirmar.",
+   "mensaje": "Seguimos tu ronda de USD 11.2M en IA agrícola. El sector agro es clave en Latinoamérica y queremos saber si tienes o planeas expansión en la región. Te invitamos a conectar con el equipo de Latin Leap.",
+   "score": 63,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 14.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-20T18:33:32+00:00",
+   "ultima_senal": "2026-10-20T18:33:32+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Electric Plant, startup de IA agrícola, levanta US$11,2M",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnVGSndXa05rWmtreW5Nay14Vl92cGM0M0NfWGhUVkhRR0s1VzdYSGNqdGNHWkJfeVBjcDlyMGtnRFN3TUdzR0NGRXlESXp0bkdBUllfczFpTmNYakFHd2VnMlhYTUJEOE9FSjYxNG90S0lpd21oUFROS0gyT2VtTEczamNqbS1aTzNZ?oc=5",
+     "fecha": "2026-10-20T18:33:32+00:00",
+     "medio": "El Ecosistema Startup"
     }
    ],
    "motor": "llm"
@@ -5747,49 +5901,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:ekarobotics",
-   "empresa": "Eka Robotics",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "serie-a",
-   "monto_usd": 150000000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Eka Robotics Raises $150M Series A to Scale Vision-Force-Action Model for Dexterous Robots AI Insider",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 50,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 7.5,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "C",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-20T18:53:33+00:00",
-   "ultima_senal": "2026-10-20T18:53:33+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Eka Robotics Raises $150M Series A to Scale Vision-Force-Action Model for Dexterous Robots",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcmE3ME1hazhZMzhMbVNob19JNDJKMUt3NDdoRjNaZlFjM1VBb0RlQ0tocUZyQjRxZ255VlhNRkVYNTB6SU9DcUNkaGFIdTdQMzZnLVVfSy1DRWNUbXNfQ2JyYi1Cckd0cVNFQmRBaF9ZWjVfN3kzaHF3aThFczdCUUVTX0FUWjRiQmhBaEhPcjFaU3Vnd1BrNi11cnRmSENvWkFvUFk5SXRRTXZLYmZLQ1NoX0dhcm56LWJtZzFoWVM2dEZsVXc?oc=5",
-     "fecha": "2026-10-20T18:53:33+00:00",
-     "medio": "AI Insider"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "n:ycbackedbiostack",
    "empresa": "YC-backed BioStack",
    "sitio_web": null,
@@ -6000,6 +6111,49 @@
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFQ5YWVaV3M3RXgtVWJMRlVlUm9yQklKT2FxVjBUb0hTaVE4WW03SXY0cUd2bXpQWm5lWVkyWGV3STk0M3d1b1EzcGltWW03SFB4b3R4OVV4LUFQMTVQOVREZk5naFR4SmFYYzhQV1RxUERZSlZDYzBwVGhEMUo2cjVrdTVwUGNsc3dBV2lhQWdENDBqR3Z1clpRWWNGb3RzYUdJaEdtNUJvQkl5ak5QdVdPZw?oc=5",
      "fecha": "2026-10-14T15:05:21+00:00",
      "medio": "HackerNoon"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:ekarobotics",
+   "empresa": "Eka Robotics",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "serie-a",
+   "monto_usd": 150000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Eka Robotics Raises $150M Series A to Scale Vision-Force-Action Model for Dexterous Robots AI Insider",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 49,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 7.5,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-20T18:53:33+00:00",
+   "ultima_senal": "2026-10-20T18:53:33+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Eka Robotics Raises $150M Series A to Scale Vision-Force-Action Model for Dexterous Robots",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcmE3ME1hazhZMzhMbVNob19JNDJKMUt3NDdoRjNaZlFjM1VBb0RlQ0tocUZyQjRxZ255VlhNRkVYNTB6SU9DcUNkaGFIdTdQMzZnLVVfSy1DRWNUbXNfQ2JyYi1Cckd0cVNFQmRBaF9ZWjVfN3kzaHF3aThFczdCUUVTX0FUWjRiQmhBaEhPcjFaU3Vnd1BrNi11cnRmSENvWkFvUFk5SXRRTXZLYmZLQ1NoX0dhcm56LWJtZzFoWVM2dEZsVXc?oc=5",
+     "fecha": "2026-10-20T18:53:33+00:00",
+     "medio": "AI Insider"
     }
    ],
    "motor": "reglas"
@@ -6349,49 +6503,6 @@
    "motor": "reglas"
   },
   {
-   "key": "n:photonbridge",
-   "empresa": "Photon Bridge",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 5.0,
-   "resumen": "Photon Bridge raises EUR 10 mln to scale up optical chip production Telecompaper",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 44,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 12.5,
-    "tecnologia": 7.5,
-    "senal": 6.0,
-    "calidad": 10.0
-   },
-   "prioridad": "C",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-26T14:55:10+00:00",
-   "fecha_evidencia": "2026-10-21T10:26:58+00:00",
-   "ultima_senal": "2026-10-21T10:26:58+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Photon Bridge raises EUR 10 mln to scale up optical chip production",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUVqenlNckxiU1JweTg3Mk81QzVsS3phQ0tacllJOFFKYUd1MTVxUVN3bkZXWVVxNUdub1dGZHpKOTdmS0NHc1ptbVc1Zk1KWktpSHdVZDFldENFZGdGQ1lOQnkxYUJCRlNldFkyend2QzZtb0xGOGpwWWF4a2Iza3FjZnN0VDdiblNqV1F5ZkZJLUlqVWtMUHZEaXhSWWk4b0VvNERIaTh5TjREZlNV?oc=5",
-     "fecha": "2026-10-21T10:26:58+00:00",
-     "medio": "Telecompaper"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "n:formic",
    "empresa": "Formic",
    "sitio_web": null,
@@ -6736,6 +6847,49 @@
    "motor": "reglas"
   },
   {
+   "key": "n:photonbridge",
+   "empresa": "Photon Bridge",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Photon Bridge raises EUR 10 mln to scale up optical chip production Telecompaper",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 42,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 12.5,
+    "tecnologia": 7.5,
+    "senal": 4.5,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-21T10:26:58+00:00",
+   "ultima_senal": "2026-10-21T10:26:58+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Photon Bridge raises EUR 10 mln to scale up optical chip production",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUVqenlNckxiU1JweTg3Mk81QzVsS3phQ0tacllJOFFKYUd1MTVxUVN3bkZXWVVxNUdub1dGZHpKOTdmS0NHc1ptbVc1Zk1KWktpSHdVZDFldENFZGdGQ1lOQnkxYUJCRlNldFkyend2QzZtb0xGOGpwWWF4a2Iza3FjZnN0VDdiblNqV1F5ZkZJLUlqVWtMUHZEaXhSWWk4b0VvNERIaTh5TjREZlNV?oc=5",
+     "fecha": "2026-10-21T10:26:58+00:00",
+     "medio": "Telecompaper"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "n:valendra",
    "empresa": "Valendra",
    "sitio_web": null,
@@ -6995,15 +7149,15 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-11-03T13:14:28+00:00",
+  "actualizado": "2026-11-04T13:16:31+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 98,
+  "calificados_30d": 101,
   "prioridad_a_30d": 31,
-  "incremento_vs_baseline": 1.633,
-  "cumplimiento_meta": 16.33,
-  "total_deals": 150,
-  "total_calificados": 104,
+  "incremento_vs_baseline": 1.683,
+  "cumplimiento_meta": 16.83,
+  "total_deals": 153,
+  "total_calificados": 107,
   "conocidos_detectados": 2,
   "por_semana": {
    "2025-06-16": 1,
@@ -7016,22 +7170,22 @@
    "2026-10-12": 22,
    "2026-10-19": 38,
    "2026-10-26": 27,
-   "2026-11-02": 3
+   "2026-11-02": 6
   },
   "por_fuente": {
    "Google News": 52,
-   "Get on Board": 43,
+   "Get on Board": 46,
    "Y Combinator": 6,
    "Startups Latam": 4,
    "LatamList": 3,
    "Techla Media": 1
   },
   "por_pais": {
-   "Chile": 40,
+   "Chile": 42,
    "?": 25,
    "Argentina": 13,
    "México": 11,
-   "Colombia": 6,
+   "Colombia": 7,
    "Uruguay": 2,
    "Guatemala": 2,
    "Venezuela": 2,
@@ -7990,6 +8144,84 @@
       "fuente": "Google News",
       "ok": true,
       "senales": 194,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 5,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 50,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-11-04T13:14:40+00:00",
+    "fin": "2026-11-04T13:16:31+00:00",
+    "senales_crudas": 274,
+    "descartadas_prefiltro": 118,
+    "procesadas": 17,
+    "deals_nuevos": 3,
+    "calificados_nuevos": 3,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 16,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 173,
       "error": null
      },
      {
