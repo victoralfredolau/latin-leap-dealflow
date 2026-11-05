@@ -324,6 +324,14 @@
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mSnd0SVhXakJWY0h2ZzQxWVFsQU5IU2tZdDdrVUtsaHU2UldCU2duQ1ZDeTJpNmtSdjhvT2lYYmhKMnpYNm5xQ1JhQ3FCWTJKQmxjQ1RCNjRPOEFIa2VQclhsVHVoWFRCajlhN1VhNFdrQQ?oc=5",
     "fecha": "2026-10-13T07:00:00+00:00",
     "medio": "CryptoRank"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Panama-based Efy Finance raises $5M seed round led by Tether, to expand Latin American payments",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTENuX3FoSDc0YmtrdUZjVy1ya0Fvb05peUZmNFhFVm1NcUVTX24wWFhqZy1BczVycDlNY0JUcjkzdVh3bzJaY0t4azhHdW9mNUxGTHZJcENmTkEtdFRVMmpQQzJrVUtmUVQ5MHhTVTZIZW5YQzJ2bnZKbHl6T2hzWWI3bDZJam5jMzdCdEFwQ05UTndpWVMyWXcySHRNZUdJX2VvbUtBNWhJZlZWb1NCMGhPaE5ONEcyUTV4dFFFTkhzakVRNXFRUw?oc=5",
+    "fecha": "2026-11-05T07:28:59+00:00",
+    "medio": "TNGlobal"
    }
   ],
   "inversionistas": [
@@ -332,28 +340,29 @@
   "fundadores": [],
   "calidad": 7.0,
   "motor": "llm",
-  "empresa": "EFY Finance",
-  "pais": "desconocido",
+  "empresa": "Efy Finance",
+  "pais": "Panamá",
   "etapa": "seed",
   "tecnologia": true,
-  "resumen": "EFY Finance es una plataforma fintech que expande el uso institucional de stablecoins (USDT) en América Latina.",
-  "razon": "Respaldo de Tether (inversor institucional reconocido) en ronda seed enfocada en América Latina; propuesta clara de expansión de stablecoins para uso institucional.",
+  "resumen": "Efy Finance es una fintech de Panamá enfocada en pagos y soluciones de crédito para América Latina, que levantó USD 5M en seed liderado por Tether.",
+  "razon": "Fintech panameña con seed de USD 5M liderado por Tether (inversor institucional de peso); enfoque en pagos y expansión LATAM muestra tracción y mercado validado.",
   "fecha_evidencia": "2026-10-13T07:00:00+00:00",
-  "ultima_senal": "2026-10-20T22:07:06+00:00",
+  "ultima_senal": "2026-11-05T07:28:59+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 66,
+  "score": 92,
   "desglose": {
-   "geografia": 0.0,
+   "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 12.0,
+   "senal": 13.5,
    "calidad": 14.0
   },
-  "prioridad": "Fuera de tesis",
-  "en_tesis": false,
-  "sector": "Fintech/Criptomonedas",
-  "mensaje": "Hola equipo de EFY Finance, vimos con interés que Tether ha liderado su ronda seed para expandir stablecoins en la región. Desde Latin Leap creemos en soluciones fintech que democraticen el acceso a instrumentos institucionales. ¿Podrían comentarnos sobre su tracción actual y roadmap para los próximos 12 meses?"
+  "prioridad": "A",
+  "en_tesis": true,
+  "sector": "Fintech / Pagos",
+  "mensaje": "Hola equipo Efy Finance, excelente noticia sobre el cierre de USD 5M con Tether. Vemos que están impulsando pagos en LATAM hispanohablante. Nos encantaría conocer vuestra visión de producto y explorar posibles sinergias desde Latin Leap.",
+  "monto_usd": 5000000.0
  },
  "n:jeeves": {
   "key": "n:jeeves",
@@ -1271,12 +1280,12 @@
   "ultima_senal": "2026-10-21T13:45:17+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 62,
+  "score": 61,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 7.5,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -1310,12 +1319,12 @@
   "ultima_senal": "2026-10-21T18:02:37+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -2004,12 +2013,12 @@
   "ultima_senal": "2026-10-21T20:07:09+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -2082,12 +2091,12 @@
   "ultima_senal": "2026-10-21T19:04:14+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -2700,12 +2709,12 @@
   "pais": "Argentina",
   "sector": "IA",
   "mensaje": "Hola Flapping Airplanes, nos enteramos de que levantaron USD 1M para su laboratorio de IA. Estamos muy interesados en conocer el equipo y la visión detrás del proyecto. ¿Estarían abiertos a una conversación con Latin Leap? Nos encantaría aprender más.",
-  "score": 88,
+  "score": 86,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 12.0
   },
   "prioridad": "A",
@@ -2736,12 +2745,12 @@
   "ultima_senal": "2026-10-22T06:32:59+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 44,
+  "score": 42,
   "desglose": {
    "geografia": 7.5,
    "etapa": 12.5,
    "tecnologia": 7.5,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 10.0
   },
   "prioridad": "C",
@@ -3648,12 +3657,12 @@
   "ultima_senal": "2026-10-21T18:06:36+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 90,
+  "score": 88,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 14.0
   },
   "prioridad": "A",
@@ -3690,12 +3699,12 @@
   "ultima_senal": "2026-10-21T22:31:00+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 81,
+  "score": 80,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 10.0
   },
   "prioridad": "A",
@@ -6586,6 +6595,98 @@
    "tecnologia": 15.0,
    "senal": 7.5,
    "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:takenos": {
+  "key": "n:takenos",
+  "primera_vista": "2026-11-05T13:22:50+00:00",
+  "senales": [
+   {
+    "fuente": "LatamList",
+    "tipo": "noticia",
+    "titulo": "Takenos raises $7M seed extension to expand across Latin America",
+    "url": "https://latamlist.com/takenos-raises-7m-seed-extension-to-expand-across-latin-america/",
+    "fecha": "2026-11-04T18:59:24+00:00",
+    "medio": null
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Takenos levanta US$7M y apunta a 15 países en 2027",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVpuNF9zYy1xQzFPSlluWmxoaTdQMFhLVWdXZERndmstdGZPb2hibF9IZ29PRnVQbUFtQ2lWYmp3cEZET0J2Vkg5Y29nZjMtTG5IWVFxamJXaW5XVk0xaURLMHE0ZEd5STJVRVFlM1dScGZ2d2UxWjJCVWluRW1kVGJHV1dmVXc?oc=5",
+    "fecha": "2026-11-04T15:10:23+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [
+   "North Island Ventures",
+   "Road Capital Management"
+  ],
+  "fundadores": [],
+  "calidad": 7.0,
+  "motor": "llm",
+  "empresa": "Takenos",
+  "pais": "Argentina",
+  "sector": "Desconocido",
+  "etapa": "seed",
+  "monto_usd": 7000000.0,
+  "tecnologia": true,
+  "resumen": "Takenos es una startup argentina que levantó USD 7M y planea expandir a 15 países para 2027.",
+  "mensaje": "Hola Takenos, felicidades por haber levantado USD 7M y por los planes de expansión ambiciosos. Desde Latin Leap estamos atentos a startups argentinas con tracción internacional. Nos encantaría conocer más sobre su modelo y visión.",
+  "razon": "Startup argentina en geografía Latin Leap con monto significativo levantado (USD 7M) y expansión internacional planeada. Señal de tracción.",
+  "fecha_evidencia": "2026-11-04T15:10:23+00:00",
+  "ultima_senal": "2026-11-04T18:59:24+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 92,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 13.5,
+   "calidad": 14.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "n:trii": {
+  "key": "n:trii",
+  "primera_vista": "2026-11-05T13:22:50+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Trii, fintech de inversión, prepara IA y cripto en Chile",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR196Uk15RHI2bWpUa1NPaXR0R05peEpHcm44dVczOGlpVEZBLW42cF96WnNVRXNETkVSeE52MXB5WksycF9wZzZkWmtLVEJJTEpyTUgteXZfVFpRR3hrUUszX3NOa2Y0VnRtZm5CcEhNOEZYMWZ1ZzZ1dW1YZHhBZkN1QTh2aS1JSmhoRGZ3?oc=5",
+    "fecha": "2026-11-04T07:21:46+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 6.0,
+  "motor": "llm",
+  "empresa": "Trii",
+  "pais": "Chile",
+  "sector": "Fintech",
+  "etapa": "desconocida",
+  "tecnologia": true,
+  "resumen": "Trii es una fintech de inversión que prepara incorporación de IA y criptomonedas. Operativa en Chile.",
+  "mensaje": "Hola equipo de Trii, vimos que están desarrollando soluciones innovadoras en inversión con IA y cripto en Chile. En Latin Leap nos interesa apoyar fintech diferenciados en la región. ¿Estarían abiertos a conectar y conocer más de su visión?",
+  "razon": "Fintech en geografía Latin Leap (Chile) con diferenciación en IA y cripto. Sin información de ronda, pero producto innovador en sector de inversión.",
+  "fecha_evidencia": "2026-11-04T07:21:46+00:00",
+  "ultima_senal": "2026-11-04T07:21:46+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 70,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 12.5,
+   "tecnologia": 15.0,
+   "senal": 6.0,
+   "calidad": 12.0
   },
   "prioridad": "B",
   "en_tesis": true

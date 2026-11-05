@@ -222,6 +222,67 @@
    "motor": "llm"
   },
   {
+   "key": "n:efyfinance",
+   "empresa": "Efy Finance",
+   "sitio_web": null,
+   "pais": "Panamá",
+   "ciudad": null,
+   "sector": "Fintech / Pagos",
+   "etapa": "seed",
+   "monto_usd": 5000000.0,
+   "inversionistas": [
+    "Tether"
+   ],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Efy Finance es una fintech de Panamá enfocada en pagos y soluciones de crédito para América Latina, que levantó USD 5M en seed liderado por Tether.",
+   "razon": "Fintech panameña con seed de USD 5M liderado por Tether (inversor institucional de peso); enfoque en pagos y expansión LATAM muestra tracción y mercado validado.",
+   "mensaje": "Hola equipo Efy Finance, excelente noticia sobre el cierre de USD 5M con Tether. Vemos que están impulsando pagos en LATAM hispanohablante. Nos encantaría conocer vuestra visión de producto y explorar posibles sinergias desde Latin Leap.",
+   "score": 92,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 13.5,
+    "calidad": 14.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:00:44+00:00",
+   "fecha_evidencia": "2026-10-13T07:00:00+00:00",
+   "ultima_senal": "2026-11-05T07:28:59+00:00",
+   "senales": [
+    {
+     "fuente": "LatamList",
+     "tipo": "noticia",
+     "titulo": "EFY Finance secures investment from Tether to expand across Latin America",
+     "url": "https://latamlist.com/efy-finance-secures-investment-from-tether-to-expand-across-latin-america/",
+     "fecha": "2026-10-20T22:07:06+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Tether invests in EFY Finance seed round to expand institutional stablecoin use in Latin America",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mSnd0SVhXakJWY0h2ZzQxWVFsQU5IU2tZdDdrVUtsaHU2UldCU2duQ1ZDeTJpNmtSdjhvT2lYYmhKMnpYNm5xQ1JhQ3FCWTJKQmxjQ1RCNjRPOEFIa2VQclhsVHVoWFRCajlhN1VhNFdrQQ?oc=5",
+     "fecha": "2026-10-13T07:00:00+00:00",
+     "medio": "CryptoRank"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Panama-based Efy Finance raises $5M seed round led by Tether, to expand Latin American payments",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTENuX3FoSDc0YmtrdUZjVy1ya0Fvb05peUZmNFhFVm1NcUVTX24wWFhqZy1BczVycDlNY0JUcjkzdVh3bzJaY0t4azhHdW9mNUxGTHZJcENmTkEtdFRVMmpQQzJrVUtmUVQ5MHhTVTZIZW5YQzJ2bnZKbHl6T2hzWWI3bDZJam5jMzdCdEFwQ05UTndpWVMyWXcySHRNZUdJX2VvbUtBNWhJZlZWb1NCMGhPaE5ONEcyUTV4dFFFTkhzakVRNXFRUw?oc=5",
+     "fecha": "2026-11-05T07:28:59+00:00",
+     "medio": "TNGlobal"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "n:rebill",
    "empresa": "Rebill",
    "sitio_web": null,
@@ -334,6 +395,60 @@
    "motor": "llm"
   },
   {
+   "key": "n:takenos",
+   "empresa": "Takenos",
+   "sitio_web": null,
+   "pais": "Argentina",
+   "ciudad": null,
+   "sector": "Desconocido",
+   "etapa": "seed",
+   "monto_usd": 7000000.0,
+   "inversionistas": [
+    "North Island Ventures",
+    "Road Capital Management"
+   ],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Takenos es una startup argentina que levantó USD 7M y planea expandir a 15 países para 2027.",
+   "razon": "Startup argentina en geografía Latin Leap con monto significativo levantado (USD 7M) y expansión internacional planeada. Señal de tracción.",
+   "mensaje": "Hola Takenos, felicidades por haber levantado USD 7M y por los planes de expansión ambiciosos. Desde Latin Leap estamos atentos a startups argentinas con tracción internacional. Nos encantaría conocer más sobre su modelo y visión.",
+   "score": 92,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 13.5,
+    "calidad": 14.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-05T13:22:50+00:00",
+   "fecha_evidencia": "2026-11-04T15:10:23+00:00",
+   "ultima_senal": "2026-11-04T18:59:24+00:00",
+   "senales": [
+    {
+     "fuente": "LatamList",
+     "tipo": "noticia",
+     "titulo": "Takenos raises $7M seed extension to expand across Latin America",
+     "url": "https://latamlist.com/takenos-raises-7m-seed-extension-to-expand-across-latin-america/",
+     "fecha": "2026-11-04T18:59:24+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Takenos levanta US$7M y apunta a 15 países en 2027",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVpuNF9zYy1xQzFPSlluWmxoaTdQMFhLVWdXZERndmstdGZPb2hibF9IZ29PRnVQbUFtQ2lWYmp3cEZET0J2Vkg5Y29nZjMtTG5IWVFxamJXaW5XVk0xaURLMHE0ZEd5STJVRVFlM1dScGZ2d2UxWjJCVWluRW1kVGJHV1dmVXc?oc=5",
+     "fecha": "2026-11-04T15:10:23+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "n:desconocida",
    "empresa": "Desconocida",
    "sitio_web": null,
@@ -372,59 +487,6 @@
      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRWs5SVZtNmp5MnBPQnBSQjBfS3dPOUx0MGhoT3dpMFR2TTY5UHY0M2plWTBuMUwyRV93QjVXWGpjc3YySHp4ZzM4VmhZcUJ1SnhuV3p6TzhkME05Mk9BLXFGNllLampWN0lNVW84QndQcjQ2T1U4TXdzWlgxZFQ0TlhNYUgtczVtTzA5bnhEUHQ4X19ONlR6ZHVLT2M5RWltUDdQTk9LNFN6WE9peWd3T1FnbWp6elFIWC14ZWs3UDYzdEVjOG9yN0xOM2hmVzF1cTRKSHQzZGk2Nkp3MjhtQjU1SDM1WEZDZEFmWFJJdFFxcWNuMWtmd1VkWG00cUZJaFNKNlhpaEc?oc=5",
      "fecha": "2026-10-22T16:56:47+00:00",
      "medio": "Flipr.news"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
-   "key": "n:ruit",
-   "empresa": "Ruit",
-   "sitio_web": null,
-   "pais": "Colombia",
-   "ciudad": null,
-   "sector": "E-commerce/Recommerce",
-   "etapa": "seed",
-   "monto_usd": 975000.0,
-   "inversionistas": [
-    "Juan Roig"
-   ],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "Plataforma de recomercio (segunda mano) que levantó €880K con respaldo de Juan Roig.",
-   "razon": "Startup de LATAM concreta (Colombia), inversor reconocido (Roig, fundador Mercadona), sector con tracción (recommerce), monto coherente con seed.",
-   "mensaje": "Saludos equipo Ruit, vimos que levantaron una ronda con Juan Roig para expandir el recommerce en LATAM. En Latin Leap nos encanta el potencial de marketplaces circulares en la región. Nos gustaría conocer más sobre vuestra tracción y próximos hitos. ¿Podríamos agendar una breve conversación?",
-   "score": 90,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 14.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-18T09:06:50+00:00",
-   "ultima_senal": "2026-10-21T18:06:36+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Ruit levanta 880.000 € para su SaaS de segunda mano",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ0NQaGZRaTcwR05oTnplRjZQQUd2S1hwTGpNQUtpR1RCSVVJdU54bU1RVVc2MWNGLTdrakdfNjdoaC1zdDFlN3FFcWxEVkcxcnlxSEFRSE5NbTh3dGFlekJncWF0MVlsWFNxYk5udXJLV01vR1ppYW9XMWx2MFc3ZUtKeDFwV2pURXc?oc=5",
-     "fecha": "2026-10-21T18:06:36+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Ruit levanta 880.000 € con Juan Roig para el recommerce",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWmlXdG1yNHR4RVBCMU9CcFB3THJ0WmFCQUZIN1llMHQzeDJuZGJiNkxxTTFCOXFoZUdkaThXdkphcUtOZkFGS0kwZnJxbXJmM1VLTDEweF9HRDV4UnNWeldLWmJBN2hpSkFTZDd5QkFJbjhvaGctSWJ1Zm1rT25UR3o3MTZKUW9HY3Q2dkp1bw?oc=5",
-     "fecha": "2026-10-18T09:06:50+00:00",
-     "medio": "El Ecosistema Startup"
     }
    ],
    "motor": "llm"
@@ -667,65 +729,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:flappingairplanes",
-   "empresa": "Flapping Airplanes",
-   "sitio_web": null,
-   "pais": "Argentina",
-   "ciudad": null,
-   "sector": "IA",
-   "etapa": "seed",
-   "monto_usd": 1000000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 6.0,
-   "resumen": "Flapping Airplanes es un laboratorio de IA de Argentina que acaba de levantar USD 1 millón.",
-   "razon": "Laboratorio de IA que levanta USD 1M; origen argentino; sin embargo, falta claridad sobre etapa exacta e inversionistas que respalden.",
-   "mensaje": "Hola Flapping Airplanes, nos enteramos de que levantaron USD 1M para su laboratorio de IA. Estamos muy interesados en conocer el equipo y la visión detrás del proyecto. ¿Estarían abiertos a una conversación con Latin Leap? Nos encantaría aprender más.",
-   "score": 88,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 12.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-21T21:03:28+00:00",
-   "ultima_senal": "2026-10-21T22:06:33+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "AI startup Flapping Airplanes raises $1 billion at a $6 billion valuation — TechCrunch",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUHBOUU55eWJvX0RzR3MwSTNmbGhnVG1vVFZUZm9ZckNnd2ozN3B4YjdFVWNfV2FtMW83LVVnYzhrNnJRRWhXZ2JFUDF3RGJObGJQSHlLVThmWFNpaTNDSURqd3UyNTRweDBvcFc5SW9uaWZwM3J0NDNueUpBejVvUDdkRmVNVFQ0cEVnRkZkLVlzanVRLV8xLVdoUktFV19WcjBIWWZielY0Rk5Id1E?oc=5",
-     "fecha": "2026-10-21T21:17:52+00:00",
-     "medio": "UA.NEWS"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Flapping Airplanes, startup de IA, levanta US$1.000M",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUxBQWhpMTdCTVQ3QTJ1VElpQXlFQ2trdTlUc25nTGVLQktoY1VoMDE0a3F2Y1h5X2lySzI1bW9DMHQzdzdKa2RTRmlET2JNeEF2V080bzJ6ZVJWQkJBZ3hVemxZX3FKejEzTUVteHl0MUFiNVNqb0lXazhLVGZYNTlrdWxyOWpHMFE?oc=5",
-     "fecha": "2026-10-21T22:06:33+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Flapping Airplanes, el laboratorio de IA, levanta US$1.000M",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRW9TQm8zaWxPSkloQURWaU80QnlzeHl4NzE2Wmg4aGU5WnlBMG5TZ2llUW1kTmNWYUNnLTZOVmNOTEpnUjlOTUZSTVZpOHNnTTFyaGtzR1Z0RjFBaVRQSWlvQW53bWVOQm9LMDc3cFBKV3V0RHM1Q0JmQzBoaTJTZDJzOHpHM3VXZnFRa1lNdkI?oc=5",
-     "fecha": "2026-10-21T21:03:28+00:00",
-     "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:crofabiotech",
    "empresa": "CrofaBiotech",
    "sitio_web": null,
@@ -857,6 +860,59 @@
      "titulo": "Lebane, la fintech de la construcción, levanta US$4M",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcFMwSXV5bmthaUVEQmdqUUk4MFJhVVd1V3pOeDJGV1BLT0JRelpRWEhia3VWNlFaRjlGNmdmOERKVHB5NjJkUmdMTXhjTVJhc1BYcHpJRzAwa3UzREdzQkRDVkU2V2FodjE5Z0FFcXJVMWl2YkFSS0daZHFMZTJNRDdPQkU5M0k?oc=5",
      "fecha": "2026-10-14T14:51:43+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:ruit",
+   "empresa": "Ruit",
+   "sitio_web": null,
+   "pais": "Colombia",
+   "ciudad": null,
+   "sector": "E-commerce/Recommerce",
+   "etapa": "seed",
+   "monto_usd": 975000.0,
+   "inversionistas": [
+    "Juan Roig"
+   ],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Plataforma de recomercio (segunda mano) que levantó €880K con respaldo de Juan Roig.",
+   "razon": "Startup de LATAM concreta (Colombia), inversor reconocido (Roig, fundador Mercadona), sector con tracción (recommerce), monto coherente con seed.",
+   "mensaje": "Saludos equipo Ruit, vimos que levantaron una ronda con Juan Roig para expandir el recommerce en LATAM. En Latin Leap nos encanta el potencial de marketplaces circulares en la región. Nos gustaría conocer más sobre vuestra tracción y próximos hitos. ¿Podríamos agendar una breve conversación?",
+   "score": 88,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 14.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-18T09:06:50+00:00",
+   "ultima_senal": "2026-10-21T18:06:36+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Ruit levanta 880.000 € para su SaaS de segunda mano",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ0NQaGZRaTcwR05oTnplRjZQQUd2S1hwTGpNQUtpR1RCSVVJdU54bU1RVVc2MWNGLTdrakdfNjdoaC1zdDFlN3FFcWxEVkcxcnlxSEFRSE5NbTh3dGFlekJncWF0MVlsWFNxYk5udXJLV01vR1ppYW9XMWx2MFc3ZUtKeDFwV2pURXc?oc=5",
+     "fecha": "2026-10-21T18:06:36+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Ruit levanta 880.000 € con Juan Roig para el recommerce",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWmlXdG1yNHR4RVBCMU9CcFB3THJ0WmFCQUZIN1llMHQzeDJuZGJiNkxxTTFCOXFoZUdkaThXdkphcUtOZkFGS0kwZnJxbXJmM1VLTDEweF9HRDV4UnNWeldLWmJBN2hpSkFTZDd5QkFJbjhvaGctSWJ1Zm1rT25UR3o3MTZKUW9HY3Q2dkp1bw?oc=5",
+     "fecha": "2026-10-18T09:06:50+00:00",
      "medio": "El Ecosistema Startup"
     }
    ],
@@ -1309,6 +1365,65 @@
    "motor": "llm"
   },
   {
+   "key": "n:flappingairplanes",
+   "empresa": "Flapping Airplanes",
+   "sitio_web": null,
+   "pais": "Argentina",
+   "ciudad": null,
+   "sector": "IA",
+   "etapa": "seed",
+   "monto_usd": 1000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Flapping Airplanes es un laboratorio de IA de Argentina que acaba de levantar USD 1 millón.",
+   "razon": "Laboratorio de IA que levanta USD 1M; origen argentino; sin embargo, falta claridad sobre etapa exacta e inversionistas que respalden.",
+   "mensaje": "Hola Flapping Airplanes, nos enteramos de que levantaron USD 1M para su laboratorio de IA. Estamos muy interesados en conocer el equipo y la visión detrás del proyecto. ¿Estarían abiertos a una conversación con Latin Leap? Nos encantaría aprender más.",
+   "score": 86,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 12.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-21T21:03:28+00:00",
+   "ultima_senal": "2026-10-21T22:06:33+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "AI startup Flapping Airplanes raises $1 billion at a $6 billion valuation — TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUHBOUU55eWJvX0RzR3MwSTNmbGhnVG1vVFZUZm9ZckNnd2ozN3B4YjdFVWNfV2FtMW83LVVnYzhrNnJRRWhXZ2JFUDF3RGJObGJQSHlLVThmWFNpaTNDSURqd3UyNTRweDBvcFc5SW9uaWZwM3J0NDNueUpBejVvUDdkRmVNVFQ0cEVnRkZkLVlzanVRLV8xLVdoUktFV19WcjBIWWZielY0Rk5Id1E?oc=5",
+     "fecha": "2026-10-21T21:17:52+00:00",
+     "medio": "UA.NEWS"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Flapping Airplanes, startup de IA, levanta US$1.000M",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUxBQWhpMTdCTVQ3QTJ1VElpQXlFQ2trdTlUc25nTGVLQktoY1VoMDE0a3F2Y1h5X2lySzI1bW9DMHQzdzdKa2RTRmlET2JNeEF2V080bzJ6ZVJWQkJBZ3hVemxZX3FKejEzTUVteHl0MUFiNVNqb0lXazhLVGZYNTlrdWxyOWpHMFE?oc=5",
+     "fecha": "2026-10-21T22:06:33+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Flapping Airplanes, el laboratorio de IA, levanta US$1.000M",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRW9TQm8zaWxPSkloQURWaU80QnlzeHl4NzE2Wmg4aGU5WnlBMG5TZ2llUW1kTmNWYUNnLTZOVmNOTEpnUjlOTUZSTVZpOHNnTTFyaGtzR1Z0RjFBaVRQSWlvQW53bWVOQm9LMDc3cFBKV3V0RHM1Q0JmQzBoaTJTZDJzOHpHM3VXZnFRa1lNdkI?oc=5",
+     "fecha": "2026-10-21T21:03:28+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "n:eclectic",
    "empresa": "Eclectic AI",
    "sitio_web": null,
@@ -1622,49 +1737,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:allodirect",
-   "empresa": "AlloDirect",
-   "sitio_web": null,
-   "pais": "Chile",
-   "ciudad": "Valparaíso",
-   "sector": "Desconocido",
-   "etapa": "pre-seed",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "AlloDirect es una startup de Valparaíso, Chile, en búsqueda de financiamiento pre-seed.",
-   "razon": "Startup chilena en pre-seed stage alineada con geografía; sin embargo, falta claridad sobre el modelo de negocio y tracción.",
-   "mensaje": "¡Hola! Vimos que AlloDirect de Valparaíso está buscando pre-seed. Nos encantaría conocer más sobre el problema que resuelven y el tracción al día de hoy. ¿Podemos conversar?",
-   "score": 81,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 6.0,
-    "calidad": 10.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-21T22:31:00+00:00",
-   "ultima_senal": "2026-10-21T22:31:00+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Valparaiso startup AlloDirect lines up pre-seed funding",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ2RfQ191Ykg2Nzh3b3hFNEpWc0tUeUpHRERZY2tXRXpXZkZ0MzREXzFUZWMzUHhNLXJaUUFUYWR3X1RrTTZSY0JtaHhvd19ObG5CSndYeWkyVlhLS1QyczdjSk1yckNJd1hRamNyUVRadEtTcHRVcTNnbXdadV9JRTVLVjNlUklJ?oc=5",
-     "fecha": "2026-10-21T22:31:00+00:00",
-     "medio": "nwitimes.com"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:agrology",
    "empresa": "Agrology",
    "sitio_web": null,
@@ -1792,6 +1864,49 @@
     }
    ],
    "motor": "reglas"
+  },
+  {
+   "key": "n:allodirect",
+   "empresa": "AlloDirect",
+   "sitio_web": null,
+   "pais": "Chile",
+   "ciudad": "Valparaíso",
+   "sector": "Desconocido",
+   "etapa": "pre-seed",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "AlloDirect es una startup de Valparaíso, Chile, en búsqueda de financiamiento pre-seed.",
+   "razon": "Startup chilena en pre-seed stage alineada con geografía; sin embargo, falta claridad sobre el modelo de negocio y tracción.",
+   "mensaje": "¡Hola! Vimos que AlloDirect de Valparaíso está buscando pre-seed. Nos encantaría conocer más sobre el problema que resuelven y el tracción al día de hoy. ¿Podemos conversar?",
+   "score": 80,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 4.5,
+    "calidad": 10.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-21T22:31:00+00:00",
+   "ultima_senal": "2026-10-21T22:31:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Valparaiso startup AlloDirect lines up pre-seed funding",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ2RfQ191Ykg2Nzh3b3hFNEpWc0tUeUpHRERZY2tXRXpXZkZ0MzREXzFUZWMzUHhNLXJaUUFUYWR3X1RrTTZSY0JtaHhvd19ObG5CSndYeWkyVlhLS1QyczdjSk1yckNJd1hRamNyUVRadEtTcHRVcTNnbXdadV9JRTVLVjNlUklJ?oc=5",
+     "fecha": "2026-10-21T22:31:00+00:00",
+     "medio": "nwitimes.com"
+    }
+   ],
+   "motor": "llm"
   },
   {
    "key": "n:celes",
@@ -2391,49 +2506,6 @@
    "motor": "reglas"
   },
   {
-   "key": "d:trabajaenbci.cl",
-   "empresa": "Bci",
-   "sitio_web": "http://www.trabajaenbci.cl",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Bci es una Corporación de Soluciones Financieras que aspira a ser líder regional en Innovación, Cercanía y Experiencia de Clientes, y ser reconocida como el mejor lugar para trabajar y desarrollarse. ",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-21T18:02:37+00:00",
-   "ultima_senal": "2026-10-21T18:02:37+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Bci está contratando: Technical Lead Senior, Especialista Integración Pleno",
-     "url": "https://www.getonbrd.com/jobs/especialista-integracion-pleno-bci-santiago-f68d",
-     "fecha": "2026-10-21T18:02:37+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "d:itsmartglobal.com",
    "empresa": "ITSMART",
    "sitio_web": "https://itsmartglobal.com",
@@ -2673,49 +2745,6 @@
    "motor": "reglas"
   },
   {
-   "key": "d:softserveinc.com",
-   "empresa": "Softserve",
-   "sitio_web": "https://www.softserveinc.com",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "We are advisors, engineers, and designers solving business challenges with innovative technology solutions.\n\n#StandWithUkraine",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-21T20:07:09+00:00",
-   "ultima_senal": "2026-10-21T20:07:09+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Softserve está contratando: Lead Data Scientist, Senior Bigdata Engineer (Snowflake + Dbt), Lead Data Engineer (Azure), Senior Cloud Networking SRE, Cloud Networking SRE",
-     "url": "https://www.getonbrd.com/jobs/cloud-networking-sre-softserve-remote",
-     "fecha": "2026-10-21T20:07:09+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "d:23people.io",
    "empresa": "23people",
    "sitio_web": "https://www.23people.io",
@@ -2753,49 +2782,6 @@
      "titulo": "23people está contratando: Semi Senior Java Developer / ETL, Senior Full-Stack Java Developer (SDET & AI) Bilingüe",
      "url": "https://www.getonbrd.com/jobs/senior-full-stack-java-developer-test-automation-ai-23people-santiago",
      "fecha": "2026-10-23T13:23:45+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "d:mediastre.am",
-   "empresa": "Mediastream",
-   "sitio_web": "http://mediastre.am",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Más de 18 años liderando la tecnología streaming, trabajando con grandes empresas y broadcasters en todo el mundo.\n",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-21T19:04:14+00:00",
-   "ultima_senal": "2026-10-21T19:04:14+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Mediastream está contratando: Desarrollador Full-Stack, Desarrollador Ctv, Líder de Infraestructura & Operaciones (Linux / CDN), Desarrollad@R Mobile",
-     "url": "https://www.getonbrd.com/jobs/desarrollad-r-mobile-ctv-mediastream-bogota-9881",
-     "fecha": "2026-10-21T19:04:14+00:00",
      "medio": null
     }
    ],
@@ -3416,6 +3402,49 @@
    "motor": "reglas"
   },
   {
+   "key": "n:trii",
+   "empresa": "Trii",
+   "sitio_web": null,
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": "Fintech",
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Trii es una fintech de inversión que prepara incorporación de IA y criptomonedas. Operativa en Chile.",
+   "razon": "Fintech en geografía Latin Leap (Chile) con diferenciación en IA y cripto. Sin información de ronda, pero producto innovador en sector de inversión.",
+   "mensaje": "Hola equipo de Trii, vimos que están desarrollando soluciones innovadoras en inversión con IA y cripto en Chile. En Latin Leap nos interesa apoyar fintech diferenciados en la región. ¿Estarían abiertos a conectar y conocer más de su visión?",
+   "score": 70,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-05T13:22:50+00:00",
+   "fecha_evidencia": "2026-11-04T07:21:46+00:00",
+   "ultima_senal": "2026-11-04T07:21:46+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Trii, fintech de inversión, prepara IA y cripto en Chile",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR196Uk15RHI2bWpUa1NPaXR0R05peEpHcm44dVczOGlpVEZBLW42cF96WnNVRXNETkVSeE52MXB5WksycF9wZzZkWmtLVEJJTEpyTUgteXZfVFpRR3hrUUszX3NOa2Y0VnRtZm5CcEhNOEZYMWZ1ZzZ1dW1YZHhBZkN1QTh2aS1JSmhoRGZ3?oc=5",
+     "fecha": "2026-11-04T07:21:46+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:rankmi.com",
    "empresa": "Rankmi",
    "sitio_web": "https://www.rankmi.com",
@@ -3590,6 +3619,49 @@
      "titulo": "Zaelot está contratando: Back-end Software Engineer",
      "url": "https://www.getonbrd.com/jobs/backend-software-engineer-zaelot-remote-fbc2",
      "fecha": "2026-10-07T13:09:05+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "d:trabajaenbci.cl",
+   "empresa": "Bci",
+   "sitio_web": "http://www.trabajaenbci.cl",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Bci es una Corporación de Soluciones Financieras que aspira a ser líder regional en Innovación, Cercanía y Experiencia de Clientes, y ser reconocida como el mejor lugar para trabajar y desarrollarse. ",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-21T18:02:37+00:00",
+   "ultima_senal": "2026-10-21T18:02:37+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Bci está contratando: Technical Lead Senior, Especialista Integración Pleno",
+     "url": "https://www.getonbrd.com/jobs/especialista-integracion-pleno-bci-santiago-f68d",
+     "fecha": "2026-10-21T18:02:37+00:00",
      "medio": null
     }
    ],
@@ -3848,6 +3920,92 @@
      "titulo": "LeytonMedia está contratando: Diseñador Digital",
      "url": "https://www.getonbrd.com/jobs/disenador-digital-leytonmedia-santiago-481e",
      "fecha": "2026-10-19T19:51:14+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "d:softserveinc.com",
+   "empresa": "Softserve",
+   "sitio_web": "https://www.softserveinc.com",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "We are advisors, engineers, and designers solving business challenges with innovative technology solutions.\n\n#StandWithUkraine",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-21T20:07:09+00:00",
+   "ultima_senal": "2026-10-21T20:07:09+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Softserve está contratando: Lead Data Scientist, Senior Bigdata Engineer (Snowflake + Dbt), Lead Data Engineer (Azure), Senior Cloud Networking SRE, Cloud Networking SRE",
+     "url": "https://www.getonbrd.com/jobs/cloud-networking-sre-softserve-remote",
+     "fecha": "2026-10-21T20:07:09+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "d:mediastre.am",
+   "empresa": "Mediastream",
+   "sitio_web": "http://mediastre.am",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Más de 18 años liderando la tecnología streaming, trabajando con grandes empresas y broadcasters en todo el mundo.\n",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-21T19:04:14+00:00",
+   "ultima_senal": "2026-10-21T19:04:14+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Mediastream está contratando: Desarrollador Full-Stack, Desarrollador Ctv, Líder de Infraestructura & Operaciones (Linux / CDN), Desarrollad@R Mobile",
+     "url": "https://www.getonbrd.com/jobs/desarrollad-r-mobile-ctv-mediastream-bogota-9881",
+     "fecha": "2026-10-21T19:04:14+00:00",
      "medio": null
     }
    ],
@@ -4402,49 +4560,6 @@
    "motor": "llm"
   },
   {
-   "key": "d:graftonlatam.com",
-   "empresa": "Grafton Latam",
-   "sitio_web": "https://graftonlatam.com/",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 5.0,
-   "resumen": " Compañía multinacional especializada en motores eléctricos y sistemas de accionamiento, que desarrolla soluciones tecnológicas para optimizar el funcionamiento y la eficiencia de procesos industriales. ",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 62,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 7.5,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-21T13:45:17+00:00",
-   "ultima_senal": "2026-10-21T13:45:17+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Grafton Latam está contratando: Desarrollador Full-Stack",
-     "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-grafton-latam-santiago",
-     "fecha": "2026-10-21T13:45:17+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "d:movek.cl",
    "empresa": "Movek",
    "sitio_web": "http://movek.cl",
@@ -4526,6 +4641,49 @@
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmctWDV5c3BRYjdXSGk1bENCTTRmUENTTmhTYUhEdzVmdHlFQlJfSFFhMUZIM2g2M2wzWjhFYlFORFpMczhQY3NnSUQ3dFBqYXNxYVFPYUVyWXVmUVdKdjNOVHRPSzZwVFNEeXc4TFdLVE1wVGlqVzhYMGZKWDh6UzRzVXVyNzNlNEczMlBVYjBza3JqUzdQbTA4X21uNlNSYjhr?oc=5",
      "fecha": "2026-10-19T17:39:59+00:00",
      "medio": "Dealroom"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "d:graftonlatam.com",
+   "empresa": "Grafton Latam",
+   "sitio_web": "https://graftonlatam.com/",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": " Compañía multinacional especializada en motores eléctricos y sistemas de accionamiento, que desarrolla soluciones tecnológicas para optimizar el funcionamiento y la eficiencia de procesos industriales. ",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 61,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 7.5,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-21T13:45:17+00:00",
+   "ultima_senal": "2026-10-21T13:45:17+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Grafton Latam está contratando: Desarrollador Full-Stack",
+     "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-grafton-latam-santiago",
+     "fecha": "2026-10-21T13:45:17+00:00",
+     "medio": null
     }
    ],
    "motor": "reglas"
@@ -5153,59 +5311,6 @@
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUURYaks0ak1peWdsLXVkc2ZKNWFTWW9TZlJDbDdaY0NRNVdOUWdtOWgyMm5KeHpfVEx5U192QW9uSVBGSXZ0SVB0eXlncWVVOUNyVlRsckp4QWlzWFhJSjM1WXV6UjZvaEVwdjBzRTR3NGVmWTlJZXNqVTVvTTBGSExUZjBBSkQ1TnV3bkdvS3pERHdyLXJCUFBuMmJFTGduMjBuS2ViUWlIeTZFdmdtY3hQcXFiSHlwTUgxUzk5dVJUVHhwbm1jVHlxNWpHT3RzdGgyWmVlOXhDQQ?oc=5",
      "fecha": "2026-10-14T14:24:37+00:00",
      "medio": "AiThority"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
-   "key": "n:efyfinance",
-   "empresa": "EFY Finance",
-   "sitio_web": null,
-   "pais": "desconocido",
-   "ciudad": null,
-   "sector": "Fintech/Criptomonedas",
-   "etapa": "seed",
-   "monto_usd": null,
-   "inversionistas": [
-    "Tether"
-   ],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "EFY Finance es una plataforma fintech que expande el uso institucional de stablecoins (USDT) en América Latina.",
-   "razon": "Respaldo de Tether (inversor institucional reconocido) en ronda seed enfocada en América Latina; propuesta clara de expansión de stablecoins para uso institucional.",
-   "mensaje": "Hola equipo de EFY Finance, vimos con interés que Tether ha liderado su ronda seed para expandir stablecoins en la región. Desde Latin Leap creemos en soluciones fintech que democraticen el acceso a instrumentos institucionales. ¿Podrían comentarnos sobre su tracción actual y roadmap para los próximos 12 meses?",
-   "score": 66,
-   "desglose": {
-    "geografia": 0.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 12.0,
-    "calidad": 14.0
-   },
-   "prioridad": "Fuera de tesis",
-   "en_tesis": false,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:00:44+00:00",
-   "fecha_evidencia": "2026-10-13T07:00:00+00:00",
-   "ultima_senal": "2026-10-20T22:07:06+00:00",
-   "senales": [
-    {
-     "fuente": "LatamList",
-     "tipo": "noticia",
-     "titulo": "EFY Finance secures investment from Tether to expand across Latin America",
-     "url": "https://latamlist.com/efy-finance-secures-investment-from-tether-to-expand-across-latin-america/",
-     "fecha": "2026-10-20T22:07:06+00:00",
-     "medio": null
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Tether invests in EFY Finance seed round to expand institutional stablecoin use in Latin America",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mSnd0SVhXakJWY0h2ZzQxWVFsQU5IU2tZdDdrVUtsaHU2UldCU2duQ1ZDeTJpNmtSdjhvT2lYYmhKMnpYNm5xQ1JhQ3FCWTJKQmxjQ1RCNjRPOEFIa2VQclhsVHVoWFRCajlhN1VhNFdrQQ?oc=5",
-     "fecha": "2026-10-13T07:00:00+00:00",
-     "medio": "CryptoRank"
     }
    ],
    "motor": "llm"
@@ -6374,49 +6479,6 @@
    "motor": "reglas"
   },
   {
-   "key": "n:cambridgewastetosafstartup",
-   "empresa": "Cambridge waste-to-SAF startup",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 5.0,
-   "resumen": "Cambridge waste-to-SAF startup secures €1.8 million investment Biofuels International Magazine",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 44,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 12.5,
-    "tecnologia": 7.5,
-    "senal": 6.0,
-    "calidad": 10.0
-   },
-   "prioridad": "C",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-22T06:32:59+00:00",
-   "ultima_senal": "2026-10-22T06:32:59+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Cambridge waste-to-SAF startup secures €1.8 million investment",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNi01MVp2a0NDWHBRRkhNbldiQ3pDRE9GZDZ0bXRfQ1NUN2NjVlEzN0tPX2tLeHR4cUpwV3FSZmRIckpMVmRzQ0NHMXRzMl9XS3cySVpTazUxWFNEZmFfbWlQbVFkZEwySWVCcE5vem05WmxUU1pweTNGbzAxSkhaM3lNck9DdWlNc3RpbHVEQ0xhaWVmT1Jlbk1nU0c3TWZ5aDZ5dXVn?oc=5",
-     "fecha": "2026-10-22T06:32:59+00:00",
-     "medio": "Biofuels International Magazine"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "n:californiastartupshave",
    "empresa": "California Startups Have",
    "sitio_web": null,
@@ -6847,6 +6909,49 @@
    "motor": "reglas"
   },
   {
+   "key": "n:cambridgewastetosafstartup",
+   "empresa": "Cambridge waste-to-SAF startup",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Cambridge waste-to-SAF startup secures €1.8 million investment Biofuels International Magazine",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 42,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 12.5,
+    "tecnologia": 7.5,
+    "senal": 4.5,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-22T06:32:59+00:00",
+   "ultima_senal": "2026-10-22T06:32:59+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Cambridge waste-to-SAF startup secures €1.8 million investment",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNi01MVp2a0NDWHBRRkhNbldiQ3pDRE9GZDZ0bXRfQ1NUN2NjVlEzN0tPX2tLeHR4cUpwV3FSZmRIckpMVmRzQ0NHMXRzMl9XS3cySVpTazUxWFNEZmFfbWlQbVFkZEwySWVCcE5vem05WmxUU1pweTNGbzAxSkhaM3lNck9DdWlNc3RpbHVEQ0xhaWVmT1Jlbk1nU0c3TWZ5aDZ5dXVn?oc=5",
+     "fecha": "2026-10-22T06:32:59+00:00",
+     "medio": "Biofuels International Magazine"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "n:photonbridge",
    "empresa": "Photon Bridge",
    "sitio_web": null,
@@ -7149,15 +7254,15 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-11-04T13:16:31+00:00",
+  "actualizado": "2026-11-05T13:22:50+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 101,
-  "prioridad_a_30d": 31,
-  "incremento_vs_baseline": 1.683,
-  "cumplimiento_meta": 16.83,
-  "total_deals": 153,
-  "total_calificados": 107,
+  "calificados_30d": 103,
+  "prioridad_a_30d": 33,
+  "incremento_vs_baseline": 1.717,
+  "cumplimiento_meta": 17.17,
+  "total_deals": 155,
+  "total_calificados": 110,
   "conocidos_detectados": 2,
   "por_semana": {
    "2025-06-16": 1,
@@ -7167,28 +7272,29 @@
    "2026-07-20": 1,
    "2026-09-14": 1,
    "2026-10-05": 8,
-   "2026-10-12": 22,
+   "2026-10-12": 23,
    "2026-10-19": 38,
    "2026-10-26": 27,
-   "2026-11-02": 6
+   "2026-11-02": 8
   },
   "por_fuente": {
-   "Google News": 52,
+   "Google News": 55,
    "Get on Board": 46,
    "Y Combinator": 6,
+   "LatamList": 5,
    "Startups Latam": 4,
-   "LatamList": 3,
    "Techla Media": 1
   },
   "por_pais": {
-   "Chile": 42,
+   "Chile": 43,
    "?": 25,
-   "Argentina": 13,
+   "Argentina": 14,
    "México": 11,
    "Colombia": 7,
    "Uruguay": 2,
    "Guatemala": 2,
    "Venezuela": 2,
+   "Panamá": 1,
    "Costa Rica": 1,
    "Perú": 1,
    "Bolivia": 1
@@ -8240,6 +8346,84 @@
       "fuente": "Get on Board",
       "ok": true,
       "senales": 50,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-11-05T13:21:22+00:00",
+    "fin": "2026-11-05T13:22:50+00:00",
+    "senales_crudas": 263,
+    "descartadas_prefiltro": 112,
+    "procesadas": 20,
+    "deals_nuevos": 2,
+    "calificados_nuevos": 2,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 17,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 163,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 5,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 1,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 47,
       "error": null
      }
     ]
