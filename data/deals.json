@@ -453,12 +453,12 @@
   "ultima_senal": "2026-10-22T15:48:43+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 92,
+  "score": 91,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 13.5,
+   "senal": 12.0,
    "calidad": 14.0
   },
   "prioridad": "A",
@@ -908,12 +908,12 @@
   "ultima_senal": "2026-10-22T21:22:44+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -1203,12 +1203,12 @@
   "ultima_senal": "2026-10-22T21:15:48+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -1687,12 +1687,12 @@
   "ultima_senal": "2026-10-22T21:50:01+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -1974,12 +1974,12 @@
   "ultima_senal": "2026-10-22T13:24:09+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 62,
+  "score": 61,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 7.5,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -2035,6 +2035,14 @@
     "url": "https://www.getonbrd.com/jobs/senior-full-stack-java-developer-test-automation-ai-23people-santiago",
     "fecha": "2026-10-23T13:23:45+00:00",
     "medio": null
+   },
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "23people está contratando: Semi Senior Full-Stack Java Developer (QA & AI) Bilingüe",
+    "url": "https://www.getonbrd.com/jobs/semi-senior-full-stack-java-developer-qa-ai-bilingue-23people-santiago",
+    "fecha": "2026-11-06T12:39:23+00:00",
+    "medio": null
    }
   ],
   "inversionistas": [],
@@ -2049,7 +2057,7 @@
   "resumen": "Básicamente, somos un grupo de geeks apasionados por lo que hacemos: programar y resolver problemas usando tecnología. 🤟",
   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
   "fecha_evidencia": "2026-10-23T13:23:45+00:00",
-  "ultima_senal": "2026-10-23T13:23:45+00:00",
+  "ultima_senal": "2026-11-06T12:39:23+00:00",
   "conocido_fuente": null,
   "conocido": false,
   "score": 70,
@@ -2462,12 +2470,12 @@
   "ultima_senal": "2026-10-22T16:56:47+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 90,
+  "score": 88,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 14.0
   },
   "prioridad": "A",
@@ -2821,12 +2829,12 @@
   "ultima_senal": "2026-10-23T11:09:00+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 43,
+  "score": 42,
   "desglose": {
    "geografia": 7.5,
    "etapa": 0.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
   "prioridad": "Fuera de tesis",
@@ -3041,12 +3049,12 @@
   "ultima_senal": "2026-10-23T11:45:29+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 47,
+  "score": 46,
   "desglose": {
    "geografia": 7.5,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 6.0
   },
   "prioridad": "C",
@@ -3080,12 +3088,12 @@
   "ultima_senal": "2026-10-23T11:45:29+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 47,
+  "score": 46,
   "desglose": {
    "geografia": 7.5,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 6.0
   },
   "prioridad": "C",
@@ -3119,12 +3127,12 @@
   "ultima_senal": "2026-10-23T11:45:29+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 47,
+  "score": 46,
   "desglose": {
    "geografia": 7.5,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 6.0
   },
   "prioridad": "C",
@@ -4092,12 +4100,12 @@
   "ultima_senal": "2026-10-23T07:00:00+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 44,
+  "score": 42,
   "desglose": {
    "geografia": 7.5,
    "etapa": 12.5,
    "tecnologia": 7.5,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 10.0
   },
   "prioridad": "C",
@@ -5114,6 +5122,14 @@
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVzF1MEthYmZCS1VmNTFvMWlFY0JzWGhwelpFU2RkMVdfaTVGUG14VzZrMWdUeUQtaW9jNWRTa0V5a19WTm9RZzNsRXB6WjVTR2dHUUQxSURNZnlHNHpSejE1alFibmtHSWZSRzF4YzhGSmpLb2loRXk2ZTdkZE1JNmRPa19wV0d2M3c?oc=5",
     "fecha": "2026-11-03T12:06:37+00:00",
     "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Artiso raises more than $3.4m in pre-seed funding for AI fashion platform",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MaVZCX1hSR1hqdkVuUGJqaVhfM3NlV284QnNQY3ZYUmhOXzBXZDNuTjYxRTRLYlFDaXBkSEM2c2ZfVzljZG1EbnNNRUpORmItQnluNUpIR3FfclhzR1A3NkVOMmRpUU0?oc=5",
+    "fecha": "2026-11-04T11:08:22+00:00",
+    "medio": "Just Style"
    }
   ],
   "inversionistas": [
@@ -5125,12 +5141,12 @@
   "motor": "llm",
   "empresa": "Artiso",
   "etapa": "pre-seed",
-  "monto_usd": 3000000.0,
+  "monto_usd": 3400000.0,
   "resumen": "Startup de IA que levantó capital junto a otros emprendimientos en ronda conjunta.",
   "mensaje": "Hemos visto que Artiso está levantando capital en el ecosistema IA. Si tienen operaciones en América Latina hispanohablante, nos encantaría conocer más sobre vuestra propuesta y trayectoria.",
   "razon": "Ronda en IA, monto reportado en EUR (~5.5M) sin conversión clara a USD; ubicación geográfica no mencionada; etapa pre-seed estimada por el contexto de noticia.",
   "fecha_evidencia": "2026-10-28T10:39:09+00:00",
-  "ultima_senal": "2026-11-03T12:06:37+00:00",
+  "ultima_senal": "2026-11-04T11:08:22+00:00",
   "conocido_fuente": null,
   "conocido": false,
   "score": 64,
@@ -6618,10 +6634,27 @@
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVpuNF9zYy1xQzFPSlluWmxoaTdQMFhLVWdXZERndmstdGZPb2hibF9IZ29PRnVQbUFtQ2lWYmp3cEZET0J2Vkg5Y29nZjMtTG5IWVFxamJXaW5XVk0xaURLMHE0ZEd5STJVRVFlM1dScGZ2d2UxWjJCVWluRW1kVGJHV1dmVXc?oc=5",
     "fecha": "2026-11-04T15:10:23+00:00",
     "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "Startups Latam",
+    "tipo": "noticia",
+    "titulo": "La argentina Takenos levanta US$7 millones en una extensión de su ronda semilla y apunta a más de 15 países en 2027",
+    "url": "https://startupslatam.com/la-argentina-takenos-levanta-us7-millones-en-una-extension-de-su-ronda-semilla-y-apunta-a-mas-de-15-paises-en-2027/",
+    "fecha": "2026-11-05T13:29:32+00:00",
+    "medio": null
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Takenos raises $7M seed extension to expand across Latin America",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUG9Qel9zVmRGTlZwXzIxOEctRmg2N3RMTnRWdkJBSWI4QUxhVkdYY25KOFMwOEFOSzd0WWRTRHRwenUtWHU4cm5nNVQ2MU5rLUFVRmFCay1KX2NxVDhfbzBzMFBiZ3ZZTjNtODBIay1mMU0zSWl1QVFrNFp6NHRNRTVBTlF0UGFkNjJINWJUQ3ZVZDZI0gGUAUFVX3lxTFBQb1B6X3NWZEZOVnBfMjE4Ry1GaDY3dExOdFZ2QkFJYjhBTGFWR1hjbko4UzA4QU5LN3RZZFNEdHB6dS1YdThybmc1VDYxTmstQVVGYUJrLUpfY3FUOF9vMHMwUGJndllOM204MEhrLWYxTTNJaXVBUWs0Wno0dE1FNUFOUXRQYWQ2Mkg1YlRDdlVkNkg?oc=5",
+    "fecha": "2026-11-04T18:59:24+00:00",
+    "medio": "LatamList"
    }
   ],
   "inversionistas": [
    "North Island Ventures",
+   "North Island Ventures, Road Capital Management",
    "Road Capital Management"
   ],
   "fundadores": [],
@@ -6633,11 +6666,11 @@
   "etapa": "seed",
   "monto_usd": 7000000.0,
   "tecnologia": true,
-  "resumen": "Takenos es una startup argentina que levantó USD 7M y planea expandir a 15 países para 2027.",
-  "mensaje": "Hola Takenos, felicidades por haber levantado USD 7M y por los planes de expansión ambiciosos. Desde Latin Leap estamos atentos a startups argentinas con tracción internacional. Nos encantaría conocer más sobre su modelo y visión.",
-  "razon": "Startup argentina en geografía Latin Leap con monto significativo levantado (USD 7M) y expansión internacional planeada. Señal de tracción.",
+  "resumen": "Takenos levanta USD 7M en extensión de ronda seed para expandir operaciones en América Latina.",
+  "mensaje": "Hola equipo Takenos, vimos que acaban de cerrar una extensión de seed de USD 7M para crecer en Latinoamérica. En Latin Leap nos interesa mucho el crecimiento multi-país en la región. ¿Podríamos conocer más sobre su tracción y siguiente fase? Saludos.",
+  "razon": "Ronda seed de USD 7M en expansión regional LATAM demuestra validación y apetito inversor; sin embargo, país específico no está claro en el titular.",
   "fecha_evidencia": "2026-11-04T15:10:23+00:00",
-  "ultima_senal": "2026-11-04T18:59:24+00:00",
+  "ultima_senal": "2026-11-05T13:29:32+00:00",
   "conocido_fuente": null,
   "conocido": false,
   "score": 92,
@@ -6690,5 +6723,243 @@
   },
   "prioridad": "B",
   "en_tesis": true
+ },
+ "d:3it.cl": {
+  "key": "d:3it.cl",
+  "primera_vista": "2026-11-06T13:15:53+00:00",
+  "senales": [
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "3IT está contratando: Líder Técnico, Especialista Desarrollador Front-end, Desarrollador Back-end, Desarrollador Full-Stack | Golang + .NET + React, Full-Stack (.NET + AngularJS + Re",
+    "url": "https://www.getonbrd.com/jobs/qa-automatizador-3it-santiago-5d69",
+    "fecha": "2026-11-05T18:41:38+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "3IT",
+  "sitio_web": "https://www.3it.cl/",
+  "pais": "Chile",
+  "etapa": "desconocida",
+  "tecnologia": true,
+  "resumen": "Empresa especializada en desarrollo de software a medida, hunting, ciberseguridad y outsourcing TI estratégico. ",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-05T18:41:38+00:00",
+  "ultima_senal": "2026-11-05T18:41:38+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 70,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 12.5,
+   "tecnologia": 15.0,
+   "senal": 7.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "d:cicanada.com": {
+  "key": "d:cicanada.com",
+  "primera_vista": "2026-11-06T13:15:53+00:00",
+  "senales": [
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "CI Canadá está contratando: Desarrollador Full-Stack Java",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-java-ci-canada-remote",
+    "fecha": "2026-11-05T16:02:24+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "CI Canadá",
+  "sitio_web": "https://cicanada.com",
+  "pais": "Colombia",
+  "etapa": "desconocida",
+  "resumen": "CI Canadá**, empresa con 30 años de trayectoria en servicios migratorios hacia Canadá",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-05T16:02:24+00:00",
+  "ultima_senal": "2026-11-05T16:02:24+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 62,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 12.5,
+   "tecnologia": 7.5,
+   "senal": 7.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:aformic": {
+  "key": "n:aformic",
+  "primera_vista": "2026-11-06T13:15:53+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Aformic Raises $6.95M in Seed Funding to Develop Autonomous Industrial Robots",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQm4wcG1HbDZ0bWpHY3JfRGtpMnFic0RBMGpHcWE5ZHBWODEwU21EVkRydEhOdGZtblBFajBhd1BXczNoWGhNMktxZUZXTXdOM0VmX1Y1SWlxbkZYZlhUaE1rWDZPWHAzTG9QOUMyR1EwZmItdmxZQTNBV05VOTRWb250V0U2SWU3NW13SnFyenU3aHBmeEhnTml5aUJpZzhCUThVN3VydUo3OFFIWjBXQk4wUU4?oc=5",
+    "fecha": "2026-11-05T11:33:46+00:00",
+    "medio": "AI Insider"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Aformic",
+  "etapa": "seed",
+  "monto_usd": 6950000.0,
+  "tecnologia": true,
+  "resumen": "Aformic Raises $6.95M in Seed Funding to Develop Autonomous Industrial Robots AI Insider",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-05T11:33:46+00:00",
+  "ultima_senal": "2026-11-05T11:33:46+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 68,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:shackleton": {
+  "key": "n:shackleton",
+  "primera_vista": "2026-11-06T13:15:53+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Shackleton AI levanta US$5M para agentes en construcción",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTEo0ZFVkMnk5WjZ6djFRWmJKcGxkR29hSjFSQTlZdFVfUmNzdGNfa0lRQjlDckNiamRVY0c0d05TbWtmbXdBNGc1UlA0VXdlWUU2bVRXN0pkSUl0TDdBTkNSeW5lZlN5aGxqWlUwcHBnQlAzdjNDdlZKYkZacXZsWlNJaGZEYXJ4Q2tJdzJQUQ?oc=5",
+    "fecha": "2026-11-04T16:03:31+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Shackleton AI",
+  "etapa": "serie-a",
+  "monto_usd": 5000000.0,
+  "tecnologia": true,
+  "resumen": "Shackleton AI levanta US$5M para agentes en construcción El Ecosistema Startup",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-04T16:03:31+00:00",
+  "ultima_senal": "2026-11-04T16:03:31+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 50,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 7.5,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 10.0
+  },
+  "prioridad": "C",
+  "en_tesis": true
+ },
+ "n:kabilio": {
+  "key": "n:kabilio",
+  "primera_vista": "2026-11-06T13:15:53+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Kabilio, la startup de IA contable, levanta €10M",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa043OEhISmVIdTVZdDZEUkRqR3NBNVZEU0Y1MjJNVjZnR3haRXNxbGdKbnhSN0NCZ1FzdGdmTExrWW9adUI1eHotXzFmaS1IS0dCLVZmRnlnVVFrOEozQkJNMmpiaEVxanotOWRzeXIxY3EzSjR2c21VTzNtSUhVQ3ZZTQ?oc=5",
+    "fecha": "2026-11-05T19:06:27+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 7.0,
+  "motor": "llm",
+  "empresa": "Kabilio",
+  "sector": "Contabilidad / IA",
+  "etapa": "desconocida",
+  "monto_usd": 10900000.0,
+  "tecnologia": true,
+  "resumen": "Kabilio es una startup de IA especializada en contabilidad que levantó €10M para escalar su plataforma.",
+  "mensaje": "Hola equipo Kabilio, vimos que cerraron una ronda de €10M para su plataforma de IA contable. La oportunidad en FinTech/Contabilidad de LATAM es enorme. ¿Tienen planes de expansión en la región? Nos encantaría conversar. Saludos desde Latin Leap.",
+  "razon": "Startup de IA contable con ronda significativa de €10M (~USD 11M); sector de SaaS B2B con alto potencial; sin embargo, ubicación exacta e inversores no claros.",
+  "fecha_evidencia": "2026-11-05T19:06:27+00:00",
+  "ultima_senal": "2026-11-05T19:06:27+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 60,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 12.5,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 14.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "d:okstays.com": {
+  "key": "d:okstays.com",
+  "primera_vista": "2026-11-06T13:15:53+00:00",
+  "senales": [
+   {
+    "fuente": "Hacker News",
+    "tipo": "lanzamiento",
+    "titulo": "Show HN: I paid Claude US$1,070 to read the worst reviews of 30k places to stay",
+    "url": "https://news.ycombinator.com/item?id=50379300",
+    "fecha": "2026-11-05T14:13:51+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [
+   "Oriol"
+  ],
+  "calidad": 4.0,
+  "motor": "llm",
+  "empresa": "OKstays",
+  "sitio_web": "https://okstays.com",
+  "pais": "España",
+  "ciudad": "Barcelona",
+  "sector": "Travel Tech / Marketplace",
+  "etapa": "idea",
+  "monto_usd": 1070.0,
+  "tecnologia": true,
+  "resumen": "OKstays utiliza IA para leer reseñas negativas de hospedajes y puntuarlos según comodidad real, ayudando viajeros a encontrar mejores lugares.",
+  "mensaje": "Hola Oriol, vimos OKstays en HN y nos encanta el problema que resuelves con IA. Aunque estés en Barcelona, si ves oportunidad de expandir a mercados de habla hispana en Latinoamérica, en Latin Leap podríamos ser un buen partner. Saludos.",
+  "razon": "Desarrollador solo con MVP usando IA (Claude) para mejorar búsqueda de hospedaje; traction inicial débil (gastos en terceros, no ingresos mencionados); mercado validado pero ubicación fuera de LATAM hispanohablante.",
+  "fecha_evidencia": "2026-11-05T14:13:51+00:00",
+  "ultima_senal": "2026-11-05T14:13:51+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 50,
+  "desglose": {
+   "geografia": 0.0,
+   "etapa": 15.0,
+   "tecnologia": 15.0,
+   "senal": 12.0,
+   "calidad": 8.0
+  },
+  "prioridad": "Fuera de tesis",
+  "en_tesis": false
  }
 }

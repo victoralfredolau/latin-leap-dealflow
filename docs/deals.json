@@ -283,73 +283,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:rebill",
-   "empresa": "Rebill",
-   "sitio_web": null,
-   "pais": "Argentina",
-   "ciudad": null,
-   "sector": "Fintech/Pagos",
-   "etapa": "seed",
-   "monto_usd": 5400000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "Fintech argentina especializada en soluciones de pagos que levanta capital para expansión.",
-   "razon": "Fintech de pagos argentina con ronda seed ~USD 5.4M; sector financiero es grande y diferenciación en pagos es atractiva; geografía en tesis.",
-   "mensaje": "Hola equipo Rebill, vimos que levantaron USD 5.4M para potenciar su plataforma de pagos en Argentina. Nos interesa conocer la tracción actual y vuestra estrategia de expansión regional. ¿Disponibles para conversar?",
-   "score": 92,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 13.5,
-    "calidad": 14.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:00:44+00:00",
-   "fecha_evidencia": "2026-10-19T15:09:48+00:00",
-   "ultima_senal": "2026-10-22T15:48:43+00:00",
-   "senales": [
-    {
-     "fuente": "LatamList",
-     "tipo": "noticia",
-     "titulo": "Argentine fintech Rebill raises $5.4M Pre Series A round",
-     "url": "https://latamlist.com/argentine-fintech-rebill-raises-5-4m-pre-series-a-round/",
-     "fecha": "2026-10-20T23:24:46+00:00",
-     "medio": null
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Rebill, la fintech argentina de pagos, levanta US$5,4M",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3dZZ3M4VFY4NFlJRC1sekJ2SVV0UG9DbUluT0s4TDZrQW1QbkZsa3dBZGlGSmxwY3djTWpfMlVfeWdLU1pQM3I2U3Z1WWh4elB2U1lUaU1QMnVWcERyVjloSS1SZ0dtdHUxNktyVlFuRzFXSlRpZTVCb3kxdGpVc0pTV1A1UThtLXFr?oc=5",
-     "fecha": "2026-10-21T18:51:38+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Rebill, fintech argentina, levanta US$5,4M pre-Serie A",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcUlKV016NW51alk0bDMyY3BCbENoWlQ4LVlYVXdob0dNWDEyMUl0NWNRcGZnS254TXBRQU1UdWU3YlloU0NiN3pyUXVYNkxnZzV1SlJtc1hwSkpTNHFYNmtYNzJwU3BpQnpDbUdCU3hKc0tjNm52czFYOGwycWVJa3JGTGR0V2VS?oc=5",
-     "fecha": "2026-10-22T15:48:43+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Rebill, la fintech argentina de pagos, levanta US$5,4M",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzdkTEdMUVNPSzZIcGJNVzhmc3h1UXlZWFR4V0JDNWlmYUhTSGk5STVHMWZqLWEycUJ1eE5ncjI1WTBmUU1iamNvbFhuaXRPQkVlMVFZa0FkMVlYLWJ4eXNNUzVTNVAzUGhtQnE3M0FTZkd5Z3VRenhGelZ1Q1pvc3ByTjA2TVRf?oc=5",
-     "fecha": "2026-10-19T15:09:48+00:00",
-     "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "d:examedi.cl",
    "empresa": "Examedi",
    "sitio_web": "https://examedi.cl",
@@ -405,14 +338,15 @@
    "monto_usd": 7000000.0,
    "inversionistas": [
     "North Island Ventures",
+    "North Island Ventures, Road Capital Management",
     "Road Capital Management"
    ],
    "fundadores": [],
    "tecnologia": true,
    "calidad": 7.0,
-   "resumen": "Takenos es una startup argentina que levantó USD 7M y planea expandir a 15 países para 2027.",
-   "razon": "Startup argentina en geografía Latin Leap con monto significativo levantado (USD 7M) y expansión internacional planeada. Señal de tracción.",
-   "mensaje": "Hola Takenos, felicidades por haber levantado USD 7M y por los planes de expansión ambiciosos. Desde Latin Leap estamos atentos a startups argentinas con tracción internacional. Nos encantaría conocer más sobre su modelo y visión.",
+   "resumen": "Takenos levanta USD 7M en extensión de ronda seed para expandir operaciones en América Latina.",
+   "razon": "Ronda seed de USD 7M en expansión regional LATAM demuestra validación y apetito inversor; sin embargo, país específico no está claro en el titular.",
+   "mensaje": "Hola equipo Takenos, vimos que acaban de cerrar una extensión de seed de USD 7M para crecer en Latinoamérica. En Latin Leap nos interesa mucho el crecimiento multi-país en la región. ¿Podríamos conocer más sobre su tracción y siguiente fase? Saludos.",
    "score": 92,
    "desglose": {
     "geografia": 25.0,
@@ -427,7 +361,7 @@
    "conocido_fuente": null,
    "primera_vista": "2026-11-05T13:22:50+00:00",
    "fecha_evidencia": "2026-11-04T15:10:23+00:00",
-   "ultima_senal": "2026-11-04T18:59:24+00:00",
+   "ultima_senal": "2026-11-05T13:29:32+00:00",
    "senales": [
     {
      "fuente": "LatamList",
@@ -444,49 +378,89 @@
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVpuNF9zYy1xQzFPSlluWmxoaTdQMFhLVWdXZERndmstdGZPb2hibF9IZ29PRnVQbUFtQ2lWYmp3cEZET0J2Vkg5Y29nZjMtTG5IWVFxamJXaW5XVk0xaURLMHE0ZEd5STJVRVFlM1dScGZ2d2UxWjJCVWluRW1kVGJHV1dmVXc?oc=5",
      "fecha": "2026-11-04T15:10:23+00:00",
      "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Startups Latam",
+     "tipo": "noticia",
+     "titulo": "La argentina Takenos levanta US$7 millones en una extensión de su ronda semilla y apunta a más de 15 países en 2027",
+     "url": "https://startupslatam.com/la-argentina-takenos-levanta-us7-millones-en-una-extension-de-su-ronda-semilla-y-apunta-a-mas-de-15-paises-en-2027/",
+     "fecha": "2026-11-05T13:29:32+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Takenos raises $7M seed extension to expand across Latin America",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUG9Qel9zVmRGTlZwXzIxOEctRmg2N3RMTnRWdkJBSWI4QUxhVkdYY25KOFMwOEFOSzd0WWRTRHRwenUtWHU4cm5nNVQ2MU5rLUFVRmFCay1KX2NxVDhfbzBzMFBiZ3ZZTjNtODBIay1mMU0zSWl1QVFrNFp6NHRNRTVBTlF0UGFkNjJINWJUQ3ZVZDZI0gGUAUFVX3lxTFBQb1B6X3NWZEZOVnBfMjE4Ry1GaDY3dExOdFZ2QkFJYjhBTGFWR1hjbko4UzA4QU5LN3RZZFNEdHB6dS1YdThybmc1VDYxTmstQVVGYUJrLUpfY3FUOF9vMHMwUGJndllOM204MEhrLWYxTTNJaXVBUWs0Wno0dE1FNUFOUXRQYWQ2Mkg1YlRDdlVkNkg?oc=5",
+     "fecha": "2026-11-04T18:59:24+00:00",
+     "medio": "LatamList"
     }
    ],
    "motor": "llm"
   },
   {
-   "key": "n:desconocida",
-   "empresa": "Desconocida",
+   "key": "n:rebill",
+   "empresa": "Rebill",
    "sitio_web": null,
    "pais": "Argentina",
    "ciudad": null,
-   "sector": "Minería, IA, Biotecnología",
+   "sector": "Fintech/Pagos",
    "etapa": "seed",
-   "monto_usd": 6400000.0,
+   "monto_usd": 5400000.0,
    "inversionistas": [],
    "fundadores": [],
    "tecnologia": true,
    "calidad": 7.0,
-   "resumen": "Startup argentina que aplica inteligencia artificial y biotecnología a la minería del cobre, levantó USD 6.4 millones en ronda de financiamiento.",
-   "razon": "Ronda significativa (USD 6.4M) en mercado de minería con aplicación de IA y biotecnología; sector de alto valor pero nombre de startup no revelado en la noticia.",
-   "mensaje": "Hemos visto la noticia sobre tu ronda de USD 6.4M para IA y biotecnología en minería de cobre. Nos encantaría conocer más sobre tu equipo y visión para esta intersección tan promisoria en LATAM. ¿Hay un momento para conversar?",
-   "score": 90,
+   "resumen": "Fintech argentina especializada en soluciones de pagos que levanta capital para expansión.",
+   "razon": "Fintech de pagos argentina con ronda seed ~USD 5.4M; sector financiero es grande y diferenciación en pagos es atractiva; geografía en tesis.",
+   "mensaje": "Hola equipo Rebill, vimos que levantaron USD 5.4M para potenciar su plataforma de pagos en Argentina. Nos interesa conocer la tracción actual y vuestra estrategia de expansión regional. ¿Disponibles para conversar?",
+   "score": 91,
    "desglose": {
     "geografia": 25.0,
     "etapa": 25.0,
     "tecnologia": 15.0,
-    "senal": 10.5,
+    "senal": 12.0,
     "calidad": 14.0
    },
    "prioridad": "A",
    "en_tesis": true,
    "conocido": false,
    "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-22T16:56:47+00:00",
-   "ultima_senal": "2026-10-22T16:56:47+00:00",
+   "primera_vista": "2026-10-24T04:00:44+00:00",
+   "fecha_evidencia": "2026-10-19T15:09:48+00:00",
+   "ultima_senal": "2026-10-22T15:48:43+00:00",
    "senales": [
+    {
+     "fuente": "LatamList",
+     "tipo": "noticia",
+     "titulo": "Argentine fintech Rebill raises $5.4M Pre Series A round",
+     "url": "https://latamlist.com/argentine-fintech-rebill-raises-5-4m-pre-series-a-round/",
+     "fecha": "2026-10-20T23:24:46+00:00",
+     "medio": null
+    },
     {
      "fuente": "Google News",
      "tipo": "noticia",
-     "titulo": "Startup argentina levanta US$ 6,4 millones para aplicar inteligencia artificial y biotecnología a la minería del cobre",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRWs5SVZtNmp5MnBPQnBSQjBfS3dPOUx0MGhoT3dpMFR2TTY5UHY0M2plWTBuMUwyRV93QjVXWGpjc3YySHp4ZzM4VmhZcUJ1SnhuV3p6TzhkME05Mk9BLXFGNllLampWN0lNVW84QndQcjQ2T1U4TXdzWlgxZFQ0TlhNYUgtczVtTzA5bnhEUHQ4X19ONlR6ZHVLT2M5RWltUDdQTk9LNFN6WE9peWd3T1FnbWp6elFIWC14ZWs3UDYzdEVjOG9yN0xOM2hmVzF1cTRKSHQzZGk2Nkp3MjhtQjU1SDM1WEZDZEFmWFJJdFFxcWNuMWtmd1VkWG00cUZJaFNKNlhpaEc?oc=5",
-     "fecha": "2026-10-22T16:56:47+00:00",
-     "medio": "Flipr.news"
+     "titulo": "Rebill, la fintech argentina de pagos, levanta US$5,4M",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3dZZ3M4VFY4NFlJRC1sekJ2SVV0UG9DbUluT0s4TDZrQW1QbkZsa3dBZGlGSmxwY3djTWpfMlVfeWdLU1pQM3I2U3Z1WWh4elB2U1lUaU1QMnVWcERyVjloSS1SZ0dtdHUxNktyVlFuRzFXSlRpZTVCb3kxdGpVc0pTV1A1UThtLXFr?oc=5",
+     "fecha": "2026-10-21T18:51:38+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Rebill, fintech argentina, levanta US$5,4M pre-Serie A",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcUlKV016NW51alk0bDMyY3BCbENoWlQ4LVlYVXdob0dNWDEyMUl0NWNRcGZnS254TXBRQU1UdWU3YlloU0NiN3pyUXVYNkxnZzV1SlJtc1hwSkpTNHFYNmtYNzJwU3BpQnpDbUdCU3hKc0tjNm52czFYOGwycWVJa3JGTGR0V2VS?oc=5",
+     "fecha": "2026-10-22T15:48:43+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Rebill, la fintech argentina de pagos, levanta US$5,4M",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzdkTEdMUVNPSzZIcGJNVzhmc3h1UXlZWFR4V0JDNWlmYUhTSGk5STVHMWZqLWEycUJ1eE5ncjI1WTBmUU1iamNvbFhuaXRPQkVlMVFZa0FkMVlYLWJ4eXNNUzVTNVAzUGhtQnE3M0FTZkd5Z3VRenhGelZ1Q1pvc3ByTjA2TVRf?oc=5",
+     "fecha": "2026-10-19T15:09:48+00:00",
+     "medio": "El Ecosistema Startup"
     }
    ],
    "motor": "llm"
@@ -724,6 +698,49 @@
      "url": "https://techla.pro/2026/10/14/delfi-integra-a-hernan-drago-maxi-lopez-y-javier-calamaro-a-su-catalogo-de-modelos-de-ia-para-moda/",
      "fecha": "2026-10-14T19:07:07+00:00",
      "medio": null
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:desconocida",
+   "empresa": "Desconocida",
+   "sitio_web": null,
+   "pais": "Argentina",
+   "ciudad": null,
+   "sector": "Minería, IA, Biotecnología",
+   "etapa": "seed",
+   "monto_usd": 6400000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Startup argentina que aplica inteligencia artificial y biotecnología a la minería del cobre, levantó USD 6.4 millones en ronda de financiamiento.",
+   "razon": "Ronda significativa (USD 6.4M) en mercado de minería con aplicación de IA y biotecnología; sector de alto valor pero nombre de startup no revelado en la noticia.",
+   "mensaje": "Hemos visto la noticia sobre tu ronda de USD 6.4M para IA y biotecnología en minería de cobre. Nos encantaría conocer más sobre tu equipo y visión para esta intersección tan promisoria en LATAM. ¿Hay un momento para conversar?",
+   "score": 88,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 14.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-22T16:56:47+00:00",
+   "ultima_senal": "2026-10-22T16:56:47+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Startup argentina levanta US$ 6,4 millones para aplicar inteligencia artificial y biotecnología a la minería del cobre",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRWs5SVZtNmp5MnBPQnBSQjBfS3dPOUx0MGhoT3dpMFR2TTY5UHY0M2plWTBuMUwyRV93QjVXWGpjc3YySHp4ZzM4VmhZcUJ1SnhuV3p6TzhkME05Mk9BLXFGNllLampWN0lNVW84QndQcjQ2T1U4TXdzWlgxZFQ0TlhNYUgtczVtTzA5bnhEUHQ4X19ONlR6ZHVLT2M5RWltUDdQTk9LNFN6WE9peWd3T1FnbWp6elFIWC14ZWs3UDYzdEVjOG9yN0xOM2hmVzF1cTRKSHQzZGk2Nkp3MjhtQjU1SDM1WEZDZEFmWFJJdFFxcWNuMWtmd1VkWG00cUZJaFNKNlhpaEc?oc=5",
+     "fecha": "2026-10-22T16:56:47+00:00",
+     "medio": "Flipr.news"
     }
    ],
    "motor": "llm"
@@ -2377,92 +2394,6 @@
    "motor": "llm"
   },
   {
-   "key": "d:factorit.com",
-   "empresa": "Factor IT",
-   "sitio_web": "http://www.factorit.com",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "FactorIT, líder en tecnología con presencia en 8 países, ofrece soluciones en Data y Analytics, Transformación Digital e IA. Únete a un equipo innovador y desafiante que impulsa la transformación tecnológica en grandes empresas.",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-22T21:22:44+00:00",
-   "ultima_senal": "2026-10-22T21:22:44+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Factor IT está contratando: Technical Lead Senior, Back-end Java Developer Semisenior, Desarrollador/a Back-end Semi Senior – GCP, Desarrollador/a Full-Stack Senior, Engineering Manager Se",
-     "url": "https://www.getonbrd.com/jobs/qa-funcional-manual-y-automatizacion-factor-it-santiago",
-     "fecha": "2026-10-22T21:22:44+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "d:niuro.io",
-   "empresa": "Niuro",
-   "sitio_web": "https://niuro.io/",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Niuro connects projects with elite tech teams, collaborating with leading U.S. companies. Our mission is to simplify global talent acquisition through innovative solutions that maximize efficiency and quality.",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-22T21:15:48+00:00",
-   "ultima_senal": "2026-10-22T21:15:48+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Niuro está contratando: GTM Engineer, Senior Back-end Developer (.NET), AWS Infrastructure Engineer, AI Infrastructure Platform Engineer, Senior Cloud Engineer, Senior Web Designer & D",
-     "url": "https://www.getonbrd.com/jobs/web-designer-design-first-react-typescript-niuro-remote",
-     "fecha": "2026-10-22T21:15:48+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "d:imagemaker.com",
    "empresa": "Imagemaker",
    "sitio_web": "https://www.imagemaker.com",
@@ -2600,49 +2531,6 @@
    "motor": "reglas"
   },
   {
-   "key": "d:42labs.cl",
-   "empresa": "42Labs",
-   "sitio_web": "https://www.42labs.cl",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "En 42Labs, no solo desarrollamos tecnología, construimos soluciones donde lo técnico y lo humano van de la mano, aprendemos, colaboramos y celebramos",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-22T21:50:01+00:00",
-   "ultima_senal": "2026-10-22T21:50:01+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "42Labs está contratando: Back-end Developer (Java/Spring Boot/apigee), Data Engineer (Databrick/SQL/Python)",
-     "url": "https://www.getonbrd.com/jobs/data-engineer-finanzas-42labs-santiago-valparaiso-vina-del-mar-rancagua",
-     "fecha": "2026-10-22T21:50:01+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "d:trabajos.agrosuper.cl",
    "empresa": "Agrosuper",
    "sitio_web": "https://trabajos.agrosuper.cl/",
@@ -2774,7 +2662,7 @@
    "conocido_fuente": null,
    "primera_vista": "2026-10-24T04:33:14+00:00",
    "fecha_evidencia": "2026-10-23T13:23:45+00:00",
-   "ultima_senal": "2026-10-23T13:23:45+00:00",
+   "ultima_senal": "2026-11-06T12:39:23+00:00",
    "senales": [
     {
      "fuente": "Get on Board",
@@ -2782,6 +2670,14 @@
      "titulo": "23people está contratando: Semi Senior Java Developer / ETL, Senior Full-Stack Java Developer (SDET & AI) Bilingüe",
      "url": "https://www.getonbrd.com/jobs/senior-full-stack-java-developer-test-automation-ai-23people-santiago",
      "fecha": "2026-10-23T13:23:45+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "23people está contratando: Semi Senior Full-Stack Java Developer (QA & AI) Bilingüe",
+     "url": "https://www.getonbrd.com/jobs/semi-senior-full-stack-java-developer-qa-ai-bilingue-23people-santiago",
+     "fecha": "2026-11-06T12:39:23+00:00",
      "medio": null
     }
    ],
@@ -3445,6 +3341,49 @@
    "motor": "llm"
   },
   {
+   "key": "d:3it.cl",
+   "empresa": "3IT",
+   "sitio_web": "https://www.3it.cl/",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Empresa especializada en desarrollo de software a medida, hunting, ciberseguridad y outsourcing TI estratégico. ",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 70,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 7.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-06T13:15:53+00:00",
+   "fecha_evidencia": "2026-11-05T18:41:38+00:00",
+   "ultima_senal": "2026-11-05T18:41:38+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "3IT está contratando: Líder Técnico, Especialista Desarrollador Front-end, Desarrollador Back-end, Desarrollador Full-Stack | Golang + .NET + React, Full-Stack (.NET + AngularJS + Re",
+     "url": "https://www.getonbrd.com/jobs/qa-automatizador-3it-santiago-5d69",
+     "fecha": "2026-11-05T18:41:38+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "d:rankmi.com",
    "empresa": "Rankmi",
    "sitio_web": "https://www.rankmi.com",
@@ -3529,6 +3468,49 @@
     }
    ],
    "motor": "llm"
+  },
+  {
+   "key": "d:factorit.com",
+   "empresa": "Factor IT",
+   "sitio_web": "http://www.factorit.com",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "FactorIT, líder en tecnología con presencia en 8 países, ofrece soluciones en Data y Analytics, Transformación Digital e IA. Únete a un equipo innovador y desafiante que impulsa la transformación tecnológica en grandes empresas.",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-22T21:22:44+00:00",
+   "ultima_senal": "2026-10-22T21:22:44+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Factor IT está contratando: Technical Lead Senior, Back-end Java Developer Semisenior, Desarrollador/a Back-end Semi Senior – GCP, Desarrollador/a Full-Stack Senior, Engineering Manager Se",
+     "url": "https://www.getonbrd.com/jobs/qa-funcional-manual-y-automatizacion-factor-it-santiago",
+     "fecha": "2026-10-22T21:22:44+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
   },
   {
    "key": "d:lisit.cl",
@@ -3619,6 +3601,49 @@
      "titulo": "Zaelot está contratando: Back-end Software Engineer",
      "url": "https://www.getonbrd.com/jobs/backend-software-engineer-zaelot-remote-fbc2",
      "fecha": "2026-10-07T13:09:05+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "d:niuro.io",
+   "empresa": "Niuro",
+   "sitio_web": "https://niuro.io/",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Niuro connects projects with elite tech teams, collaborating with leading U.S. companies. Our mission is to simplify global talent acquisition through innovative solutions that maximize efficiency and quality.",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-22T21:15:48+00:00",
+   "ultima_senal": "2026-10-22T21:15:48+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Niuro está contratando: GTM Engineer, Senior Back-end Developer (.NET), AWS Infrastructure Engineer, AI Infrastructure Platform Engineer, Senior Cloud Engineer, Senior Web Designer & D",
+     "url": "https://www.getonbrd.com/jobs/web-designer-design-first-react-typescript-niuro-remote",
+     "fecha": "2026-10-22T21:15:48+00:00",
      "medio": null
     }
    ],
@@ -3791,6 +3816,49 @@
      "titulo": "Chipax está contratando: Senior Product Engineer",
      "url": "https://www.getonbrd.com/jobs/senior-product-engineer-chipax-remote",
      "fecha": "2026-10-14T15:59:48+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "d:42labs.cl",
+   "empresa": "42Labs",
+   "sitio_web": "https://www.42labs.cl",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "En 42Labs, no solo desarrollamos tecnología, construimos soluciones donde lo técnico y lo humano van de la mano, aprendemos, colaboramos y celebramos",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-22T21:50:01+00:00",
+   "ultima_senal": "2026-10-22T21:50:01+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "42Labs está contratando: Back-end Developer (Java/Spring Boot/apigee), Data Engineer (Databrick/SQL/Python)",
+     "url": "https://www.getonbrd.com/jobs/data-engineer-finanzas-42labs-santiago-valparaiso-vina-del-mar-rancagua",
+     "fecha": "2026-10-22T21:50:01+00:00",
      "medio": null
     }
    ],
@@ -4337,6 +4405,49 @@
    "motor": "reglas"
   },
   {
+   "key": "n:aformic",
+   "empresa": "Aformic",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": 6950000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Aformic Raises $6.95M in Seed Funding to Develop Autonomous Industrial Robots AI Insider",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-06T13:15:53+00:00",
+   "fecha_evidencia": "2026-11-05T11:33:46+00:00",
+   "ultima_senal": "2026-11-05T11:33:46+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Aformic Raises $6.95M in Seed Funding to Develop Autonomous Industrial Robots",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQm4wcG1HbDZ0bWpHY3JfRGtpMnFic0RBMGpHcWE5ZHBWODEwU21EVkRydEhOdGZtblBFajBhd1BXczNoWGhNMktxZUZXTXdOM0VmX1Y1SWlxbkZYZlhUaE1rWDZPWHAzTG9QOUMyR1EwZmItdmxZQTNBV05VOTRWb250V0U2SWU3NW13SnFyenU3aHBmeEhnTml5aUJpZzhCUThVN3VydUo3OFFIWjBXQk4wUU4?oc=5",
+     "fecha": "2026-11-05T11:33:46+00:00",
+     "medio": "AI Insider"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "n:neofleetcapital",
    "empresa": "NeoFleet Capital",
    "sitio_web": null,
@@ -4560,49 +4671,6 @@
    "motor": "llm"
   },
   {
-   "key": "d:movek.cl",
-   "empresa": "Movek",
-   "sitio_web": "http://movek.cl",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 5.0,
-   "resumen": "Movek es una empresa chilena del rubro automotriz, con sede en Lo Barnechea, Santiago. Automotora Movek, que trabaja 100% Online",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 62,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 7.5,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-22T13:24:09+00:00",
-   "ultima_senal": "2026-10-22T13:24:09+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Movek está contratando: Desarrollador/a Full-Stack",
-     "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-movek-remote",
-     "fecha": "2026-10-22T13:24:09+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "n:kompanion",
    "empresa": "Kompanion",
    "sitio_web": null,
@@ -4641,6 +4709,49 @@
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmctWDV5c3BRYjdXSGk1bENCTTRmUENTTmhTYUhEdzVmdHlFQlJfSFFhMUZIM2g2M2wzWjhFYlFORFpMczhQY3NnSUQ3dFBqYXNxYVFPYUVyWXVmUVdKdjNOVHRPSzZwVFNEeXc4TFdLVE1wVGlqVzhYMGZKWDh6UzRzVXVyNzNlNEczMlBVYjBza3JqUzdQbTA4X21uNlNSYjhr?oc=5",
      "fecha": "2026-10-19T17:39:59+00:00",
      "medio": "Dealroom"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "d:cicanada.com",
+   "empresa": "CI Canadá",
+   "sitio_web": "https://cicanada.com",
+   "pais": "Colombia",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "CI Canadá**, empresa con 30 años de trayectoria en servicios migratorios hacia Canadá",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 62,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 7.5,
+    "senal": 7.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-06T13:15:53+00:00",
+   "fecha_evidencia": "2026-11-05T16:02:24+00:00",
+   "ultima_senal": "2026-11-05T16:02:24+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "CI Canadá está contratando: Desarrollador Full-Stack Java",
+     "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-java-ci-canada-remote",
+     "fecha": "2026-11-05T16:02:24+00:00",
+     "medio": null
     }
    ],
    "motor": "reglas"
@@ -4812,6 +4923,49 @@
      "titulo": "ComunidadFeliz está contratando: Operational Automation Engineer",
      "url": "https://www.getonbrd.com/jobs/operational-automation-engineer-comunidadfeliz-remote",
      "fecha": "2026-10-07T23:42:36+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "d:movek.cl",
+   "empresa": "Movek",
+   "sitio_web": "http://movek.cl",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Movek es una empresa chilena del rubro automotriz, con sede en Lo Barnechea, Santiago. Automotora Movek, que trabaja 100% Online",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 61,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 7.5,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-22T13:24:09+00:00",
+   "ultima_senal": "2026-10-22T13:24:09+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Movek está contratando: Desarrollador/a Full-Stack",
+     "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-movek-remote",
+     "fecha": "2026-10-22T13:24:09+00:00",
      "medio": null
     }
    ],
@@ -5119,6 +5273,49 @@
    "motor": "reglas"
   },
   {
+   "key": "n:kabilio",
+   "empresa": "Kabilio",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "Contabilidad / IA",
+   "etapa": "desconocida",
+   "monto_usd": 10900000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Kabilio es una startup de IA especializada en contabilidad que levantó €10M para escalar su plataforma.",
+   "razon": "Startup de IA contable con ronda significativa de €10M (~USD 11M); sector de SaaS B2B con alto potencial; sin embargo, ubicación exacta e inversores no claros.",
+   "mensaje": "Hola equipo Kabilio, vimos que cerraron una ronda de €10M para su plataforma de IA contable. La oportunidad en FinTech/Contabilidad de LATAM es enorme. ¿Tienen planes de expansión en la región? Nos encantaría conversar. Saludos desde Latin Leap.",
+   "score": 60,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 14.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-06T13:15:53+00:00",
+   "fecha_evidencia": "2026-11-05T19:06:27+00:00",
+   "ultima_senal": "2026-11-05T19:06:27+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Kabilio, la startup de IA contable, levanta €10M",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa043OEhISmVIdTVZdDZEUkRqR3NBNVZEU0Y1MjJNVjZnR3haRXNxbGdKbnhSN0NCZ1FzdGdmTExrWW9adUI1eHotXzFmaS1IS0dCLVZmRnlnVVFrOEozQkJNMmpiaEVxanotOWRzeXIxY3EzSjR2c21VTzNtSUhVQ3ZZTQ?oc=5",
+     "fecha": "2026-11-05T19:06:27+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "n:giraffebio",
    "empresa": "Giraffe Bio",
    "sitio_web": null,
@@ -5323,7 +5520,7 @@
    "ciudad": null,
    "sector": "IA",
    "etapa": "pre-seed",
-   "monto_usd": 3000000.0,
+   "monto_usd": 3400000.0,
    "inversionistas": [
     "Criteria",
     "Criteria Venture Tech"
@@ -5348,7 +5545,7 @@
    "conocido_fuente": null,
    "primera_vista": "2026-10-28T13:06:20+00:00",
    "fecha_evidencia": "2026-10-28T10:39:09+00:00",
-   "ultima_senal": "2026-11-03T12:06:37+00:00",
+   "ultima_senal": "2026-11-04T11:08:22+00:00",
    "senales": [
     {
      "fuente": "Google News",
@@ -5381,6 +5578,14 @@
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVzF1MEthYmZCS1VmNTFvMWlFY0JzWGhwelpFU2RkMVdfaTVGUG14VzZrMWdUeUQtaW9jNWRTa0V5a19WTm9RZzNsRXB6WjVTR2dHUUQxSURNZnlHNHpSejE1alFibmtHSWZSRzF4YzhGSmpLb2loRXk2ZTdkZE1JNmRPa19wV0d2M3c?oc=5",
      "fecha": "2026-11-03T12:06:37+00:00",
      "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Artiso raises more than $3.4m in pre-seed funding for AI fashion platform",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MaVZCX1hSR1hqdkVuUGJqaVhfM3NlV284QnNQY3ZYUmhOXzBXZDNuTjYxRTRLYlFDaXBkSEM2c2ZfVzljZG1EbnNNRUpORmItQnluNUpIR3FfclhzR1A3NkVOMmRpUU0?oc=5",
+     "fecha": "2026-11-04T11:08:22+00:00",
+     "medio": "Just Style"
     }
    ],
    "motor": "llm"
@@ -6135,6 +6340,94 @@
    "motor": "reglas"
   },
   {
+   "key": "n:shackleton",
+   "empresa": "Shackleton AI",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "serie-a",
+   "monto_usd": 5000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Shackleton AI levanta US$5M para agentes en construcción El Ecosistema Startup",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 50,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 7.5,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-06T13:15:53+00:00",
+   "fecha_evidencia": "2026-11-04T16:03:31+00:00",
+   "ultima_senal": "2026-11-04T16:03:31+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Shackleton AI levanta US$5M para agentes en construcción",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTEo0ZFVkMnk5WjZ6djFRWmJKcGxkR29hSjFSQTlZdFVfUmNzdGNfa0lRQjlDckNiamRVY0c0d05TbWtmbXdBNGc1UlA0VXdlWUU2bVRXN0pkSUl0TDdBTkNSeW5lZlN5aGxqWlUwcHBnQlAzdjNDdlZKYkZacXZsWlNJaGZEYXJ4Q2tJdzJQUQ?oc=5",
+     "fecha": "2026-11-04T16:03:31+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "d:okstays.com",
+   "empresa": "OKstays",
+   "sitio_web": "https://okstays.com",
+   "pais": "España",
+   "ciudad": "Barcelona",
+   "sector": "Travel Tech / Marketplace",
+   "etapa": "idea",
+   "monto_usd": 1070.0,
+   "inversionistas": [],
+   "fundadores": [
+    "Oriol"
+   ],
+   "tecnologia": true,
+   "calidad": 4.0,
+   "resumen": "OKstays utiliza IA para leer reseñas negativas de hospedajes y puntuarlos según comodidad real, ayudando viajeros a encontrar mejores lugares.",
+   "razon": "Desarrollador solo con MVP usando IA (Claude) para mejorar búsqueda de hospedaje; traction inicial débil (gastos en terceros, no ingresos mencionados); mercado validado pero ubicación fuera de LATAM hispanohablante.",
+   "mensaje": "Hola Oriol, vimos OKstays en HN y nos encanta el problema que resuelves con IA. Aunque estés en Barcelona, si ves oportunidad de expandir a mercados de habla hispana en Latinoamérica, en Latin Leap podríamos ser un buen partner. Saludos.",
+   "score": 50,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 15.0,
+    "tecnologia": 15.0,
+    "senal": 12.0,
+    "calidad": 8.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-06T13:15:53+00:00",
+   "fecha_evidencia": "2026-11-05T14:13:51+00:00",
+   "ultima_senal": "2026-11-05T14:13:51+00:00",
+   "senales": [
+    {
+     "fuente": "Hacker News",
+     "tipo": "lanzamiento",
+     "titulo": "Show HN: I paid Claude US$1,070 to read the worst reviews of 30k places to stay",
+     "url": "https://news.ycombinator.com/item?id=50379300",
+     "fecha": "2026-11-05T14:13:51+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "n:flai",
    "empresa": "Flai",
    "sitio_web": null,
@@ -6279,12 +6572,12 @@
    "resumen": "The Pant Project levantó capital fresco (detalles limitados en la fuente).",
    "razon": "Startup identificable levantando capital fresco; sin detalles de etapa, montos o ubicación LATAM confirmada; sólo título mencionado.",
    "mensaje": "Hola equipo de The Pant Project, vimos que han levantado capital fresco recientemente. Desde Latin Leap nos interesa conocer startups innovadoras en LATAM hispanohablante. ¿Estaríais abiertos a una breve conversación sobre vuestro crecimiento y visión?",
-   "score": 47,
+   "score": 46,
    "desglose": {
     "geografia": 7.5,
     "etapa": 12.5,
     "tecnologia": 15.0,
-    "senal": 6.0,
+    "senal": 4.5,
     "calidad": 6.0
    },
    "prioridad": "C",
@@ -6322,12 +6615,12 @@
    "resumen": "CureBay levantó capital fresco (detalles limitados en la fuente).",
    "razon": "Startup identificable levantando capital fresco; sin detalles de etapa, montos o ubicación LATAM confirmada; sólo título mencionado.",
    "mensaje": "Hola equipo de CureBay, vimos que han levantado capital fresco recientemente. Desde Latin Leap nos interesa conocer startups innovadoras en LATAM hispanohablante. ¿Estaríais abiertos a una breve conversación sobre vuestro crecimiento y visión?",
-   "score": 47,
+   "score": 46,
    "desglose": {
     "geografia": 7.5,
     "etapa": 12.5,
     "tecnologia": 15.0,
-    "senal": 6.0,
+    "senal": 4.5,
     "calidad": 6.0
    },
    "prioridad": "C",
@@ -6365,12 +6658,12 @@
    "resumen": "Hunar AI levantó capital fresco (detalles limitados en la fuente).",
    "razon": "Startup identificable levantando capital fresco; sin detalles de etapa, montos o ubicación LATAM confirmada; sólo título mencionado.",
    "mensaje": "Hola equipo de Hunar AI, vimos que han levantado capital fresco recientemente. Desde Latin Leap nos interesa conocer startups innovadoras en LATAM hispanohablante. ¿Estaríais abiertos a una breve conversación sobre vuestro crecimiento y visión?",
-   "score": 47,
+   "score": 46,
    "desglose": {
     "geografia": 7.5,
     "etapa": 12.5,
     "tecnologia": 15.0,
-    "senal": 6.0,
+    "senal": 4.5,
     "calidad": 6.0
    },
    "prioridad": "C",
@@ -6517,92 +6810,6 @@
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmNHdFJwVThneldHNms3UmVGeW9HUEk4V0ZPaFpiV0t6ZTQ3VTRmQ1FISnR1RThjVXFWQnNjbjM1aUxtQ2V4elFTa1M0cHBiVEc2NlQtQ3JYMDIwU1l0aXdQVk1UNWtld1pTWkU1OUtkaUtyRkw3ejZKbnpNZHp4NWplbFliQjB4a3BtS25nZlplanhnNnVQNF9B?oc=5",
      "fecha": "2026-10-26T11:00:35+00:00",
      "medio": "Crunchbase News"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "n:otcderivativesproviderswapglobal",
-   "empresa": "OTC derivatives provider SwapGlobal",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 5.0,
-   "resumen": "OTC derivatives provider SwapGlobal secures funding to expand into pre-IPO shares CryptoRank",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 44,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 12.5,
-    "tecnologia": 7.5,
-    "senal": 6.0,
-    "calidad": 10.0
-   },
-   "prioridad": "C",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-26T14:55:10+00:00",
-   "fecha_evidencia": "2026-10-23T07:00:00+00:00",
-   "ultima_senal": "2026-10-23T07:00:00+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "OTC derivatives provider SwapGlobal secures funding to expand into pre-IPO shares",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFTmJ1a1ZtUHBCTXJRNmpvOXFxSThyYWVjMHpMMUZmSG9YWm5RcTJCVE9vNmhYclpaLURrNTVxYUlBTkwxbG9UeEw3NUV3eUpyUXptNVdtSjhEYWJDdFM4ZVlkbGlyYlRlS2tteUoxejJVeFVfdVM3Uk02OA?oc=5",
-     "fecha": "2026-10-23T07:00:00+00:00",
-     "medio": "CryptoRank"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "n:formic",
-   "empresa": "Formic",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "serie-b+",
-   "monto_usd": 50000000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Formic Raises $50M to Expand From Factory Automation Into General-Purpose Robotics AI Insider",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 43,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 0.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "Fuera de tesis",
-   "en_tesis": false,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-23T11:09:00+00:00",
-   "ultima_senal": "2026-10-23T11:09:00+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Formic Raises $50M to Expand From Factory Automation Into General-Purpose Robotics",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjFjMnpXM0pOYXZEbTE3dFFvMGlIUkFESHBSNVEtcHRkOV9GQWdzb2k4YzhKSjdyU2RCSnJlTmtXV3M2RG5WdmVWblk1R2twVmhvb0psSGJET29RclFDa3ZMOF9YMU51VEZqNlMxdHhsY1VqWEI3czhvbDlYYVBPN2tlZVhjUEFxcS1kekxNdXpmdHFyNW9QbmlEaVlWNFpfREg4RjNIYXUydTZfQ2M0SFEyV0RoT1hDM0tn?oc=5",
-     "fecha": "2026-10-23T11:09:00+00:00",
-     "medio": "AI Insider"
     }
    ],
    "motor": "reglas"
@@ -6952,6 +7159,92 @@
    "motor": "reglas"
   },
   {
+   "key": "n:formic",
+   "empresa": "Formic",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "serie-b+",
+   "monto_usd": 50000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Formic Raises $50M to Expand From Factory Automation Into General-Purpose Robotics AI Insider",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 42,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 0.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 10.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-23T11:09:00+00:00",
+   "ultima_senal": "2026-10-23T11:09:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Formic Raises $50M to Expand From Factory Automation Into General-Purpose Robotics",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjFjMnpXM0pOYXZEbTE3dFFvMGlIUkFESHBSNVEtcHRkOV9GQWdzb2k4YzhKSjdyU2RCSnJlTmtXV3M2RG5WdmVWblk1R2twVmhvb0psSGJET29RclFDa3ZMOF9YMU51VEZqNlMxdHhsY1VqWEI3czhvbDlYYVBPN2tlZVhjUEFxcS1kekxNdXpmdHFyNW9QbmlEaVlWNFpfREg4RjNIYXUydTZfQ2M0SFEyV0RoT1hDM0tn?oc=5",
+     "fecha": "2026-10-23T11:09:00+00:00",
+     "medio": "AI Insider"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:otcderivativesproviderswapglobal",
+   "empresa": "OTC derivatives provider SwapGlobal",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "OTC derivatives provider SwapGlobal secures funding to expand into pre-IPO shares CryptoRank",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 42,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 12.5,
+    "tecnologia": 7.5,
+    "senal": 4.5,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-23T07:00:00+00:00",
+   "ultima_senal": "2026-10-23T07:00:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "OTC derivatives provider SwapGlobal secures funding to expand into pre-IPO shares",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFTmJ1a1ZtUHBCTXJRNmpvOXFxSThyYWVjMHpMMUZmSG9YWm5RcTJCVE9vNmhYclpaLURrNTVxYUlBTkwxbG9UeEw3NUV3eUpyUXptNVdtSjhEYWJDdFM4ZVlkbGlyYlRlS2tteUoxejJVeFVfdVM3Uk02OA?oc=5",
+     "fecha": "2026-10-23T07:00:00+00:00",
+     "medio": "CryptoRank"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "n:photonbridge",
    "empresa": "Photon Bridge",
    "sitio_web": null,
@@ -7254,15 +7547,15 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-11-05T13:22:50+00:00",
+  "actualizado": "2026-11-06T13:15:53+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 103,
+  "calificados_30d": 106,
   "prioridad_a_30d": 33,
-  "incremento_vs_baseline": 1.717,
-  "cumplimiento_meta": 17.17,
-  "total_deals": 155,
-  "total_calificados": 110,
+  "incremento_vs_baseline": 1.767,
+  "cumplimiento_meta": 17.67,
+  "total_deals": 161,
+  "total_calificados": 114,
   "conocidos_detectados": 2,
   "por_semana": {
    "2025-06-16": 1,
@@ -7275,22 +7568,22 @@
    "2026-10-12": 23,
    "2026-10-19": 38,
    "2026-10-26": 27,
-   "2026-11-02": 8
+   "2026-11-02": 12
   },
   "por_fuente": {
-   "Google News": 55,
-   "Get on Board": 46,
+   "Google News": 57,
+   "Get on Board": 48,
    "Y Combinator": 6,
    "LatamList": 5,
-   "Startups Latam": 4,
+   "Startups Latam": 5,
    "Techla Media": 1
   },
   "por_pais": {
-   "Chile": 43,
-   "?": 25,
+   "Chile": 44,
+   "?": 27,
    "Argentina": 14,
    "México": 11,
-   "Colombia": 7,
+   "Colombia": 8,
    "Uruguay": 2,
    "Guatemala": 2,
    "Venezuela": 2,
@@ -8424,6 +8717,84 @@
       "fuente": "Get on Board",
       "ok": true,
       "senales": 47,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-11-06T13:14:35+00:00",
+    "fin": "2026-11-06T13:15:53+00:00",
+    "senales_crudas": 259,
+    "descartadas_prefiltro": 105,
+    "procesadas": 17,
+    "deals_nuevos": 6,
+    "calificados_nuevos": 4,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 17,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 160,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 5,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 1,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 46,
       "error": null
      }
     ]
