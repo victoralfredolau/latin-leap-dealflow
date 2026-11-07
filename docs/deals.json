@@ -2179,49 +2179,6 @@
    "motor": "llm"
   },
   {
-   "key": "d:fieldbeat.com",
-   "empresa": "FieldBeat",
-   "sitio_web": "http://www.fieldbeat.com",
-   "pais": "Chile",
-   "ciudad": "Santiago",
-   "sector": "Software SaaS / Gestión de Equipos de Campo",
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 6.0,
-   "resumen": "FieldBeat es una plataforma SaaS para coordinar y gestionar equipos de trabajo en terreno, optimizando operaciones móviles.",
-   "razon": "Producto SaaS de mercado validado (gestión de personal en terreno). Contratación activa sugiere operaciones maduras; etapa y financiamiento desconocidos.",
-   "mensaje": "Hola equipo FieldBeat, vimos que están expandiendo su equipo de QA en Santiago. Nos impresiona el enfoque en productos que resuelven pain points reales en gestión de campo. Nos gustaría conocer el roadmap de producto y tracción actual; podría alinearse con nuestro apetito de inversión en SaaS operacional LATAM. ¿Tienen 15 minutos próximamente?",
-   "score": 72,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 12.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-23T23:46:30+00:00",
-   "ultima_senal": "2026-10-23T23:46:30+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "FieldBeat está contratando: QA Automation Lead",
-     "url": "https://www.getonbrd.com/jobs/qa-automation-lead-fieldbeat-santiago-bbef",
-     "fecha": "2026-10-23T23:46:30+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "d:muysimple.cl",
    "empresa": "Muy Simple",
    "sitio_web": "https://muysimple.cl/",
@@ -2392,92 +2349,6 @@
     }
    ],
    "motor": "llm"
-  },
-  {
-   "key": "d:imagemaker.com",
-   "empresa": "Imagemaker",
-   "sitio_web": "https://www.imagemaker.com",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Nos llamamos Makers. Somos un equipo de especialistas apasionados por la tecnología y reconocidos en la industria por nuestra dedicación, alta calidad técnica y un fuerte compromiso con nuestros clientes. ",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-23T16:43:32+00:00",
-   "ultima_senal": "2026-10-23T16:43:32+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Imagemaker está contratando: Back-end Developer Java Semi Senior",
-     "url": "https://www.getonbrd.com/jobs/desarrollador-backend-java-semi-senior-imagemaker-santiago",
-     "fecha": "2026-10-23T16:43:32+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "d:itsmartglobal.com",
-   "empresa": "ITSMART",
-   "sitio_web": "https://itsmartglobal.com",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Somos líderes en tecnología en la región latinoamericana y USA. Destacamos por ser un socio flexible y ágil, ofreciendo productos de calidad que impulsan el éxito de cada organización.",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-23T17:08:04+00:00",
-   "ultima_senal": "2026-10-23T17:08:04+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "ITSMART está contratando: Desarrollador Go y Node.js",
-     "url": "https://www.getonbrd.com/jobs/desarrollador-go-y-node-js-itsmart-santiago",
-     "fecha": "2026-10-23T17:08:04+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
   },
   {
    "key": "d:bicevida.cl",
@@ -2682,6 +2553,49 @@
     }
    ],
    "motor": "reglas"
+  },
+  {
+   "key": "d:fieldbeat.com",
+   "empresa": "FieldBeat",
+   "sitio_web": "http://www.fieldbeat.com",
+   "pais": "Chile",
+   "ciudad": "Santiago",
+   "sector": "Software SaaS / Gestión de Equipos de Campo",
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "FieldBeat es una plataforma SaaS para coordinar y gestionar equipos de trabajo en terreno, optimizando operaciones móviles.",
+   "razon": "Producto SaaS de mercado validado (gestión de personal en terreno). Contratación activa sugiere operaciones maduras; etapa y financiamiento desconocidos.",
+   "mensaje": "Hola equipo FieldBeat, vimos que están expandiendo su equipo de QA en Santiago. Nos impresiona el enfoque en productos que resuelven pain points reales en gestión de campo. Nos gustaría conocer el roadmap de producto y tracción actual; podría alinearse con nuestro apetito de inversión en SaaS operacional LATAM. ¿Tienen 15 minutos próximamente?",
+   "score": 70,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-23T23:46:30+00:00",
+   "ultima_senal": "2026-10-23T23:46:30+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "FieldBeat está contratando: QA Automation Lead",
+     "url": "https://www.getonbrd.com/jobs/qa-automation-lead-fieldbeat-santiago-bbef",
+     "fecha": "2026-10-23T23:46:30+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "llm"
   },
   {
    "key": "n:bioplaster",
@@ -3384,49 +3298,6 @@
    "motor": "reglas"
   },
   {
-   "key": "d:rankmi.com",
-   "empresa": "Rankmi",
-   "sitio_web": "https://www.rankmi.com",
-   "pais": "Chile",
-   "ciudad": "Santiago",
-   "sector": "HR Tech / SaaS",
-   "etapa": "serie-a",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "Plataforma unificada de gestión de personas que integra nómina, talento, beneficios y comunicación, potenciada con inteligencia artificial.",
-   "razon": "Plataforma consolidada de gestión de personas con IA integrada, abordando mercado LATAM de HR tech con tracción evidenciada por expansión de contratación.",
-   "mensaje": "Rankmi está construyendo la solución integral que el mercado LATAM de HR necesita. Tu enfoque en IA y unificación me parece diferenciador. ¿Hay espacio para una conversación sobre oportunidades de crecimiento regional?",
-   "score": 69,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 7.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 14.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-23T16:23:28+00:00",
-   "ultima_senal": "2026-10-23T16:23:28+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Rankmi está contratando: Dev Full-Stack RoR/React + API RESTful, QA Analyst (Nómina/Payroll)",
-     "url": "https://www.getonbrd.com/jobs/qa-analyst-rankmi-santiago",
-     "fecha": "2026-10-23T16:23:28+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "d:poderjudicialvirtual.com",
    "empresa": "PoderJudicialVirtual.com",
    "sitio_web": "https://www.poderjudicialvirtual.com",
@@ -3511,6 +3382,49 @@
     }
    ],
    "motor": "reglas"
+  },
+  {
+   "key": "d:rankmi.com",
+   "empresa": "Rankmi",
+   "sitio_web": "https://www.rankmi.com",
+   "pais": "Chile",
+   "ciudad": "Santiago",
+   "sector": "HR Tech / SaaS",
+   "etapa": "serie-a",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Plataforma unificada de gestión de personas que integra nómina, talento, beneficios y comunicación, potenciada con inteligencia artificial.",
+   "razon": "Plataforma consolidada de gestión de personas con IA integrada, abordando mercado LATAM de HR tech con tracción evidenciada por expansión de contratación.",
+   "mensaje": "Rankmi está construyendo la solución integral que el mercado LATAM de HR necesita. Tu enfoque en IA y unificación me parece diferenciador. ¿Hay espacio para una conversación sobre oportunidades de crecimiento regional?",
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 7.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 14.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-23T16:23:28+00:00",
+   "ultima_senal": "2026-10-23T16:23:28+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Rankmi está contratando: Dev Full-Stack RoR/React + API RESTful, QA Analyst (Nómina/Payroll)",
+     "url": "https://www.getonbrd.com/jobs/qa-analyst-rankmi-santiago",
+     "fecha": "2026-10-23T16:23:28+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "llm"
   },
   {
    "key": "d:lisit.cl",
@@ -3650,6 +3564,49 @@
    "motor": "reglas"
   },
   {
+   "key": "d:imagemaker.com",
+   "empresa": "Imagemaker",
+   "sitio_web": "https://www.imagemaker.com",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Nos llamamos Makers. Somos un equipo de especialistas apasionados por la tecnología y reconocidos en la industria por nuestra dedicación, alta calidad técnica y un fuerte compromiso con nuestros clientes. ",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-23T16:43:32+00:00",
+   "ultima_senal": "2026-10-23T16:43:32+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Imagemaker está contratando: Back-end Developer Java Semi Senior",
+     "url": "https://www.getonbrd.com/jobs/desarrollador-backend-java-semi-senior-imagemaker-santiago",
+     "fecha": "2026-10-23T16:43:32+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "d:trabajaenbci.cl",
    "empresa": "Bci",
    "sitio_web": "http://www.trabajaenbci.cl",
@@ -3730,6 +3687,49 @@
      "titulo": "Artefact LatAm está contratando: Data Engineer",
      "url": "https://www.getonbrd.com/jobs/data-engineer-artefact-latam-ciudad-de-mexico-lima-bogota-santiago",
      "fecha": "2026-10-15T14:46:24+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "d:itsmartglobal.com",
+   "empresa": "ITSMART",
+   "sitio_web": "https://itsmartglobal.com",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Somos líderes en tecnología en la región latinoamericana y USA. Destacamos por ser un socio flexible y ágil, ofreciendo productos de calidad que impulsan el éxito de cada organización.",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-23T17:08:04+00:00",
+   "ultima_senal": "2026-10-23T17:08:04+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "ITSMART está contratando: Desarrollador Go y Node.js",
+     "url": "https://www.getonbrd.com/jobs/desarrollador-go-y-node-js-itsmart-santiago",
+     "fecha": "2026-10-23T17:08:04+00:00",
      "medio": null
     }
    ],
@@ -7547,13 +7547,13 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-11-06T13:15:53+00:00",
+  "actualizado": "2026-11-07T13:00:24+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 106,
-  "prioridad_a_30d": 33,
-  "incremento_vs_baseline": 1.767,
-  "cumplimiento_meta": 17.67,
+  "calificados_30d": 103,
+  "prioridad_a_30d": 32,
+  "incremento_vs_baseline": 1.717,
+  "cumplimiento_meta": 17.17,
   "total_deals": 161,
   "total_calificados": 114,
   "conocidos_detectados": 2,
@@ -8795,6 +8795,84 @@
       "fuente": "Get on Board",
       "ok": true,
       "senales": 46,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-11-07T12:59:11+00:00",
+    "fin": "2026-11-07T13:00:24+00:00",
+    "senales_crudas": 255,
+    "descartadas_prefiltro": 104,
+    "procesadas": 16,
+    "deals_nuevos": 0,
+    "calificados_nuevos": 0,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 15,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 156,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 5,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 1,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 48,
       "error": null
      }
     ]

@@ -1036,12 +1036,12 @@
   "ultima_senal": "2026-10-23T16:23:28+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 69,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 7.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 14.0
   },
   "prioridad": "B",
@@ -1242,12 +1242,12 @@
   "ultima_senal": "2026-10-23T16:43:32+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -1397,12 +1397,12 @@
   "ultima_senal": "2026-10-23T17:08:04+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -2141,12 +2141,12 @@
   "ultima_senal": "2026-10-23T23:46:30+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 72,
+  "score": 70,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 12.0
   },
   "prioridad": "B",
