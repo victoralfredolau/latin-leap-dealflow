@@ -1331,57 +1331,6 @@
    "motor": "reglas"
   },
   {
-   "key": "d:dsac.ai",
-   "empresa": "DSAC Chile",
-   "sitio_web": "https://dsac.ai/",
-   "pais": "Chile",
-   "ciudad": "Remoto",
-   "sector": "AI / Ciberseguridad / Automatización",
-   "etapa": "seed",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "Empresa tecnológica chilena especializada en soluciones de IA, ciberseguridad y automatización para mejorar eficiencia empresarial.",
-   "razon": "Startup tecnológica chilena con foco en IA, ciberseguridad y automatización; equipo creciente; temas de alto impacto para empresas LATAM.",
-   "mensaje": "Nos atrae el enfoque de DSAC Chile en IA y automatización para empresas en LATAM. Vemos que están contratando talento senior, lo que sugiere momentum. Nos gustaría conocer la tracción actual y visión de scaling. ¿Disponibles para una conversación en el próximo mes?",
-   "score": 86,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 14.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-07T17:08:06+00:00",
-   "ultima_senal": "2026-10-24T13:42:15+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "DSAC Chile está contratando: Desarrollador Front-end SEO y Tracking, Data Engineer Senior",
-     "url": "https://www.getonbrd.com/jobs/data-engineer-senior-dsac-chile-remote",
-     "fecha": "2026-10-07T17:08:06+00:00",
-     "medio": null
-    },
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "DSAC Chile está contratando: Data Engineer (GCP/Bigquery), Data Governance GCP",
-     "url": "https://www.getonbrd.com/jobs/data-governance-gcp-dsac-chile-remote",
-     "fecha": "2026-10-24T13:42:15+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:flappingairplanes",
    "empresa": "Flapping Airplanes",
    "sitio_web": null,
@@ -1481,6 +1430,57 @@
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVW1QQUM1Zjd5SzdrSEZVbklhQy1CVHl0clhWVGVqdUlpaE5ybVJhN2FJdW01cmFQU1Z2RWgwRDgyRnoxR3g4VkZ5NVpCeC1QSVJFTFlLdGpNNy1OMTctQVJqd3A0TFM4VFFlVTY1dnVTdEl1dXJlejJtTVc0T3BKQ21nUHBRYlI5ODlWLUhrZTc?oc=5",
      "fecha": "2026-10-10T15:03:50+00:00",
      "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "d:dsac.ai",
+   "empresa": "DSAC Chile",
+   "sitio_web": "https://dsac.ai/",
+   "pais": "Chile",
+   "ciudad": "Remoto",
+   "sector": "AI / Ciberseguridad / Automatización",
+   "etapa": "seed",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Empresa tecnológica chilena especializada en soluciones de IA, ciberseguridad y automatización para mejorar eficiencia empresarial.",
+   "razon": "Startup tecnológica chilena con foco en IA, ciberseguridad y automatización; equipo creciente; temas de alto impacto para empresas LATAM.",
+   "mensaje": "Nos atrae el enfoque de DSAC Chile en IA y automatización para empresas en LATAM. Vemos que están contratando talento senior, lo que sugiere momentum. Nos gustaría conocer la tracción actual y visión de scaling. ¿Disponibles para una conversación en el próximo mes?",
+   "score": 85,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 14.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-07T17:08:06+00:00",
+   "ultima_senal": "2026-10-24T13:42:15+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "DSAC Chile está contratando: Desarrollador Front-end SEO y Tracking, Data Engineer Senior",
+     "url": "https://www.getonbrd.com/jobs/data-engineer-senior-dsac-chile-remote",
+     "fecha": "2026-10-07T17:08:06+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "DSAC Chile está contratando: Data Engineer (GCP/Bigquery), Data Governance GCP",
+     "url": "https://www.getonbrd.com/jobs/data-governance-gcp-dsac-chile-remote",
+     "fecha": "2026-10-24T13:42:15+00:00",
+     "medio": null
     }
    ],
    "motor": "llm"
@@ -2684,59 +2684,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:inve",
-   "empresa": "INVE",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": "Event-Tech",
-   "etapa": "pre-seed",
-   "monto_usd": 300000.0,
-   "inversionistas": [
-    "Outliers VC"
-   ],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 6.0,
-   "resumen": "Startup de event-tech que levantó USD 300K en ronda pre-seed con Outliers VC.",
-   "razon": "Pre-seed con inversión respaldada por Outliers VC (fondo reconocido en LATAM); sector específico (event-tech) sugiere diferenciación; monto bajo (<USD 1M) es típico de etapa.",
-   "mensaje": "Hola equipo INVE, vimos que acababan de cerrar una ronda pre-seed con Outliers VC en event-tech, un sector en expansión en LATAM. Nos gustaría conocerlos y explorar si podemos ser aliados en fases próximas de crecimiento. ¿Les parece una conversación? Saludos, Latin Leap.",
-   "score": 70,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 12.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-26T14:55:10+00:00",
-   "fecha_evidencia": "2026-10-22T13:55:29+00:00",
-   "ultima_senal": "2026-10-24T20:30:38+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "INVE raises $300,000 from Outliers VC to scale eventtech platform across GCC",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUxiSnZvLU0zTnBBQXZ3ZHkxTlFtcVpCWk51SW96bkJzY29OekdxVUdXN0JDbXJmWTVHNGI0TTRJWTR5cldZMVlSVUpOVUZZLWo1Z0REUlVyWG5GU19TWWprSG1rVjdqVkpoTkFvUzdWLXZqeFVhbE9KaE1HZ0xSMUNtb1ZuZkNaN1FQTQ?oc=5",
-     "fecha": "2026-10-22T13:55:29+00:00",
-     "medio": "Wamda"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Event-Tech Startup INVE Raises US$300,000 in Pre-seed Funding from Outliers VC",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3RYYklTVS12M00xN2xXakYxSldOcFZXYjVBSWhVN09abExxTThJeWZQb3F3LVA5N2ZQS2lONlpKRnVDeTVfTU1seEVmMkEyRDh1Zm10UWducWZqWHhWckxqbDJTSnZTbTdjS3ZtaUl1ZHUzVVQ0S0dqY2VvR3JrZXg0a2xleHRGZWp3VS1FcHpiX211R2d5SV96TVFrMG5t?oc=5",
-     "fecha": "2026-10-24T20:30:38+00:00",
-     "medio": "Techeconomy"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:databuddyanalytics",
    "empresa": "Databuddy Analytics",
    "sitio_web": null,
@@ -3296,6 +3243,49 @@
     }
    ],
    "motor": "reglas"
+  },
+  {
+   "key": "n:hacku",
+   "empresa": "hackÜ",
+   "sitio_web": null,
+   "pais": "Colombia",
+   "ciudad": null,
+   "sector": "edtech",
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "hackÜ es una plataforma edtech colombiana que capacita a trabajadores dispersos en Latinoamérica mediante microcápsulas enviadas por WhatsApp, evolucionando hacia un sistema operativo para la fuerza laboral.",
+   "razon": "Edtech con tracción en LATAM, modelo escalable (WhatsApp), expansión activa a México, pero sin información de ronda o inversionistas visibles en la señal.",
+   "mensaje": "Hola equipo de hackÜ, vimos en Contxto que están reforzando su apuesta en México. Nos interesa mucho cómo están escalando el modelo de capacitación por WhatsApp en LATAM. ¿Podrían compartir un poco sobre la tracción actual y planes de inversión? Nos gustaría conocerlos mejor.",
+   "score": 70,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-08T13:01:55+00:00",
+   "fecha_evidencia": "2026-11-06T16:35:59+00:00",
+   "ultima_senal": "2026-11-06T16:35:59+00:00",
+   "senales": [
+    {
+     "fuente": "Contxto",
+     "tipo": "noticia",
+     "titulo": "La edtech hackÜ refuerza su apuesta por el mercado mexicano",
+     "url": "https://contxto.com/es/edtech/la-edtech-hacku-refuerza-su-apuesta-por-el-mercado-mexicano/",
+     "fecha": "2026-11-06T16:35:59+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "llm"
   },
   {
    "key": "d:poderjudicialvirtual.com",
@@ -4360,6 +4350,59 @@
     }
    ],
    "motor": "reglas"
+  },
+  {
+   "key": "n:inve",
+   "empresa": "INVE",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "Event-Tech",
+   "etapa": "pre-seed",
+   "monto_usd": 300000.0,
+   "inversionistas": [
+    "Outliers VC"
+   ],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Startup de event-tech que levantó USD 300K en ronda pre-seed con Outliers VC.",
+   "razon": "Pre-seed con inversión respaldada por Outliers VC (fondo reconocido en LATAM); sector específico (event-tech) sugiere diferenciación; monto bajo (<USD 1M) es típico de etapa.",
+   "mensaje": "Hola equipo INVE, vimos que acababan de cerrar una ronda pre-seed con Outliers VC en event-tech, un sector en expansión en LATAM. Nos gustaría conocerlos y explorar si podemos ser aliados en fases próximas de crecimiento. ¿Les parece una conversación? Saludos, Latin Leap.",
+   "score": 68,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-22T13:55:29+00:00",
+   "ultima_senal": "2026-10-24T20:30:38+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "INVE raises $300,000 from Outliers VC to scale eventtech platform across GCC",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUxiSnZvLU0zTnBBQXZ3ZHkxTlFtcVpCWk51SW96bkJzY29OekdxVUdXN0JDbXJmWTVHNGI0TTRJWTR5cldZMVlSVUpOVUZZLWo1Z0REUlVyWG5GU19TWWprSG1rVjdqVkpoTkFvUzdWLXZqeFVhbE9KaE1HZ0xSMUNtb1ZuZkNaN1FQTQ?oc=5",
+     "fecha": "2026-10-22T13:55:29+00:00",
+     "medio": "Wamda"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Event-Tech Startup INVE Raises US$300,000 in Pre-seed Funding from Outliers VC",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3RYYklTVS12M00xN2xXakYxSldOcFZXYjVBSWhVN09abExxTThJeWZQb3F3LVA5N2ZQS2lONlpKRnVDeTVfTU1seEVmMkEyRDh1Zm10UWducWZqWHhWckxqbDJTSnZTbTdjS3ZtaUl1ZHUzVVQ0S0dqY2VvR3JrZXg0a2xleHRGZWp3VS1FcHpiX211R2d5SV96TVFrMG5t?oc=5",
+     "fecha": "2026-10-24T20:30:38+00:00",
+     "medio": "Techeconomy"
+    }
+   ],
+   "motor": "llm"
   },
   {
    "key": "d:xintec.cl",
@@ -7432,12 +7475,12 @@
    "resumen": "Plataforma cloud para agentes IA que levantó USD 60M con valuación de USD 1B.",
    "razon": "Ronda grande de serie tardía (USD 60M) con valuación de unicornio; sin embargo, ubicación y mercado son inciertos para nuestro tesis LATAM.",
    "mensaje": "Hemos visto la noticia sobre la ronda de USD 60M de Daytona. Si bien es una empresa impresionante en el espacio de IA, queremos confirmar si tiene operaciones o expansión planeada en Latinoamérica hispanohablante. Nos encantaría conversar si hay oportunidades de colaboración regional.",
-   "score": 38,
+   "score": 36,
    "desglose": {
     "geografia": 0.0,
     "etapa": 0.0,
     "tecnologia": 15.0,
-    "senal": 10.5,
+    "senal": 9.0,
     "calidad": 12.0
    },
    "prioridad": "Fuera de tesis",
@@ -7547,15 +7590,15 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-11-07T13:00:24+00:00",
+  "actualizado": "2026-11-08T13:01:55+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 103,
-  "prioridad_a_30d": 32,
-  "incremento_vs_baseline": 1.717,
-  "cumplimiento_meta": 17.17,
-  "total_deals": 161,
-  "total_calificados": 114,
+  "calificados_30d": 102,
+  "prioridad_a_30d": 30,
+  "incremento_vs_baseline": 1.7,
+  "cumplimiento_meta": 17.0,
+  "total_deals": 162,
+  "total_calificados": 115,
   "conocidos_detectados": 2,
   "por_semana": {
    "2025-06-16": 1,
@@ -7568,7 +7611,7 @@
    "2026-10-12": 23,
    "2026-10-19": 38,
    "2026-10-26": 27,
-   "2026-11-02": 12
+   "2026-11-02": 13
   },
   "por_fuente": {
    "Google News": 57,
@@ -7576,14 +7619,15 @@
    "Y Combinator": 6,
    "LatamList": 5,
    "Startups Latam": 5,
-   "Techla Media": 1
+   "Techla Media": 1,
+   "Contxto": 1
   },
   "por_pais": {
    "Chile": 44,
    "?": 27,
    "Argentina": 14,
    "México": 11,
-   "Colombia": 8,
+   "Colombia": 9,
    "Uruguay": 2,
    "Guatemala": 2,
    "Venezuela": 2,
@@ -8855,6 +8899,84 @@
       "fuente": "Google News",
       "ok": true,
       "senales": 156,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 5,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 1,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 48,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-11-08T12:59:42+00:00",
+    "fin": "2026-11-08T13:01:55+00:00",
+    "senales_crudas": 247,
+    "descartadas_prefiltro": 105,
+    "procesadas": 4,
+    "deals_nuevos": 1,
+    "calificados_nuevos": 1,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 13,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 150,
       "error": null
      },
      {

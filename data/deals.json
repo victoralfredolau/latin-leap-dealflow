@@ -869,12 +869,12 @@
   "ultima_senal": "2026-10-24T13:42:15+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 86,
+  "score": 85,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 14.0
   },
   "prioridad": "A",
@@ -4147,12 +4147,12 @@
   "ultima_senal": "2026-10-24T20:30:38+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 12.0
   },
   "prioridad": "B",
@@ -4265,12 +4265,12 @@
   "ultima_senal": "2026-10-25T00:03:40+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 38,
+  "score": 36,
   "desglose": {
    "geografia": 0.0,
    "etapa": 0.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 12.0
   },
   "prioridad": "Fuera de tesis",
@@ -6961,5 +6961,45 @@
   },
   "prioridad": "Fuera de tesis",
   "en_tesis": false
+ },
+ "n:hacku": {
+  "key": "n:hacku",
+  "primera_vista": "2026-11-08T13:01:55+00:00",
+  "senales": [
+   {
+    "fuente": "Contxto",
+    "tipo": "noticia",
+    "titulo": "La edtech hackÜ refuerza su apuesta por el mercado mexicano",
+    "url": "https://contxto.com/es/edtech/la-edtech-hacku-refuerza-su-apuesta-por-el-mercado-mexicano/",
+    "fecha": "2026-11-06T16:35:59+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 6.0,
+  "motor": "llm",
+  "empresa": "hackÜ",
+  "pais": "Colombia",
+  "sector": "edtech",
+  "etapa": "desconocida",
+  "tecnologia": true,
+  "resumen": "hackÜ es una plataforma edtech colombiana que capacita a trabajadores dispersos en Latinoamérica mediante microcápsulas enviadas por WhatsApp, evolucionando hacia un sistema operativo para la fuerza laboral.",
+  "mensaje": "Hola equipo de hackÜ, vimos en Contxto que están reforzando su apuesta en México. Nos interesa mucho cómo están escalando el modelo de capacitación por WhatsApp en LATAM. ¿Podrían compartir un poco sobre la tracción actual y planes de inversión? Nos gustaría conocerlos mejor.",
+  "razon": "Edtech con tracción en LATAM, modelo escalable (WhatsApp), expansión activa a México, pero sin información de ronda o inversionistas visibles en la señal.",
+  "fecha_evidencia": "2026-11-06T16:35:59+00:00",
+  "ultima_senal": "2026-11-06T16:35:59+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 70,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 12.5,
+   "tecnologia": 15.0,
+   "senal": 6.0,
+   "calidad": 12.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
  }
 }
