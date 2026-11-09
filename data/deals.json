@@ -150,12 +150,12 @@
   "ultima_senal": "2026-10-26T00:03:30+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 0.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 13.5,
+   "senal": 12.0,
    "calidad": 16.0
   },
   "prioridad": "Fuera de tesis",
@@ -2392,12 +2392,12 @@
   "ultima_senal": "2026-10-26T12:45:00+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 94,
+  "score": 93,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 13.5,
+   "senal": 12.0,
    "calidad": 16.0
   },
   "prioridad": "A",
@@ -4018,12 +4018,12 @@
   "ultima_senal": "2026-10-26T11:00:35+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 44,
+  "score": 42,
   "desglose": {
    "geografia": 7.5,
    "etapa": 12.5,
    "tecnologia": 7.5,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 10.0
   },
   "prioridad": "C",
@@ -4064,12 +4064,12 @@
   "ultima_senal": "2026-10-26T13:17:28+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 68,
+  "score": 66,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -4187,15 +4187,15 @@
   "ultima_senal": "2026-10-26T11:54:53+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 60,
+  "score": 59,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 7.5,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
-  "prioridad": "B",
+  "prioridad": "C",
   "en_tesis": true
  },
  "n:tanzanianehealthstartupmedikea": {
@@ -4224,15 +4224,15 @@
   "ultima_senal": "2026-10-26T09:00:48+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 60,
+  "score": 59,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 7.5,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
-  "prioridad": "B",
+  "prioridad": "C",
   "en_tesis": true
  },
  "n:daytona": {

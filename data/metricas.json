@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-08T13:01:55+00:00",
+ "actualizado": "2026-11-09T13:24:16+00:00",
  "baseline_mes": 60,
  "meta_incremental_mes": 6,
- "calificados_30d": 102,
+ "calificados_30d": 100,
  "prioridad_a_30d": 30,
- "incremento_vs_baseline": 1.7,
- "cumplimiento_meta": 17.0,
+ "incremento_vs_baseline": 1.667,
+ "cumplimiento_meta": 16.67,
  "total_deals": 162,
- "total_calificados": 115,
+ "total_calificados": 113,
  "conocidos_detectados": 2,
  "por_semana": {
   "2025-06-16": 1,
@@ -19,11 +19,11 @@
   "2026-10-05": 8,
   "2026-10-12": 23,
   "2026-10-19": 38,
-  "2026-10-26": 27,
+  "2026-10-26": 25,
   "2026-11-02": 13
  },
  "por_fuente": {
-  "Google News": 57,
+  "Google News": 55,
   "Get on Board": 48,
   "Y Combinator": 6,
   "LatamList": 5,
@@ -33,7 +33,7 @@
  },
  "por_pais": {
   "Chile": 44,
-  "?": 27,
+  "?": 25,
   "Argentina": 14,
   "México": 11,
   "Colombia": 9,
@@ -1404,6 +1404,84 @@
      "fuente": "Get on Board",
      "ok": true,
      "senales": 48,
+     "error": null
+    }
+   ]
+  },
+  {
+   "inicio": "2026-11-09T13:23:18+00:00",
+   "fin": "2026-11-09T13:24:16+00:00",
+   "senales_crudas": 254,
+   "descartadas_prefiltro": 108,
+   "procesadas": 10,
+   "deals_nuevos": 0,
+   "calificados_nuevos": 0,
+   "motor": "llm",
+   "fuentes": [
+    {
+     "fuente": "LatamList",
+     "ok": true,
+     "senales": 10,
+     "error": null
+    },
+    {
+     "fuente": "Contxto",
+     "ok": true,
+     "senales": 13,
+     "error": null
+    },
+    {
+     "fuente": "Startupeable",
+     "ok": false,
+     "senales": 0,
+     "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+    },
+    {
+     "fuente": "TechCrunch LatAm",
+     "ok": true,
+     "senales": 0,
+     "error": null
+    },
+    {
+     "fuente": "Pulso Social",
+     "ok": false,
+     "senales": 0,
+     "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+    },
+    {
+     "fuente": "Startups Latam",
+     "ok": true,
+     "senales": 10,
+     "error": null
+    },
+    {
+     "fuente": "Techla Media",
+     "ok": true,
+     "senales": 10,
+     "error": null
+    },
+    {
+     "fuente": "Google News",
+     "ok": true,
+     "senales": 158,
+     "error": null
+    },
+    {
+     "fuente": "Y Combinator",
+     "ok": true,
+     "senales": 5,
+     "error": null
+    },
+    {
+     "fuente": "Hacker News",
+     "ok": true,
+     "senales": 1,
+     "error": null
+    },
+    {
+     "fuente": "Get on Board",
+     "ok": true,
+     "senales": 47,
      "error": null
     }
    ]

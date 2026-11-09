@@ -1,99 +1,6 @@
 {
  "deals": [
   {
-   "key": "n:peso",
-   "empresa": "Peso",
-   "sitio_web": null,
-   "pais": "Bolivia",
-   "ciudad": null,
-   "sector": "FinTech / Criptomonedas",
-   "etapa": "pre-seed",
-   "monto_usd": null,
-   "inversionistas": [
-    "Tether"
-   ],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 8.0,
-   "resumen": "Peso es una stablecoin de Bolivia que levanta pre-seed liderado por Tether para expandir pagos en América Latina.",
-   "razon": "Peso está en Bolivia (dentro de tesis), levanta pre-seed con Tether (inversor reconocido en cripto), y aborda pagos con stablecoin en LATAM. Tracción potencial en fintech.",
-   "mensaje": "Hola equipo Peso, nos fascinó saber que Tether lidera vuestra ronda pre-seed para expandir pagos con stablecoin en Latinoamérica. Bolivia tiene un mercado financiero con mucho potencial. ¿Podríamos agendar una conversación sobre vuestra tracción actual y roadmap?",
-   "score": 94,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 13.5,
-    "calidad": 16.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-21T07:00:00+00:00",
-   "ultima_senal": "2026-10-26T12:45:00+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Fintech boliviana Peso levanta una ronda pre-semilla liderada por Tether para expandir los pagos con USDT en Latam",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNWVkbzZSdklVQjRlOUl2SHEwOWdBOUJ1X1h6dDBUNlo2cHhTVmxJeVY3X2QzZkQ5N3JqbWYyS0NOQzBpRnVEWWJsZ2FsWmJQNWZuM1NQaHU1SkU0VUFrd0MtSkYtZHlmWWotaUowREM4VjVPQUhqVThXZmJDZmxPcHA5b1p1LVJFeWo1YlZNVUFmNGRUY1VEekYxLUhrOGhlTGpfT1FJTU5oZGxqVzhqc1Jld1lsS1VsMWNUaWd1TkZpX0Vja1BxSk5IcTdzSEk2M2I3Ymt0ODNaSUx6TmRmLV8zV2xyUQ?oc=5",
-     "fecha": "2026-10-22T14:32:25+00:00",
-     "medio": "Latam Fintech Hub"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Tether Leads Pre-Seed Round In Bolivia’s Peso To Expand USDT Payments Across Latin America: 11 outlets compared",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTzg4TFE0ckpEQjJoQ2tLQ2ZRaGx2cllzNWphZElLbVVpY1k4b1BVYndmNXI0S21fQjZaWDRWc3JpQlhBMFV2MjhIaE1HSDJPMnlCbmszSWFHLVJWN3pfdGxoTkpfTVV3cGpTS25NeEpVS3pFZ1NBSmVicmwtQ3JpOWw5bWhpQlhKOGExeHlTZ1prNkxyS2xtcFlQTXBsYnA2ME9pWGNycnRXM3djMnJpWmZpYUcwdXE4a1hsYW1vWHUySG16YVRyWldmZVZaVEh6TmJsY09HVWkyRFVJQmlHdDM5MEdrTGJDTmc?oc=5",
-     "fecha": "2026-10-22T00:10:47+00:00",
-     "medio": "NewsCord"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Tether Leads Pre-Seed Investment in Bolivian Fintech Peso to Scale USDT Payments Across Latin America",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaUVQdTQ4MWdMbVFMZmpUejFMUTNWYlAyeFhHLUE4bVNocmUzQ2JkM3JJd0hXLWFxS3JjdTZlUE1GTXdKaE1TTmRaX1IwRG41S3hhRU5rTVhRY1NhZWdGbVhVejJkemhqRVVYTlJMYlp5MjdZZTk4c1F3aUxhdXpzRGVDMXBaQTVVeFliaHNkamNoajA0bzNNTjZJcWh3X243MFBIQ3NqWTBpX1pQWmwxMTNZZ3paZzZtZ1VicGtNOFVralp4RnVQb0RIenpGOU1pNWxEVEJ5OTktc21nVFYwaWpKZU8?oc=5",
-     "fecha": "2026-10-23T01:27:08+00:00",
-     "medio": "Crowdfund Insider"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Bolivian fintech Peso raises pre-seed led by Tether to expand USDT payments in Latin America",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOaXVTYUVIZl9kZkwyT3pGRk5PTXdxd01sYVg4NmRhT2lkVEdMZXdPTGd4LXo5c2pEMmdMa2F3cGp4U1JEbktQS25NLWZnMTlFbU94WlZyQlB6Y1pHTjNQQ2Z3NzFsb0JBUHpsb0p3?oc=5",
-     "fecha": "2026-10-21T13:25:21+00:00",
-     "medio": "CryptoRank"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Fintech boliviana Peso capta pre-seed con Tether para ampliar pagos USDT en Latinoamérica",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDbUxWU0t0dWV4aE8xWk9qZTJPRVB0YkxSSEJsNHpldi1KUmNLMVVGRFVRY2RmaUNneHBwVHppT0t6dTdrbDl4MEZEYmtLRjRFVTMwTi1oeW9rU0NFaXJfM2xsbmo5WGh1MUQ5S1J5dWc4Zw?oc=5",
-     "fecha": "2026-10-21T13:25:21+00:00",
-     "medio": "CryptoRank"
-    },
-    {
-     "fuente": "Startups Latam",
-     "tipo": "noticia",
-     "titulo": "Tether lidera la ronda presemilla de Peso, la fintech boliviana que lleva el USDT a los pagos cotidianos en América Latina",
-     "url": "https://startupslatam.com/tether-lidera-la-ronda-presemilla-de-peso-la-fintech-boliviana-que-lleva-el-usdt-a-los-pagos-cotidianos-en-america-latina/",
-     "fecha": "2026-10-26T12:45:00+00:00",
-     "medio": null
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Tether Leads Pre-Seed Round for Bolivia's Peso to Expand Stablecoin Payments in Latin America",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDlkd2pBc2s3ZWtfcmREbG1UYVdaeEVWc0tUYnZiT2FpT1VjWFJZYzVBTlJLbXAxRU1zR0x3bWZCNm1ZUDRYbl9rZU1OVWtMSHhVMnV5UGIwVE5HUUdNOE5qOVBxYTFzbU9qeUxTRjBVZWV6X28ySnFGaHRwX19TOG5fTkNUaS04bHFIaG9aVHVnSXE5ekV0eDBNQjRieDlHaE9CWXo5b1dENndmOEVMbWNzR3pKN0dROUJoYTFGUDVYTkxSaWc?oc=5",
-     "fecha": "2026-10-21T07:00:00+00:00",
-     "medio": "KuCoin"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:viatik",
    "empresa": "Viatik",
    "sitio_web": null,
@@ -217,6 +124,99 @@
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlMwUGwzMmdzMGFHa0JTd2ZCUTVRNUUzS05SVDJFakp5bmQxZGV1UVJCWWZQOUNpaU4zOWthZjNJb1A2U0NDZExQc0g4Rms4ZFNTNUdEQUUzazNBYURZZld4TkJqaHJxWnZiWFhESXEzQ0dMQVJFbkNaTjloY1FFT21RVkl0elFON1lfQm02VElWelR5?oc=5",
      "fecha": "2026-10-28T11:07:00+00:00",
      "medio": "Yahoo"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:peso",
+   "empresa": "Peso",
+   "sitio_web": null,
+   "pais": "Bolivia",
+   "ciudad": null,
+   "sector": "FinTech / Criptomonedas",
+   "etapa": "pre-seed",
+   "monto_usd": null,
+   "inversionistas": [
+    "Tether"
+   ],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 8.0,
+   "resumen": "Peso es una stablecoin de Bolivia que levanta pre-seed liderado por Tether para expandir pagos en América Latina.",
+   "razon": "Peso está en Bolivia (dentro de tesis), levanta pre-seed con Tether (inversor reconocido en cripto), y aborda pagos con stablecoin en LATAM. Tracción potencial en fintech.",
+   "mensaje": "Hola equipo Peso, nos fascinó saber que Tether lidera vuestra ronda pre-seed para expandir pagos con stablecoin en Latinoamérica. Bolivia tiene un mercado financiero con mucho potencial. ¿Podríamos agendar una conversación sobre vuestra tracción actual y roadmap?",
+   "score": 93,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 12.0,
+    "calidad": 16.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-21T07:00:00+00:00",
+   "ultima_senal": "2026-10-26T12:45:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Fintech boliviana Peso levanta una ronda pre-semilla liderada por Tether para expandir los pagos con USDT en Latam",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNWVkbzZSdklVQjRlOUl2SHEwOWdBOUJ1X1h6dDBUNlo2cHhTVmxJeVY3X2QzZkQ5N3JqbWYyS0NOQzBpRnVEWWJsZ2FsWmJQNWZuM1NQaHU1SkU0VUFrd0MtSkYtZHlmWWotaUowREM4VjVPQUhqVThXZmJDZmxPcHA5b1p1LVJFeWo1YlZNVUFmNGRUY1VEekYxLUhrOGhlTGpfT1FJTU5oZGxqVzhqc1Jld1lsS1VsMWNUaWd1TkZpX0Vja1BxSk5IcTdzSEk2M2I3Ymt0ODNaSUx6TmRmLV8zV2xyUQ?oc=5",
+     "fecha": "2026-10-22T14:32:25+00:00",
+     "medio": "Latam Fintech Hub"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Tether Leads Pre-Seed Round In Bolivia’s Peso To Expand USDT Payments Across Latin America: 11 outlets compared",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTzg4TFE0ckpEQjJoQ2tLQ2ZRaGx2cllzNWphZElLbVVpY1k4b1BVYndmNXI0S21fQjZaWDRWc3JpQlhBMFV2MjhIaE1HSDJPMnlCbmszSWFHLVJWN3pfdGxoTkpfTVV3cGpTS25NeEpVS3pFZ1NBSmVicmwtQ3JpOWw5bWhpQlhKOGExeHlTZ1prNkxyS2xtcFlQTXBsYnA2ME9pWGNycnRXM3djMnJpWmZpYUcwdXE4a1hsYW1vWHUySG16YVRyWldmZVZaVEh6TmJsY09HVWkyRFVJQmlHdDM5MEdrTGJDTmc?oc=5",
+     "fecha": "2026-10-22T00:10:47+00:00",
+     "medio": "NewsCord"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Tether Leads Pre-Seed Investment in Bolivian Fintech Peso to Scale USDT Payments Across Latin America",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaUVQdTQ4MWdMbVFMZmpUejFMUTNWYlAyeFhHLUE4bVNocmUzQ2JkM3JJd0hXLWFxS3JjdTZlUE1GTXdKaE1TTmRaX1IwRG41S3hhRU5rTVhRY1NhZWdGbVhVejJkemhqRVVYTlJMYlp5MjdZZTk4c1F3aUxhdXpzRGVDMXBaQTVVeFliaHNkamNoajA0bzNNTjZJcWh3X243MFBIQ3NqWTBpX1pQWmwxMTNZZ3paZzZtZ1VicGtNOFVralp4RnVQb0RIenpGOU1pNWxEVEJ5OTktc21nVFYwaWpKZU8?oc=5",
+     "fecha": "2026-10-23T01:27:08+00:00",
+     "medio": "Crowdfund Insider"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Bolivian fintech Peso raises pre-seed led by Tether to expand USDT payments in Latin America",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOaXVTYUVIZl9kZkwyT3pGRk5PTXdxd01sYVg4NmRhT2lkVEdMZXdPTGd4LXo5c2pEMmdMa2F3cGp4U1JEbktQS25NLWZnMTlFbU94WlZyQlB6Y1pHTjNQQ2Z3NzFsb0JBUHpsb0p3?oc=5",
+     "fecha": "2026-10-21T13:25:21+00:00",
+     "medio": "CryptoRank"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Fintech boliviana Peso capta pre-seed con Tether para ampliar pagos USDT en Latinoamérica",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDbUxWU0t0dWV4aE8xWk9qZTJPRVB0YkxSSEJsNHpldi1KUmNLMVVGRFVRY2RmaUNneHBwVHppT0t6dTdrbDl4MEZEYmtLRjRFVTMwTi1oeW9rU0NFaXJfM2xsbmo5WGh1MUQ5S1J5dWc4Zw?oc=5",
+     "fecha": "2026-10-21T13:25:21+00:00",
+     "medio": "CryptoRank"
+    },
+    {
+     "fuente": "Startups Latam",
+     "tipo": "noticia",
+     "titulo": "Tether lidera la ronda presemilla de Peso, la fintech boliviana que lleva el USDT a los pagos cotidianos en América Latina",
+     "url": "https://startupslatam.com/tether-lidera-la-ronda-presemilla-de-peso-la-fintech-boliviana-que-lleva-el-usdt-a-los-pagos-cotidianos-en-america-latina/",
+     "fecha": "2026-10-26T12:45:00+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Tether Leads Pre-Seed Round for Bolivia's Peso to Expand Stablecoin Payments in Latin America",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDlkd2pBc2s3ZWtfcmREbG1UYVdaeEVWc0tUYnZiT2FpT1VjWFJZYzVBTlJLbXAxRU1zR0x3bWZCNm1ZUDRYbl9rZU1OVWtMSHhVMnV5UGIwVE5HUUdNOE5qOVBxYTFzbU9qeUxTRjBVZWV6X28ySnFGaHRwX19TOG5fTkNUaS04bHFIaG9aVHVnSXE5ekV0eDBNQjRieDlHaE9CWXo5b1dENndmOEVMbWNzR3pKN0dROUJoYTFGUDVYTkxSaWc?oc=5",
+     "fecha": "2026-10-21T07:00:00+00:00",
+     "medio": "KuCoin"
     }
    ],
    "motor": "llm"
@@ -4301,57 +4301,6 @@
    "motor": "reglas"
   },
   {
-   "key": "n:biostack",
-   "empresa": "BioStack",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "seed",
-   "monto_usd": 9500000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Healthtech startup BioStack raises $9.5M in seed funding round led by Peak XV, others YourStory.com",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 68,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-26T14:55:10+00:00",
-   "fecha_evidencia": "2026-10-26T11:40:57+00:00",
-   "ultima_senal": "2026-10-26T13:17:28+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Healthtech startup BioStack raises $9.5M in seed funding round led by Peak XV, others",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUJhQzV5UGZKMHlXSkYtMDdWUDNjS2dEdXJJamdTY0FSTjUwTlh6R3ZTdXUwTDE1U3JNeHlYOHlBTGVyZW9QMlE1clFYeXBtRkhHVXhZRTlTWGNfSnNULXRVN0d4dDdMbVd3eVBjMUp0LUxBcFR0SDEteGJtc3FoSmNSc2luX192SnBrQlcwenFvd0Q2U2NR?oc=5",
-     "fecha": "2026-10-26T11:40:57+00:00",
-     "medio": "YourStory.com"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "BioStack Raises $9.5 Million Seed Funding to Build a Cross-Border Healthcare Data Network",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0RST2hjT0tia1hEOEtsS0lwS2dfN0tHWEpVUExrMU5HRlpNcmhhbE5pSVNaUnZhUGx2ZkVNaS1NNy04ZlE3WjdaR1ZwYk1JdXM0bm5JbEhzX1JYRXBjb3hVRE1sa1kyODg1YXE4X0FPSlJ3RmJncUN5LWxwcEEtU0VFWFlHc3pJcEtIVjk4c292NDVPWm5mbkdsaXBGVEpNaFM4c0RR?oc=5",
-     "fecha": "2026-10-26T13:17:28+00:00",
-     "medio": "https://ascendants.in/"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "n:inve",
    "empresa": "INVE",
    "sitio_web": null,
@@ -4615,6 +4564,57 @@
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmtRam9BRFZjaDdNenF2X2Y5T2JsM0VJckhjdXhDU1R0RXdZallESDl2V29valhROGo2dEZ1SElpWXNaUW5kR19UMnNGbHdjYkFGY1dCNF9GU0Y3WjRnSk1xdHdKMEwtYUFXQ19ZLWtXY2dPUmtlQU9hbjNCY0xDbWRGU1FxTVdJY3lQaXhjRTN1WDFIUlRjSFRaaFdmUU45ckpn0gGoAUFVX3lxTFBnQ21HRFhsczZqWXJublRuUGJYeU1jeDg4ZThYTEVRYVVIZHFsTTg5UF9jNDE4T05mWjk5elhBT0ZxVlVKSHc3WTBxd1RCcnE5Nmt5MmRzYmI1SVd1NXFwa2pOYlpHV0YwdzZJX2JJX2lOWnN2eWx4MmJ0bklVTXVobTZ6Zkx1QUZFTEt6WEFVMHFVWTZsRk94cW5qSk54ZXgwRF8wZnIxbw?oc=5",
      "fecha": "2026-10-19T16:33:22+00:00",
      "medio": "CNBC TV18"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:biostack",
+   "empresa": "BioStack",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": 9500000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Healthtech startup BioStack raises $9.5M in seed funding round led by Peak XV, others YourStory.com",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 66,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-26T11:40:57+00:00",
+   "ultima_senal": "2026-10-26T13:17:28+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Healthtech startup BioStack raises $9.5M in seed funding round led by Peak XV, others",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUJhQzV5UGZKMHlXSkYtMDdWUDNjS2dEdXJJamdTY0FSTjUwTlh6R3ZTdXUwTDE1U3JNeHlYOHlBTGVyZW9QMlE1clFYeXBtRkhHVXhZRTlTWGNfSnNULXRVN0d4dDdMbVd3eVBjMUp0LUxBcFR0SDEteGJtc3FoSmNSc2luX192SnBrQlcwenFvd0Q2U2NR?oc=5",
+     "fecha": "2026-10-26T11:40:57+00:00",
+     "medio": "YourStory.com"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "BioStack Raises $9.5 Million Seed Funding to Build a Cross-Border Healthcare Data Network",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0RST2hjT0tia1hEOEtsS0lwS2dfN0tHWEpVUExrMU5HRlpNcmhhbE5pSVNaUnZhUGx2ZkVNaS1NNy04ZlE3WjdaR1ZwYk1JdXM0bm5JbEhzX1JYRXBjb3hVRE1sa1kyODg1YXE4X0FPSlJ3RmJncUN5LWxwcEEtU0VFWFlHc3pJcEtIVjk4c292NDVPWm5mbkdsaXBGVEpNaFM4c0RR?oc=5",
+     "fecha": "2026-10-26T13:17:28+00:00",
+     "medio": "https://ascendants.in/"
     }
    ],
    "motor": "reglas"
@@ -5015,92 +5015,6 @@
    "motor": "reglas"
   },
   {
-   "key": "n:healthcarestartupbiostack",
-   "empresa": "Healthcare startup BioStack",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "seed",
-   "monto_usd": 9.5,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 5.0,
-   "resumen": "Healthcare startup BioStack raises $9.5 Mn in seed funding led by Peak XV Entrackr",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 60,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 7.5,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-26T14:55:10+00:00",
-   "fecha_evidencia": "2026-10-26T11:54:53+00:00",
-   "ultima_senal": "2026-10-26T11:54:53+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Healthcare startup BioStack raises $9.5 Mn in seed funding led by Peak XV",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbXRPX1NTcVdPR0tFSHhFeUhDQU04dXIzQ3lvNHI5eXIwSGtWQ2dPQ0l6WU4xTjBBM2pKNmFDNTFXNUgxSWpvaUdvMDBvd3ZyREtGUFo2bHp4aEh5TDlZSHpfTV9McTlvcEFKeTdZdTlvSE1YWTNBQ0NhRzIwUGxCRkI5UmhIRnUtbDdtWW1yX1JhUEx0SVJlOER3RTFKczFqR3huYW53TnllS05HaXVz0gGvAUFVX3lxTE9tdE9fU1NxV09HS0VIeEV5SENBTTh1cjNDeW80cjl5cjBIa1ZDZ09DSXpZTjFOMEEzako2YUM1MVc1SDFJam9pR28wMG93dnJES0ZQWjZsenhoSHlMOVlIel9NX0xxOW9wQUp5N1l1OW9ITVhZM0FDQ2FHMjBQbEJGQjlSaEhGdS1sN21ZbXJfUmFQTHRJUmU4RHdFMUpzMWpHeG5hbndOeWVLTkdpdXM?oc=5",
-     "fecha": "2026-10-26T11:54:53+00:00",
-     "medio": "Entrackr"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "n:tanzanianehealthstartupmedikea",
-   "empresa": "Tanzanian e-health startup Medikea",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "pre-seed",
-   "monto_usd": 1200000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 5.0,
-   "resumen": "Tanzanian e-health startup Medikea raises $1.2m pre-seed funding - Disrupt Africa",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 60,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 7.5,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-26T14:55:10+00:00",
-   "fecha_evidencia": "2026-10-26T09:00:48+00:00",
-   "ultima_senal": "2026-10-26T09:00:48+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Tanzanian e-health startup Medikea raises $1.2m pre-seed funding -",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON1JpT1k1MXhnVzJiME9xRXBHczNEVHZ5blVDZGwwWngyaTBFSnR5ZnpmTzBvU19YaTJFSGFHbktMSnhwSlhfWTRQZWxvUTNleUdldHBVeTJUemxpanNZS0ZSa3ZkNEVPaTl3VVNIMk1ycjB6Nkw4Z0x3NFM2LTFHeDdqSWxuZldwLXJWN1haZjBPcjMySlo5YlpMT3cwTGFMTWRF?oc=5",
-     "fecha": "2026-10-26T09:00:48+00:00",
-     "medio": "- Disrupt Africa"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "n:dubdub",
    "empresa": "dubdub",
    "sitio_web": null,
@@ -5374,12 +5288,12 @@
    "resumen": "Startup que utiliza IA para mejorar la extracción de cobre, levantó USD 6.4M.",
    "razon": "Ronda seed robusta (USD 6.4M) en sector de IA aplicada a minería, mercado relevante en LATAM; falta confirmar ubicación.",
    "mensaje": "Nos llamó la atención tu ronda de USD 6.4M con IA aplicada a minería. Con el potencial de cobre en Latinoamérica (Chile, Perú), nos gustaría conocer si tienes presencia o planes en la región. ¿Podríamos agendar una llamada?",
-   "score": 70,
+   "score": 68,
    "desglose": {
     "geografia": 0.0,
     "etapa": 25.0,
     "tecnologia": 15.0,
-    "senal": 13.5,
+    "senal": 12.0,
     "calidad": 16.0
    },
    "prioridad": "Fuera de tesis",
@@ -5863,6 +5777,92 @@
      "url": "https://latamlist.com/uruguayan-scanntech-raises-180m-round-led-by-l-catterton/",
      "fecha": "2026-10-16T16:40:03+00:00",
      "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:healthcarestartupbiostack",
+   "empresa": "Healthcare startup BioStack",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": 9.5,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Healthcare startup BioStack raises $9.5 Mn in seed funding led by Peak XV Entrackr",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 59,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 7.5,
+    "senal": 9.0,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-26T11:54:53+00:00",
+   "ultima_senal": "2026-10-26T11:54:53+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Healthcare startup BioStack raises $9.5 Mn in seed funding led by Peak XV",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbXRPX1NTcVdPR0tFSHhFeUhDQU04dXIzQ3lvNHI5eXIwSGtWQ2dPQ0l6WU4xTjBBM2pKNmFDNTFXNUgxSWpvaUdvMDBvd3ZyREtGUFo2bHp4aEh5TDlZSHpfTV9McTlvcEFKeTdZdTlvSE1YWTNBQ0NhRzIwUGxCRkI5UmhIRnUtbDdtWW1yX1JhUEx0SVJlOER3RTFKczFqR3huYW53TnllS05HaXVz0gGvAUFVX3lxTE9tdE9fU1NxV09HS0VIeEV5SENBTTh1cjNDeW80cjl5cjBIa1ZDZ09DSXpZTjFOMEEzako2YUM1MVc1SDFJam9pR28wMG93dnJES0ZQWjZsenhoSHlMOVlIel9NX0xxOW9wQUp5N1l1OW9ITVhZM0FDQ2FHMjBQbEJGQjlSaEhGdS1sN21ZbXJfUmFQTHRJUmU4RHdFMUpzMWpHeG5hbndOeWVLTkdpdXM?oc=5",
+     "fecha": "2026-10-26T11:54:53+00:00",
+     "medio": "Entrackr"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:tanzanianehealthstartupmedikea",
+   "empresa": "Tanzanian e-health startup Medikea",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "pre-seed",
+   "monto_usd": 1200000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Tanzanian e-health startup Medikea raises $1.2m pre-seed funding - Disrupt Africa",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 59,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 7.5,
+    "senal": 9.0,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-26T09:00:48+00:00",
+   "ultima_senal": "2026-10-26T09:00:48+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Tanzanian e-health startup Medikea raises $1.2m pre-seed funding -",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON1JpT1k1MXhnVzJiME9xRXBHczNEVHZ5blVDZGwwWngyaTBFSnR5ZnpmTzBvU19YaTJFSGFHbktMSnhwSlhfWTRQZWxvUTNleUdldHBVeTJUemxpanNZS0ZSa3ZkNEVPaTl3VVNIMk1ycjB6Nkw4Z0x3NFM2LTFHeDdqSWxuZldwLXJWN1haZjBPcjMySlo5YlpMT3cwTGFMTWRF?oc=5",
+     "fecha": "2026-10-26T09:00:48+00:00",
+     "medio": "- Disrupt Africa"
     }
    ],
    "motor": "reglas"
@@ -6815,49 +6815,6 @@
    "motor": "reglas"
   },
   {
-   "key": "n:californiastartupshave",
-   "empresa": "California Startups Have",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 5.0,
-   "resumen": "California Startups Have Raised More So Far In 2026 Than The Entire US Ever Has In A Single Year Crunchbase News",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 44,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 12.5,
-    "tecnologia": 7.5,
-    "senal": 6.0,
-    "calidad": 10.0
-   },
-   "prioridad": "C",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-26T14:55:10+00:00",
-   "fecha_evidencia": "2026-10-26T11:00:35+00:00",
-   "ultima_senal": "2026-10-26T11:00:35+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "California Startups Have Raised More So Far In 2026 Than The Entire US Ever Has In A Single Year",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmNHdFJwVThneldHNms3UmVGeW9HUEk4V0ZPaFpiV0t6ZTQ3VTRmQ1FISnR1RThjVXFWQnNjbjM1aUxtQ2V4elFTa1M0cHBiVEc2NlQtQ3JYMDIwU1l0aXdQVk1UNWtld1pTWkU1OUtkaUtyRkw3ejZKbnpNZHp4NWplbFliQjB4a3BtS25nZlplanhnNnVQNF9B?oc=5",
-     "fecha": "2026-10-26T11:00:35+00:00",
-     "medio": "Crunchbase News"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "n:indiantradingplatformmochatrade",
    "empresa": "Indian trading platform Mochatrade",
    "sitio_web": null,
@@ -7245,6 +7202,49 @@
    "motor": "reglas"
   },
   {
+   "key": "n:californiastartupshave",
+   "empresa": "California Startups Have",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "California Startups Have Raised More So Far In 2026 Than The Entire US Ever Has In A Single Year Crunchbase News",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 42,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 12.5,
+    "tecnologia": 7.5,
+    "senal": 4.5,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-26T11:00:35+00:00",
+   "ultima_senal": "2026-10-26T11:00:35+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "California Startups Have Raised More So Far In 2026 Than The Entire US Ever Has In A Single Year",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmNHdFJwVThneldHNms3UmVGeW9HUEk4V0ZPaFpiV0t6ZTQ3VTRmQ1FISnR1RThjVXFWQnNjbjM1aUxtQ2V4elFTa1M0cHBiVEc2NlQtQ3JYMDIwU1l0aXdQVk1UNWtld1pTWkU1OUtkaUtyRkw3ejZKbnpNZHp4NWplbFliQjB4a3BtS25nZlplanhnNnVQNF9B?oc=5",
+     "fecha": "2026-10-26T11:00:35+00:00",
+     "medio": "Crunchbase News"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "n:otcderivativesproviderswapglobal",
    "empresa": "OTC derivatives provider SwapGlobal",
    "sitio_web": null,
@@ -7590,15 +7590,15 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-11-08T13:01:55+00:00",
+  "actualizado": "2026-11-09T13:24:16+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 102,
+  "calificados_30d": 100,
   "prioridad_a_30d": 30,
-  "incremento_vs_baseline": 1.7,
-  "cumplimiento_meta": 17.0,
+  "incremento_vs_baseline": 1.667,
+  "cumplimiento_meta": 16.67,
   "total_deals": 162,
-  "total_calificados": 115,
+  "total_calificados": 113,
   "conocidos_detectados": 2,
   "por_semana": {
    "2025-06-16": 1,
@@ -7610,11 +7610,11 @@
    "2026-10-05": 8,
    "2026-10-12": 23,
    "2026-10-19": 38,
-   "2026-10-26": 27,
+   "2026-10-26": 25,
    "2026-11-02": 13
   },
   "por_fuente": {
-   "Google News": 57,
+   "Google News": 55,
    "Get on Board": 48,
    "Y Combinator": 6,
    "LatamList": 5,
@@ -7624,7 +7624,7 @@
   },
   "por_pais": {
    "Chile": 44,
-   "?": 27,
+   "?": 25,
    "Argentina": 14,
    "México": 11,
    "Colombia": 9,
@@ -8995,6 +8995,84 @@
       "fuente": "Get on Board",
       "ok": true,
       "senales": 48,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-11-09T13:23:18+00:00",
+    "fin": "2026-11-09T13:24:16+00:00",
+    "senales_crudas": 254,
+    "descartadas_prefiltro": 108,
+    "procesadas": 10,
+    "deals_nuevos": 0,
+    "calificados_nuevos": 0,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 13,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 158,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 5,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 1,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 47,
       "error": null
      }
     ]
