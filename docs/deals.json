@@ -2222,49 +2222,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:tradl",
-   "empresa": "Tradl",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": "fintech",
-   "etapa": "seed",
-   "monto_usd": 4100000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "Tradl democratiza herramientas de trading institucional para inversores minoristas mediante una plataforma de tecnología.",
-   "razon": "Ronda seed de USD 4.1M en fintech de herramientas de trading institucional para retail; mercado atractivo pero sin clara diferenciación mencionada.",
-   "mensaje": "Hola equipo de Tradl, vimos que cerraron una ronda seed de USD 4.1M para llevar herramientas institucionales al retail. Nos encanta ver innovación en fintech que democratiza acceso. ¿Les interesaría conversar sobre oportunidades de expansión en LatAm? Saludos, Latin Leap.",
-   "score": 72,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 14.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-28T13:06:20+00:00",
-   "fecha_evidencia": "2026-10-26T14:38:09+00:00",
-   "ultima_senal": "2026-10-26T14:38:09+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Tradl raises $4.1M seed to bring institutional trading tools to retail",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSkttU1RmRkdZdjZOMmc2LThyLVlIMC1RMWNBZU8tdjRLWjF1cDJzWUh6TVY2YlBpU25VQV9yZ2NFSlI5ZDc1SWpfdWNjY0RBN05HZkRKVUZxekE2ZUZmem1hTy1leVo1eUJkTWsyQ1d1Wl9IR3pNNTlTbzduRmlhWUt6QWVHRVk0S3ZKU2x4SXdjRS0wanpMb2ZRX1U1cFFDT1dkTGtR?oc=5",
-     "fecha": "2026-10-26T14:38:09+00:00",
-     "medio": "Dealroom"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:sharewillow",
    "empresa": "ShareWillow",
    "sitio_web": null,
@@ -2729,92 +2686,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:colare",
-   "empresa": "Colare",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": "HR/Recruitment Tech",
-   "etapa": "seed",
-   "monto_usd": 2500000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 6.0,
-   "resumen": "Colare ofrece una plataforma de evaluación especializada para ingenieros de hardware.",
-   "razon": "Ronda seed de US$2.5M en mercado interesante (evaluación técnica), pero sin datos de ubicación o tracción específica.",
-   "mensaje": "Vemos a Colare abordando un nicho importante en selección de talento técnico. La ronda de US$2.5M muestra validación del modelo. Nos encantaría conocer vuestra visión para LATAM hispanohablante.",
-   "score": 70,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 12.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-27T12:56:33+00:00",
-   "fecha_evidencia": "2026-10-27T01:51:39+00:00",
-   "ultima_senal": "2026-10-27T01:51:39+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Colare levanta US$2,5M para evaluar ingenieros de hardware",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdHRWYzYyUUhlTl9rRDJ2T3BuUTUtYlkwNldNUjk2ekVwZjlhVU84bk5pZEtzbTg0U21Tb0hFSUlnMEU2SWN3VnV3Z2dVdmJnWjlBODZrX0RzSVREeGJ5ZnE3blZzUm9kZ0pqcDlTbjJOQ2R1bVVmTHRlM0xMUkFRWUQxejdkWnl6LWo3Z1BxaEk?oc=5",
-     "fecha": "2026-10-27T01:51:39+00:00",
-     "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
-   "key": "n:mochatrade",
-   "empresa": "Mochatrade",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": "FinTech",
-   "etapa": "seed",
-   "monto_usd": 5560000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 6.0,
-   "resumen": "Mochatrade recauda USD 5.56M para una plataforma de trading de acciones estadounidenses.",
-   "razon": "Ronda seed de USD 5.56M en FinTech (trading), indica momentum y inversión reconocida. Sin embargo, falta confirmar ubicación en LATAM hispanohablante y si es startup o plataforma más consolidada. Monto está en rango plausible seed.",
-   "mensaje": "Hola equipo de Mochatrade,\n\nVimos que cerraron USD 5.56M para expandir su plataforma de trading. Si tienen operaciones o están creciendo en América Latina hispanohablante, nos interesaría conocer vuestra estrategia y tracción en la región.\n\n¿Disponibles para una breve charla?",
-   "score": 70,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 12.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-27T12:56:33+00:00",
-   "fecha_evidencia": "2026-10-27T03:15:20+00:00",
-   "ultima_senal": "2026-10-27T03:15:20+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Mochatrade raises $5.56 million for US stock trading",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdjFYRFFvM1F6Rkk0UEVGenJXR1F5RE9hZTYxNDhUaThieElldFQ4ZjE3T25GZl96UHkxdm1fX0Y5ZnZQRU9ENFA1N1JSZHhpang1UEtncXV1aHZENXdWX3QtZF9VaFlCU3hEaEdqczZ3QzAtclpQNkRaMzVWcHJBMmxLZ3FBVllUc3Rldg?oc=5",
-     "fecha": "2026-10-27T03:15:20+00:00",
-     "medio": "grafa.com"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "d:agilesoft.cl",
    "empresa": "Agilesoft SpA",
    "sitio_web": "http://www.agilesoft.cl",
@@ -2982,6 +2853,49 @@
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONTlQTVg3VElLNzAxQVV4LVBBWU1nNHpEVGVxVEZVV0l3VGc1RmNMSDFHalhqYzhnTThBN2FZdXh6Rmx6enN4OU03WXJNeXp5dG03cFI0b0pjc3RRbUlxWW95WVF3bnRqVFNtUnFBTXZzZmFMN1FJVUd4ejlRSkZ4azduRC00Y094U25pME5mS01fUWE2?oc=5",
      "fecha": "2026-10-27T19:44:26+00:00",
      "medio": "El Estímulo"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:tradl",
+   "empresa": "Tradl",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "fintech",
+   "etapa": "seed",
+   "monto_usd": 4100000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Tradl democratiza herramientas de trading institucional para inversores minoristas mediante una plataforma de tecnología.",
+   "razon": "Ronda seed de USD 4.1M en fintech de herramientas de trading institucional para retail; mercado atractivo pero sin clara diferenciación mencionada.",
+   "mensaje": "Hola equipo de Tradl, vimos que cerraron una ronda seed de USD 4.1M para llevar herramientas institucionales al retail. Nos encanta ver innovación en fintech que democratiza acceso. ¿Les interesaría conversar sobre oportunidades de expansión en LatAm? Saludos, Latin Leap.",
+   "score": 70,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 14.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-26T14:38:09+00:00",
+   "ultima_senal": "2026-10-26T14:38:09+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Tradl raises $4.1M seed to bring institutional trading tools to retail",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSkttU1RmRkdZdjZOMmc2LThyLVlIMC1RMWNBZU8tdjRLWjF1cDJzWUh6TVY2YlBpU25VQV9yZ2NFSlI5ZDc1SWpfdWNjY0RBN05HZkRKVUZxekE2ZUZmem1hTy1leVo1eUJkTWsyQ1d1Wl9IR3pNNTlTbzduRmlhWUt6QWVHRVk0S3ZKU2x4SXdjRS0wanpMb2ZRX1U1cFFDT1dkTGtR?oc=5",
+     "fecha": "2026-10-26T14:38:09+00:00",
+     "medio": "Dealroom"
     }
    ],
    "motor": "llm"
@@ -4354,6 +4268,92 @@
    "motor": "llm"
   },
   {
+   "key": "n:colare",
+   "empresa": "Colare",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "HR/Recruitment Tech",
+   "etapa": "seed",
+   "monto_usd": 2500000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Colare ofrece una plataforma de evaluación especializada para ingenieros de hardware.",
+   "razon": "Ronda seed de US$2.5M en mercado interesante (evaluación técnica), pero sin datos de ubicación o tracción específica.",
+   "mensaje": "Vemos a Colare abordando un nicho importante en selección de talento técnico. La ronda de US$2.5M muestra validación del modelo. Nos encantaría conocer vuestra visión para LATAM hispanohablante.",
+   "score": 68,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-27T12:56:33+00:00",
+   "fecha_evidencia": "2026-10-27T01:51:39+00:00",
+   "ultima_senal": "2026-10-27T01:51:39+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Colare levanta US$2,5M para evaluar ingenieros de hardware",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdHRWYzYyUUhlTl9rRDJ2T3BuUTUtYlkwNldNUjk2ekVwZjlhVU84bk5pZEtzbTg0U21Tb0hFSUlnMEU2SWN3VnV3Z2dVdmJnWjlBODZrX0RzSVREeGJ5ZnE3blZzUm9kZ0pqcDlTbjJOQ2R1bVVmTHRlM0xMUkFRWUQxejdkWnl6LWo3Z1BxaEk?oc=5",
+     "fecha": "2026-10-27T01:51:39+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:mochatrade",
+   "empresa": "Mochatrade",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "FinTech",
+   "etapa": "seed",
+   "monto_usd": 5560000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Mochatrade recauda USD 5.56M para una plataforma de trading de acciones estadounidenses.",
+   "razon": "Ronda seed de USD 5.56M en FinTech (trading), indica momentum y inversión reconocida. Sin embargo, falta confirmar ubicación en LATAM hispanohablante y si es startup o plataforma más consolidada. Monto está en rango plausible seed.",
+   "mensaje": "Hola equipo de Mochatrade,\n\nVimos que cerraron USD 5.56M para expandir su plataforma de trading. Si tienen operaciones o están creciendo en América Latina hispanohablante, nos interesaría conocer vuestra estrategia y tracción en la región.\n\n¿Disponibles para una breve charla?",
+   "score": 68,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-27T12:56:33+00:00",
+   "fecha_evidencia": "2026-10-27T03:15:20+00:00",
+   "ultima_senal": "2026-10-27T03:15:20+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Mochatrade raises $5.56 million for US stock trading",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdjFYRFFvM1F6Rkk0UEVGenJXR1F5RE9hZTYxNDhUaThieElldFQ4ZjE3T25GZl96UHkxdm1fX0Y5ZnZQRU9ENFA1N1JSZHhpang1UEtncXV1aHZENXdWX3QtZF9VaFlCU3hEaEdqczZ3QzAtclpQNkRaMzVWcHJBMmxLZ3FBVllUc3Rldg?oc=5",
+     "fecha": "2026-10-27T03:15:20+00:00",
+     "medio": "grafa.com"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:xintec.cl",
    "empresa": "Xintec",
    "sitio_web": "http://www.xintec.cl",
@@ -5634,6 +5634,137 @@
    "motor": "llm"
   },
   {
+   "key": "n:ploot",
+   "empresa": "Ploot",
+   "sitio_web": null,
+   "pais": "desconocido",
+   "ciudad": null,
+   "sector": "SaaS / Ventas",
+   "etapa": "pre-seed",
+   "monto_usd": 435000.0,
+   "inversionistas": [
+    "Angels Capital"
+   ],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Ploot es una herramienta de IA para optimizar procesos de ventas. Levantó 400k€ con Angels Capital.",
+   "razon": "IA para ventas con inversionista identificado; monto seed/pre-seed; tracción de inversión ángel, pero falta claridad sobre producto y mercado.",
+   "mensaje": "Hola equipo Ploot, vimos que levantaron 400k€ con Angels Capital para IA de ventas. Nos interesa conocer más sobre cómo están abordando el mercado latinoamericano y cuál es su estrategia de go-to-market. ¿Nos gustaría agendar una llamada para explorar una posible colaboración?",
+   "score": 62,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 12.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-10T13:13:52+00:00",
+   "fecha_evidencia": "2026-11-10T12:03:40+00:00",
+   "ultima_senal": "2026-11-10T12:03:40+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Ploot, IA de ventas, levanta 400.000 € con Angels Capital",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0lHMGozLTJtT3E5X2tJazU1TkZFUFVtLUhkV0FfMjRGaUlfNmxPVkhTNTlJNTZQMWNLSFh1QUN4eGl6MmNhZUF6am5vOGk3Nl83LVBRZnVNeVQyRlJ3dC00ODV4ZU5XYkZPNjRpVHF6cTBuYV90VzVHakozUnRjTURIUmc3QVRrU0pnUDhBTQ?oc=5",
+     "fecha": "2026-11-10T12:03:40+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:ridero",
+   "empresa": "Ridero",
+   "sitio_web": null,
+   "pais": "desconocido",
+   "ciudad": null,
+   "sector": "Fintech / Movilidad",
+   "etapa": "pre-seed",
+   "monto_usd": 2700000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Ridero es una plataforma de financiamiento de vehículos. Levantó USD 2.7M en ronda pre-seed.",
+   "razon": "Pre-seed de USD 2.7M en financiamiento vehicular (mercado grande en LATAM); sin inversionista reconocido mencionado; sin tracción clara reportada.",
+   "mensaje": "Hola equipo Ridero, vimos que cerraron una ronda pre-seed de USD 2.7M para financiamiento vehicular. El mercado de movilidad en Latinoamérica es enorme. Nos gustaría conocer su traction actual y cómo ven la expansión regional. ¿Podemos conectar?",
+   "score": 62,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 12.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-10T13:13:52+00:00",
+   "fecha_evidencia": "2026-11-10T11:19:57+00:00",
+   "ultima_senal": "2026-11-10T11:19:57+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Ridero Raises $2.7M Pre-Seed Round to Push Vehicle Financing",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ2EzemxGSGY0S2h2OHNscHZnZVM0b3pjRENZb0doaTQxQnNwVWNTbUFoaWdpanU2dk1YZEczajU2VU1RWGk4VXlsVHpjUzhqZnVkb3FZeEgyMllySTVIX1NUVFMwWWxQZnhzQlUxTnJHZDAxcDRZeHhtTVVDSjkxeVFfaDhxU3NmV2F3aFZCTUxZZ3d0dHZHNmxNV2ZXRm8?oc=5",
+     "fecha": "2026-11-10T11:19:57+00:00",
+     "medio": "citybiz"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:nyquis",
+   "empresa": "Nyquis",
+   "sitio_web": null,
+   "pais": "desconocido",
+   "ciudad": null,
+   "sector": "Cleantech / Smart Grid",
+   "etapa": "seed",
+   "monto_usd": 6300000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Nyquis desarrolla soluciones de monitoreo granular para redes eléctricas. Levantó USD 6.3M.",
+   "razon": "Seed de USD 6.3M en monitoreo inteligente de grillas (infraestructura crítica); sin inversionistas reconocidos ni tracción reportada; mercado relevante pero necesita más contexto.",
+   "mensaje": "Hola equipo Nyquis, nos llamó la atención su ronda de USD 6.3M para smart grid monitoring. La transformación digital de infraestructura eléctrica es clave en LATAM. ¿Podríamos agendar una conversación para conocer su roadmap regional?",
+   "score": 62,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 12.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-10T13:13:52+00:00",
+   "fecha_evidencia": "2026-11-05T13:32:52+00:00",
+   "ultima_senal": "2026-11-05T13:32:52+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Exclusive: Nyquis raises $6.3M for granular grid monitoring",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GcUhmcjBCYWRKZkh0SDN3eGg1SHplTGtiZ3NtM1dsMmhlT0tERlU2QXFmR3BvWlNTSmVWMW1OMXROcFcxTVQ5VDdEdlczRm9mQmtxWTloejMycjY2bExpM3A5Qk93cG1jQzllQQ?oc=5",
+     "fecha": "2026-11-05T13:32:52+00:00",
+     "medio": "Axios"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "n:niubiq",
    "empresa": "Niubiq",
    "sitio_web": null,
@@ -5652,12 +5783,12 @@
    "resumen": "Niubiq es una plataforma de IA para optimizar procesos de ventas.",
    "razon": "Ronda pre-seed/seed con inversor reconocido. Repetida en señal anterior; espacio de mejora en confirmación de geolocalización LATAM.",
    "mensaje": "Hemos seguido a Niubiq y el apoyo del fondo de Juan Roig nos parece muy positivo. Si están considerando expansión en Latinoamérica hispanohablante, nos encantaría conectar.",
-   "score": 62,
+   "score": 61,
    "desglose": {
     "geografia": 0.0,
     "etapa": 25.0,
     "tecnologia": 15.0,
-    "senal": 10.5,
+    "senal": 9.0,
     "calidad": 12.0
    },
    "prioridad": "Fuera de tesis",
@@ -5734,6 +5865,49 @@
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTEZVTld2OTNLbGxTa3pUa2V4MGRfZDlLd2s3bGxLVFdNaUxHTE9rVE9KTU5sX0hqekFmQ3gxVnNKLU8tbVRHRHc0YVgzODBTbkdFOW51WUR4NmRCU2NxWENhYnhSWXhReGhySzB5RDU0eEJjWVJSa3AxMUllcTBTSlYwUFh6ZzI4eDdXTUM0ZFUzY0ZYT1NFN1dVV2szWEhBRE5jTTRlVXhwZHdkbGwyVEFQNzN1SjRSUFVxQXJPbw?oc=5",
      "fecha": "2026-10-20T07:00:00+00:00",
      "medio": "theinsurer.com"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:venomics",
+   "empresa": "Venomics AI",
+   "sitio_web": null,
+   "pais": "desconocido",
+   "ciudad": null,
+   "sector": "IA / Biotech",
+   "etapa": "pre-seed",
+   "monto_usd": 2700000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Venomics AI es una startup de IA. Levantó USD 2.7M en pre-seed.",
+   "razon": "Pre-seed de USD 2.7M en IA; sin ubicación geográfica clara ni inversionistas mencionados; sector interesante pero poca información de traction.",
+   "mensaje": "Hola equipo Venomics AI, vimos que levantaron USD 2.7M en pre-seed. Nos interesa conocer más sobre el enfoque de IA que están desarrollando y si tienen operaciones o planes en América Latina. ¿Podríamos conectar para explorar oportunidades?",
+   "score": 60,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-10T13:13:52+00:00",
+   "fecha_evidencia": "2026-11-09T15:47:45+00:00",
+   "ultima_senal": "2026-11-09T15:47:45+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Venomics AI Raises $2.7M in Pre-Seed Funding",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTG8yZmdsYTF1eDg2eWhNcmRvMERrcjN0UWQycDVudlRqdC1yLWUydTI3cE9ZbDlScXJ2eEgyM2VmNWI1TWZybklPTUs3VGstWEdKQzFDa2tyRlVpSVZ3eVNoejhpbFF4NndPTXU0NnRlTi1lVk9yMEtSM2E2UU9YVUpvOU1HbUE?oc=5",
+     "fecha": "2026-11-09T15:47:45+00:00",
+     "medio": "FinSMEs"
     }
    ],
    "motor": "llm"
@@ -6254,92 +6428,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:ycbackedbiostack",
-   "empresa": "YC-backed BioStack",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "serie-a",
-   "monto_usd": 9500000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "YC-backed BioStack raises $9.5 million to turn messy hospital records into training data for medical AI Indian Startup News",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 50,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 7.5,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "C",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-26T14:55:10+00:00",
-   "fecha_evidencia": "2026-10-26T13:41:12+00:00",
-   "ultima_senal": "2026-10-26T13:41:12+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "YC-backed BioStack raises $9.5 million to turn messy hospital records into training data for medical AI",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT293cENUMmxuS3BKdVU1TmI1SmlCWklZVVFVc1E0N0l2WFhKN0lVQ28zUGllSHFtWnZtWFRGN29tQVJyYXduMEZnMndSMlF3TjFjazc5Z1VUNWF6XzNZRzZvSGJNY19CX2F2VEdhNDFPYVBKNUY4emI3VlozU2diTjVBWXNqQ2k5VXlWQUt1Qkp5UjJIUzhxMWJPVTFDMy1wZHNlWDFvWTczZkNQYUZGYVhtNVE1UUpOY1lXZVNnaFotNDZKN2lnaG9DY1luazcyVlZuLTBXTF9JS2NZUEd6dHpB0gHiAUFVX3lxTE1Pb3dwQ1QybG5LcEp1VTVOYjVKaUJaSVlVUVVzUTQ3SXZYWEo3SVVDbzNQaWVIcW1adm1YVEY3b21BUnJhd24wRmcyd1IyUXdOMWNrNzlnVVQ1YXpfM1lHNm9IYk1jX0JfYXZUR2E0MU9hUEo1Rjh6YjdWWjNTZ2JONUFZc2pDaTlVeVZBS3VCSnlSMkhTOHExYk9VMUMzLXBkc2VYMW9ZNzNmQ1BhRkZhWG01UTVRSk5jWVdlU2doWi00Nko3aWdob0NjWW5rNzJWVm4tMFdMX0lLY1lQR3p0ekE?oc=5",
-     "fecha": "2026-10-26T13:41:12+00:00",
-     "medio": "Indian Startup News"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "n:madica",
-   "empresa": "Madica",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "serie-a",
-   "monto_usd": 6000000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Madica raises $6m to back early-stage African startups overlooked by traditional investors Technext24.com",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 50,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 7.5,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "C",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-28T13:06:20+00:00",
-   "fecha_evidencia": "2026-10-27T13:00:00+00:00",
-   "ultima_senal": "2026-10-27T13:00:00+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Madica raises $6m to back early-stage African startups overlooked by traditional investors",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91dTlUTXZYQVp5azVnTFRtMTEzUXpRczFpdU1YbUZEd3g4WUQzclRmNndNSkdmYkU5d2VVcmpjR3plZ293LUthUXNSenlpeXhEMElKMEU1NDM1SHhhcndKX2NDenk0MUZEZ2JZd1k1R3hsWDNLNDktd3BVZGRMX0E?oc=5",
-     "fecha": "2026-10-27T13:00:00+00:00",
-     "medio": "Technext24.com"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "n:disruptive",
    "empresa": "Disruptive",
    "sitio_web": null,
@@ -6600,6 +6688,92 @@
    "motor": "reglas"
   },
   {
+   "key": "n:ycbackedbiostack",
+   "empresa": "YC-backed BioStack",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "serie-a",
+   "monto_usd": 9500000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "YC-backed BioStack raises $9.5 million to turn messy hospital records into training data for medical AI Indian Startup News",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 49,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 7.5,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-26T13:41:12+00:00",
+   "ultima_senal": "2026-10-26T13:41:12+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "YC-backed BioStack raises $9.5 million to turn messy hospital records into training data for medical AI",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT293cENUMmxuS3BKdVU1TmI1SmlCWklZVVFVc1E0N0l2WFhKN0lVQ28zUGllSHFtWnZtWFRGN29tQVJyYXduMEZnMndSMlF3TjFjazc5Z1VUNWF6XzNZRzZvSGJNY19CX2F2VEdhNDFPYVBKNUY4emI3VlozU2diTjVBWXNqQ2k5VXlWQUt1Qkp5UjJIUzhxMWJPVTFDMy1wZHNlWDFvWTczZkNQYUZGYVhtNVE1UUpOY1lXZVNnaFotNDZKN2lnaG9DY1luazcyVlZuLTBXTF9JS2NZUEd6dHpB0gHiAUFVX3lxTE1Pb3dwQ1QybG5LcEp1VTVOYjVKaUJaSVlVUVVzUTQ3SXZYWEo3SVVDbzNQaWVIcW1adm1YVEY3b21BUnJhd24wRmcyd1IyUXdOMWNrNzlnVVQ1YXpfM1lHNm9IYk1jX0JfYXZUR2E0MU9hUEo1Rjh6YjdWWjNTZ2JONUFZc2pDaTlVeVZBS3VCSnlSMkhTOHExYk9VMUMzLXBkc2VYMW9ZNzNmQ1BhRkZhWG01UTVRSk5jWVdlU2doWi00Nko3aWdob0NjWW5rNzJWVm4tMFdMX0lLY1lQR3p0ekE?oc=5",
+     "fecha": "2026-10-26T13:41:12+00:00",
+     "medio": "Indian Startup News"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:madica",
+   "empresa": "Madica",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "serie-a",
+   "monto_usd": 6000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Madica raises $6m to back early-stage African startups overlooked by traditional investors Technext24.com",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 49,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 7.5,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-27T13:00:00+00:00",
+   "ultima_senal": "2026-10-27T13:00:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Madica raises $6m to back early-stage African startups overlooked by traditional investors",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91dTlUTXZYQVp5azVnTFRtMTEzUXpRczFpdU1YbUZEd3g4WUQzclRmNndNSkdmYkU5d2VVcmpjR3plZ293LUthUXNSenlpeXhEMElKMEU1NDM1SHhhcndKX2NDenk0MUZEZ2JZd1k1R3hsWDNLNDktd3BVZGRMX0E?oc=5",
+     "fecha": "2026-10-27T13:00:00+00:00",
+     "medio": "Technext24.com"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "n:thepantproject",
    "empresa": "The Pant Project",
    "sitio_web": null,
@@ -6810,92 +6984,6 @@
      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeUozUi1MVWxDLW9VNGhFRjU0QVBDMi1hWU8taVJVcXBOWU1qa2NyalZ1QXU5QmlUZjhaUE9uaU1HVFBzLVhSX3NOaGI2VTJVU1JxbHhXNjRONkVpUG9VS09NUlZHUDJFTmNYUUdNb0psMzd1OXlqVGRabXRTWWFwa3VnMWV1QWhEOHliM0gyenVuZ0Q3RFpjZXc0emJHNl9hQTltYTNZNi1tS2VkeS1Ua2NqdDllQTQ1dF8wUzZZN2pyclRmZ3dPS2VVa1Atb21kU1lNR2lYV0RkR251c211WEpnUTd5dUhxcENiY3lB?oc=5",
      "fecha": "2026-10-13T07:00:00+00:00",
      "medio": "AI Insider"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "n:indiantradingplatformmochatrade",
-   "empresa": "Indian trading platform Mochatrade",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "serie-a",
-   "monto_usd": 5560000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 5.0,
-   "resumen": "Indian trading platform Mochatrade raises funding led by CoinFund, bringing total to $5.56M: The Block CryptoRank",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 43,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 7.5,
-    "tecnologia": 7.5,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "C",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-28T13:06:20+00:00",
-   "fecha_evidencia": "2026-10-27T08:20:53+00:00",
-   "ultima_senal": "2026-10-27T08:20:53+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Indian trading platform Mochatrade raises funding led by CoinFund, bringing total to $5.56M: The Block",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yallWMVlpUXZGRXcxTEVVUnVsRUhVVHR4ZTBOTkFHMkROcUpUeElDZTJ3aXhjY3NlVFE0dzJGejdWMFlnUHpGbFNWNnoxM1pyRE9ZWWVLcElHT215Q29oWUg4c19HN3Nzc1RIYXRmcWo?oc=5",
-     "fecha": "2026-10-27T08:20:53+00:00",
-     "medio": "CryptoRank"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "n:an11personstartup",
-   "empresa": "An 11-person startup",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "serie-b+",
-   "monto_usd": 40000000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "An 11-person startup raised $40 million to challenge robotics' data-hungry giants Business Insider Africa",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 43,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 0.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "Fuera de tesis",
-   "en_tesis": false,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-28T13:06:20+00:00",
-   "fecha_evidencia": "2026-10-27T10:00:01+00:00",
-   "ultima_senal": "2026-10-27T10:00:01+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "An 11-person startup raised $40 million to challenge robotics' data-hungry giants",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcVVlTmkxTnBqVDdHUmtQZjdjbHcwenVIcmw2SHhfN0tjdTVscUsyRVRWSTRhS2tXNWRlbEZlRTlYS2k1OVlRcVhWdUI0S01NbjBmQmNaeU9JYXBDaFJ3MkFYOF9LcV8zcjlaS3l2dEREd1pCS3RDeWpOYV9MaEFTdFZCV2FCcG9aRTEweUJJdnppVlQ1SGFHb0FyT1A4dFNoZ21RX2xyXzRDenM1RUliQXZLcmZBWlFsNkQwSTZBUHRYN3BzRFVxRVY4anE3UQ?oc=5",
-     "fecha": "2026-10-27T10:00:01+00:00",
-     "medio": "Business Insider Africa"
     }
    ],
    "motor": "reglas"
@@ -7331,6 +7419,92 @@
    "motor": "reglas"
   },
   {
+   "key": "n:indiantradingplatformmochatrade",
+   "empresa": "Indian trading platform Mochatrade",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "serie-a",
+   "monto_usd": 5560000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Indian trading platform Mochatrade raises funding led by CoinFund, bringing total to $5.56M: The Block CryptoRank",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 42,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 7.5,
+    "tecnologia": 7.5,
+    "senal": 9.0,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-27T08:20:53+00:00",
+   "ultima_senal": "2026-10-27T08:20:53+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Indian trading platform Mochatrade raises funding led by CoinFund, bringing total to $5.56M: The Block",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yallWMVlpUXZGRXcxTEVVUnVsRUhVVHR4ZTBOTkFHMkROcUpUeElDZTJ3aXhjY3NlVFE0dzJGejdWMFlnUHpGbFNWNnoxM1pyRE9ZWWVLcElHT215Q29oWUg4c19HN3Nzc1RIYXRmcWo?oc=5",
+     "fecha": "2026-10-27T08:20:53+00:00",
+     "medio": "CryptoRank"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:an11personstartup",
+   "empresa": "An 11-person startup",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "serie-b+",
+   "monto_usd": 40000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "An 11-person startup raised $40 million to challenge robotics' data-hungry giants Business Insider Africa",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 42,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 0.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 10.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-27T10:00:01+00:00",
+   "ultima_senal": "2026-10-27T10:00:01+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "An 11-person startup raised $40 million to challenge robotics' data-hungry giants",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcVVlTmkxTnBqVDdHUmtQZjdjbHcwenVIcmw2SHhfN0tjdTVscUsyRVRWSTRhS2tXNWRlbEZlRTlYS2k1OVlRcVhWdUI0S01NbjBmQmNaeU9JYXBDaFJ3MkFYOF9LcV8zcjlaS3l2dEREd1pCS3RDeWpOYV9MaEFTdFZCV2FCcG9aRTEweUJJdnppVlQ1SGFHb0FyT1A4dFNoZ21RX2xyXzRDenM1RUliQXZLcmZBWlFsNkQwSTZBUHRYN3BzRFVxRVY4anE3UQ?oc=5",
+     "fecha": "2026-10-27T10:00:01+00:00",
+     "medio": "Business Insider Africa"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "n:valendra",
    "empresa": "Valendra",
    "sitio_web": null,
@@ -7590,14 +7764,14 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-11-09T13:24:16+00:00",
+  "actualizado": "2026-11-10T13:13:52+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 100,
-  "prioridad_a_30d": 30,
-  "incremento_vs_baseline": 1.667,
-  "cumplimiento_meta": 16.67,
-  "total_deals": 162,
+  "calificados_30d": 99,
+  "prioridad_a_30d": 29,
+  "incremento_vs_baseline": 1.65,
+  "cumplimiento_meta": 16.5,
+  "total_deals": 166,
   "total_calificados": 113,
   "conocidos_detectados": 2,
   "por_semana": {
@@ -9055,6 +9229,84 @@
       "fuente": "Google News",
       "ok": true,
       "senales": 158,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 5,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 1,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 47,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-11-10T13:12:31+00:00",
+    "fin": "2026-11-10T13:13:52+00:00",
+    "senales_crudas": 261,
+    "descartadas_prefiltro": 105,
+    "procesadas": 20,
+    "deals_nuevos": 4,
+    "calificados_nuevos": 0,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 13,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 165,
       "error": null
      },
      {

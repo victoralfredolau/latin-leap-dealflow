@@ -3185,12 +3185,12 @@
   "ultima_senal": "2026-10-26T16:10:04+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 62,
+  "score": 61,
   "desglose": {
    "geografia": 0.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 12.0
   },
   "prioridad": "Fuera de tesis",
@@ -3982,12 +3982,12 @@
   "ultima_senal": "2026-10-26T13:41:12+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 50,
+  "score": 49,
   "desglose": {
    "geografia": 7.5,
    "etapa": 7.5,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
   "prioridad": "C",
@@ -4559,12 +4559,12 @@
   "ultima_senal": "2026-10-27T01:51:39+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 12.0
   },
   "prioridad": "B",
@@ -4599,12 +4599,12 @@
   "ultima_senal": "2026-10-27T03:15:20+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 12.0
   },
   "prioridad": "B",
@@ -5000,12 +5000,12 @@
   "ultima_senal": "2026-10-27T08:20:53+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 43,
+  "score": 42,
   "desglose": {
    "geografia": 7.5,
    "etapa": 7.5,
    "tecnologia": 7.5,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
   "prioridad": "C",
@@ -5038,12 +5038,12 @@
   "ultima_senal": "2026-10-27T13:00:00+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 50,
+  "score": 49,
   "desglose": {
    "geografia": 7.5,
    "etapa": 7.5,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
   "prioridad": "C",
@@ -5076,12 +5076,12 @@
   "ultima_senal": "2026-10-27T10:00:01+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 43,
+  "score": 42,
   "desglose": {
    "geografia": 7.5,
    "etapa": 0.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
   "prioridad": "Fuera de tesis",
@@ -5342,12 +5342,12 @@
   "ultima_senal": "2026-10-26T14:38:09+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 72,
+  "score": 70,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 14.0
   },
   "prioridad": "B",
@@ -7001,5 +7001,171 @@
   },
   "prioridad": "B",
   "en_tesis": true
+ },
+ "n:ploot": {
+  "key": "n:ploot",
+  "primera_vista": "2026-11-10T13:13:52+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Ploot, IA de ventas, levanta 400.000 € con Angels Capital",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0lHMGozLTJtT3E5X2tJazU1TkZFUFVtLUhkV0FfMjRGaUlfNmxPVkhTNTlJNTZQMWNLSFh1QUN4eGl6MmNhZUF6am5vOGk3Nl83LVBRZnVNeVQyRlJ3dC00ODV4ZU5XYkZPNjRpVHF6cTBuYV90VzVHakozUnRjTURIUmc3QVRrU0pnUDhBTQ?oc=5",
+    "fecha": "2026-11-10T12:03:40+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [
+   "Angels Capital"
+  ],
+  "fundadores": [],
+  "calidad": 6.0,
+  "motor": "llm",
+  "empresa": "Ploot",
+  "pais": "desconocido",
+  "sector": "SaaS / Ventas",
+  "etapa": "pre-seed",
+  "monto_usd": 435000.0,
+  "tecnologia": true,
+  "resumen": "Ploot es una herramienta de IA para optimizar procesos de ventas. Levantó 400k€ con Angels Capital.",
+  "mensaje": "Hola equipo Ploot, vimos que levantaron 400k€ con Angels Capital para IA de ventas. Nos interesa conocer más sobre cómo están abordando el mercado latinoamericano y cuál es su estrategia de go-to-market. ¿Nos gustaría agendar una llamada para explorar una posible colaboración?",
+  "razon": "IA para ventas con inversionista identificado; monto seed/pre-seed; tracción de inversión ángel, pero falta claridad sobre producto y mercado.",
+  "fecha_evidencia": "2026-11-10T12:03:40+00:00",
+  "ultima_senal": "2026-11-10T12:03:40+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 62,
+  "desglose": {
+   "geografia": 0.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 12.0
+  },
+  "prioridad": "Fuera de tesis",
+  "en_tesis": false
+ },
+ "n:ridero": {
+  "key": "n:ridero",
+  "primera_vista": "2026-11-10T13:13:52+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Ridero Raises $2.7M Pre-Seed Round to Push Vehicle Financing",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ2EzemxGSGY0S2h2OHNscHZnZVM0b3pjRENZb0doaTQxQnNwVWNTbUFoaWdpanU2dk1YZEczajU2VU1RWGk4VXlsVHpjUzhqZnVkb3FZeEgyMllySTVIX1NUVFMwWWxQZnhzQlUxTnJHZDAxcDRZeHhtTVVDSjkxeVFfaDhxU3NmV2F3aFZCTUxZZ3d0dHZHNmxNV2ZXRm8?oc=5",
+    "fecha": "2026-11-10T11:19:57+00:00",
+    "medio": "citybiz"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 6.0,
+  "motor": "llm",
+  "empresa": "Ridero",
+  "pais": "desconocido",
+  "sector": "Fintech / Movilidad",
+  "etapa": "pre-seed",
+  "monto_usd": 2700000.0,
+  "tecnologia": true,
+  "resumen": "Ridero es una plataforma de financiamiento de vehículos. Levantó USD 2.7M en ronda pre-seed.",
+  "mensaje": "Hola equipo Ridero, vimos que cerraron una ronda pre-seed de USD 2.7M para financiamiento vehicular. El mercado de movilidad en Latinoamérica es enorme. Nos gustaría conocer su traction actual y cómo ven la expansión regional. ¿Podemos conectar?",
+  "razon": "Pre-seed de USD 2.7M en financiamiento vehicular (mercado grande en LATAM); sin inversionista reconocido mencionado; sin tracción clara reportada.",
+  "fecha_evidencia": "2026-11-10T11:19:57+00:00",
+  "ultima_senal": "2026-11-10T11:19:57+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 62,
+  "desglose": {
+   "geografia": 0.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 12.0
+  },
+  "prioridad": "Fuera de tesis",
+  "en_tesis": false
+ },
+ "n:nyquis": {
+  "key": "n:nyquis",
+  "primera_vista": "2026-11-10T13:13:52+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Exclusive: Nyquis raises $6.3M for granular grid monitoring",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GcUhmcjBCYWRKZkh0SDN3eGg1SHplTGtiZ3NtM1dsMmhlT0tERlU2QXFmR3BvWlNTSmVWMW1OMXROcFcxTVQ5VDdEdlczRm9mQmtxWTloejMycjY2bExpM3A5Qk93cG1jQzllQQ?oc=5",
+    "fecha": "2026-11-05T13:32:52+00:00",
+    "medio": "Axios"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 6.0,
+  "motor": "llm",
+  "empresa": "Nyquis",
+  "pais": "desconocido",
+  "sector": "Cleantech / Smart Grid",
+  "etapa": "seed",
+  "monto_usd": 6300000.0,
+  "tecnologia": true,
+  "resumen": "Nyquis desarrolla soluciones de monitoreo granular para redes eléctricas. Levantó USD 6.3M.",
+  "mensaje": "Hola equipo Nyquis, nos llamó la atención su ronda de USD 6.3M para smart grid monitoring. La transformación digital de infraestructura eléctrica es clave en LATAM. ¿Podríamos agendar una conversación para conocer su roadmap regional?",
+  "razon": "Seed de USD 6.3M en monitoreo inteligente de grillas (infraestructura crítica); sin inversionistas reconocidos ni tracción reportada; mercado relevante pero necesita más contexto.",
+  "fecha_evidencia": "2026-11-05T13:32:52+00:00",
+  "ultima_senal": "2026-11-05T13:32:52+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 62,
+  "desglose": {
+   "geografia": 0.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 12.0
+  },
+  "prioridad": "Fuera de tesis",
+  "en_tesis": false
+ },
+ "n:venomics": {
+  "key": "n:venomics",
+  "primera_vista": "2026-11-10T13:13:52+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Venomics AI Raises $2.7M in Pre-Seed Funding",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTG8yZmdsYTF1eDg2eWhNcmRvMERrcjN0UWQycDVudlRqdC1yLWUydTI3cE9ZbDlScXJ2eEgyM2VmNWI1TWZybklPTUs3VGstWEdKQzFDa2tyRlVpSVZ3eVNoejhpbFF4NndPTXU0NnRlTi1lVk9yMEtSM2E2UU9YVUpvOU1HbUE?oc=5",
+    "fecha": "2026-11-09T15:47:45+00:00",
+    "medio": "FinSMEs"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "llm",
+  "empresa": "Venomics AI",
+  "pais": "desconocido",
+  "sector": "IA / Biotech",
+  "etapa": "pre-seed",
+  "monto_usd": 2700000.0,
+  "tecnologia": true,
+  "resumen": "Venomics AI es una startup de IA. Levantó USD 2.7M en pre-seed.",
+  "mensaje": "Hola equipo Venomics AI, vimos que levantaron USD 2.7M en pre-seed. Nos interesa conocer más sobre el enfoque de IA que están desarrollando y si tienen operaciones o planes en América Latina. ¿Podríamos conectar para explorar oportunidades?",
+  "razon": "Pre-seed de USD 2.7M en IA; sin ubicación geográfica clara ni inversionistas mencionados; sector interesante pero poca información de traction.",
+  "fecha_evidencia": "2026-11-09T15:47:45+00:00",
+  "ultima_senal": "2026-11-09T15:47:45+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 60,
+  "desglose": {
+   "geografia": 0.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 10.0
+  },
+  "prioridad": "Fuera de tesis",
+  "en_tesis": false
  }
 }

@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-11-09T13:24:16+00:00",
+ "actualizado": "2026-11-10T13:13:52+00:00",
  "baseline_mes": 60,
  "meta_incremental_mes": 6,
- "calificados_30d": 100,
- "prioridad_a_30d": 30,
- "incremento_vs_baseline": 1.667,
- "cumplimiento_meta": 16.67,
- "total_deals": 162,
+ "calificados_30d": 99,
+ "prioridad_a_30d": 29,
+ "incremento_vs_baseline": 1.65,
+ "cumplimiento_meta": 16.5,
+ "total_deals": 166,
  "total_calificados": 113,
  "conocidos_detectados": 2,
  "por_semana": {
@@ -1464,6 +1464,84 @@
      "fuente": "Google News",
      "ok": true,
      "senales": 158,
+     "error": null
+    },
+    {
+     "fuente": "Y Combinator",
+     "ok": true,
+     "senales": 5,
+     "error": null
+    },
+    {
+     "fuente": "Hacker News",
+     "ok": true,
+     "senales": 1,
+     "error": null
+    },
+    {
+     "fuente": "Get on Board",
+     "ok": true,
+     "senales": 47,
+     "error": null
+    }
+   ]
+  },
+  {
+   "inicio": "2026-11-10T13:12:31+00:00",
+   "fin": "2026-11-10T13:13:52+00:00",
+   "senales_crudas": 261,
+   "descartadas_prefiltro": 105,
+   "procesadas": 20,
+   "deals_nuevos": 4,
+   "calificados_nuevos": 0,
+   "motor": "llm",
+   "fuentes": [
+    {
+     "fuente": "LatamList",
+     "ok": true,
+     "senales": 10,
+     "error": null
+    },
+    {
+     "fuente": "Contxto",
+     "ok": true,
+     "senales": 13,
+     "error": null
+    },
+    {
+     "fuente": "Startupeable",
+     "ok": false,
+     "senales": 0,
+     "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+    },
+    {
+     "fuente": "TechCrunch LatAm",
+     "ok": true,
+     "senales": 0,
+     "error": null
+    },
+    {
+     "fuente": "Pulso Social",
+     "ok": false,
+     "senales": 0,
+     "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+    },
+    {
+     "fuente": "Startups Latam",
+     "ok": true,
+     "senales": 10,
+     "error": null
+    },
+    {
+     "fuente": "Techla Media",
+     "ok": true,
+     "senales": 10,
+     "error": null
+    },
+    {
+     "fuente": "Google News",
+     "ok": true,
+     "senales": 165,
      "error": null
     },
     {
