@@ -1016,6 +1016,14 @@
     "url": "https://www.getonbrd.com/jobs/qa-analyst-rankmi-santiago",
     "fecha": "2026-10-23T16:23:28+00:00",
     "medio": null
+   },
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Rankmi está contratando: Dev Full-Stack Integraciones, Data Engineer",
+    "url": "https://www.getonbrd.com/jobs/data-engineer-rankmi-ciudad-de-mexico-santiago-lima",
+    "fecha": "2026-11-11T00:19:28+00:00",
+    "medio": null
    }
   ],
   "inversionistas": [],
@@ -1033,15 +1041,15 @@
   "mensaje": "Rankmi está construyendo la solución integral que el mercado LATAM de HR necesita. Tu enfoque en IA y unificación me parece diferenciador. ¿Hay espacio para una conversación sobre oportunidades de crecimiento regional?",
   "razon": "Plataforma consolidada de gestión de personas con IA integrada, abordando mercado LATAM de HR tech con tracción evidenciada por expansión de contratación.",
   "fecha_evidencia": "2026-10-23T16:23:28+00:00",
-  "ultima_senal": "2026-10-23T16:23:28+00:00",
+  "ultima_senal": "2026-11-11T00:19:28+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 68,
+  "score": 69,
   "desglose": {
    "geografia": 25.0,
    "etapa": 7.5,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 7.5,
    "calidad": 14.0
   },
   "prioridad": "B",
@@ -1058,6 +1066,14 @@
     "url": "https://www.getonbrd.com/jobs/data-engineering-lisit-santiago",
     "fecha": "2026-10-20T19:46:35+00:00",
     "medio": null
+   },
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Lisit está contratando: Consultor SAP TRM / Tesorería Extendida, Senior SAP Dms Consultant",
+    "url": "https://www.getonbrd.com/jobs/consultor-sap-dms-ca-dms-senior-lisit-remote",
+    "fecha": "2026-11-10T18:18:15+00:00",
+    "medio": null
    }
   ],
   "inversionistas": [],
@@ -1072,15 +1088,15 @@
   "resumen": "Creamos, desarrollamos e implementamos servicios de software capaces de proporcionar herramientas de automatización y optimización requeridos manteniendo constante el foco de innovación y pasión por los desafíos.",
   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
   "fecha_evidencia": "2026-10-20T19:46:35+00:00",
-  "ultima_senal": "2026-10-20T19:46:35+00:00",
+  "ultima_senal": "2026-11-10T18:18:15+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 68,
+  "score": 70,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 7.5,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -1747,6 +1763,14 @@
     "url": "https://www.getonbrd.com/jobs/data-engineer-codeable-lima",
     "fecha": "2026-10-20T19:44:06+00:00",
     "medio": null
+   },
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Codeable está contratando: Analista de Datos Power BI",
+    "url": "https://www.getonbrd.com/jobs/analista-de-datos-power-bi-codeable-lima",
+    "fecha": "2026-11-09T22:00:49+00:00",
+    "medio": null
    }
   ],
   "inversionistas": [],
@@ -1761,15 +1785,15 @@
   "resumen": "Codeable es una escuela de programación de alta calidad que invierte en sus estudiantes y los entrena como software developers altamente empleables. ",
   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
   "fecha_evidencia": "2026-10-20T19:44:06+00:00",
-  "ultima_senal": "2026-10-20T19:44:06+00:00",
+  "ultima_senal": "2026-11-09T22:00:49+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 68,
+  "score": 70,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 7.5,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -4638,12 +4662,12 @@
   "ultima_senal": "2026-10-27T17:02:07+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -4719,12 +4743,12 @@
   "ultima_senal": "2026-10-27T21:00:05+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 72,
+  "score": 70,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 12.0
   },
   "prioridad": "B",
@@ -4758,12 +4782,12 @@
   "ultima_senal": "2026-10-27T18:39:38+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -4800,12 +4824,12 @@
   "ultima_senal": "2026-10-27T20:46:08+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -4963,15 +4987,15 @@
   "ultima_senal": "2026-10-28T06:32:30+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 60,
+  "score": 59,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 7.5,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
-  "prioridad": "B",
+  "prioridad": "C",
   "en_tesis": true
  },
  "n:indiantradingplatformmochatrade": {
@@ -5191,12 +5215,12 @@
   "ultima_senal": "2026-10-27T19:44:26+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 69,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 12.0
   },
   "prioridad": "B",
@@ -5240,12 +5264,12 @@
   "ultima_senal": "2026-10-28T01:33:44+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 88,
+  "score": 86,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 12.0
   },
   "prioridad": "A",
@@ -5382,12 +5406,12 @@
   "ultima_senal": "2026-10-28T00:00:25+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 12.0
   },
   "prioridad": "B",
@@ -5419,12 +5443,12 @@
   "ultima_senal": "2026-10-28T11:14:53+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 42,
+  "score": 40,
   "desglose": {
    "geografia": 7.5,
    "etapa": 12.5,
    "tecnologia": 7.5,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 8.0
   },
   "prioridad": "C",
@@ -5458,12 +5482,12 @@
   "ultima_senal": "2026-10-28T13:15:35+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -5533,12 +5557,12 @@
   "ultima_senal": "2026-10-28T12:41:46+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 56,
+  "score": 54,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 7.5,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 10.0
   },
   "prioridad": "C",
@@ -6163,12 +6187,12 @@
   "ultima_senal": "2026-10-27T19:06:37+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 50,
+  "score": 49,
   "desglose": {
    "geografia": 7.5,
    "etapa": 7.5,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
   "prioridad": "C",
@@ -7013,6 +7037,14 @@
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0lHMGozLTJtT3E5X2tJazU1TkZFUFVtLUhkV0FfMjRGaUlfNmxPVkhTNTlJNTZQMWNLSFh1QUN4eGl6MmNhZUF6am5vOGk3Nl83LVBRZnVNeVQyRlJ3dC00ODV4ZU5XYkZPNjRpVHF6cTBuYV90VzVHakozUnRjTURIUmc3QVRrU0pnUDhBTQ?oc=5",
     "fecha": "2026-11-10T12:03:40+00:00",
     "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Ploot levanta 400.000 € para cazar señales de compra con IA",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQVZWMVdtX0VBSHZvWGlKR3p4SFhJWjFuYkJlZFRxSHZSS19XMHI0VVNNOUNHWE5xclhkTnNmVnZQOGQyTFQyY0d5UXdST3RidEtVS2dsNS13WTM5S1hUWkZPeE5oRjNaTVRIcXdoZGJud1YtX1FrUFFGbG1reV9DTW5pN0w1eDl6d2dBenZZTmNqQzNW?oc=5",
+    "fecha": "2026-11-11T04:21:33+00:00",
+    "medio": "El Ecosistema Startup"
    }
   ],
   "inversionistas": [
@@ -7022,28 +7054,28 @@
   "calidad": 6.0,
   "motor": "llm",
   "empresa": "Ploot",
-  "pais": "desconocido",
-  "sector": "SaaS / Ventas",
-  "etapa": "pre-seed",
-  "monto_usd": 435000.0,
+  "pais": "Colombia",
+  "sector": "FinTech / Trading / IA",
+  "etapa": "seed",
+  "monto_usd": 440000.0,
   "tecnologia": true,
-  "resumen": "Ploot es una herramienta de IA para optimizar procesos de ventas. Levantó 400k€ con Angels Capital.",
-  "mensaje": "Hola equipo Ploot, vimos que levantaron 400k€ con Angels Capital para IA de ventas. Nos interesa conocer más sobre cómo están abordando el mercado latinoamericano y cuál es su estrategia de go-to-market. ¿Nos gustaría agendar una llamada para explorar una posible colaboración?",
-  "razon": "IA para ventas con inversionista identificado; monto seed/pre-seed; tracción de inversión ángel, pero falta claridad sobre producto y mercado.",
+  "resumen": "Plataforma de IA que detecta señales de compra automáticamente para traders e inversores.",
+  "mensaje": "Vimos que Ploot acaba de levantar 400k€ para desarrollar su plataforma de señales de compra con IA. Es un caso interesante en el ecosistema colombiano. ¿Estarían disponibles para una conversación sobre vuestro tracción y visión regional?",
+  "razon": "FinTech con IA en Colombia es mercado atractivo; ronda seed validada, pero sin información de inversionistas de renombre o traction específica reportada.",
   "fecha_evidencia": "2026-11-10T12:03:40+00:00",
-  "ultima_senal": "2026-11-10T12:03:40+00:00",
+  "ultima_senal": "2026-11-11T04:21:33+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 62,
+  "score": 88,
   "desglose": {
-   "geografia": 0.0,
+   "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
    "senal": 10.5,
    "calidad": 12.0
   },
-  "prioridad": "Fuera de tesis",
-  "en_tesis": false
+  "prioridad": "A",
+  "en_tesis": true
  },
  "n:ridero": {
   "key": "n:ridero",
@@ -7167,5 +7199,469 @@
   },
   "prioridad": "Fuera de tesis",
   "en_tesis": false
+ },
+ "d:agilistik.cl": {
+  "key": "d:agilistik.cl",
+  "primera_vista": "2026-11-11T13:21:52+00:00",
+  "senales": [
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Agilistik está contratando: IT Specialist (Oracle/Unix)",
+    "url": "https://www.getonbrd.com/jobs/it-specialist-oracle-unix-agilistik-santiago",
+    "fecha": "2026-11-10T15:57:51+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Agilistik",
+  "sitio_web": "https://agilistik.cl/",
+  "pais": "Chile",
+  "etapa": "desconocida",
+  "tecnologia": true,
+  "resumen": "Agilistik Scaled Agile (SAFe) Bronze Partners y ICAgile Partners. Especialistas en agilidad y desarrollo de software. Trabajamos con los clientes más grandes de Chile y LATAM. ",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-10T15:57:51+00:00",
+  "ultima_senal": "2026-11-10T15:57:51+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 70,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 12.5,
+   "tecnologia": 15.0,
+   "senal": 7.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "d:dynamicdevs.io": {
+  "key": "d:dynamicdevs.io",
+  "primera_vista": "2026-11-11T13:21:52+00:00",
+  "senales": [
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Dynamic Devs está contratando: Full-Stack Engineer (TypeScript/React), Full-Stack Engineer (TypeScript/React), QA Automation Engineer",
+    "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-cc99",
+    "fecha": "2026-11-03T14:25:53+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Dynamic Devs",
+  "sitio_web": "https://www.dynamicdevs.io",
+  "pais": "Chile",
+  "etapa": "desconocida",
+  "tecnologia": true,
+  "resumen": "Desarrollo de software: Auténtico entendimiento y habilitación de la innovación tecnológica",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-03T14:25:53+00:00",
+  "ultima_senal": "2026-11-03T14:25:53+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 70,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 12.5,
+   "tecnologia": 15.0,
+   "senal": 7.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "d:bctecnologia.com": {
+  "key": "d:bctecnologia.com",
+  "primera_vista": "2026-11-11T13:21:52+00:00",
+  "senales": [
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "BC Tecnología está contratando: Desarrollador/a Full-Stack Java/angular, Desarrollador/a Full-Stack Java/angular, Desarrollador Full-Stack React, Desarrollador/a Full-Stack – Front-end & Datos",
+    "url": "https://www.getonbrd.com/jobs/administrador-servicenow-itsm-itom-bc-tecnologia-santiago",
+    "fecha": "2026-11-10T21:38:58+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "BC Tecnología",
+  "sitio_web": "http://www.bctecnologia.com",
+  "pais": "Chile",
+  "etapa": "desconocida",
+  "tecnologia": true,
+  "resumen": "Somos una consultora de TI con personal experto en diferentes áreas de tecnología.",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-10T21:38:58+00:00",
+  "ultima_senal": "2026-11-10T21:38:58+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 70,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 12.5,
+   "tecnologia": 15.0,
+   "senal": 7.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:southkoreasmashupventures": {
+  "key": "n:southkoreasmashupventures",
+  "primera_vista": "2026-11-11T13:21:52+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "South Korea's Mashup Ventures Raises 25.9 Billion Won Private Fund Without Policy Capital, Expanding Ultra-Early AI and Deep Tech Bets",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tSFNOZWVMWW94X1JSSnluSXNSeTBJcDhXbVlWb2tzd0dZOUZJSGlGNEo4MF9CNnJDYnA0bzZpMGpvN055SU1BZWpUVlo0ZVVZcGVmME40M0pSVGtsQU9tNk83TnZEOVZIUXhTdUtTQTY1UHJTTnc?oc=5",
+    "fecha": "2026-11-11T04:55:00+00:00",
+    "medio": "BigGo Finance"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "South Korea's Mashup Ventures",
+  "etapa": "desconocida",
+  "tecnologia": true,
+  "resumen": "South Korea's Mashup Ventures Raises 25.9 Billion Won Private Fund Without Policy Capital, Expanding Ultra-Early AI and Deep Tech Bets BigGo Finance",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-11T04:55:00+00:00",
+  "ultima_senal": "2026-11-11T04:55:00+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 51,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 12.5,
+   "tecnologia": 15.0,
+   "senal": 6.0,
+   "calidad": 10.0
+  },
+  "prioridad": "C",
+  "en_tesis": true
+ },
+ "n:southafricanfintechlumepay": {
+  "key": "n:southafricanfintechlumepay",
+  "primera_vista": "2026-11-11T13:21:52+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "South African Fintech Lumepay Raises $6M Pre-Seed to Build Africa’s Institutional Cross-Border Payments Rails",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM1VHYmQtZDBGUEVuYWQwcEF3WmRvekV4eHcwcUp0ZGgwaExJR2QxZlhtM3JOaklBQWZiRFpnWEVJcnNDaHhXUnUwYnRfaXRHQ2FUYkM1QVBndzg3aGZDLXVzUjhlLUFuMGl0cXlWVlUtSndCSVlRVW5IMW16WWZMc0xtTUYyeHdVX05zTkFiZmc3eThZV2hiRUFtbUZGalp4d0dlMHFhcjlILVlpYXdEMzV6QlY3XzViUzhYN2pDWjNJa3c4MmZoOGVZVVdSZ2gtYmhqVjZSQmMwZFFYMktENld3?oc=5",
+    "fecha": "2026-11-10T05:29:00+00:00",
+    "medio": "Launch Base Africa"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "South African Fintech Lumepay",
+  "etapa": "pre-seed",
+  "monto_usd": 6000000.0,
+  "tecnologia": true,
+  "resumen": "South African Fintech Lumepay Raises $6M Pre-Seed to Build Africa’s Institutional Cross-Border Payments Rails Launch Base Africa",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-10T05:29:00+00:00",
+  "ultima_senal": "2026-11-10T05:29:00+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 68,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:lumepay": {
+  "key": "n:lumepay",
+  "primera_vista": "2026-11-11T13:21:52+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Lumepay Secures Six Million Dollars to Launch Cross-Border Payments Network in Kenya",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOekZNajVFc3pNN0lUZW40NUtGLWZrMmpfbzBYZHBvcUZOdHlsRGJfNi1jUTVOR3VUeGUyRHBWcjc5RUtvN0tZeko5V2dzSXpSakhHRWZUZDJ1djFKejBfV29ycGstZGlpb3c3LS1FZVpnaGkwc3dsZUt5eGdxWE5CWW9GMThjb1VNWGk4WHpZR1JwOXBNRnd0X1VLam9jWThQSVRocEd6S0R0cURVUC1yVng3aThoZ1hPV2c?oc=5",
+    "fecha": "2026-11-11T08:21:00+00:00",
+    "medio": "https://streamlinefeed.co.ke/"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Lumepay",
+  "etapa": "desconocida",
+  "resumen": "Lumepay Secures Six Million Dollars to Launch Cross-Border Payments Network in Kenya https://streamlinefeed.co.ke/",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-11T08:21:00+00:00",
+  "ultima_senal": "2026-11-11T08:21:00+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 44,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 12.5,
+   "tecnologia": 7.5,
+   "senal": 6.0,
+   "calidad": 10.0
+  },
+  "prioridad": "C",
+  "en_tesis": true
+ },
+ "n:romanianedtechcompanykinderpedia": {
+  "key": "n:romanianedtechcompanykinderpedia",
+  "primera_vista": "2026-11-11T13:21:52+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Romanian edtech company Kinderpedia raises EUR 2.7 million to accelerate international expansion",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOEtyZUJZeVlMME1LaDk4M0M1RjRKemozYnl6OHRDSndwQ2JUZUdHM2FNSzhBNDA5a2xSdVBGRDhWZjVjMmpPd1RrWlp6RDNmdXROWkNOUUZJd2l5S2VfYXpxS2NRdzRGOUZwM0ZiVmJFYlBscEUwak9tZlJSTU1KRUtrbFFkRGl2YWltRmd6MVgzVHpoWTVVOW9WREFZbUx5WEYtZkdrN040cllmcW5MQXlKRmFvQlBiWW5oYWJSeEh0NDhPeTZxSHNqVmNYeFloWVAyOU5mQW1xZw?oc=5",
+    "fecha": "2026-11-11T11:35:23+00:00",
+    "medio": "Business Review"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Romanian edtech company Kinderpedia",
+  "etapa": "desconocida",
+  "tecnologia": true,
+  "resumen": "Romanian edtech company Kinderpedia raises EUR 2.7 million to accelerate international expansion Business Review",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-11T11:35:23+00:00",
+  "ultima_senal": "2026-11-11T11:35:23+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 51,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 12.5,
+   "tecnologia": 15.0,
+   "senal": 6.0,
+   "calidad": 10.0
+  },
+  "prioridad": "C",
+  "en_tesis": true
+ },
+ "n:fintechlumepay": {
+  "key": "n:fintechlumepay",
+  "primera_vista": "2026-11-11T13:21:52+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "SA Fintech Lumepay Raises USD 6 M Pre-Seed To Expand African Cross-Border Payments",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPczhESndHTEVBMm1PM0tvbGp4V3F5Y3JqMEtqdHFfdzhkZGtXZXpkUFV1eUhELXNlTDZfRkV6MEdtR19BSlZqZ0U4WmlVWU9Yc1F4YUV3NktSemhVN3IxYU8xRGxsYTM2eXR5NEJBOWEwMVB3dDItcGtBdHFvZUxpRUVQTEdCT1JyUTIxRXZR?oc=5",
+    "fecha": "2026-11-10T21:46:33+00:00",
+    "medio": "WeeTracker"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "SA Fintech Lumepay",
+  "etapa": "pre-seed",
+  "monto_usd": 6000000.0,
+  "tecnologia": true,
+  "resumen": "SA Fintech Lumepay Raises USD 6 M Pre-Seed To Expand African Cross-Border Payments WeeTracker",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-10T21:46:33+00:00",
+  "ultima_senal": "2026-11-10T21:46:33+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 68,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:albeeware": {
+  "key": "n:albeeware",
+  "primera_vista": "2026-11-11T13:21:52+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Welding robot startup albeeware raises $660,000 seed round from SparkLabs, SOSV",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVmxfeTJCOVJhSWUtSkIxSXp2RGVZWTRvNERGalpDMFdTbjk2UHF0cmdxVVFlNVozTXItaFhYWFpTdEpTbFhEY0FmN2p1ejJCdGhYUlpKa2MzX2sxbjVUcVFZNFBfaWF3OGtWWkU1T2dwSVM5WTBwQXpNV0JDNUlRa3JBbWhqS0QySTlKaFRlVllSbDk0Vnp6dDBUUkxUSGJSY3E2bTlfS2M4VXdNWlhqTw?oc=5",
+    "fecha": "2026-11-04T21:17:40+00:00",
+    "medio": "Dealroom"
+   }
+  ],
+  "inversionistas": [
+   "SparkLabs, SOSV"
+  ],
+  "fundadores": [],
+  "calidad": 7.0,
+  "motor": "llm",
+  "empresa": "albeeware",
+  "sector": "Hardware / Robótica",
+  "etapa": "seed",
+  "monto_usd": 660000.0,
+  "tecnologia": true,
+  "resumen": "Startup de robots de soldadura que ha levantado financiamiento de inversores prestigiosos para escalar su tecnología.",
+  "mensaje": "Nos interesa mucho albeeware y el momentum que generaron con SparkLabs y SOSV. Nos gustaría conocer más sobre vuestro roadmap de expansión en América Latina y cómo estáis pensando el go-to-market regional. ¿Podremos agendar una breve llamada?",
+  "razon": "Inversionistas reconocidos (SOSV es acelerador top global), ronda seed validada, hardware de robótica es mercado de alto potencial.",
+  "fecha_evidencia": "2026-11-04T21:17:40+00:00",
+  "ultima_senal": "2026-11-04T21:17:40+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 72,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 14.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:mawsool": {
+  "key": "n:mawsool",
+  "primera_vista": "2026-11-11T13:21:52+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Mawsool raises pre-seed funding to develop AI-powered sales intelligence platform",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX0VtUWY3YmhabExKbW9mNy1lSlZVRzZ1RDhHTE0wRzcyOEVfa0k3T1IxdjlDSkh3eUxzQlcwMEZOcktUd1ZqYWJ2Z29UYUlWOWhBVHJ0YldrX0Y4dXNobmpqYXg2NlNYdWFPck1qR2pmZzBiaFFORkdKZXZ0eUk5am1tdVgxUDVTb0dxczEzNXhNUk1iLWh3dV9tcWtsLWFpSjRMYXpRYk9fU0NM?oc=5",
+    "fecha": "2026-11-10T13:19:07+00:00",
+    "medio": "Wamda"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 6.0,
+  "motor": "llm",
+  "empresa": "Mawsool",
+  "sector": "SaaS / IA / Sales Intelligence",
+  "etapa": "pre-seed",
+  "tecnologia": true,
+  "resumen": "Plataforma de inteligencia de ventas potenciada por IA que ayuda a identificar señales de compra para profesionales de ventas.",
+  "mensaje": "Seguimos de cerca startups en el espacio de sales intelligence con IA. Vimos que Mawsool está en etapa pre-seed. Nos encantaría saber más sobre vuestro diferencial y qué traction han logrado hasta ahora. ¿Les parece una breve conversación?",
+  "razon": "IA aplicada a ventas es mercado en crecimiento y tiene demanda clara en LATAM, pero sin detalles de inversionistas o traction concreta reportada.",
+  "fecha_evidencia": "2026-11-10T13:19:07+00:00",
+  "ultima_senal": "2026-11-10T13:19:07+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 66,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 6.0,
+   "calidad": 12.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:multipolitan": {
+  "key": "n:multipolitan",
+  "primera_vista": "2026-11-11T13:21:52+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Multipolitan raises $2 million to develop cross-border mobility platform",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFBpRHNZUFFHZnNtVXc2QnJNZjkwem42TUhFdFdraGFjX25TLUdKWEZzMHFMX1pJbk5qQ3RBVnBZeGhrVmUxU201Sk90WmR3ZmJ2RHBEN2taSGt2VnRTblZHLWZIZmd1d1BUTXV5V0xMWjRBTExYc1hQZFIxRTd2ZVN3OXY1UUNzYUlyVzliek9pbkJ4c3BRcG93UjZsQ1E?oc=5",
+    "fecha": "2026-11-10T18:58:56+00:00",
+    "medio": "Wamda"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 7.0,
+  "motor": "llm",
+  "empresa": "Multipolitan",
+  "sector": "Movilidad / Plataforma",
+  "etapa": "seed",
+  "monto_usd": 2000000.0,
+  "tecnologia": true,
+  "resumen": "Plataforma de movilidad transfronteriza que facilita desplazamientos entre países de América Latina.",
+  "mensaje": "Nos llamó mucho la atención Multipolitan y su enfoque en movilidad transfronteriza, un problema real en la región. USD 2M de ronda seed es un hito importante. ¿Nos gustaría conocer vuestro modelo de mercado y cómo ven la expansión? ¿Disponibles para charlar?",
+  "razon": "Movilidad transfronteriza es problema crítico en LATAM; ronda seed de USD 2M indica validación; marketplace digital con potencial de escalabilidad regional.",
+  "fecha_evidencia": "2026-11-10T18:58:56+00:00",
+  "ultima_senal": "2026-11-10T18:58:56+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 72,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 14.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:ancep": {
+  "key": "n:ancep",
+  "primera_vista": "2026-11-11T13:21:52+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Ancep, insurtech de agentes de IA, levanta US$8,5M",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ29tUGwtaUJGQ0l2WkY1dmlLU1dyR2dnd2Q5ampXcC1NOTlLWEZnREZMcXpubW1fLXJvWjhoMmlQclZEY3I1QnFKWHlrRTRSSnBod09GcUtTdnhoV3dHYmgyLS04cDQzUW9lcnVXWTJSdXQ0bzQyZ3dlcWFQQlFQd2hYMA?oc=5",
+    "fecha": "2026-11-10T17:24:26+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "llm",
+  "empresa": "Ancep",
+  "sector": "InsurTech / IA",
+  "etapa": "serie-a",
+  "monto_usd": 8500000.0,
+  "tecnologia": true,
+  "resumen": "Plataforma insurtech que usa agentes de IA para automatizar procesos de seguros.",
+  "mensaje": "Vimos que Ancep acaba de levantar USD 8.5M en su ronda. InsurTech con IA es área muy interesante para nosotros. ¿Estarían abiertos a una conversación sobre visión estratégica y mercado? Nos gustaría conocer el equipo.",
+  "razon": "InsurTech con agentes de IA es innovador, pero USD 8.5M sugiere etapa avanzada (serie A), fuera del rango típico de pre-seed/seed. Sin información de inversionistas conocidos.",
+  "fecha_evidencia": "2026-11-10T17:24:26+00:00",
+  "ultima_senal": "2026-11-10T17:24:26+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 50,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 7.5,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 10.0
+  },
+  "prioridad": "C",
+  "en_tesis": true
  }
 }
