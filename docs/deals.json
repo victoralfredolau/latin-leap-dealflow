@@ -328,77 +328,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:takenos",
-   "empresa": "Takenos",
-   "sitio_web": null,
-   "pais": "Argentina",
-   "ciudad": null,
-   "sector": "Desconocido",
-   "etapa": "seed",
-   "monto_usd": 7000000.0,
-   "inversionistas": [
-    "North Island Ventures",
-    "North Island Ventures, Road Capital Management",
-    "Road Capital Management"
-   ],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "Takenos levanta USD 7M en extensión de ronda seed para expandir operaciones en América Latina.",
-   "razon": "Ronda seed de USD 7M en expansión regional LATAM demuestra validación y apetito inversor; sin embargo, país específico no está claro en el titular.",
-   "mensaje": "Hola equipo Takenos, vimos que acaban de cerrar una extensión de seed de USD 7M para crecer en Latinoamérica. En Latin Leap nos interesa mucho el crecimiento multi-país en la región. ¿Podríamos conocer más sobre su tracción y siguiente fase? Saludos.",
-   "score": 92,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 13.5,
-    "calidad": 14.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-11-05T13:22:50+00:00",
-   "fecha_evidencia": "2026-11-04T15:10:23+00:00",
-   "ultima_senal": "2026-11-05T13:29:32+00:00",
-   "senales": [
-    {
-     "fuente": "LatamList",
-     "tipo": "noticia",
-     "titulo": "Takenos raises $7M seed extension to expand across Latin America",
-     "url": "https://latamlist.com/takenos-raises-7m-seed-extension-to-expand-across-latin-america/",
-     "fecha": "2026-11-04T18:59:24+00:00",
-     "medio": null
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Takenos levanta US$7M y apunta a 15 países en 2027",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVpuNF9zYy1xQzFPSlluWmxoaTdQMFhLVWdXZERndmstdGZPb2hibF9IZ29PRnVQbUFtQ2lWYmp3cEZET0J2Vkg5Y29nZjMtTG5IWVFxamJXaW5XVk0xaURLMHE0ZEd5STJVRVFlM1dScGZ2d2UxWjJCVWluRW1kVGJHV1dmVXc?oc=5",
-     "fecha": "2026-11-04T15:10:23+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Startups Latam",
-     "tipo": "noticia",
-     "titulo": "La argentina Takenos levanta US$7 millones en una extensión de su ronda semilla y apunta a más de 15 países en 2027",
-     "url": "https://startupslatam.com/la-argentina-takenos-levanta-us7-millones-en-una-extension-de-su-ronda-semilla-y-apunta-a-mas-de-15-paises-en-2027/",
-     "fecha": "2026-11-05T13:29:32+00:00",
-     "medio": null
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Takenos raises $7M seed extension to expand across Latin America",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUG9Qel9zVmRGTlZwXzIxOEctRmg2N3RMTnRWdkJBSWI4QUxhVkdYY25KOFMwOEFOSzd0WWRTRHRwenUtWHU4cm5nNVQ2MU5rLUFVRmFCay1KX2NxVDhfbzBzMFBiZ3ZZTjNtODBIay1mMU0zSWl1QVFrNFp6NHRNRTVBTlF0UGFkNjJINWJUQ3ZVZDZI0gGUAUFVX3lxTFBQb1B6X3NWZEZOVnBfMjE4Ry1GaDY3dExOdFZ2QkFJYjhBTGFWR1hjbko4UzA4QU5LN3RZZFNEdHB6dS1YdThybmc1VDYxTmstQVVGYUJrLUpfY3FUOF9vMHMwUGJndllOM204MEhrLWYxTTNJaXVBUWs0Wno0dE1FNUFOUXRQYWQ2Mkg1YlRDdlVkNkg?oc=5",
-     "fecha": "2026-11-04T18:59:24+00:00",
-     "medio": "LatamList"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:rebill",
    "empresa": "Rebill",
    "sitio_web": null,
@@ -503,57 +432,6 @@
      "titulo": "CarbonFarm, agtech del arroz, levanta 7M€",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tSjk1d3dVekVnX3RWWldrbkFVTW83T1hTT0FXWG4tWHdKY05VNkRwWW5ESUMzQklwek5sbk9wZmdNMGh1TmRWOGFHczFIRUdEOUVIRVFma0xQc1R4QXZjcC1FaXdYNHRicWFhUktHTG5fVXFjaFRiQjF3?oc=5",
      "fecha": "2026-10-17T06:06:41+00:00",
-     "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
-   "key": "n:ailytics",
-   "empresa": "Ailytics",
-   "sitio_web": null,
-   "pais": "Argentina",
-   "ciudad": null,
-   "sector": "IA / Visión por Computadora",
-   "etapa": "seed",
-   "monto_usd": 7400000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "Solución de visión artificial basada en IA para aplicaciones industriales.",
-   "razon": "Startup argentina en tesis; sector IA industrial con aplicaciones B2B de alto valor; ronda de $7.4M indica validación y tracción; diferenciación clara en visión computacional industrial.",
-   "mensaje": "Hola Ailytics, nos impresionó tu levantamiento de $7.4M para IA industrial. El mercado de automatización visual en América Latina es enorme. Nos encantaría explorar cómo Latin Leap puede acompañar vuestro crecimiento en la región. ¿Conversamos?",
-   "score": 90,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 14.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-26T14:55:10+00:00",
-   "fecha_evidencia": "2026-10-26T03:03:30+00:00",
-   "ultima_senal": "2026-10-29T09:03:31+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Ailytics: IA para CCTV industrial levanta US$7,4M",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWmM2ZWxrTEd2R2U0TUxrS3c0bEJKYkllenRzUjY5VEZlUUdzZUdrWEpfb1pDWHZTbmg1OW1KcDBkMjNobjFGNG0yOFkwYU9nYmRnVzdxQ3otRlFoclZ0Q2FuMEEwRk1ZMV9TRXJhczY1U2VZNWpNVnY2eTlHaXcyRUVTNA?oc=5",
-     "fecha": "2026-10-26T03:03:30+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Ailytics, visión IA industrial, levanta US$7,4M",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUMVNycUdybHpVN0s3MDN5NFlycHJXVFBBYm93eUROaU9sQUtORWx6Q2x6RFZTNGRVbWlUNXphMktHWUFLNkhtVnFtX0JQSWQ2X2wxd0ZkLWFfc0dxaXE0UjJzV0RpaC1HOXh5NlJmVmRqd1k2UXFQWF9TT3JDdTA?oc=5",
-     "fecha": "2026-10-29T09:03:31+00:00",
      "medio": "El Ecosistema Startup"
     }
    ],
@@ -979,6 +857,57 @@
    "motor": "llm"
   },
   {
+   "key": "n:ailytics",
+   "empresa": "Ailytics",
+   "sitio_web": null,
+   "pais": "Argentina",
+   "ciudad": null,
+   "sector": "IA / Visión por Computadora",
+   "etapa": "seed",
+   "monto_usd": 7400000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Solución de visión artificial basada en IA para aplicaciones industriales.",
+   "razon": "Startup argentina en tesis; sector IA industrial con aplicaciones B2B de alto valor; ronda de $7.4M indica validación y tracción; diferenciación clara en visión computacional industrial.",
+   "mensaje": "Hola Ailytics, nos impresionó tu levantamiento de $7.4M para IA industrial. El mercado de automatización visual en América Latina es enorme. Nos encantaría explorar cómo Latin Leap puede acompañar vuestro crecimiento en la región. ¿Conversamos?",
+   "score": 88,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 14.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-26T14:55:10+00:00",
+   "fecha_evidencia": "2026-10-26T03:03:30+00:00",
+   "ultima_senal": "2026-10-29T09:03:31+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Ailytics: IA para CCTV industrial levanta US$7,4M",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWmM2ZWxrTEd2R2U0TUxrS3c0bEJKYkllenRzUjY5VEZlUUdzZUdrWEpfb1pDWHZTbmg1OW1KcDBkMjNobjFGNG0yOFkwYU9nYmRnVzdxQ3otRlFoclZ0Q2FuMEEwRk1ZMV9TRXJhczY1U2VZNWpNVnY2eTlHaXcyRUVTNA?oc=5",
+     "fecha": "2026-10-26T03:03:30+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Ailytics, visión IA industrial, levanta US$7,4M",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUMVNycUdybHpVN0s3MDN5NFlycHJXVFBBYm93eUROaU9sQUtORWx6Q2x6RFZTNGRVbWlUNXphMktHWUFLNkhtVnFtX0JQSWQ2X2wxd0ZkLWFfc0dxaXE0UjJzV0RpaC1HOXh5NlJmVmRqd1k2UXFQWF9TT3JDdTA?oc=5",
+     "fecha": "2026-10-29T09:03:31+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "n:aloja",
    "empresa": "Aloja AI",
    "sitio_web": null,
@@ -1025,20 +954,20 @@
    "key": "n:ploot",
    "empresa": "Ploot",
    "sitio_web": null,
-   "pais": "Colombia",
+   "pais": "Argentina",
    "ciudad": null,
-   "sector": "FinTech / Trading / IA",
-   "etapa": "seed",
-   "monto_usd": 440000.0,
+   "sector": "fintech",
+   "etapa": "pre-seed",
+   "monto_usd": 435600.0,
    "inversionistas": [
     "Angels Capital"
    ],
    "fundadores": [],
    "tecnologia": true,
    "calidad": 6.0,
-   "resumen": "Plataforma de IA que detecta señales de compra automáticamente para traders e inversores.",
-   "razon": "FinTech con IA en Colombia es mercado atractivo; ronda seed validada, pero sin información de inversionistas de renombre o traction específica reportada.",
-   "mensaje": "Vimos que Ploot acaba de levantar 400k€ para desarrollar su plataforma de señales de compra con IA. Es un caso interesante en el ecosistema colombiano. ¿Estarían disponibles para una conversación sobre vuestro tracción y visión regional?",
+   "resumen": "Ploot es una plataforma de IA que genera señales de compra automáticas para inversionistas y traders.",
+   "razon": "Startup pre-seed en geografía de Latin Leap con IA aplicada a trading/inversión; ronda pequeña indica etapa temprana pero con inversión validada.",
+   "mensaje": "Hola equipo Ploot, vimos que levantaron €400k para su plataforma de IA de señales de compra. El mercado de trading inteligente en LATAM tiene mucho potencial. ¿Os gustaría conocer a Latin Leap y explorar opciones de expansión?",
    "score": 88,
    "desglose": {
     "geografia": 25.0,
@@ -1053,7 +982,7 @@
    "conocido_fuente": null,
    "primera_vista": "2026-11-10T13:13:52+00:00",
    "fecha_evidencia": "2026-11-10T12:03:40+00:00",
-   "ultima_senal": "2026-11-11T04:21:33+00:00",
+   "ultima_senal": "2026-11-12T06:03:24+00:00",
    "senales": [
     {
      "fuente": "Google News",
@@ -1069,6 +998,14 @@
      "titulo": "Ploot levanta 400.000 € para cazar señales de compra con IA",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQVZWMVdtX0VBSHZvWGlKR3p4SFhJWjFuYkJlZFRxSHZSS19XMHI0VVNNOUNHWE5xclhkTnNmVnZQOGQyTFQyY0d5UXdST3RidEtVS2dsNS13WTM5S1hUWkZPeE5oRjNaTVRIcXdoZGJud1YtX1FrUFFGbG1reV9DTW5pN0w1eDl6d2dBenZZTmNqQzNW?oc=5",
      "fecha": "2026-11-11T04:21:33+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Ploot, IA de señales de compra, levanta 400.000 euros",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb1h1bFdtUDg5QTVwNTZZb2g0YThTZVhicGdLNEJTaS0yOURPSUVyZ1V2MFNRbjBUbWdzNDNKNHBqVWdzTzBsMlk4ai1wTGFBZWF1Qm5DZFpVX3owVXk2aGpHek83WjJfNjlKOEpzanN3NlRKOTBJQ1NKLXF4QW1vekhUSWtza0FneHc?oc=5",
+     "fecha": "2026-11-12T06:03:24+00:00",
      "medio": "El Ecosistema Startup"
     }
    ],
@@ -1982,9 +1919,9 @@
    "key": "n:celes",
    "empresa": "Celes",
    "sitio_web": null,
-   "pais": "Colombia",
+   "pais": "México",
    "ciudad": "Barranquilla",
-   "sector": "Retail Tech / Software",
+   "sector": "Logística y Automatización",
    "etapa": "serie-a",
    "monto_usd": 5000000.0,
    "inversionistas": [
@@ -1995,9 +1932,9 @@
    ],
    "tecnologia": true,
    "calidad": 8.0,
-   "resumen": "Startup de software para empresas retail que operan en América Latina, con soluciones digitales para el sector comercial.",
-   "razon": "Serie A reciente (USD 5M) liderada por fondo brasileño de calidad, co-inversionistas reconocidos, sector retail de alto mercado en LatAm, tracción post-seed confirmada.",
-   "mensaje": "Felicidades por el cierre de su Serie A con SP Ventures y el equipo que armaron. Desde Latin Leap seguimos con interés a los mejores equipos de retail tech en la región. Si en futuras rondas consideran capital estratégico de un fondo centrado en LatAm hispanohablante, nos encantaría conversar sobre cómo podríamos sumar valor más allá del cheque.",
+   "resumen": "Plataforma de automatización para la distribución y abasto en México.",
+   "razon": "Startup mexicana en geografía de inversión, ha levantado USD 5M (indica tracción), sector con mercado amplio (abasto/supply chain), monto sugiere etapa avanzada pero worth tracking.",
+   "mensaje": "Hola equipo de Celes, nos impresionó leer sobre su ronda de USD 5M para transformar la logística de abasto en México. Desde Latin Leap, nos encantaría conocer más sobre el tracto conseguido y los planes de expansión regional. ¿Estarían abiertos a una conversación? Saludos cordiales.",
    "score": 77,
    "desglose": {
     "geografia": 25.0,
@@ -2012,7 +1949,7 @@
    "conocido_fuente": null,
    "primera_vista": "2026-10-28T13:06:20+00:00",
    "fecha_evidencia": "2026-10-27T16:06:32+00:00",
-   "ultima_senal": "2026-10-29T15:07:10+00:00",
+   "ultima_senal": "2026-11-11T22:30:00+00:00",
    "senales": [
     {
      "fuente": "Google News",
@@ -2037,6 +1974,14 @@
      "url": "https://startupslatam.com/startup-celes-levanta-us5-millones-liderada-por-sp-ventures-para-escalar-en-empresas-retail-por-america-latina/",
      "fecha": "2026-10-29T15:07:10+00:00",
      "medio": null
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Celes levanta 5 millones de dólares para automatizar el abasto en México",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIZWZ3ZF9LWnVoR2hqWllmczJsRlJsOTRBX1hSeFlJd1VRUm1KOUdvSzBMR0FNVzRQYU50RzF2MkE1R3NqdHAxOC01akJ2ck91S2VFcldfZVhMYXB1TlQ3RTFFWGgtZVRRVUI1QWxSQmZQQVZIbjhaem5CRHJzUQ?oc=5",
+     "fecha": "2026-11-11T22:30:00+00:00",
+     "medio": "Fast Company México"
     }
    ],
    "motor": "llm"
@@ -2406,6 +2351,73 @@
    "motor": "llm"
   },
   {
+   "key": "n:palomma",
+   "empresa": "Palomma",
+   "sitio_web": null,
+   "pais": "Colombia",
+   "ciudad": null,
+   "sector": "Fintech",
+   "etapa": "serie-a",
+   "monto_usd": 14000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Palomma es una fintech colombiana enfocada en soluciones de financiamiento y gestión para el mercado de arriendos.",
+   "razon": "Fintech en mercado relevante (arriendos), ronda sustancial reportada, pero sin detalles de inversionistas, tracción o diferenciación en la señal.",
+   "mensaje": "Hola equipo de Palomma, vimos que levantaron US$14M para impulsar su plataforma de arriendos. Desde Latin Leap nos interesa conocer cómo están abordando la penetración en el segmento de vivienda en Colombia y la región. ¿Estarían abiertos a conversar sobre oportunidades de crecimiento conjunto?",
+   "score": 72,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 7.5,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 14.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-12T13:25:29+00:00",
+   "fecha_evidencia": "2026-11-11T13:51:43+00:00",
+   "ultima_senal": "2026-11-11T21:07:02+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Palomma levanta US$10M y digitaliza arriendos en Colombia",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRXFxVGVNR0k2a3FVM3JQWGFEZ19RaWdZR3M0MlZyR2JKWFFJMFdSejFpSEJwdzV6cXItWUVSSXE2Q3lJVG9iczUtejlNVnM2dHZYYnVoM1VNTjB6TFNWd21VOExuLVBhN25IdnVzc2w2ZHZ5dmJLS2w4Q3dScHZxMXFjbkVkc2dSTEZ1VXdiWFY?oc=5",
+     "fecha": "2026-11-11T13:51:43+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Palomma, la fintech de arriendos, levanta US$14M",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkNxQlZ4SEZtWGNKM3JubURMUDQ0clZhZ2N4clk1V1dXeHNqRlJITjNvVmVaRU5aQlJMakhjejNVb05KYlYyd0hBLU5vT3ExNUpqWFpibHQ2UFI2OWUxQjVQOUZ3U3NhZEZWeEpvel85SnpwMUtPSGxwSHFIeEQtb09mazE?oc=5",
+     "fecha": "2026-11-11T21:07:02+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Palomma, la startup de arriendos, levanta US$14M",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGxmcERTa0dCSHgxeW5taC02c3dLWHdISlplZlhXcnR1SllTU3dzRmdaVW5KNFZaNzZoYVprczJ3WU4td0pvNkJ1bHdldUdHV2Z0Z3UxX3BjenM3VEpNU1g4eS1vd2FaR1dVRW10eHhIeGUxUVhzNDdUcTAwandnQUhB?oc=5",
+     "fecha": "2026-11-11T15:03:29+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Palomma, fintech de arriendos, levanta US$14M",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GRGRCZ1RpUlB0Qm9TOEcwcldGTjJaZE9BdmhoSmVuUEo5enBmX0lJYkhObTNXZDFYME45THJLN2w1WmVGRXc2OGJhZTNVTjBxclJSMHJTSDhzaVcwV1kzUldPSzRHWlBlc0xZcFJpdXo1aWRNQ1dDYzFRQXZsdw?oc=5",
+     "fecha": "2026-11-11T21:07:02+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:lisit.cl",
    "empresa": "Lisit",
    "sitio_web": "https://www.lisit.cl/",
@@ -2604,57 +2616,6 @@
      "titulo": "Agrosuper está contratando: Ingeniero Gobierno de Datos, Jefe de People Analytics, Ingeniero Infraestructura IT/Ot Onpremise & Cloud, Analista Calidad Faenadora San Vicente, Monitor Calida",
      "url": "https://www.getonbrd.com/jobs/ingeniero-a-de-calidad-de-datos-agrosuper-rancagua",
      "fecha": "2026-11-03T15:41:39+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "d:grupomariposa.com",
-   "empresa": "Grupo Mariposa",
-   "sitio_web": "https://grupomariposa.com/",
-   "pais": "Guatemala",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Somos una corporación multinacional de bebidas y alimentos fundada en 1885 con operaciones en más 14 países, con más de 15,000 colaboradores.",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-22T18:29:25+00:00",
-   "ultima_senal": "2026-10-28T15:17:11+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Grupo Mariposa está contratando: Arquitecto de Datos (Data & AI), Data Engineer Senior, QA Manual Tester, Front-end Android Sr",
-     "url": "https://www.getonbrd.com/jobs/front-end-android-sr-grupo-mariposa-remote-bfe3",
-     "fecha": "2026-10-22T18:29:25+00:00",
-     "medio": null
-    },
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Grupo Mariposa está contratando: Head of Enterprise Architecture & Integration, Arquitecto de Datos (Data & AI), QA Manual Tester",
-     "url": "https://www.getonbrd.com/jobs/qa-tester-grupo-mariposa-remote-8728",
-     "fecha": "2026-10-28T15:17:11+00:00",
      "medio": null
     }
    ],
@@ -2970,49 +2931,6 @@
     }
    ],
    "motor": "llm"
-  },
-  {
-   "key": "d:dalca.cl",
-   "empresa": "Dalca S.A.",
-   "sitio_web": "http://www.dalca.cl",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Dalca es una plataforma RIS/PACS chilena, 100% web, con la que clínicas, centros\nde imagenología y radiólogos gestionan e informan sus exámenes. ",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-29T13:07:57+00:00",
-   "fecha_evidencia": "2026-10-28T20:01:18+00:00",
-   "ultima_senal": "2026-10-28T20:01:18+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Dalca S.A. está contratando: Ingeniero/a Operaciones TI",
-     "url": "https://www.getonbrd.com/jobs/ingeniero-a-operaciones-ti-dalca-s-a-santiago",
-     "fecha": "2026-10-28T20:01:18+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
   },
   {
    "key": "d:integratz.cl",
@@ -3934,6 +3852,57 @@
    "motor": "reglas"
   },
   {
+   "key": "d:grupomariposa.com",
+   "empresa": "Grupo Mariposa",
+   "sitio_web": "https://grupomariposa.com/",
+   "pais": "Guatemala",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Somos una corporación multinacional de bebidas y alimentos fundada en 1885 con operaciones en más 14 países, con más de 15,000 colaboradores.",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-22T18:29:25+00:00",
+   "ultima_senal": "2026-10-28T15:17:11+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Grupo Mariposa está contratando: Arquitecto de Datos (Data & AI), Data Engineer Senior, QA Manual Tester, Front-end Android Sr",
+     "url": "https://www.getonbrd.com/jobs/front-end-android-sr-grupo-mariposa-remote-bfe3",
+     "fecha": "2026-10-22T18:29:25+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Grupo Mariposa está contratando: Head of Enterprise Architecture & Integration, Arquitecto de Datos (Data & AI), QA Manual Tester",
+     "url": "https://www.getonbrd.com/jobs/qa-tester-grupo-mariposa-remote-8728",
+     "fecha": "2026-10-28T15:17:11+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "d:leytonmedia.com",
    "empresa": "LeytonMedia",
    "sitio_web": "http://leytonmedia.com",
@@ -4691,6 +4660,49 @@
    "motor": "reglas"
   },
   {
+   "key": "d:dalca.cl",
+   "empresa": "Dalca S.A.",
+   "sitio_web": "http://www.dalca.cl",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Dalca es una plataforma RIS/PACS chilena, 100% web, con la que clínicas, centros\nde imagenología y radiólogos gestionan e informan sus exámenes. ",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-29T13:07:57+00:00",
+   "fecha_evidencia": "2026-10-28T20:01:18+00:00",
+   "ultima_senal": "2026-10-28T20:01:18+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Dalca S.A. está contratando: Ingeniero/a Operaciones TI",
+     "url": "https://www.getonbrd.com/jobs/ingeniero-a-operaciones-ti-dalca-s-a-santiago",
+     "fecha": "2026-10-28T20:01:18+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "n:aformic",
    "empresa": "Aformic",
    "sitio_web": null,
@@ -5438,49 +5450,6 @@
    "motor": "reglas"
   },
   {
-   "key": "n:angolascyto",
-   "empresa": "Angola's CYTO",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "seed",
-   "monto_usd": 40000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 5.0,
-   "resumen": "Angola's CYTO raises $40K in angel round via Catalytic Africa matching model Dealroom",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 60,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 7.5,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-29T13:07:57+00:00",
-   "fecha_evidencia": "2026-10-28T14:42:22+00:00",
-   "ultima_senal": "2026-10-28T14:42:22+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Angola's CYTO raises $40K in angel round via Catalytic Africa matching model",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeWtYX1ZzeDNnTk1iTVVHUHZHaGJHd1hmVS1uU1FRdXczU0RjYjZwVjRlVTFTWXM1OEZVbGFKV2VZR0pya2pSdFhvZk9BRmc0ZjVBRzI5MlROWjhTWUxiS3VNWHVicElZaHczY1YzUzFvOWJOeGdtRy00OWY3UzNubmlKNlZyMTJxTjZfTlJRb3M0UWNlZGkta3lnb3FwZTVYeG0zN2NrdllGek9pLVE?oc=5",
-     "fecha": "2026-10-28T14:42:22+00:00",
-     "medio": "Dealroom"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "n:deleverstartup",
    "empresa": "Delever startup",
    "sitio_web": null,
@@ -5845,6 +5814,85 @@
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUURYaks0ak1peWdsLXVkc2ZKNWFTWW9TZlJDbDdaY0NRNVdOUWdtOWgyMm5KeHpfVEx5U192QW9uSVBGSXZ0SVB0eXlncWVVOUNyVlRsckp4QWlzWFhJSjM1WXV6UjZvaEVwdjBzRTR3NGVmWTlJZXNqVTVvTTBGSExUZjBBSkQ1TnV3bkdvS3pERHdyLXJCUFBuMmJFTGduMjBuS2ViUWlIeTZFdmdtY3hQcXFiSHlwTUgxUzk5dVJUVHhwbm1jVHlxNWpHT3RzdGgyWmVlOXhDQQ?oc=5",
      "fecha": "2026-10-14T14:24:37+00:00",
      "medio": "AiThority"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:takenos",
+   "empresa": "Takenos",
+   "sitio_web": null,
+   "pais": "desconocida",
+   "ciudad": null,
+   "sector": "desconocido",
+   "etapa": "seed",
+   "monto_usd": 7000000.0,
+   "inversionistas": [
+    "North Island Ventures",
+    "North Island Ventures, Road Capital Management",
+    "Road Capital Management"
+   ],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Takenos levanta USD 7M en ronda seed con planes ambiciosos de expansión a 15 países en 2027.",
+   "razon": "Ronda de USD 7M en etapa seed con ambición de expansión a 15 países; sin embargo, falta claridad sobre modelo de negocio y sector específico.",
+   "mensaje": "Hola Takenos, vimos que acaban de levantar USD 7M y planean expandir a 15 países en 2027. Nos atrae vuestro espíritu expansionista en LATAM. ¿Estaríais interesados en conectar con Latin Leap para explorar cómo podemos apoyar vuestro crecimiento regional?",
+   "score": 68,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 13.5,
+    "calidad": 14.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-05T13:22:50+00:00",
+   "fecha_evidencia": "2026-11-04T15:10:23+00:00",
+   "ultima_senal": "2026-11-11T18:42:33+00:00",
+   "senales": [
+    {
+     "fuente": "LatamList",
+     "tipo": "noticia",
+     "titulo": "Takenos raises $7M seed extension to expand across Latin America",
+     "url": "https://latamlist.com/takenos-raises-7m-seed-extension-to-expand-across-latin-america/",
+     "fecha": "2026-11-04T18:59:24+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Takenos levanta US$7M y apunta a 15 países en 2027",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVpuNF9zYy1xQzFPSlluWmxoaTdQMFhLVWdXZERndmstdGZPb2hibF9IZ29PRnVQbUFtQ2lWYmp3cEZET0J2Vkg5Y29nZjMtTG5IWVFxamJXaW5XVk0xaURLMHE0ZEd5STJVRVFlM1dScGZ2d2UxWjJCVWluRW1kVGJHV1dmVXc?oc=5",
+     "fecha": "2026-11-04T15:10:23+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Startups Latam",
+     "tipo": "noticia",
+     "titulo": "La argentina Takenos levanta US$7 millones en una extensión de su ronda semilla y apunta a más de 15 países en 2027",
+     "url": "https://startupslatam.com/la-argentina-takenos-levanta-us7-millones-en-una-extension-de-su-ronda-semilla-y-apunta-a-mas-de-15-paises-en-2027/",
+     "fecha": "2026-11-05T13:29:32+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Takenos raises $7M seed extension to expand across Latin America",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUG9Qel9zVmRGTlZwXzIxOEctRmg2N3RMTnRWdkJBSWI4QUxhVkdYY25KOFMwOEFOSzd0WWRTRHRwenUtWHU4cm5nNVQ2MU5rLUFVRmFCay1KX2NxVDhfbzBzMFBiZ3ZZTjNtODBIay1mMU0zSWl1QVFrNFp6NHRNRTVBTlF0UGFkNjJINWJUQ3ZVZDZI0gGUAUFVX3lxTFBQb1B6X3NWZEZOVnBfMjE4Ry1GaDY3dExOdFZ2QkFJYjhBTGFWR1hjbko4UzA4QU5LN3RZZFNEdHB6dS1YdThybmc1VDYxTmstQVVGYUJrLUpfY3FUOF9vMHMwUGJndllOM204MEhrLWYxTTNJaXVBUWs0Wno0dE1FNUFOUXRQYWQ2Mkg1YlRDdlVkNkg?oc=5",
+     "fecha": "2026-11-04T18:59:24+00:00",
+     "medio": "LatamList"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Takenos levanta US$7M y apunta a 15 países en 2027",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeVRPUWR0Z0U0U1V6V2NoQkdtblkzbElvNXVXREQwel9fQjNKUDZuOW9LaEc0YklQUGZOdjJuMzRzaWRUS3VqcHM4N3I0WHBlZS1GMjF5anFTUVFCTGt2cUtCanZxQUZPbE5zdy1MaVdISEgtUHZhbzNrMHloem5FMXFjemlHSFAtRFE?oc=5",
+     "fecha": "2026-11-11T18:42:33+00:00",
+     "medio": "El Ecosistema Startup"
     }
    ],
    "motor": "llm"
@@ -6415,6 +6463,49 @@
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZVc4M2pFd3kzMy1CdTVLMFI4ZHdyelVkcmc0bV95eGdiLXVPdU9aMzVzWVVTeTRYYjdENjJIdExjaHROZG9pd0paSC13U2M0NXRBU3QxUlpObkh0eERXUUROUUtITVRSaHN3QVdnR29aMUhPb3k5RndJSjFFLUcySmlIZXhlVWVUSFJKNk14ZVBrc3FDamJ5X1c3Wld5eE1EeEJJazJUb25BNEZXYlpZMlFuMGpPU2Y2OGxYWDBPTG4tMWwzMkJnbm9CUUdLcEYxUkY3VWNPa09pZm9p?oc=5",
      "fecha": "2026-10-28T06:32:30+00:00",
      "medio": "Indian Startup Times"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:angolascyto",
+   "empresa": "Angola's CYTO",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": 40000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Angola's CYTO raises $40K in angel round via Catalytic Africa matching model Dealroom",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 59,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 7.5,
+    "senal": 9.0,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-29T13:07:57+00:00",
+   "fecha_evidencia": "2026-10-28T14:42:22+00:00",
+   "ultima_senal": "2026-10-28T14:42:22+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Angola's CYTO raises $40K in angel round via Catalytic Africa matching model",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeWtYX1ZzeDNnTk1iTVVHUHZHaGJHd1hmVS1uU1FRdXczU0RjYjZwVjRlVTFTWXM1OEZVbGFKV2VZR0pya2pSdFhvZk9BRmc0ZjVBRzI5MlROWjhTWUxiS3VNWHVicElZaHczY1YzUzFvOWJOeGdtRy00OWY3UzNubmlKNlZyMTJxTjZfTlJRb3M0UWNlZGkta3lnb3FwZTVYeG0zN2NrdllGek9pLVE?oc=5",
+     "fecha": "2026-10-28T14:42:22+00:00",
+     "medio": "Dealroom"
     }
    ],
    "motor": "reglas"
@@ -7279,6 +7370,49 @@
     }
    ],
    "motor": "reglas"
+  },
+  {
+   "key": "n:clara",
+   "empresa": "Clara",
+   "sitio_web": null,
+   "pais": "desconocida",
+   "ciudad": null,
+   "sector": "fintech",
+   "etapa": "serie-a",
+   "monto_usd": 105000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 8.0,
+   "resumen": "Clara es una fintech con IA que opera en América Latina, probablemente enfocada en automatización de procesos financieros o crédito.",
+   "razon": "Fintech con IA enfocada en LATAM con ronda significativa de USD 105M; modelo de negocio en sector de alto crecimiento con buena diferenciación tecnológica.",
+   "mensaje": "Hola equipo Clara, felicidades por levantar USD 105M para vuestra fintech con IA en LATAM. Nos interesa mucho cómo estáis abordando la automatización financiera en la región. ¿Podríamos conversar sobre oportunidades de sinergia o expansión?",
+   "score": 49,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 7.5,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 16.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-12T13:25:29+00:00",
+   "fecha_evidencia": "2026-11-12T10:33:23+00:00",
+   "ultima_senal": "2026-11-12T10:33:23+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Clara levanta US$105M para su fintech con IA en LATAM",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUklWSV94UXZfVzlZN3B6VzJ2eUpTM0poZmZqZXA1N3FXcmMyMnp1ZXpqSDRMRFgydzItQ3pmczU5UkY2dTFiN0NhNnBtSUU2bEpSN3pSbmRLZnJRYkpZSHJHdi1rOVhWRm4wUWFLQ3EyeUhmV2RSckM2TDQwZmlvN3JCN0l4TlFPbllF?oc=5",
+     "fecha": "2026-11-12T10:33:23+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
   },
   {
    "key": "n:thepantproject",
@@ -8314,15 +8448,15 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-11-11T13:21:52+00:00",
+  "actualizado": "2026-11-12T13:25:29+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 106,
-  "prioridad_a_30d": 29,
-  "incremento_vs_baseline": 1.767,
-  "cumplimiento_meta": 17.67,
-  "total_deals": 178,
-  "total_calificados": 121,
+  "calificados_30d": 102,
+  "prioridad_a_30d": 27,
+  "incremento_vs_baseline": 1.7,
+  "cumplimiento_meta": 17.0,
+  "total_deals": 180,
+  "total_calificados": 120,
   "conocidos_detectados": 2,
   "por_semana": {
    "2025-06-16": 1,
@@ -8334,25 +8468,25 @@
    "2026-10-05": 8,
    "2026-10-12": 23,
    "2026-10-19": 38,
-   "2026-10-26": 24,
-   "2026-11-02": 15,
-   "2026-11-09": 7
+   "2026-10-26": 23,
+   "2026-11-02": 14,
+   "2026-11-09": 8
   },
   "por_fuente": {
-   "Google News": 60,
+   "Google News": 59,
    "Get on Board": 51,
    "Y Combinator": 6,
-   "LatamList": 5,
-   "Startups Latam": 5,
+   "LatamList": 4,
+   "Startups Latam": 4,
    "Techla Media": 1,
    "Contxto": 1
   },
   "por_pais": {
    "Chile": 47,
-   "?": 29,
+   "?": 28,
    "Argentina": 14,
-   "México": 11,
-   "Colombia": 10,
+   "México": 12,
+   "Colombia": 9,
    "Uruguay": 2,
    "Guatemala": 2,
    "Venezuela": 2,
@@ -9954,6 +10088,84 @@
       "fuente": "Get on Board",
       "ok": true,
       "senales": 46,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-11-12T13:24:01+00:00",
+    "fin": "2026-11-12T13:25:29+00:00",
+    "senales_crudas": 254,
+    "descartadas_prefiltro": 103,
+    "procesadas": 22,
+    "deals_nuevos": 2,
+    "calificados_nuevos": 1,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 15,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 159,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 4,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 2,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 44,
       "error": null
      }
     ]
