@@ -1,6 +1,99 @@
 {
  "deals": [
   {
+   "key": "n:peso",
+   "empresa": "Peso",
+   "sitio_web": null,
+   "pais": "Bolivia",
+   "ciudad": null,
+   "sector": "FinTech / Criptomonedas",
+   "etapa": "pre-seed",
+   "monto_usd": null,
+   "inversionistas": [
+    "Tether"
+   ],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 8.0,
+   "resumen": "Peso es una stablecoin de Bolivia que levanta pre-seed liderado por Tether para expandir pagos en América Latina.",
+   "razon": "Peso está en Bolivia (dentro de tesis), levanta pre-seed con Tether (inversor reconocido en cripto), y aborda pagos con stablecoin en LATAM. Tracción potencial en fintech.",
+   "mensaje": "Hola equipo Peso, nos fascinó saber que Tether lidera vuestra ronda pre-seed para expandir pagos con stablecoin en Latinoamérica. Bolivia tiene un mercado financiero con mucho potencial. ¿Podríamos agendar una conversación sobre vuestra tracción actual y roadmap?",
+   "score": 93,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 12.0,
+    "calidad": 16.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-21T07:00:00+00:00",
+   "ultima_senal": "2026-10-26T12:45:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Fintech boliviana Peso levanta una ronda pre-semilla liderada por Tether para expandir los pagos con USDT en Latam",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNWVkbzZSdklVQjRlOUl2SHEwOWdBOUJ1X1h6dDBUNlo2cHhTVmxJeVY3X2QzZkQ5N3JqbWYyS0NOQzBpRnVEWWJsZ2FsWmJQNWZuM1NQaHU1SkU0VUFrd0MtSkYtZHlmWWotaUowREM4VjVPQUhqVThXZmJDZmxPcHA5b1p1LVJFeWo1YlZNVUFmNGRUY1VEekYxLUhrOGhlTGpfT1FJTU5oZGxqVzhqc1Jld1lsS1VsMWNUaWd1TkZpX0Vja1BxSk5IcTdzSEk2M2I3Ymt0ODNaSUx6TmRmLV8zV2xyUQ?oc=5",
+     "fecha": "2026-10-22T14:32:25+00:00",
+     "medio": "Latam Fintech Hub"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Tether Leads Pre-Seed Round In Bolivia’s Peso To Expand USDT Payments Across Latin America: 11 outlets compared",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTzg4TFE0ckpEQjJoQ2tLQ2ZRaGx2cllzNWphZElLbVVpY1k4b1BVYndmNXI0S21fQjZaWDRWc3JpQlhBMFV2MjhIaE1HSDJPMnlCbmszSWFHLVJWN3pfdGxoTkpfTVV3cGpTS25NeEpVS3pFZ1NBSmVicmwtQ3JpOWw5bWhpQlhKOGExeHlTZ1prNkxyS2xtcFlQTXBsYnA2ME9pWGNycnRXM3djMnJpWmZpYUcwdXE4a1hsYW1vWHUySG16YVRyWldmZVZaVEh6TmJsY09HVWkyRFVJQmlHdDM5MEdrTGJDTmc?oc=5",
+     "fecha": "2026-10-22T00:10:47+00:00",
+     "medio": "NewsCord"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Tether Leads Pre-Seed Investment in Bolivian Fintech Peso to Scale USDT Payments Across Latin America",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaUVQdTQ4MWdMbVFMZmpUejFMUTNWYlAyeFhHLUE4bVNocmUzQ2JkM3JJd0hXLWFxS3JjdTZlUE1GTXdKaE1TTmRaX1IwRG41S3hhRU5rTVhRY1NhZWdGbVhVejJkemhqRVVYTlJMYlp5MjdZZTk4c1F3aUxhdXpzRGVDMXBaQTVVeFliaHNkamNoajA0bzNNTjZJcWh3X243MFBIQ3NqWTBpX1pQWmwxMTNZZ3paZzZtZ1VicGtNOFVralp4RnVQb0RIenpGOU1pNWxEVEJ5OTktc21nVFYwaWpKZU8?oc=5",
+     "fecha": "2026-10-23T01:27:08+00:00",
+     "medio": "Crowdfund Insider"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Bolivian fintech Peso raises pre-seed led by Tether to expand USDT payments in Latin America",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOaXVTYUVIZl9kZkwyT3pGRk5PTXdxd01sYVg4NmRhT2lkVEdMZXdPTGd4LXo5c2pEMmdMa2F3cGp4U1JEbktQS25NLWZnMTlFbU94WlZyQlB6Y1pHTjNQQ2Z3NzFsb0JBUHpsb0p3?oc=5",
+     "fecha": "2026-10-21T13:25:21+00:00",
+     "medio": "CryptoRank"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Fintech boliviana Peso capta pre-seed con Tether para ampliar pagos USDT en Latinoamérica",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDbUxWU0t0dWV4aE8xWk9qZTJPRVB0YkxSSEJsNHpldi1KUmNLMVVGRFVRY2RmaUNneHBwVHppT0t6dTdrbDl4MEZEYmtLRjRFVTMwTi1oeW9rU0NFaXJfM2xsbmo5WGh1MUQ5S1J5dWc4Zw?oc=5",
+     "fecha": "2026-10-21T13:25:21+00:00",
+     "medio": "CryptoRank"
+    },
+    {
+     "fuente": "Startups Latam",
+     "tipo": "noticia",
+     "titulo": "Tether lidera la ronda presemilla de Peso, la fintech boliviana que lleva el USDT a los pagos cotidianos en América Latina",
+     "url": "https://startupslatam.com/tether-lidera-la-ronda-presemilla-de-peso-la-fintech-boliviana-que-lleva-el-usdt-a-los-pagos-cotidianos-en-america-latina/",
+     "fecha": "2026-10-26T12:45:00+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Tether Leads Pre-Seed Round for Bolivia's Peso to Expand Stablecoin Payments in Latin America",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDlkd2pBc2s3ZWtfcmREbG1UYVdaeEVWc0tUYnZiT2FpT1VjWFJZYzVBTlJLbXAxRU1zR0x3bWZCNm1ZUDRYbl9rZU1OVWtMSHhVMnV5UGIwVE5HUUdNOE5qOVBxYTFzbU9qeUxTRjBVZWV6X28ySnFGaHRwX19TOG5fTkNUaS04bHFIaG9aVHVnSXE5ekV0eDBNQjRieDlHaE9CWXo5b1dENndmOEVMbWNzR3pKN0dROUJoYTFGUDVYTkxSaWc?oc=5",
+     "fecha": "2026-10-21T07:00:00+00:00",
+     "medio": "KuCoin"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "n:viatik",
    "empresa": "Viatik",
    "sitio_web": null,
@@ -21,12 +114,12 @@
    "resumen": "Viatik es una startup uruguaya de viajes compartidos que acaba de captar USD 600K con inversionistas de alto pedigree regional.",
    "razon": "Ronda de USD 600K con inversionistas con track record comprobado (PedidosYa, Uber); mercado de movilidad en LATAM es escalable; tiene tracción suficiente para seed.",
    "mensaje": "Hola equipo de Viatik, felicidades por la ronda con el equipo de PedidosYa y Uber. Desde Latin Leap seguimos el ecosistema de movilidad en LATAM y nos gustaría aprender más sobre vuestra estrategia regional. ¿Hay espacio para una conversación?",
-   "score": 94,
+   "score": 93,
    "desglose": {
     "geografia": 25.0,
     "etapa": 25.0,
     "tecnologia": 15.0,
-    "senal": 13.5,
+    "senal": 12.0,
     "calidad": 16.0
    },
    "prioridad": "A",
@@ -124,99 +217,6 @@
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlMwUGwzMmdzMGFHa0JTd2ZCUTVRNUUzS05SVDJFakp5bmQxZGV1UVJCWWZQOUNpaU4zOWthZjNJb1A2U0NDZExQc0g4Rms4ZFNTNUdEQUUzazNBYURZZld4TkJqaHJxWnZiWFhESXEzQ0dMQVJFbkNaTjloY1FFT21RVkl0elFON1lfQm02VElWelR5?oc=5",
      "fecha": "2026-10-28T11:07:00+00:00",
      "medio": "Yahoo"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
-   "key": "n:peso",
-   "empresa": "Peso",
-   "sitio_web": null,
-   "pais": "Bolivia",
-   "ciudad": null,
-   "sector": "FinTech / Criptomonedas",
-   "etapa": "pre-seed",
-   "monto_usd": null,
-   "inversionistas": [
-    "Tether"
-   ],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 8.0,
-   "resumen": "Peso es una stablecoin de Bolivia que levanta pre-seed liderado por Tether para expandir pagos en América Latina.",
-   "razon": "Peso está en Bolivia (dentro de tesis), levanta pre-seed con Tether (inversor reconocido en cripto), y aborda pagos con stablecoin en LATAM. Tracción potencial en fintech.",
-   "mensaje": "Hola equipo Peso, nos fascinó saber que Tether lidera vuestra ronda pre-seed para expandir pagos con stablecoin en Latinoamérica. Bolivia tiene un mercado financiero con mucho potencial. ¿Podríamos agendar una conversación sobre vuestra tracción actual y roadmap?",
-   "score": 93,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 12.0,
-    "calidad": 16.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-21T07:00:00+00:00",
-   "ultima_senal": "2026-10-26T12:45:00+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Fintech boliviana Peso levanta una ronda pre-semilla liderada por Tether para expandir los pagos con USDT en Latam",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNWVkbzZSdklVQjRlOUl2SHEwOWdBOUJ1X1h6dDBUNlo2cHhTVmxJeVY3X2QzZkQ5N3JqbWYyS0NOQzBpRnVEWWJsZ2FsWmJQNWZuM1NQaHU1SkU0VUFrd0MtSkYtZHlmWWotaUowREM4VjVPQUhqVThXZmJDZmxPcHA5b1p1LVJFeWo1YlZNVUFmNGRUY1VEekYxLUhrOGhlTGpfT1FJTU5oZGxqVzhqc1Jld1lsS1VsMWNUaWd1TkZpX0Vja1BxSk5IcTdzSEk2M2I3Ymt0ODNaSUx6TmRmLV8zV2xyUQ?oc=5",
-     "fecha": "2026-10-22T14:32:25+00:00",
-     "medio": "Latam Fintech Hub"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Tether Leads Pre-Seed Round In Bolivia’s Peso To Expand USDT Payments Across Latin America: 11 outlets compared",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTzg4TFE0ckpEQjJoQ2tLQ2ZRaGx2cllzNWphZElLbVVpY1k4b1BVYndmNXI0S21fQjZaWDRWc3JpQlhBMFV2MjhIaE1HSDJPMnlCbmszSWFHLVJWN3pfdGxoTkpfTVV3cGpTS25NeEpVS3pFZ1NBSmVicmwtQ3JpOWw5bWhpQlhKOGExeHlTZ1prNkxyS2xtcFlQTXBsYnA2ME9pWGNycnRXM3djMnJpWmZpYUcwdXE4a1hsYW1vWHUySG16YVRyWldmZVZaVEh6TmJsY09HVWkyRFVJQmlHdDM5MEdrTGJDTmc?oc=5",
-     "fecha": "2026-10-22T00:10:47+00:00",
-     "medio": "NewsCord"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Tether Leads Pre-Seed Investment in Bolivian Fintech Peso to Scale USDT Payments Across Latin America",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaUVQdTQ4MWdMbVFMZmpUejFMUTNWYlAyeFhHLUE4bVNocmUzQ2JkM3JJd0hXLWFxS3JjdTZlUE1GTXdKaE1TTmRaX1IwRG41S3hhRU5rTVhRY1NhZWdGbVhVejJkemhqRVVYTlJMYlp5MjdZZTk4c1F3aUxhdXpzRGVDMXBaQTVVeFliaHNkamNoajA0bzNNTjZJcWh3X243MFBIQ3NqWTBpX1pQWmwxMTNZZ3paZzZtZ1VicGtNOFVralp4RnVQb0RIenpGOU1pNWxEVEJ5OTktc21nVFYwaWpKZU8?oc=5",
-     "fecha": "2026-10-23T01:27:08+00:00",
-     "medio": "Crowdfund Insider"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Bolivian fintech Peso raises pre-seed led by Tether to expand USDT payments in Latin America",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOaXVTYUVIZl9kZkwyT3pGRk5PTXdxd01sYVg4NmRhT2lkVEdMZXdPTGd4LXo5c2pEMmdMa2F3cGp4U1JEbktQS25NLWZnMTlFbU94WlZyQlB6Y1pHTjNQQ2Z3NzFsb0JBUHpsb0p3?oc=5",
-     "fecha": "2026-10-21T13:25:21+00:00",
-     "medio": "CryptoRank"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Fintech boliviana Peso capta pre-seed con Tether para ampliar pagos USDT en Latinoamérica",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDbUxWU0t0dWV4aE8xWk9qZTJPRVB0YkxSSEJsNHpldi1KUmNLMVVGRFVRY2RmaUNneHBwVHppT0t6dTdrbDl4MEZEYmtLRjRFVTMwTi1oeW9rU0NFaXJfM2xsbmo5WGh1MUQ5S1J5dWc4Zw?oc=5",
-     "fecha": "2026-10-21T13:25:21+00:00",
-     "medio": "CryptoRank"
-    },
-    {
-     "fuente": "Startups Latam",
-     "tipo": "noticia",
-     "titulo": "Tether lidera la ronda presemilla de Peso, la fintech boliviana que lleva el USDT a los pagos cotidianos en América Latina",
-     "url": "https://startupslatam.com/tether-lidera-la-ronda-presemilla-de-peso-la-fintech-boliviana-que-lleva-el-usdt-a-los-pagos-cotidianos-en-america-latina/",
-     "fecha": "2026-10-26T12:45:00+00:00",
-     "medio": null
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Tether Leads Pre-Seed Round for Bolivia's Peso to Expand Stablecoin Payments in Latin America",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDlkd2pBc2s3ZWtfcmREbG1UYVdaeEVWc0tUYnZiT2FpT1VjWFJZYzVBTlJLbXAxRU1zR0x3bWZCNm1ZUDRYbl9rZU1OVWtMSHhVMnV5UGIwVE5HUUdNOE5qOVBxYTFzbU9qeUxTRjBVZWV6X28ySnFGaHRwX19TOG5fTkNUaS04bHFIaG9aVHVnSXE5ekV0eDBNQjRieDlHaE9CWXo5b1dENndmOEVMbWNzR3pKN0dROUJoYTFGUDVYTkxSaWc?oc=5",
-     "fecha": "2026-10-21T07:00:00+00:00",
-     "medio": "KuCoin"
     }
    ],
    "motor": "llm"
@@ -1987,97 +1987,78 @@
    "motor": "llm"
   },
   {
-   "key": "n:dream",
-   "empresa": "Dream",
+   "key": "n:palomma",
+   "empresa": "Palomma",
    "sitio_web": null,
-   "pais": "México",
+   "pais": "Colombia",
    "ciudad": null,
-   "sector": "Proptech / IA",
+   "sector": "Proptech/Fintech",
    "etapa": "serie-a",
-   "monto_usd": 17000000.0,
+   "monto_usd": 14000000.0,
    "inversionistas": [
-    "a16z"
+    "Cometa, Volpe Capital, Clocktower Technology Ventures, Tekton Ventures, Simma Capital, Yango Ventures, Y Combinator, 17Sigma"
    ],
    "fundadores": [],
    "tecnologia": true,
    "calidad": 8.0,
-   "resumen": "Dream es una plataforma de IA que optimiza la operación y eficiencia de edificios.",
-   "razon": "Startup mexicana en geografía de tesis, levantó US$17M con a16z (inversor reconocido globalmente), solución de IA para edificios en sector proptech con potencial de mercado grande en LATAM.",
-   "mensaje": "Nos impresionó ver que Dream levantó US$17M con a16z para soluciones de IA en edificios inteligentes desde México. El mercado de proptech en LATAM es enorme y poco penetrado. ¿Están considerando expandir operaciones en otros países de la región o sería de interés dialogar sobre ello?",
-   "score": 74,
+   "resumen": "Palomma es una fintech colombiana que automatiza cobro de arriendos para inmobiliarias usando IA, permitiendo crear un \"banco del arriendo\" en América Latina.",
+   "razon": "Fintech de alto impacto en mercado regional grande (arriendos), ya ha levantado Serie A con inversores reconocidos (Cometa, Y Combinator), producto de IA diferenciado, tracción regional en inmobiliarias.",
+   "mensaje": "Hola equipo de Palomma,\n\nFelicitaciones por la Serie A de US$14M y el regreso de Y Combinator. El problema del cobro de arriendos es masivo en toda Latinoamérica hispanohablante. Nos gustaría conocer vuestros planes de expansión regional y si hay oportunidades para colaborar con fondos latinoamericanos.\n\n¿Podrían agendar una llamada?\n\nSaludos,\nLatin Leap",
+   "score": 77,
    "desglose": {
     "geografia": 25.0,
     "etapa": 7.5,
     "tecnologia": 15.0,
-    "senal": 10.5,
+    "senal": 13.5,
     "calidad": 16.0
    },
-   "prioridad": "B",
+   "prioridad": "A",
    "en_tesis": true,
    "conocido": false,
    "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-19T18:52:55+00:00",
-   "ultima_senal": "2026-10-29T19:06:30+00:00",
+   "primera_vista": "2026-11-12T13:25:29+00:00",
+   "fecha_evidencia": "2026-11-11T13:51:43+00:00",
+   "ultima_senal": "2026-11-12T13:44:59+00:00",
    "senales": [
     {
      "fuente": "Google News",
      "tipo": "noticia",
-     "titulo": "Dream Labs Raises $90M in Seed Funding to Build Foundation Models for Any Robot",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR2xhZkd5MmEzUHF5M201VF8xN1VwQmc3b1FqUVVVYWxrc19DUUd1VV94YUd1N2lBb1BUT0h0QXE0R2JTTnV6cXp5enlkd1BnUDZZTjh1bGdOSkNDYWF6V1h4dGVsOXJMaGxRYkx1WmZIeHFDVVdGZmt6dnpJNk9hTTJTQ0xVYzNuZ184cWNoQVhwaUJWYU1HVC0zN3JGX09nVGk5b09xVENuOERBNkt1R2hUeklQZWc?oc=5",
-     "fecha": "2026-10-19T18:52:55+00:00",
-     "medio": "AI Insider"
+     "titulo": "Palomma levanta US$10M y digitaliza arriendos en Colombia",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRXFxVGVNR0k2a3FVM3JQWGFEZ19RaWdZR3M0MlZyR2JKWFFJMFdSejFpSEJwdzV6cXItWUVSSXE2Q3lJVG9iczUtejlNVnM2dHZYYnVoM1VNTjB6TFNWd21VOExuLVBhN25IdnVzc2w2ZHZ5dmJLS2w4Q3dScHZxMXFjbkVkc2dSTEZ1VXdiWFY?oc=5",
+     "fecha": "2026-11-11T13:51:43+00:00",
+     "medio": "El Ecosistema Startup"
     },
     {
      "fuente": "Google News",
      "tipo": "noticia",
-     "titulo": "Dream: IA para edificios levanta US$17M con a16z",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdml3Yl9sRVI0eldqVVdsS3lwRFFua2dodjE4VGhNeFBTbTNoRmxPX3dQckdabHhhemxUMXhZMzlIRi1FcTVjaWR5QUExR0FWczYzU3k4YVZzVWNkLUN0Q3RsbzR1ZHhhWGQ0Ui02RklWeUJfcUxSSzJ1WlAzSmJYb2kyNA?oc=5",
-     "fecha": "2026-10-29T19:06:30+00:00",
+     "titulo": "Palomma, la fintech de arriendos, levanta US$14M",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkNxQlZ4SEZtWGNKM3JubURMUDQ0clZhZ2N4clk1V1dXeHNqRlJITjNvVmVaRU5aQlJMakhjejNVb05KYlYyd0hBLU5vT3ExNUpqWFpibHQ2UFI2OWUxQjVQOUZ3U3NhZEZWeEpvel85SnpwMUtPSGxwSHFIeEQtb09mazE?oc=5",
+     "fecha": "2026-11-11T21:07:02+00:00",
      "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
-   "key": "n:mintive",
-   "empresa": "Mintive",
-   "sitio_web": null,
-   "pais": "México",
-   "ciudad": null,
-   "sector": "IA / SaaS",
-   "etapa": "serie-a",
-   "monto_usd": 7000000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 8.0,
-   "resumen": "Mintive proporciona soluciones de identidad e infraestructura para agentes de inteligencia artificial.",
-   "razon": "Startup mexicana en geografía de tesis, producto de IA (identidad para agentes de IA) con tracción demostrada por ronda de US$7M, mercado de IA en LATAM en crecimiento acelerado.",
-   "mensaje": "Vimos que Mintive levantó US$7M enfocándose en infraestructura de identidad para agentes de IA, un tema cada vez más crítico en el ecosistema. El timing en México es excelente. ¿Podrían ayudarnos a entender mejor cómo ven la expansión latinoamericana del producto?",
-   "score": 74,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 7.5,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 16.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-30T13:06:09+00:00",
-   "fecha_evidencia": "2026-10-29T20:36:28+00:00",
-   "ultima_senal": "2026-10-29T20:36:28+00:00",
-   "senales": [
+    },
     {
      "fuente": "Google News",
      "tipo": "noticia",
-     "titulo": "Mintive, identidad para agentes de IA, levanta US$7M",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWE5KckUtVmZKOUhFcXNOREVrcFFnUkJ4dGtiRzQwSkFWbV9sMFJPclM1Y1BXSVBYM2pOc05zczJzazYxT0JrU2xEYjFrdzhMUW02LWRBNjQ1dGZkbG5wOUY2cmwwVE5RN1Bpc2JGeWJNZlVUQjI4VUhidkpFV3JVSjdkVUNVTEU?oc=5",
-     "fecha": "2026-10-29T20:36:28+00:00",
+     "titulo": "Palomma, la startup de arriendos, levanta US$14M",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGxmcERTa0dCSHgxeW5taC02c3dLWHdISlplZlhXcnR1SllTU3dzRmdaVW5KNFZaNzZoYVprczJ3WU4td0pvNkJ1bHdldUdHV2Z0Z3UxX3BjenM3VEpNU1g4eS1vd2FaR1dVRW10eHhIeGUxUVhzNDdUcTAwandnQUhB?oc=5",
+     "fecha": "2026-11-11T15:03:29+00:00",
      "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Palomma, fintech de arriendos, levanta US$14M",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GRGRCZ1RpUlB0Qm9TOEcwcldGTjJaZE9BdmhoSmVuUEo5enBmX0lJYkhObTNXZDFYME45THJLN2w1WmVGRXc2OGJhZTNVTjBxclJSMHJTSDhzaVcwV1kzUldPSzRHWlBlc0xZcFJpdXo1aWRNQ1dDYzFRQXZsdw?oc=5",
+     "fecha": "2026-11-11T21:07:02+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Startups Latam",
+     "tipo": "noticia",
+     "titulo": "Fintech Palomma levanta US$14 millones para construir el banco de IA del arriendo en América Latina",
+     "url": "https://startupslatam.com/la-colombiana-palomma-levanta-us14-millones-para-construir-el-banco-de-ia-del-arriendo-en-america-latina/",
+     "fecha": "2026-11-12T13:44:59+00:00",
+     "medio": null
     }
    ],
    "motor": "llm"
@@ -2088,16 +2069,16 @@
    "sitio_web": "https://www2.prontopaga.com/",
    "pais": "Chile",
    "ciudad": "Santiago",
-   "sector": "Fintech / Pagos",
+   "sector": "Fintech",
    "etapa": "desconocida",
    "monto_usd": null,
    "inversionistas": [],
    "fundadores": [],
    "tecnologia": true,
    "calidad": 7.0,
-   "resumen": "ProntoPaga es una plataforma regional especializada en recaudación y dispersión de pagos para comercios, diferenciada por velocidad y soluciones locales.",
-   "razon": "Plataforma regional de pagos con propuesta clara (recaudación y dispersión más rápida del mercado), activa contratación de talento senior indica tracción y crecimiento. Mercado regional de pagos es atractivo.",
-   "mensaje": "Hola equipo de ProntoPaga, impresiona el ritmo de contratación que llevan (React, Node.js Senior). Nos atrae vuestra propuesta en pagos regionales. ¿Estarían abiertos a una conversación sobre oportunidades de inversión en vuestra siguiente etapa?",
+   "resumen": "ProntoPaga es una plataforma de recaudación y dispersión de pagos para comercios, especializada en pagos rápidos y soluciones locales de pago en América Latina.",
+   "razon": "Plataforma fintech regional con propuesta clara de valor (pagos rápidos), contratación activa de ingenieros sénior y junior indica tracción operativa y crecimiento, pero sin información sobre inversión o tracción cuantificada.",
+   "mensaje": "Hola equipo de ProntoPaga,\n\nNos alegra ver la contratación activa de ingenierías sénior en tu plataforma de pagos regionales. La velocidad de recaudación y dispersión es un problema real en el mercado hispanohablante. Nos gustaría conocer más sobre el tracción actual y planes de expansión.\n\n¿Podrían agendar una llamada?\n\nSaludos,\nLatin Leap",
    "score": 74,
    "desglose": {
     "geografia": 25.0,
@@ -2112,7 +2093,7 @@
    "conocido_fuente": null,
    "primera_vista": "2026-11-04T13:16:31+00:00",
    "fecha_evidencia": "2026-11-03T15:44:13+00:00",
-   "ultima_senal": "2026-11-03T15:44:13+00:00",
+   "ultima_senal": "2026-11-12T21:10:30+00:00",
    "senales": [
     {
      "fuente": "Get on Board",
@@ -2120,6 +2101,14 @@
      "titulo": "ProntoPaga está contratando: React Front-end Engineer (Semi Senior), Node.js Back-end Engineer (Senior), React Front-end Engineer (Senior)",
      "url": "https://www.getonbrd.com/jobs/react-front-end-engineer-senior-prontopaga-santiago",
      "fecha": "2026-11-03T15:44:13+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "ProntoPaga está contratando: React Front-end Engineer (Semi Senior), Node.js Back-end Engineer (Senior), React Front-end Engineer (Senior), Database Administrator (Junior)",
+     "url": "https://www.getonbrd.com/jobs/database-administrator-junior-prontopaga-santiago",
+     "fecha": "2026-11-12T21:10:30+00:00",
      "medio": null
     }
    ],
@@ -2177,43 +2166,96 @@
    "motor": "llm"
   },
   {
-   "key": "n:sharewillow",
-   "empresa": "ShareWillow",
+   "key": "n:dream",
+   "empresa": "Dream",
    "sitio_web": null,
-   "pais": "Colombia",
+   "pais": "México",
    "ciudad": null,
-   "sector": "Servicios / Marketplace",
+   "sector": "Proptech / IA",
    "etapa": "serie-a",
-   "monto_usd": 8500000.0,
-   "inversionistas": [],
+   "monto_usd": 17000000.0,
+   "inversionistas": [
+    "a16z"
+   ],
    "fundadores": [],
    "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "ShareWillow es una plataforma marketplace que conecta y facilita pagos a técnicos de oficios.",
-   "razon": "Startup colombiana en geografía de tesis, levantó ronda significativa (US$8.5M indica traction post-seed), modelo de marketplace digital para técnicos de oficios tiene mercado grande en LATAM.",
-   "mensaje": "Nos llamó la atención que ShareWillow haya levantado US$8.5M enfocándose en la digitalización de pagos para técnicos en Colombia. El mercado de servicios técnicos en LATAM es enorme y poco digitalizado. ¿Estarían abiertos a conversar sobre oportunidades de expansión regional con un fondo enfocado en la región?",
+   "calidad": 8.0,
+   "resumen": "Dream es una plataforma de IA que optimiza la operación y eficiencia de edificios.",
+   "razon": "Startup mexicana en geografía de tesis, levantó US$17M con a16z (inversor reconocido globalmente), solución de IA para edificios en sector proptech con potencial de mercado grande en LATAM.",
+   "mensaje": "Nos impresionó ver que Dream levantó US$17M con a16z para soluciones de IA en edificios inteligentes desde México. El mercado de proptech en LATAM es enorme y poco penetrado. ¿Están considerando expandir operaciones en otros países de la región o sería de interés dialogar sobre ello?",
    "score": 72,
    "desglose": {
     "geografia": 25.0,
     "etapa": 7.5,
     "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 14.0
+    "senal": 9.0,
+    "calidad": 16.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-19T18:52:55+00:00",
+   "ultima_senal": "2026-10-29T19:06:30+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Dream Labs Raises $90M in Seed Funding to Build Foundation Models for Any Robot",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR2xhZkd5MmEzUHF5M201VF8xN1VwQmc3b1FqUVVVYWxrc19DUUd1VV94YUd1N2lBb1BUT0h0QXE0R2JTTnV6cXp5enlkd1BnUDZZTjh1bGdOSkNDYWF6V1h4dGVsOXJMaGxRYkx1WmZIeHFDVVdGZmt6dnpJNk9hTTJTQ0xVYzNuZ184cWNoQVhwaUJWYU1HVC0zN3JGX09nVGk5b09xVENuOERBNkt1R2hUeklQZWc?oc=5",
+     "fecha": "2026-10-19T18:52:55+00:00",
+     "medio": "AI Insider"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Dream: IA para edificios levanta US$17M con a16z",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdml3Yl9sRVI0eldqVVdsS3lwRFFua2dodjE4VGhNeFBTbTNoRmxPX3dQckdabHhhemxUMXhZMzlIRi1FcTVjaWR5QUExR0FWczYzU3k4YVZzVWNkLUN0Q3RsbzR1ZHhhWGQ0Ui02RklWeUJfcUxSSzJ1WlAzSmJYb2kyNA?oc=5",
+     "fecha": "2026-10-29T19:06:30+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:mintive",
+   "empresa": "Mintive",
+   "sitio_web": null,
+   "pais": "México",
+   "ciudad": null,
+   "sector": "IA / SaaS",
+   "etapa": "serie-a",
+   "monto_usd": 7000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 8.0,
+   "resumen": "Mintive proporciona soluciones de identidad e infraestructura para agentes de inteligencia artificial.",
+   "razon": "Startup mexicana en geografía de tesis, producto de IA (identidad para agentes de IA) con tracción demostrada por ronda de US$7M, mercado de IA en LATAM en crecimiento acelerado.",
+   "mensaje": "Vimos que Mintive levantó US$7M enfocándose en infraestructura de identidad para agentes de IA, un tema cada vez más crítico en el ecosistema. El timing en México es excelente. ¿Podrían ayudarnos a entender mejor cómo ven la expansión latinoamericana del producto?",
+   "score": 72,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 7.5,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 16.0
    },
    "prioridad": "B",
    "en_tesis": true,
    "conocido": false,
    "conocido_fuente": null,
    "primera_vista": "2026-10-30T13:06:09+00:00",
-   "fecha_evidencia": "2026-10-29T17:00:45+00:00",
-   "ultima_senal": "2026-10-29T17:00:45+00:00",
+   "fecha_evidencia": "2026-10-29T20:36:28+00:00",
+   "ultima_senal": "2026-10-29T20:36:28+00:00",
    "senales": [
     {
      "fuente": "Google News",
      "tipo": "noticia",
-     "titulo": "ShareWillow levanta US$8,5M para pagar a técnicos de oficios",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaEhRWXFzLWtmclpRYjhiMmJMVV9ocnFMMFJWbXZNWnR1Vlp4SWR1aFFUYjJCY1pYMHpHa2JmMjJycU1lN1NnMEZMMldRSDJpUGlFd05YbjhiSjZTYmYtV0s0Nm1KODIyMWdYSGg5eWFzNmx0YVlPb1hzUHBMMXpNZGJpd3k0Q1Fial9tRVhNTW5URVU?oc=5",
-     "fecha": "2026-10-29T17:00:45+00:00",
+     "titulo": "Mintive, identidad para agentes de IA, levanta US$7M",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWE5KckUtVmZKOUhFcXNOREVrcFFnUkJ4dGtiRzQwSkFWbV9sMFJPclM1Y1BXSVBYM2pOc05zczJzazYxT0JrU2xEYjFrdzhMUW02LWRBNjQ1dGZkbG5wOUY2cmwwVE5RN1Bpc2JGeWJNZlVUQjI4VUhidkpFV3JVSjdkVUNVTEU?oc=5",
+     "fecha": "2026-10-29T20:36:28+00:00",
      "medio": "El Ecosistema Startup"
     }
    ],
@@ -2351,25 +2393,25 @@
    "motor": "llm"
   },
   {
-   "key": "n:palomma",
-   "empresa": "Palomma",
+   "key": "n:plurai",
+   "empresa": "Plurai",
    "sitio_web": null,
-   "pais": "Colombia",
+   "pais": null,
    "ciudad": null,
-   "sector": "Fintech",
-   "etapa": "serie-a",
-   "monto_usd": 14000000.0,
+   "sector": "IA/Software",
+   "etapa": "seed",
+   "monto_usd": 13000000.0,
    "inversionistas": [],
    "fundadores": [],
    "tecnologia": true,
    "calidad": 7.0,
-   "resumen": "Palomma es una fintech colombiana enfocada en soluciones de financiamiento y gestión para el mercado de arriendos.",
-   "razon": "Fintech en mercado relevante (arriendos), ronda sustancial reportada, pero sin detalles de inversionistas, tracción o diferenciación en la señal.",
-   "mensaje": "Hola equipo de Palomma, vimos que levantaron US$14M para impulsar su plataforma de arriendos. Desde Latin Leap nos interesa conocer cómo están abordando la penetración en el segmento de vivienda en Colombia y la región. ¿Estarían abiertos a conversar sobre oportunidades de crecimiento conjunto?",
+   "resumen": "Startup que desarrolla un simulador para agentes de IA, permitiendo a desarrolladores probar y entrenar comportamientos de IA.",
+   "razon": "Ronda significativa de USD 13M; producto diferenciado (simulador de agentes IA); tracción evidenciada por apertura pública de herramienta; mercado de IA en alta demanda.",
+   "mensaje": "Nos impresionó mucho que Plurai levantara US$13M y abriera su simulador de agentes IA al público. El mercado latinoamericano está despertando a las oportunidades de IA empresarial. Nos gustaría conocer vuestra estrategia de expansión regional y cómo Latin Leap podría acelerar vuestra penetración en LATAM.",
    "score": 72,
    "desglose": {
-    "geografia": 25.0,
-    "etapa": 7.5,
+    "geografia": 7.5,
+    "etapa": 25.0,
     "tecnologia": 15.0,
     "senal": 10.5,
     "calidad": 14.0
@@ -2378,40 +2420,16 @@
    "en_tesis": true,
    "conocido": false,
    "conocido_fuente": null,
-   "primera_vista": "2026-11-12T13:25:29+00:00",
-   "fecha_evidencia": "2026-11-11T13:51:43+00:00",
-   "ultima_senal": "2026-11-11T21:07:02+00:00",
+   "primera_vista": "2026-11-13T13:20:21+00:00",
+   "fecha_evidencia": "2026-11-12T11:57:35+00:00",
+   "ultima_senal": "2026-11-12T11:57:35+00:00",
    "senales": [
     {
      "fuente": "Google News",
      "tipo": "noticia",
-     "titulo": "Palomma levanta US$10M y digitaliza arriendos en Colombia",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRXFxVGVNR0k2a3FVM3JQWGFEZ19RaWdZR3M0MlZyR2JKWFFJMFdSejFpSEJwdzV6cXItWUVSSXE2Q3lJVG9iczUtejlNVnM2dHZYYnVoM1VNTjB6TFNWd21VOExuLVBhN25IdnVzc2w2ZHZ5dmJLS2w4Q3dScHZxMXFjbkVkc2dSTEZ1VXdiWFY?oc=5",
-     "fecha": "2026-11-11T13:51:43+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Palomma, la fintech de arriendos, levanta US$14M",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkNxQlZ4SEZtWGNKM3JubURMUDQ0clZhZ2N4clk1V1dXeHNqRlJITjNvVmVaRU5aQlJMakhjejNVb05KYlYyd0hBLU5vT3ExNUpqWFpibHQ2UFI2OWUxQjVQOUZ3U3NhZEZWeEpvel85SnpwMUtPSGxwSHFIeEQtb09mazE?oc=5",
-     "fecha": "2026-11-11T21:07:02+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Palomma, la startup de arriendos, levanta US$14M",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGxmcERTa0dCSHgxeW5taC02c3dLWHdISlplZlhXcnR1SllTU3dzRmdaVW5KNFZaNzZoYVprczJ3WU4td0pvNkJ1bHdldUdHV2Z0Z3UxX3BjenM3VEpNU1g4eS1vd2FaR1dVRW10eHhIeGUxUVhzNDdUcTAwandnQUhB?oc=5",
-     "fecha": "2026-11-11T15:03:29+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Palomma, fintech de arriendos, levanta US$14M",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GRGRCZ1RpUlB0Qm9TOEcwcldGTjJaZE9BdmhoSmVuUEo5enBmX0lJYkhObTNXZDFYME45THJLN2w1WmVGRXc2OGJhZTNVTjBxclJSMHJTSDhzaVcwV1kzUldPSzRHWlBlc0xZcFJpdXo1aWRNQ1dDYzFRQXZsdw?oc=5",
-     "fecha": "2026-11-11T21:07:02+00:00",
+     "titulo": "Plurai levanta US$13M y abre su simulador de agentes IA",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPclZqR1NEV1FSbXNpMGwxa0tORXJJOUFReGxHcU40NmRmb28zTm9fTVU4WGE0elRaR0tTTk03ZGJkckNOU2FlbldOOHNLdjBXcGlwX2ZsdEFiQjVIeks1YmhOaXRISVdaSm5MR2VCQWpRSzdoUG9fVzl2MVdwYVV5Z3MyTG5ydk1hZlZ4ZG9n?oc=5",
+     "fecha": "2026-11-12T11:57:35+00:00",
      "medio": "El Ecosistema Startup"
     }
    ],
@@ -2933,6 +2951,49 @@
    "motor": "llm"
   },
   {
+   "key": "n:sharewillow",
+   "empresa": "ShareWillow",
+   "sitio_web": null,
+   "pais": "Colombia",
+   "ciudad": null,
+   "sector": "Servicios / Marketplace",
+   "etapa": "serie-a",
+   "monto_usd": 8500000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "ShareWillow es una plataforma marketplace que conecta y facilita pagos a técnicos de oficios.",
+   "razon": "Startup colombiana en geografía de tesis, levantó ronda significativa (US$8.5M indica traction post-seed), modelo de marketplace digital para técnicos de oficios tiene mercado grande en LATAM.",
+   "mensaje": "Nos llamó la atención que ShareWillow haya levantado US$8.5M enfocándose en la digitalización de pagos para técnicos en Colombia. El mercado de servicios técnicos en LATAM es enorme y poco digitalizado. ¿Estarían abiertos a conversar sobre oportunidades de expansión regional con un fondo enfocado en la región?",
+   "score": 70,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 7.5,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 14.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-30T13:06:09+00:00",
+   "fecha_evidencia": "2026-10-29T17:00:45+00:00",
+   "ultima_senal": "2026-10-29T17:00:45+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "ShareWillow levanta US$8,5M para pagar a técnicos de oficios",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaEhRWXFzLWtmclpRYjhiMmJMVV9ocnFMMFJWbXZNWnR1Vlp4SWR1aFFUYjJCY1pYMHpHa2JmMjJycU1lN1NnMEZMMldRSDJpUGlFd05YbjhiSjZTYmYtV0s0Nm1KODIyMWdYSGg5eWFzNmx0YVlPb1hzUHBMMXpNZGJpd3k0Q1Fial9tRVhNTW5URVU?oc=5",
+     "fecha": "2026-10-29T17:00:45+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:integratz.cl",
    "empresa": "INTEGRATZ",
    "sitio_web": "https://integratz.cl/",
@@ -3232,6 +3293,92 @@
     }
    ],
    "motor": "reglas"
+  },
+  {
+   "key": "d:capitalexpress.cl",
+   "empresa": "Capital Express",
+   "sitio_web": "http://www.capitalexpress.cl",
+   "pais": "Chile",
+   "ciudad": "Santiago",
+   "sector": "Fintech",
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Capital Express es una empresa de servicios financieros especializada en factoring con más de 15 años en el mercado, que moderniza su stack tecnológico.",
+   "razon": "Empresa fintech establecida (15+ años en factoring), contratación de ingenieros sénior sugiere modernización, pero sin evidencia de rodada reciente, modelo de negocio convencional o indicadores de tracción innovadora.",
+   "mensaje": "Hola equipo de Capital Express,\n\nVemos con interés la modernización de vuestro stack de ingeniería en factoring. El sector de crédito comercial en Chile sigue siendo una oportunidad grande. Nos gustaría entender mejor vuestros planes de expansión digital.\n\n¿Podrían agendar una conversación?\n\nSaludos,\nLatin Leap",
+   "score": 70,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 7.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-13T13:20:21+00:00",
+   "fecha_evidencia": "2026-11-12T19:03:27+00:00",
+   "ultima_senal": "2026-11-12T19:03:27+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Capital Express está contratando: Software Engineer Front-end, Senior Software Engineer Back-end / Tech Lead",
+     "url": "https://www.getonbrd.com/jobs/senior-software-engineer-backend-tech-lead-capital-express-santiago",
+     "fecha": "2026-11-12T19:03:27+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:helix",
+   "empresa": "Helix",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "Ciberseguridad/Fintech",
+   "etapa": "seed",
+   "monto_usd": 6200000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Startup especializada en verificación y autenticación biométrica a través de voz.",
+   "razon": "Ronda de USD 6.2M en seed; tecnología de verificación biométrica por voz con aplicaciones claras en fintech y seguridad.",
+   "mensaje": "Vimos que Helix levantó US$6.2M para llevar verificación por voz al siguiente nivel. La autenticación biométrica es crítica en fintech y banca digital en Latinoamérica. Nos encantaría charlar sobre vuestra tracción y cómo podríamos apoyar vuestra expansión regional.",
+   "score": 70,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-13T13:20:21+00:00",
+   "fecha_evidencia": "2026-11-12T22:36:34+00:00",
+   "ultima_senal": "2026-11-12T22:36:34+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Helix, startup de verificación por voz, levanta US$6,2M",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS1ZaM2FCWmRTendfV1JJczhoYjBZQ0xBSlQ2dW9Vc1o0WVBYM3RJTk52QkxtQmpmQXlKOGJVSkstTUJqRi1ZZElENmlFUUtjSWdYQkxjLTRoRFR4MU92YjkwX1NpTVNqWTY4OVlTRHRNZG9KLV9ZdkZQLXpaSnpyRTdqV2cwVGlXWXc?oc=5",
+     "fecha": "2026-11-12T22:36:34+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
   },
   {
    "key": "d:rankmi.com",
@@ -6511,6 +6658,49 @@
    "motor": "reglas"
   },
   {
+   "key": "n:forgepoint",
+   "empresa": "Forgepoint",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "Manufactura / IA Industrial",
+   "etapa": "desconocida",
+   "monto_usd": 9800000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Forgepoint es una startup de IA enfocada en automatización y optimización de procesos de fabricación que levantó USD 9.8M.",
+   "razon": "IA para manufactura es un mercado relevante; USD 9.8M sugiere validación, pero sin confirmación de ubicación en LATAM hispanohablante.",
+   "mensaje": "Notamos que Forgepoint levantó USD 9.8M en IA para fábricas. ¿Tiene base o equipo en LATAM hispanohablante? Nos interesa mucho esta vertical de manufactura + IA.",
+   "score": 56,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 12.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-17T17:21:28+00:00",
+   "ultima_senal": "2026-10-17T17:21:28+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Forgepoint, IA para fábricas, levanta US$9,8M",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NTzFIWlpfcmd4N3J2TkxYVC0xaGRmdTVTX3Z1RDdtSnlKTkhTTVZKV19zSS05eDBxNU5ENFFhdXpIS1NQRVpNbWI2OWR1THRxXy1hNUVQeFo4RXpXQVQ1NVV1amxwZW1QM1J0S25zUDZYRHVyQ2xHalp0Rm1tSUU?oc=5",
+     "fecha": "2026-10-17T17:21:28+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "n:manualalinstante",
    "empresa": "Manual al Instante",
    "sitio_web": null,
@@ -6526,12 +6716,12 @@
    "resumen": "Startup ganadora del Demo Day Consolida que avanza a semifinales del South Summit. Ubicada en Valladolid, España.",
    "razon": "Ganadora de Demo Day de aceleradora reconocida y semifinalista en South Summit, indicadores de tracción y validación temprana.",
    "mensaje": "Felicidades por ganar el Demo Day de Consolida y llegar a semifinales del South Summit. Desde Latin Leap estamos atentos al ecosistema europeo y nos gustaría conocer más sobre Manual al Instante, especialmente si tienen planes de expansión en Latinoamérica. ¿Podríamos agendar una breve llamada?",
-   "score": 58,
+   "score": 56,
    "desglose": {
     "geografia": 0.0,
     "etapa": 25.0,
     "tecnologia": 15.0,
-    "senal": 6.0,
+    "senal": 4.5,
     "calidad": 12.0
    },
    "prioridad": "Fuera de tesis",
@@ -6573,49 +6763,6 @@
      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSndGMllxN3NtRFFHemhsQnhySnNCZlB5TXBJWmJsYlFzOEJubk1maDBNOXBBRnBNWmFqY2J0WWNFejdKSWNVMmx3RWRIYUIyTTM4bTJwT0xkM08zd1ZXVzJtRXVOcDFsdXpDeXdKVW9MT3ZuTnZraG5qc01sUmk2dXdMSmlDY1lhVmd0Vm5EZDNsc0plUXZwR1VrbjZyNzF0TlBYZ19HZnNPM1FuWWpFYzdLQnJsNUNXZVhwYktBbWZTSmx4RHd6cUxmRXItWFFJZUJ6cTlwbUZjTnQzcTdxSXEtRlNXSTJKZll4Q3Vqdk9XdzlYTk5weGFIQmJIMExrZ0E?oc=5",
      "fecha": "2026-10-28T17:34:36+00:00",
      "medio": "El Economista"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
-   "key": "n:forgepoint",
-   "empresa": "Forgepoint",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": "Manufactura / IA Industrial",
-   "etapa": "desconocida",
-   "monto_usd": 9800000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 6.0,
-   "resumen": "Forgepoint es una startup de IA enfocada en automatización y optimización de procesos de fabricación que levantó USD 9.8M.",
-   "razon": "IA para manufactura es un mercado relevante; USD 9.8M sugiere validación, pero sin confirmación de ubicación en LATAM hispanohablante.",
-   "mensaje": "Notamos que Forgepoint levantó USD 9.8M en IA para fábricas. ¿Tiene base o equipo en LATAM hispanohablante? Nos interesa mucho esta vertical de manufactura + IA.",
-   "score": 56,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 9.0,
-    "calidad": 12.0
-   },
-   "prioridad": "C",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-17T17:21:28+00:00",
-   "ultima_senal": "2026-10-17T17:21:28+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Forgepoint, IA para fábricas, levanta US$9,8M",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NTzFIWlpfcmd4N3J2TkxYVC0xaGRmdTVTX3Z1RDdtSnlKTkhTTVZKV19zSS05eDBxNU5ENFFhdXpIS1NQRVpNbWI2OWR1THRxXy1hNUVQeFo4RXpXQVQ1NVV1amxwZW1QM1J0S25zUDZYRHVyQ2xHalp0Rm1tSUU?oc=5",
-     "fecha": "2026-10-17T17:21:28+00:00",
-     "medio": "El Ecosistema Startup"
     }
    ],
    "motor": "llm"
@@ -6807,6 +6954,57 @@
     }
    ],
    "motor": "reglas"
+  },
+  {
+   "key": "n:axle",
+   "empresa": "Axle",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "Fintech / Software Enterprise",
+   "etapa": "serie-a",
+   "monto_usd": 9000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Software especializado para bancos de inversión que ha alcanzado USD 9M de financiamiento.",
+   "razon": "Ronda de USD 9M sugiere traction en software B2B para banca de inversión; sin embargo, ubicación geográfica no clara en el texto y etapa ya avanzada para pre-seed.",
+   "mensaje": "Hemos visto el anuncio de Axle en el ecosistema y nos interesa conocer más sobre el producto y tracción. ¿Podrían compartir detalles sobre el equipo fundador y mercado objetivo? Estaremos atentos a futuras etapas de crecimiento.",
+   "score": 54,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 7.5,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 14.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-13T13:20:21+00:00",
+   "fecha_evidencia": "2026-11-12T19:06:39+00:00",
+   "ultima_senal": "2026-11-12T20:03:32+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Axle levanta US$9M para llevar agentes de IA a la banca",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYmp0YWwxTzF3V1ZMSGtfeTNvQWVFYkZhaHp6TXRVZldPaFd1SHdZZlJSaGxfdlRiTGtJX29McHBpWVFlWEhjcVc1b0ExYnI2b0QtdWF0VjR6QU1nRUZibFpJTGVvalJKZFNCckdkUlZJSFB2WVN6UHU0LUlNUnE3VEhQbHppNmJDN0gweEZ3?oc=5",
+     "fecha": "2026-11-12T20:03:32+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Axle, software para bancos de inversión, levanta US$9M",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQzc4U0pNQUstMGs2UVN5Y0tObEs4UGtsRi0yMGx3eWctRC1uNU8yX1paY3JFZ1BlUG9uODZERnZaUm5WYjI3dG1STlFyYTZKLXhTTnNxZUJfN2ppUFV2Q1B5TDFFWk1jLWl6YUpiaE5oMXlseTdvaHJrck1raXptLTNRVzl4cGlHalE?oc=5",
+     "fecha": "2026-11-12T19:06:39+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
   },
   {
    "key": "n:neopausia",
@@ -8448,15 +8646,15 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-11-12T13:25:29+00:00",
+  "actualizado": "2026-11-13T13:20:21+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 102,
-  "prioridad_a_30d": 27,
-  "incremento_vs_baseline": 1.7,
-  "cumplimiento_meta": 17.0,
-  "total_deals": 180,
-  "total_calificados": 120,
+  "calificados_30d": 104,
+  "prioridad_a_30d": 28,
+  "incremento_vs_baseline": 1.733,
+  "cumplimiento_meta": 17.33,
+  "total_deals": 184,
+  "total_calificados": 123,
   "conocidos_detectados": 2,
   "por_semana": {
    "2025-06-16": 1,
@@ -8470,20 +8668,20 @@
    "2026-10-19": 38,
    "2026-10-26": 23,
    "2026-11-02": 14,
-   "2026-11-09": 8
+   "2026-11-09": 11
   },
   "por_fuente": {
-   "Google News": 59,
-   "Get on Board": 51,
+   "Google News": 61,
+   "Get on Board": 52,
    "Y Combinator": 6,
+   "Startups Latam": 5,
    "LatamList": 4,
-   "Startups Latam": 4,
    "Techla Media": 1,
    "Contxto": 1
   },
   "por_pais": {
-   "Chile": 47,
-   "?": 28,
+   "Chile": 48,
+   "?": 30,
    "Argentina": 14,
    "México": 12,
    "Colombia": 9,
@@ -10148,6 +10346,84 @@
       "fuente": "Google News",
       "ok": true,
       "senales": 159,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 4,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 2,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 44,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-11-13T13:18:55+00:00",
+    "fin": "2026-11-13T13:20:21+00:00",
+    "senales_crudas": 251,
+    "descartadas_prefiltro": 105,
+    "procesadas": 23,
+    "deals_nuevos": 4,
+    "calificados_nuevos": 3,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 15,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 156,
       "error": null
      },
      {

@@ -2990,12 +2990,12 @@
   "ultima_senal": "2026-10-29T19:06:30+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 74,
+  "score": 72,
   "desglose": {
    "geografia": 25.0,
    "etapa": 7.5,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 16.0
   },
   "prioridad": "B",
@@ -4950,12 +4950,12 @@
   "ultima_senal": "2026-10-29T22:55:54+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 94,
+  "score": 93,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 13.5,
+   "senal": 12.0,
    "calidad": 16.0
   },
   "prioridad": "A",
@@ -5702,12 +5702,12 @@
   "conocido_fuente": null,
   "conocido": false,
   "pais": "España",
-  "score": 58,
+  "score": 56,
   "desglose": {
    "geografia": 0.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 12.0
   },
   "prioridad": "Fuera de tesis",
@@ -5863,12 +5863,12 @@
   "ultima_senal": "2026-10-29T17:00:45+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 72,
+  "score": 70,
   "desglose": {
    "geografia": 25.0,
    "etapa": 7.5,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 14.0
   },
   "prioridad": "B",
@@ -5904,12 +5904,12 @@
   "ultima_senal": "2026-10-29T20:36:28+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 74,
+  "score": 72,
   "desglose": {
    "geografia": 25.0,
    "etapa": 7.5,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 16.0
   },
   "prioridad": "B",
@@ -6577,6 +6577,14 @@
     "url": "https://www.getonbrd.com/jobs/react-front-end-engineer-senior-prontopaga-santiago",
     "fecha": "2026-11-03T15:44:13+00:00",
     "medio": null
+   },
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "ProntoPaga está contratando: React Front-end Engineer (Semi Senior), Node.js Back-end Engineer (Senior), React Front-end Engineer (Senior), Database Administrator (Junior)",
+    "url": "https://www.getonbrd.com/jobs/database-administrator-junior-prontopaga-santiago",
+    "fecha": "2026-11-12T21:10:30+00:00",
+    "medio": null
    }
   ],
   "inversionistas": [],
@@ -6587,14 +6595,14 @@
   "sitio_web": "https://www2.prontopaga.com/",
   "pais": "Chile",
   "ciudad": "Santiago",
-  "sector": "Fintech / Pagos",
+  "sector": "Fintech",
   "etapa": "desconocida",
   "tecnologia": true,
-  "resumen": "ProntoPaga es una plataforma regional especializada en recaudación y dispersión de pagos para comercios, diferenciada por velocidad y soluciones locales.",
-  "mensaje": "Hola equipo de ProntoPaga, impresiona el ritmo de contratación que llevan (React, Node.js Senior). Nos atrae vuestra propuesta en pagos regionales. ¿Estarían abiertos a una conversación sobre oportunidades de inversión en vuestra siguiente etapa?",
-  "razon": "Plataforma regional de pagos con propuesta clara (recaudación y dispersión más rápida del mercado), activa contratación de talento senior indica tracción y crecimiento. Mercado regional de pagos es atractivo.",
+  "resumen": "ProntoPaga es una plataforma de recaudación y dispersión de pagos para comercios, especializada en pagos rápidos y soluciones locales de pago en América Latina.",
+  "mensaje": "Hola equipo de ProntoPaga,\n\nNos alegra ver la contratación activa de ingenierías sénior en tu plataforma de pagos regionales. La velocidad de recaudación y dispersión es un problema real en el mercado hispanohablante. Nos gustaría conocer más sobre el tracción actual y planes de expansión.\n\n¿Podrían agendar una llamada?\n\nSaludos,\nLatin Leap",
+  "razon": "Plataforma fintech regional con propuesta clara de valor (pagos rápidos), contratación activa de ingenieros sénior y junior indica tracción operativa y crecimiento, pero sin información sobre inversión o tracción cuantificada.",
   "fecha_evidencia": "2026-11-03T15:44:13+00:00",
-  "ultima_senal": "2026-11-03T15:44:13+00:00",
+  "ultima_senal": "2026-11-12T21:10:30+00:00",
   "conocido_fuente": null,
   "conocido": false,
   "score": 74,
@@ -7723,34 +7731,44 @@
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GRGRCZ1RpUlB0Qm9TOEcwcldGTjJaZE9BdmhoSmVuUEo5enBmX0lJYkhObTNXZDFYME45THJLN2w1WmVGRXc2OGJhZTNVTjBxclJSMHJTSDhzaVcwV1kzUldPSzRHWlBlc0xZcFJpdXo1aWRNQ1dDYzFRQXZsdw?oc=5",
     "fecha": "2026-11-11T21:07:02+00:00",
     "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "Startups Latam",
+    "tipo": "noticia",
+    "titulo": "Fintech Palomma levanta US$14 millones para construir el banco de IA del arriendo en América Latina",
+    "url": "https://startupslatam.com/la-colombiana-palomma-levanta-us14-millones-para-construir-el-banco-de-ia-del-arriendo-en-america-latina/",
+    "fecha": "2026-11-12T13:44:59+00:00",
+    "medio": null
    }
   ],
-  "inversionistas": [],
+  "inversionistas": [
+   "Cometa, Volpe Capital, Clocktower Technology Ventures, Tekton Ventures, Simma Capital, Yango Ventures, Y Combinator, 17Sigma"
+  ],
   "fundadores": [],
-  "calidad": 7.0,
+  "calidad": 8.0,
   "motor": "llm",
   "empresa": "Palomma",
   "pais": "Colombia",
-  "sector": "Fintech",
+  "sector": "Proptech/Fintech",
   "etapa": "serie-a",
   "monto_usd": 14000000.0,
   "tecnologia": true,
-  "resumen": "Palomma es una fintech colombiana enfocada en soluciones de financiamiento y gestión para el mercado de arriendos.",
-  "mensaje": "Hola equipo de Palomma, vimos que levantaron US$14M para impulsar su plataforma de arriendos. Desde Latin Leap nos interesa conocer cómo están abordando la penetración en el segmento de vivienda en Colombia y la región. ¿Estarían abiertos a conversar sobre oportunidades de crecimiento conjunto?",
-  "razon": "Fintech en mercado relevante (arriendos), ronda sustancial reportada, pero sin detalles de inversionistas, tracción o diferenciación en la señal.",
+  "resumen": "Palomma es una fintech colombiana que automatiza cobro de arriendos para inmobiliarias usando IA, permitiendo crear un \"banco del arriendo\" en América Latina.",
+  "mensaje": "Hola equipo de Palomma,\n\nFelicitaciones por la Serie A de US$14M y el regreso de Y Combinator. El problema del cobro de arriendos es masivo en toda Latinoamérica hispanohablante. Nos gustaría conocer vuestros planes de expansión regional y si hay oportunidades para colaborar con fondos latinoamericanos.\n\n¿Podrían agendar una llamada?\n\nSaludos,\nLatin Leap",
+  "razon": "Fintech de alto impacto en mercado regional grande (arriendos), ya ha levantado Serie A con inversores reconocidos (Cometa, Y Combinator), producto de IA diferenciado, tracción regional en inmobiliarias.",
   "fecha_evidencia": "2026-11-11T13:51:43+00:00",
-  "ultima_senal": "2026-11-11T21:07:02+00:00",
+  "ultima_senal": "2026-11-12T13:44:59+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 72,
+  "score": 77,
   "desglose": {
    "geografia": 25.0,
    "etapa": 7.5,
    "tecnologia": 15.0,
-   "senal": 10.5,
-   "calidad": 14.0
+   "senal": 13.5,
+   "calidad": 16.0
   },
-  "prioridad": "B",
+  "prioridad": "A",
   "en_tesis": true
  },
  "n:clara": {
@@ -7793,5 +7811,175 @@
   },
   "prioridad": "Fuera de tesis",
   "en_tesis": false
+ },
+ "d:capitalexpress.cl": {
+  "key": "d:capitalexpress.cl",
+  "primera_vista": "2026-11-13T13:20:21+00:00",
+  "senales": [
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Capital Express está contratando: Software Engineer Front-end, Senior Software Engineer Back-end / Tech Lead",
+    "url": "https://www.getonbrd.com/jobs/senior-software-engineer-backend-tech-lead-capital-express-santiago",
+    "fecha": "2026-11-12T19:03:27+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "llm",
+  "empresa": "Capital Express",
+  "sitio_web": "http://www.capitalexpress.cl",
+  "pais": "Chile",
+  "ciudad": "Santiago",
+  "sector": "Fintech",
+  "etapa": "desconocida",
+  "tecnologia": true,
+  "resumen": "Capital Express es una empresa de servicios financieros especializada en factoring con más de 15 años en el mercado, que moderniza su stack tecnológico.",
+  "mensaje": "Hola equipo de Capital Express,\n\nVemos con interés la modernización de vuestro stack de ingeniería en factoring. El sector de crédito comercial en Chile sigue siendo una oportunidad grande. Nos gustaría entender mejor vuestros planes de expansión digital.\n\n¿Podrían agendar una conversación?\n\nSaludos,\nLatin Leap",
+  "razon": "Empresa fintech establecida (15+ años en factoring), contratación de ingenieros sénior sugiere modernización, pero sin evidencia de rodada reciente, modelo de negocio convencional o indicadores de tracción innovadora.",
+  "fecha_evidencia": "2026-11-12T19:03:27+00:00",
+  "ultima_senal": "2026-11-12T19:03:27+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 70,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 12.5,
+   "tecnologia": 15.0,
+   "senal": 7.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:axle": {
+  "key": "n:axle",
+  "primera_vista": "2026-11-13T13:20:21+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Axle levanta US$9M para llevar agentes de IA a la banca",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYmp0YWwxTzF3V1ZMSGtfeTNvQWVFYkZhaHp6TXRVZldPaFd1SHdZZlJSaGxfdlRiTGtJX29McHBpWVFlWEhjcVc1b0ExYnI2b0QtdWF0VjR6QU1nRUZibFpJTGVvalJKZFNCckdkUlZJSFB2WVN6UHU0LUlNUnE3VEhQbHppNmJDN0gweEZ3?oc=5",
+    "fecha": "2026-11-12T20:03:32+00:00",
+    "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Axle, software para bancos de inversión, levanta US$9M",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQzc4U0pNQUstMGs2UVN5Y0tObEs4UGtsRi0yMGx3eWctRC1uNU8yX1paY3JFZ1BlUG9uODZERnZaUm5WYjI3dG1STlFyYTZKLXhTTnNxZUJfN2ppUFV2Q1B5TDFFWk1jLWl6YUpiaE5oMXlseTdvaHJrck1raXptLTNRVzl4cGlHalE?oc=5",
+    "fecha": "2026-11-12T19:06:39+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 7.0,
+  "motor": "llm",
+  "empresa": "Axle",
+  "sector": "Fintech / Software Enterprise",
+  "etapa": "serie-a",
+  "monto_usd": 9000000.0,
+  "tecnologia": true,
+  "resumen": "Software especializado para bancos de inversión que ha alcanzado USD 9M de financiamiento.",
+  "mensaje": "Hemos visto el anuncio de Axle en el ecosistema y nos interesa conocer más sobre el producto y tracción. ¿Podrían compartir detalles sobre el equipo fundador y mercado objetivo? Estaremos atentos a futuras etapas de crecimiento.",
+  "razon": "Ronda de USD 9M sugiere traction en software B2B para banca de inversión; sin embargo, ubicación geográfica no clara en el texto y etapa ya avanzada para pre-seed.",
+  "fecha_evidencia": "2026-11-12T19:06:39+00:00",
+  "ultima_senal": "2026-11-12T20:03:32+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 54,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 7.5,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 14.0
+  },
+  "prioridad": "C",
+  "en_tesis": true
+ },
+ "n:helix": {
+  "key": "n:helix",
+  "primera_vista": "2026-11-13T13:20:21+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Helix, startup de verificación por voz, levanta US$6,2M",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS1ZaM2FCWmRTendfV1JJczhoYjBZQ0xBSlQ2dW9Vc1o0WVBYM3RJTk52QkxtQmpmQXlKOGJVSkstTUJqRi1ZZElENmlFUUtjSWdYQkxjLTRoRFR4MU92YjkwX1NpTVNqWTY4OVlTRHRNZG9KLV9ZdkZQLXpaSnpyRTdqV2cwVGlXWXc?oc=5",
+    "fecha": "2026-11-12T22:36:34+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 6.0,
+  "motor": "llm",
+  "empresa": "Helix",
+  "sector": "Ciberseguridad/Fintech",
+  "etapa": "seed",
+  "monto_usd": 6200000.0,
+  "tecnologia": true,
+  "resumen": "Startup especializada en verificación y autenticación biométrica a través de voz.",
+  "mensaje": "Vimos que Helix levantó US$6.2M para llevar verificación por voz al siguiente nivel. La autenticación biométrica es crítica en fintech y banca digital en Latinoamérica. Nos encantaría charlar sobre vuestra tracción y cómo podríamos apoyar vuestra expansión regional.",
+  "razon": "Ronda de USD 6.2M en seed; tecnología de verificación biométrica por voz con aplicaciones claras en fintech y seguridad.",
+  "fecha_evidencia": "2026-11-12T22:36:34+00:00",
+  "ultima_senal": "2026-11-12T22:36:34+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 70,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 12.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:plurai": {
+  "key": "n:plurai",
+  "primera_vista": "2026-11-13T13:20:21+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Plurai levanta US$13M y abre su simulador de agentes IA",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPclZqR1NEV1FSbXNpMGwxa0tORXJJOUFReGxHcU40NmRmb28zTm9fTVU4WGE0elRaR0tTTk03ZGJkckNOU2FlbldOOHNLdjBXcGlwX2ZsdEFiQjVIeks1YmhOaXRISVdaSm5MR2VCQWpRSzdoUG9fVzl2MVdwYVV5Z3MyTG5ydk1hZlZ4ZG9n?oc=5",
+    "fecha": "2026-11-12T11:57:35+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 7.0,
+  "motor": "llm",
+  "empresa": "Plurai",
+  "sector": "IA/Software",
+  "etapa": "seed",
+  "monto_usd": 13000000.0,
+  "tecnologia": true,
+  "resumen": "Startup que desarrolla un simulador para agentes de IA, permitiendo a desarrolladores probar y entrenar comportamientos de IA.",
+  "mensaje": "Nos impresionó mucho que Plurai levantara US$13M y abriera su simulador de agentes IA al público. El mercado latinoamericano está despertando a las oportunidades de IA empresarial. Nos gustaría conocer vuestra estrategia de expansión regional y cómo Latin Leap podría acelerar vuestra penetración en LATAM.",
+  "razon": "Ronda significativa de USD 13M; producto diferenciado (simulador de agentes IA); tracción evidenciada por apertura pública de herramienta; mercado de IA en alta demanda.",
+  "fecha_evidencia": "2026-11-12T11:57:35+00:00",
+  "ultima_senal": "2026-11-12T11:57:35+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 72,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 14.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
  }
 }
