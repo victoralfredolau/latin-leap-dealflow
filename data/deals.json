@@ -1660,12 +1660,12 @@
   "ultima_senal": "2026-10-30T20:45:57+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 72,
+  "score": 70,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 12.0
   },
   "prioridad": "B",
@@ -6157,15 +6157,15 @@
   "ultima_senal": "2026-10-31T03:04:27+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 60,
+  "score": 59,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 7.5,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
-  "prioridad": "B",
+  "prioridad": "C",
   "en_tesis": true
  },
  "n:disruptive": {
@@ -6324,15 +6324,15 @@
   "ultima_senal": "2026-10-31T07:00:00+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 60,
+  "score": 59,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 7.5,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
-  "prioridad": "B",
+  "prioridad": "C",
   "en_tesis": true
  },
  "n:tutorintelligence": {
@@ -7739,6 +7739,14 @@
     "url": "https://startupslatam.com/la-colombiana-palomma-levanta-us14-millones-para-construir-el-banco-de-ia-del-arriendo-en-america-latina/",
     "fecha": "2026-11-12T13:44:59+00:00",
     "medio": null
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Palomma, fintech de arriendos, levanta US$14M",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMDB4eV9XaXFOWjNabHJqMDdsQXBHV3VlS003R0pYbTBWTnd3N1V0V20wcmpKU2pZaWNfMHNRYU12Nk1CVlcwMnk1VDNFNmlJSE1IcF9QZEtYdS1lTThvemdrcHhXUmdUcnZCQkl1QTZ0SEF1SFN6dDVfRE1mcHJvdg?oc=5",
+    "fecha": "2026-11-13T15:51:27+00:00",
+    "medio": "El Ecosistema Startup"
    }
   ],
   "inversionistas": [
@@ -7748,28 +7756,28 @@
   "calidad": 8.0,
   "motor": "llm",
   "empresa": "Palomma",
-  "pais": "Colombia",
-  "sector": "Proptech/Fintech",
-  "etapa": "serie-a",
+  "pais": "Chile",
+  "sector": "Fintech",
+  "etapa": "serie-b+",
   "monto_usd": 14000000.0,
   "tecnologia": true,
-  "resumen": "Palomma es una fintech colombiana que automatiza cobro de arriendos para inmobiliarias usando IA, permitiendo crear un \"banco del arriendo\" en América Latina.",
-  "mensaje": "Hola equipo de Palomma,\n\nFelicitaciones por la Serie A de US$14M y el regreso de Y Combinator. El problema del cobro de arriendos es masivo en toda Latinoamérica hispanohablante. Nos gustaría conocer vuestros planes de expansión regional y si hay oportunidades para colaborar con fondos latinoamericanos.\n\n¿Podrían agendar una llamada?\n\nSaludos,\nLatin Leap",
-  "razon": "Fintech de alto impacto en mercado regional grande (arriendos), ya ha levantado Serie A con inversores reconocidos (Cometa, Y Combinator), producto de IA diferenciado, tracción regional en inmobiliarias.",
+  "resumen": "Palomma es una fintech especializada en soluciones de financiamiento para arriendos en Chile.",
+  "mensaje": "Hola equipo Palomma, vimos que levantaron US$14M para revolucionar el mercado de arriendos en Chile. Desde Latin Leap seguimos de cerca a los mejores fintechs de la región. Nos gustaría conocer más sobre vuestro tracción y visión regional. ¡Saludos!",
+  "razon": "Fintech chilena con tracción clara (levanta US$14M), mercado de arriendos es relevante en LATAM. Ya en etapa posterior a seed, pero demuestra validación.",
   "fecha_evidencia": "2026-11-11T13:51:43+00:00",
-  "ultima_senal": "2026-11-12T13:44:59+00:00",
+  "ultima_senal": "2026-11-13T15:51:27+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 77,
+  "score": 70,
   "desglose": {
    "geografia": 25.0,
-   "etapa": 7.5,
+   "etapa": 0.0,
    "tecnologia": 15.0,
    "senal": 13.5,
    "calidad": 16.0
   },
-  "prioridad": "A",
-  "en_tesis": true
+  "prioridad": "Fuera de tesis",
+  "en_tesis": false
  },
  "n:clara": {
   "key": "n:clara",
@@ -7782,6 +7790,14 @@
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUklWSV94UXZfVzlZN3B6VzJ2eUpTM0poZmZqZXA1N3FXcmMyMnp1ZXpqSDRMRFgydzItQ3pmczU5UkY2dTFiN0NhNnBtSUU2bEpSN3pSbmRLZnJRYkpZSHJHdi1rOVhWRm4wUWFLQ3EyeUhmV2RSckM2TDQwZmlvN3JCN0l4TlFPbllF?oc=5",
     "fecha": "2026-11-12T10:33:23+00:00",
     "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Clara levanta US$65M; Nvidia cambia de CEO",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFWTRqTXEtWS1ZZW9wT1JOYU1QUmhVeFdJUEpXbzlSU3FQWVR5aldYNm13WUY0TW5jTmJfR0ltS3N0amk1THFKNVRhN1ZZWnBPUXR4X3MxNERCSTRJYmR2RWdHbF9hbkNYeXhPMURRRy0tUlFUUlNTX2VnOA?oc=5",
+    "fecha": "2026-11-13T16:09:36+00:00",
+    "medio": "El Ecosistema Startup"
    }
   ],
   "inversionistas": [],
@@ -7789,22 +7805,22 @@
   "calidad": 8.0,
   "motor": "llm",
   "empresa": "Clara",
-  "pais": "desconocida",
+  "pais": "Chile",
   "sector": "fintech",
-  "etapa": "serie-a",
-  "monto_usd": 105000000.0,
+  "etapa": "serie-b+",
+  "monto_usd": 65000000.0,
   "tecnologia": true,
-  "resumen": "Clara es una fintech con IA que opera en América Latina, probablemente enfocada en automatización de procesos financieros o crédito.",
-  "mensaje": "Hola equipo Clara, felicidades por levantar USD 105M para vuestra fintech con IA en LATAM. Nos interesa mucho cómo estáis abordando la automatización financiera en la región. ¿Podríamos conversar sobre oportunidades de sinergia o expansión?",
-  "razon": "Fintech con IA enfocada en LATAM con ronda significativa de USD 105M; modelo de negocio en sector de alto crecimiento con buena diferenciación tecnológica.",
+  "resumen": "Clara es una startup chilena que levantó US$65M en una ronda de inversión.",
+  "mensaje": "Hola Clara, vemos que levantaron US$65M y están escalando en Chile. Desde Latin Leap admiramos a los founders que logran validar sus ideas en el mercado regional. Nos encantaría conectar para conocer más sobre vuestro producto y visión. ¡Un saludo!",
+  "razon": "Startup chilena con ronda significativa (US$65M), demuestra tracción importante. Información limitada sobre sector específico reduce claridad.",
   "fecha_evidencia": "2026-11-12T10:33:23+00:00",
-  "ultima_senal": "2026-11-12T10:33:23+00:00",
+  "ultima_senal": "2026-11-13T16:09:36+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 49,
+  "score": 66,
   "desglose": {
-   "geografia": 0.0,
-   "etapa": 7.5,
+   "geografia": 25.0,
+   "etapa": 0.0,
    "tecnologia": 15.0,
    "senal": 10.5,
    "calidad": 16.0
@@ -7978,6 +7994,48 @@
    "tecnologia": 15.0,
    "senal": 10.5,
    "calidad": 14.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "d:logpilot.com": {
+  "key": "d:logpilot.com",
+  "primera_vista": "2026-11-14T13:02:39+00:00",
+  "senales": [
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Logpilot está contratando: Software Engineer Full-Stack",
+    "url": "https://www.getonbrd.com/jobs/software-engineer-full-stack-logpilot-santiago-1ad9",
+    "fecha": "2026-11-13T16:34:12+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 6.0,
+  "motor": "llm",
+  "empresa": "Logpilot",
+  "sitio_web": "http://www.logpilot.com",
+  "pais": "Chile",
+  "ciudad": "Santiago",
+  "sector": "Logística y cadena de suministro",
+  "etapa": "desconocida",
+  "tecnologia": true,
+  "resumen": "Logpilot desarrolla software especializado para gestión de cadenas de suministro con automatización inteligente y visibilidad de operaciones complejas.",
+  "mensaje": "Hola equipo Logpilot, vimos que están contratando talento en ingeniería full-stack en Santiago, lo que nos indica momentum operativo interesante en logística. En Latin Leap invertimos en soluciones de software B2B en LATAM hispanohablante. Nos gustaría conocer más sobre vuestra tesis de producto y tracción actual. ¿Les vendría bien una conversación breve?",
+  "razon": "Empresa tecnológica en sector logística con énfasis en automatización; está contratando activamente, señal de tracción operativa, pero sin información sobre financiamiento o traction metrics.",
+  "fecha_evidencia": "2026-11-13T16:34:12+00:00",
+  "ultima_senal": "2026-11-13T16:34:12+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 72,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 12.5,
+   "tecnologia": 15.0,
+   "senal": 7.5,
+   "calidad": 12.0
   },
   "prioridad": "B",
   "en_tesis": true

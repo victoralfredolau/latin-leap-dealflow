@@ -1987,83 +1987,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:palomma",
-   "empresa": "Palomma",
-   "sitio_web": null,
-   "pais": "Colombia",
-   "ciudad": null,
-   "sector": "Proptech/Fintech",
-   "etapa": "serie-a",
-   "monto_usd": 14000000.0,
-   "inversionistas": [
-    "Cometa, Volpe Capital, Clocktower Technology Ventures, Tekton Ventures, Simma Capital, Yango Ventures, Y Combinator, 17Sigma"
-   ],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 8.0,
-   "resumen": "Palomma es una fintech colombiana que automatiza cobro de arriendos para inmobiliarias usando IA, permitiendo crear un \"banco del arriendo\" en América Latina.",
-   "razon": "Fintech de alto impacto en mercado regional grande (arriendos), ya ha levantado Serie A con inversores reconocidos (Cometa, Y Combinator), producto de IA diferenciado, tracción regional en inmobiliarias.",
-   "mensaje": "Hola equipo de Palomma,\n\nFelicitaciones por la Serie A de US$14M y el regreso de Y Combinator. El problema del cobro de arriendos es masivo en toda Latinoamérica hispanohablante. Nos gustaría conocer vuestros planes de expansión regional y si hay oportunidades para colaborar con fondos latinoamericanos.\n\n¿Podrían agendar una llamada?\n\nSaludos,\nLatin Leap",
-   "score": 77,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 7.5,
-    "tecnologia": 15.0,
-    "senal": 13.5,
-    "calidad": 16.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-11-12T13:25:29+00:00",
-   "fecha_evidencia": "2026-11-11T13:51:43+00:00",
-   "ultima_senal": "2026-11-12T13:44:59+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Palomma levanta US$10M y digitaliza arriendos en Colombia",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRXFxVGVNR0k2a3FVM3JQWGFEZ19RaWdZR3M0MlZyR2JKWFFJMFdSejFpSEJwdzV6cXItWUVSSXE2Q3lJVG9iczUtejlNVnM2dHZYYnVoM1VNTjB6TFNWd21VOExuLVBhN25IdnVzc2w2ZHZ5dmJLS2w4Q3dScHZxMXFjbkVkc2dSTEZ1VXdiWFY?oc=5",
-     "fecha": "2026-11-11T13:51:43+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Palomma, la fintech de arriendos, levanta US$14M",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkNxQlZ4SEZtWGNKM3JubURMUDQ0clZhZ2N4clk1V1dXeHNqRlJITjNvVmVaRU5aQlJMakhjejNVb05KYlYyd0hBLU5vT3ExNUpqWFpibHQ2UFI2OWUxQjVQOUZ3U3NhZEZWeEpvel85SnpwMUtPSGxwSHFIeEQtb09mazE?oc=5",
-     "fecha": "2026-11-11T21:07:02+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Palomma, la startup de arriendos, levanta US$14M",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGxmcERTa0dCSHgxeW5taC02c3dLWHdISlplZlhXcnR1SllTU3dzRmdaVW5KNFZaNzZoYVprczJ3WU4td0pvNkJ1bHdldUdHV2Z0Z3UxX3BjenM3VEpNU1g4eS1vd2FaR1dVRW10eHhIeGUxUVhzNDdUcTAwandnQUhB?oc=5",
-     "fecha": "2026-11-11T15:03:29+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Palomma, fintech de arriendos, levanta US$14M",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GRGRCZ1RpUlB0Qm9TOEcwcldGTjJaZE9BdmhoSmVuUEo5enBmX0lJYkhObTNXZDFYME45THJLN2w1WmVGRXc2OGJhZTNVTjBxclJSMHJTSDhzaVcwV1kzUldPSzRHWlBlc0xZcFJpdXo1aWRNQ1dDYzFRQXZsdw?oc=5",
-     "fecha": "2026-11-11T21:07:02+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Startups Latam",
-     "tipo": "noticia",
-     "titulo": "Fintech Palomma levanta US$14 millones para construir el banco de IA del arriendo en América Latina",
-     "url": "https://startupslatam.com/la-colombiana-palomma-levanta-us14-millones-para-construir-el-banco-de-ia-del-arriendo-en-america-latina/",
-     "fecha": "2026-11-12T13:44:59+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "d:prontopaga.com",
    "empresa": "ProntoPaga",
    "sitio_web": "https://www2.prontopaga.com/",
@@ -2109,57 +2032,6 @@
      "titulo": "ProntoPaga está contratando: React Front-end Engineer (Semi Senior), Node.js Back-end Engineer (Senior), React Front-end Engineer (Senior), Database Administrator (Junior)",
      "url": "https://www.getonbrd.com/jobs/database-administrator-junior-prontopaga-santiago",
      "fecha": "2026-11-12T21:10:30+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "llm"
-  },
-  {
-   "key": "d:cumplo.cl",
-   "empresa": "Cumplo",
-   "sitio_web": "http://www.cumplo.cl",
-   "pais": "Chile",
-   "ciudad": "Santiago",
-   "sector": "Fintech / Financiero",
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 6.0,
-   "resumen": "Cumplo es un marketplace que conecta pequeñas y medianas empresas que buscan financiamiento con inversionistas e instituciones dispuestas a invertir.",
-   "razon": "Fintech con propuesta clara (crowdfunding/marketplace de financiamiento B2B), opera en mercado de LATAM, etapa operacional desconocida pero señal reciente de contratación sugiere tracción.",
-   "mensaje": "Hola equipo Cumplo, nos interesa mucho el modelo de marketplace que están construyendo para democratizar el financiamiento de pymes en Chile. Vemos que están en búsqueda de talento técnico, ¿estarían abiertos a conversar sobre oportunidades de inversión? Nos encantaría conocer más de la tracción y visión del equipo.",
-   "score": 72,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 12.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-21T19:50:45+00:00",
-   "ultima_senal": "2026-10-30T20:45:57+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Cumplo está contratando: Full-Stack Engineer",
-     "url": "https://www.getonbrd.com/jobs/full-stack-engineer-cumplo-santiago-3dd2",
-     "fecha": "2026-10-21T19:50:45+00:00",
-     "medio": null
-    },
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Cumplo está contratando: Full-Stack Engineer, DevOps",
-     "url": "https://www.getonbrd.com/jobs/dev-ops-cumplo-santiago",
-     "fecha": "2026-10-30T20:45:57+00:00",
      "medio": null
     }
    ],
@@ -2436,6 +2308,49 @@
    "motor": "llm"
   },
   {
+   "key": "d:logpilot.com",
+   "empresa": "Logpilot",
+   "sitio_web": "http://www.logpilot.com",
+   "pais": "Chile",
+   "ciudad": "Santiago",
+   "sector": "Logística y cadena de suministro",
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Logpilot desarrolla software especializado para gestión de cadenas de suministro con automatización inteligente y visibilidad de operaciones complejas.",
+   "razon": "Empresa tecnológica en sector logística con énfasis en automatización; está contratando activamente, señal de tracción operativa, pero sin información sobre financiamiento o traction metrics.",
+   "mensaje": "Hola equipo Logpilot, vimos que están contratando talento en ingeniería full-stack en Santiago, lo que nos indica momentum operativo interesante en logística. En Latin Leap invertimos en soluciones de software B2B en LATAM hispanohablante. Nos gustaría conocer más sobre vuestra tesis de producto y tracción actual. ¿Les vendría bien una conversación breve?",
+   "score": 72,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 7.5,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-14T13:02:39+00:00",
+   "fecha_evidencia": "2026-11-13T16:34:12+00:00",
+   "ultima_senal": "2026-11-13T16:34:12+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Logpilot está contratando: Software Engineer Full-Stack",
+     "url": "https://www.getonbrd.com/jobs/software-engineer-full-stack-logpilot-santiago-1ad9",
+     "fecha": "2026-11-13T16:34:12+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:lisit.cl",
    "empresa": "Lisit",
    "sitio_web": "https://www.lisit.cl/",
@@ -2536,6 +2451,57 @@
     }
    ],
    "motor": "reglas"
+  },
+  {
+   "key": "d:cumplo.cl",
+   "empresa": "Cumplo",
+   "sitio_web": "http://www.cumplo.cl",
+   "pais": "Chile",
+   "ciudad": "Santiago",
+   "sector": "Fintech / Financiero",
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Cumplo es un marketplace que conecta pequeñas y medianas empresas que buscan financiamiento con inversionistas e instituciones dispuestas a invertir.",
+   "razon": "Fintech con propuesta clara (crowdfunding/marketplace de financiamiento B2B), opera en mercado de LATAM, etapa operacional desconocida pero señal reciente de contratación sugiere tracción.",
+   "mensaje": "Hola equipo Cumplo, nos interesa mucho el modelo de marketplace que están construyendo para democratizar el financiamiento de pymes en Chile. Vemos que están en búsqueda de talento técnico, ¿estarían abiertos a conversar sobre oportunidades de inversión? Nos encantaría conocer más de la tracción y visión del equipo.",
+   "score": 70,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-21T19:50:45+00:00",
+   "ultima_senal": "2026-10-30T20:45:57+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Cumplo está contratando: Full-Stack Engineer",
+     "url": "https://www.getonbrd.com/jobs/full-stack-engineer-cumplo-santiago-3dd2",
+     "fecha": "2026-10-21T19:50:45+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Cumplo está contratando: Full-Stack Engineer, DevOps",
+     "url": "https://www.getonbrd.com/jobs/dev-ops-cumplo-santiago",
+     "fecha": "2026-10-30T20:45:57+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "llm"
   },
   {
    "key": "d:codeable.la",
@@ -5597,92 +5563,6 @@
    "motor": "reglas"
   },
   {
-   "key": "n:deleverstartup",
-   "empresa": "Delever startup",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "seed",
-   "monto_usd": 380.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 5.0,
-   "resumen": "Delever startup raises $380,000 from AloqaVentures and Nexus Club Spot.uz",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 60,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 7.5,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-11-01T12:58:05+00:00",
-   "fecha_evidencia": "2026-10-31T03:04:27+00:00",
-   "ultima_senal": "2026-10-31T03:04:27+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Delever startup raises $380,000 from AloqaVentures and Nexus Club",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nQUlnSEtMaWVoTDlZOW8tZ29iaGNEYV9kQnl5czB4UVNFOXY4YUVlRWxUazZhTm1Ha1NPNzl3RmVvTVU1eGsyNWs4R0NiOTk4bi1oYw?oc=5",
-     "fecha": "2026-10-31T03:04:27+00:00",
-     "medio": "Spot.uz"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "n:stablecoininfrastructurefirmbloquo",
-   "empresa": "Stablecoin infrastructure firm Bloquo",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "seed",
-   "monto_usd": 20000000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 5.0,
-   "resumen": "Stablecoin infrastructure firm Bloquo raises over R$20 million seed led by Crescera and Triaxis: Startupz CryptoRank",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 60,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 7.5,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-11-03T13:14:28+00:00",
-   "fecha_evidencia": "2026-10-31T07:00:00+00:00",
-   "ultima_senal": "2026-10-31T07:00:00+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Stablecoin infrastructure firm Bloquo raises over R$20 million seed led by Crescera and Triaxis: Startupz",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rMThmUkhFN0NiWFZBRlViVmp1UnZqNkh3SGg3bVlLcmE2WE1ZckM1WGFEWGVsWGY4VWljZXFMT3Yyb3U4eUpKTGRrZ25MYndqOWRjd1lqS05RcU52VHBMSVRFWGozZ1pRaHlV?oc=5",
-     "fecha": "2026-10-31T07:00:00+00:00",
-     "medio": "CryptoRank"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "n:syrianfoodtechpercent",
    "empresa": "Syrian foodtech Percent Labs",
    "sitio_web": null,
@@ -5763,6 +5643,91 @@
      "titulo": "Kabilio, la startup de IA contable, levanta €10M",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa043OEhISmVIdTVZdDZEUkRqR3NBNVZEU0Y1MjJNVjZnR3haRXNxbGdKbnhSN0NCZ1FzdGdmTExrWW9adUI1eHotXzFmaS1IS0dCLVZmRnlnVVFrOEozQkJNMmpiaEVxanotOWRzeXIxY3EzSjR2c21VTzNtSUhVQ3ZZTQ?oc=5",
      "fecha": "2026-11-05T19:06:27+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:palomma",
+   "empresa": "Palomma",
+   "sitio_web": null,
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": "Fintech",
+   "etapa": "serie-b+",
+   "monto_usd": 14000000.0,
+   "inversionistas": [
+    "Cometa, Volpe Capital, Clocktower Technology Ventures, Tekton Ventures, Simma Capital, Yango Ventures, Y Combinator, 17Sigma"
+   ],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 8.0,
+   "resumen": "Palomma es una fintech especializada en soluciones de financiamiento para arriendos en Chile.",
+   "razon": "Fintech chilena con tracción clara (levanta US$14M), mercado de arriendos es relevante en LATAM. Ya en etapa posterior a seed, pero demuestra validación.",
+   "mensaje": "Hola equipo Palomma, vimos que levantaron US$14M para revolucionar el mercado de arriendos en Chile. Desde Latin Leap seguimos de cerca a los mejores fintechs de la región. Nos gustaría conocer más sobre vuestro tracción y visión regional. ¡Saludos!",
+   "score": 70,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 0.0,
+    "tecnologia": 15.0,
+    "senal": 13.5,
+    "calidad": 16.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-12T13:25:29+00:00",
+   "fecha_evidencia": "2026-11-11T13:51:43+00:00",
+   "ultima_senal": "2026-11-13T15:51:27+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Palomma levanta US$10M y digitaliza arriendos en Colombia",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRXFxVGVNR0k2a3FVM3JQWGFEZ19RaWdZR3M0MlZyR2JKWFFJMFdSejFpSEJwdzV6cXItWUVSSXE2Q3lJVG9iczUtejlNVnM2dHZYYnVoM1VNTjB6TFNWd21VOExuLVBhN25IdnVzc2w2ZHZ5dmJLS2w4Q3dScHZxMXFjbkVkc2dSTEZ1VXdiWFY?oc=5",
+     "fecha": "2026-11-11T13:51:43+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Palomma, la fintech de arriendos, levanta US$14M",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkNxQlZ4SEZtWGNKM3JubURMUDQ0clZhZ2N4clk1V1dXeHNqRlJITjNvVmVaRU5aQlJMakhjejNVb05KYlYyd0hBLU5vT3ExNUpqWFpibHQ2UFI2OWUxQjVQOUZ3U3NhZEZWeEpvel85SnpwMUtPSGxwSHFIeEQtb09mazE?oc=5",
+     "fecha": "2026-11-11T21:07:02+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Palomma, la startup de arriendos, levanta US$14M",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGxmcERTa0dCSHgxeW5taC02c3dLWHdISlplZlhXcnR1SllTU3dzRmdaVW5KNFZaNzZoYVprczJ3WU4td0pvNkJ1bHdldUdHV2Z0Z3UxX3BjenM3VEpNU1g4eS1vd2FaR1dVRW10eHhIeGUxUVhzNDdUcTAwandnQUhB?oc=5",
+     "fecha": "2026-11-11T15:03:29+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Palomma, fintech de arriendos, levanta US$14M",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GRGRCZ1RpUlB0Qm9TOEcwcldGTjJaZE9BdmhoSmVuUEo5enBmX0lJYkhObTNXZDFYME45THJLN2w1WmVGRXc2OGJhZTNVTjBxclJSMHJTSDhzaVcwV1kzUldPSzRHWlBlc0xZcFJpdXo1aWRNQ1dDYzFRQXZsdw?oc=5",
+     "fecha": "2026-11-11T21:07:02+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Startups Latam",
+     "tipo": "noticia",
+     "titulo": "Fintech Palomma levanta US$14 millones para construir el banco de IA del arriendo en América Latina",
+     "url": "https://startupslatam.com/la-colombiana-palomma-levanta-us14-millones-para-construir-el-banco-de-ia-del-arriendo-en-america-latina/",
+     "fecha": "2026-11-12T13:44:59+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Palomma, fintech de arriendos, levanta US$14M",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMDB4eV9XaXFOWjNabHJqMDdsQXBHV3VlS003R0pYbTBWTnd3N1V0V20wcmpKU2pZaWNfMHNRYU12Nk1CVlcwMnk1VDNFNmlJSE1IcF9QZEtYdS1lTThvemdrcHhXUmdUcnZCQkl1QTZ0SEF1SFN6dDVfRE1mcHJvdg?oc=5",
+     "fecha": "2026-11-13T15:51:27+00:00",
      "medio": "El Ecosistema Startup"
     }
    ],
@@ -6039,6 +6004,57 @@
      "titulo": "Takenos levanta US$7M y apunta a 15 países en 2027",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeVRPUWR0Z0U0U1V6V2NoQkdtblkzbElvNXVXREQwel9fQjNKUDZuOW9LaEc0YklQUGZOdjJuMzRzaWRUS3VqcHM4N3I0WHBlZS1GMjF5anFTUVFCTGt2cUtCanZxQUZPbE5zdy1MaVdISEgtUHZhbzNrMHloem5FMXFjemlHSFAtRFE?oc=5",
      "fecha": "2026-11-11T18:42:33+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:clara",
+   "empresa": "Clara",
+   "sitio_web": null,
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": "fintech",
+   "etapa": "serie-b+",
+   "monto_usd": 65000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 8.0,
+   "resumen": "Clara es una startup chilena que levantó US$65M en una ronda de inversión.",
+   "razon": "Startup chilena con ronda significativa (US$65M), demuestra tracción importante. Información limitada sobre sector específico reduce claridad.",
+   "mensaje": "Hola Clara, vemos que levantaron US$65M y están escalando en Chile. Desde Latin Leap admiramos a los founders que logran validar sus ideas en el mercado regional. Nos encantaría conectar para conocer más sobre vuestro producto y visión. ¡Un saludo!",
+   "score": 66,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 0.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 16.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-12T13:25:29+00:00",
+   "fecha_evidencia": "2026-11-12T10:33:23+00:00",
+   "ultima_senal": "2026-11-13T16:09:36+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Clara levanta US$105M para su fintech con IA en LATAM",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUklWSV94UXZfVzlZN3B6VzJ2eUpTM0poZmZqZXA1N3FXcmMyMnp1ZXpqSDRMRFgydzItQ3pmczU5UkY2dTFiN0NhNnBtSUU2bEpSN3pSbmRLZnJRYkpZSHJHdi1rOVhWRm4wUWFLQ3EyeUhmV2RSckM2TDQwZmlvN3JCN0l4TlFPbllF?oc=5",
+     "fecha": "2026-11-12T10:33:23+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Clara levanta US$65M; Nvidia cambia de CEO",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFWTRqTXEtWS1ZZW9wT1JOYU1QUmhVeFdJUEpXbzlSU3FQWVR5aldYNm13WUY0TW5jTmJfR0ltS3N0amk1THFKNVRhN1ZZWnBPUXR4X3MxNERCSTRJYmR2RWdHbF9hbkNYeXhPMURRRy0tUlFUUlNTX2VnOA?oc=5",
+     "fecha": "2026-11-13T16:09:36+00:00",
      "medio": "El Ecosistema Startup"
     }
    ],
@@ -6653,6 +6669,92 @@
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeWtYX1ZzeDNnTk1iTVVHUHZHaGJHd1hmVS1uU1FRdXczU0RjYjZwVjRlVTFTWXM1OEZVbGFKV2VZR0pya2pSdFhvZk9BRmc0ZjVBRzI5MlROWjhTWUxiS3VNWHVicElZaHczY1YzUzFvOWJOeGdtRy00OWY3UzNubmlKNlZyMTJxTjZfTlJRb3M0UWNlZGkta3lnb3FwZTVYeG0zN2NrdllGek9pLVE?oc=5",
      "fecha": "2026-10-28T14:42:22+00:00",
      "medio": "Dealroom"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:deleverstartup",
+   "empresa": "Delever startup",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": 380.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Delever startup raises $380,000 from AloqaVentures and Nexus Club Spot.uz",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 59,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 7.5,
+    "senal": 9.0,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-01T12:58:05+00:00",
+   "fecha_evidencia": "2026-10-31T03:04:27+00:00",
+   "ultima_senal": "2026-10-31T03:04:27+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Delever startup raises $380,000 from AloqaVentures and Nexus Club",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nQUlnSEtMaWVoTDlZOW8tZ29iaGNEYV9kQnl5czB4UVNFOXY4YUVlRWxUazZhTm1Ha1NPNzl3RmVvTVU1eGsyNWs4R0NiOTk4bi1oYw?oc=5",
+     "fecha": "2026-10-31T03:04:27+00:00",
+     "medio": "Spot.uz"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:stablecoininfrastructurefirmbloquo",
+   "empresa": "Stablecoin infrastructure firm Bloquo",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": 20000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Stablecoin infrastructure firm Bloquo raises over R$20 million seed led by Crescera and Triaxis: Startupz CryptoRank",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 59,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 7.5,
+    "senal": 9.0,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-03T13:14:28+00:00",
+   "fecha_evidencia": "2026-10-31T07:00:00+00:00",
+   "ultima_senal": "2026-10-31T07:00:00+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Stablecoin infrastructure firm Bloquo raises over R$20 million seed led by Crescera and Triaxis: Startupz",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rMThmUkhFN0NiWFZBRlViVmp1UnZqNkh3SGg3bVlLcmE2WE1ZckM1WGFEWGVsWGY4VWljZXFMT3Yyb3U4eUpKTGRrZ25MYndqOWRjd1lqS05RcU52VHBMSVRFWGozZ1pRaHlV?oc=5",
+     "fecha": "2026-10-31T07:00:00+00:00",
+     "medio": "CryptoRank"
     }
    ],
    "motor": "reglas"
@@ -7568,49 +7670,6 @@
     }
    ],
    "motor": "reglas"
-  },
-  {
-   "key": "n:clara",
-   "empresa": "Clara",
-   "sitio_web": null,
-   "pais": "desconocida",
-   "ciudad": null,
-   "sector": "fintech",
-   "etapa": "serie-a",
-   "monto_usd": 105000000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 8.0,
-   "resumen": "Clara es una fintech con IA que opera en América Latina, probablemente enfocada en automatización de procesos financieros o crédito.",
-   "razon": "Fintech con IA enfocada en LATAM con ronda significativa de USD 105M; modelo de negocio en sector de alto crecimiento con buena diferenciación tecnológica.",
-   "mensaje": "Hola equipo Clara, felicidades por levantar USD 105M para vuestra fintech con IA en LATAM. Nos interesa mucho cómo estáis abordando la automatización financiera en la región. ¿Podríamos conversar sobre oportunidades de sinergia o expansión?",
-   "score": 49,
-   "desglose": {
-    "geografia": 0.0,
-    "etapa": 7.5,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 16.0
-   },
-   "prioridad": "Fuera de tesis",
-   "en_tesis": false,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-11-12T13:25:29+00:00",
-   "fecha_evidencia": "2026-11-12T10:33:23+00:00",
-   "ultima_senal": "2026-11-12T10:33:23+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Clara levanta US$105M para su fintech con IA en LATAM",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUklWSV94UXZfVzlZN3B6VzJ2eUpTM0poZmZqZXA1N3FXcmMyMnp1ZXpqSDRMRFgydzItQ3pmczU5UkY2dTFiN0NhNnBtSUU2bEpSN3pSbmRLZnJRYkpZSHJHdi1rOVhWRm4wUWFLQ3EyeUhmV2RSckM2TDQwZmlvN3JCN0l4TlFPbllF?oc=5",
-     "fecha": "2026-11-12T10:33:23+00:00",
-     "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
   },
   {
    "key": "n:thepantproject",
@@ -8646,15 +8705,15 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-11-13T13:20:21+00:00",
+  "actualizado": "2026-11-14T13:02:39+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 104,
-  "prioridad_a_30d": 28,
-  "incremento_vs_baseline": 1.733,
-  "cumplimiento_meta": 17.33,
-  "total_deals": 184,
-  "total_calificados": 123,
+  "calificados_30d": 91,
+  "prioridad_a_30d": 24,
+  "incremento_vs_baseline": 1.517,
+  "cumplimiento_meta": 15.17,
+  "total_deals": 185,
+  "total_calificados": 121,
   "conocidos_detectados": 2,
   "por_semana": {
    "2025-06-16": 1,
@@ -8666,25 +8725,25 @@
    "2026-10-05": 8,
    "2026-10-12": 23,
    "2026-10-19": 38,
-   "2026-10-26": 23,
+   "2026-10-26": 21,
    "2026-11-02": 14,
    "2026-11-09": 11
   },
   "por_fuente": {
-   "Google News": 61,
-   "Get on Board": 52,
+   "Google News": 58,
+   "Get on Board": 53,
    "Y Combinator": 6,
-   "Startups Latam": 5,
    "LatamList": 4,
+   "Startups Latam": 4,
    "Techla Media": 1,
    "Contxto": 1
   },
   "por_pais": {
-   "Chile": 48,
-   "?": 30,
+   "Chile": 49,
+   "?": 28,
    "Argentina": 14,
    "México": 12,
-   "Colombia": 9,
+   "Colombia": 8,
    "Uruguay": 2,
    "Guatemala": 2,
    "Venezuela": 2,
@@ -10442,6 +10501,84 @@
       "fuente": "Get on Board",
       "ok": true,
       "senales": 44,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-11-14T13:00:11+00:00",
+    "fin": "2026-11-14T13:02:39+00:00",
+    "senales_crudas": 252,
+    "descartadas_prefiltro": 108,
+    "procesadas": 15,
+    "deals_nuevos": 1,
+    "calificados_nuevos": 1,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 14,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 9,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 162,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 4,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 2,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 41,
       "error": null
      }
     ]
