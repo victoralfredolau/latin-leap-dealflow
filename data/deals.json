@@ -5944,12 +5944,12 @@
   "ultima_senal": "2026-11-01T12:09:30+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 81,
+  "score": 80,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 10.0
   },
   "prioridad": "A",
@@ -5984,12 +5984,12 @@
   "ultima_senal": "2026-11-01T12:09:30+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 81,
+  "score": 80,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 10.0
   },
   "prioridad": "A",
@@ -6024,12 +6024,12 @@
   "ultima_senal": "2026-11-01T12:09:30+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 83,
+  "score": 82,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 12.0
   },
   "prioridad": "A",
@@ -8038,6 +8038,47 @@
    "calidad": 12.0
   },
   "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:vuun": {
+  "key": "n:vuun",
+  "primera_vista": "2026-11-15T13:03:01+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Vuun, proptech colombiana, levanta US$525.000 pre-seed",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSURLaFlBcG5GazJmdk44LUZFNk5hdFplaUl6a1hVQmtpb3RMUXJnUXg0cjVNVXJvSkxEemhqSFd0NjR6SmxYNkdEMUo1SG01RnhzOVFKWU9TZFNkbTJmNHB6dkQxYnQyMnBXa2ozMkZsWlE4aTkyZm9MRVdmXzBmVE1YR2Z0Y2tfV1E?oc=5",
+    "fecha": "2026-11-14T21:21:50+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 6.0,
+  "motor": "llm",
+  "empresa": "Vuun",
+  "pais": "Colombia",
+  "sector": "Proptech",
+  "etapa": "pre-seed",
+  "monto_usd": 525000.0,
+  "tecnologia": true,
+  "resumen": "Vuun es una proptech colombiana que levantó USD 525K en ronda pre-seed para soluciones inmobiliarias digitales.",
+  "mensaje": "Nos llamó la atención Vuun y vuestra ronda pre-seed. El sector proptech tiene mucho potencial en Colombia. Nos gustaría conocer más sobre vuestro producto, equipo y roadmap próximo. ¿Estarían abiertos a conversar?",
+  "razon": "Proptech colombiana en etapa pre-seed dentro de geografía de tesis; tracción limitada pero sector relevante para LATAM.",
+  "fecha_evidencia": "2026-11-14T21:21:50+00:00",
+  "ultima_senal": "2026-11-14T21:21:50+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 88,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 12.0
+  },
+  "prioridad": "A",
   "en_tesis": true
  }
 }

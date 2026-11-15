@@ -1012,6 +1012,49 @@
    "motor": "llm"
   },
   {
+   "key": "n:vuun",
+   "empresa": "Vuun",
+   "sitio_web": null,
+   "pais": "Colombia",
+   "ciudad": null,
+   "sector": "Proptech",
+   "etapa": "pre-seed",
+   "monto_usd": 525000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Vuun es una proptech colombiana que levantó USD 525K en ronda pre-seed para soluciones inmobiliarias digitales.",
+   "razon": "Proptech colombiana en etapa pre-seed dentro de geografía de tesis; tracción limitada pero sector relevante para LATAM.",
+   "mensaje": "Nos llamó la atención Vuun y vuestra ronda pre-seed. El sector proptech tiene mucho potencial en Colombia. Nos gustaría conocer más sobre vuestro producto, equipo y roadmap próximo. ¿Estarían abiertos a conversar?",
+   "score": 88,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 12.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-15T13:03:01+00:00",
+   "fecha_evidencia": "2026-11-14T21:21:50+00:00",
+   "ultima_senal": "2026-11-14T21:21:50+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Vuun, proptech colombiana, levanta US$525.000 pre-seed",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSURLaFlBcG5GazJmdk44LUZFNk5hdFplaUl6a1hVQmtpb3RMUXJnUXg0cjVNVXJvSkxEemhqSFd0NjR6SmxYNkdEMUo1SG01RnhzOVFKWU9TZFNkbTJmNHB6dkQxYnQyMnBXa2ozMkZsWlE4aTkyZm9MRVdmXzBmVE1YR2Z0Y2tfV1E?oc=5",
+     "fecha": "2026-11-14T21:21:50+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:pokerclubhub.com",
    "empresa": "PokerClubHub",
    "sitio_web": "https://www.pokerclubhub.com",
@@ -1658,49 +1701,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:odycell",
-   "empresa": "Odycell",
-   "sitio_web": null,
-   "pais": "Argentina",
-   "ciudad": null,
-   "sector": "biotech",
-   "etapa": "seed",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 6.0,
-   "resumen": "Startup argentina de biotech que ha levantado capital semilla.",
-   "razon": "Startup argentina de biotech en etapa semilla, sector de mayor complejidad técnica y potencial de impacto, dentro de geografía objetivo.",
-   "mensaje": "Vimos que Odycell está entre los emprendimientos de capital semilla argentino más destacados. En Latin Leap somos muy selectivos con biotech en etapa temprana. ¿Podríamos conocer más sobre el proyecto y el equipo?",
-   "score": 83,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 6.0,
-    "calidad": 12.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-11-01T12:58:05+00:00",
-   "fecha_evidencia": "2026-11-01T12:09:30+00:00",
-   "ultima_senal": "2026-11-01T12:09:30+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Agrology, Give Zero y Odycell: el capital semilla argentino",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb0kxN1p0NFhxcGM3NHNHV01uZGtfYTcwWDZ2eVJqSDFhOGJUcVd1NzRMYkJndllEeTIzWENyM1pfR0U2bC1Gdml2aWlHbjRQVnZRVVhSQllPb3JVYUlKOHZkV1d1WDI0QkREY2x3ekE5cUN2ZHVCM0wwTXFUc0F1MEFna3VRY3lrWDliNGgtTHl0Zw?oc=5",
-     "fecha": "2026-11-01T12:09:30+00:00",
-     "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:wealth2b",
    "empresa": "Wealth2B",
    "sitio_web": null,
@@ -1744,71 +1744,28 @@
    "motor": "llm"
   },
   {
-   "key": "n:agrology",
-   "empresa": "Agrology",
+   "key": "n:odycell",
+   "empresa": "Odycell",
    "sitio_web": null,
    "pais": "Argentina",
    "ciudad": null,
-   "sector": "agtech",
+   "sector": "biotech",
    "etapa": "seed",
    "monto_usd": null,
    "inversionistas": [],
    "fundadores": [],
    "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Startup argentina enfocada en agtech que ha levantado capital semilla.",
-   "razon": "Startup argentina en etapa semilla con tracción en capital semilla, pero sin detalles de monto o diferenciación específica en la señal.",
-   "mensaje": "Vimos que Agrology está en el radar del ecosistema de capital semilla argentino. Nos gustaría conocer más sobre el producto y la visión del equipo. ¿Estarían abiertos a una conversación con Latin Leap?",
-   "score": 81,
+   "calidad": 6.0,
+   "resumen": "Startup argentina de biotech que ha levantado capital semilla.",
+   "razon": "Startup argentina de biotech en etapa semilla, sector de mayor complejidad técnica y potencial de impacto, dentro de geografía objetivo.",
+   "mensaje": "Vimos que Odycell está entre los emprendimientos de capital semilla argentino más destacados. En Latin Leap somos muy selectivos con biotech en etapa temprana. ¿Podríamos conocer más sobre el proyecto y el equipo?",
+   "score": 82,
    "desglose": {
     "geografia": 25.0,
     "etapa": 25.0,
     "tecnologia": 15.0,
-    "senal": 6.0,
-    "calidad": 10.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-11-01T12:58:05+00:00",
-   "fecha_evidencia": "2026-11-01T12:09:30+00:00",
-   "ultima_senal": "2026-11-01T12:09:30+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Agrology, Give Zero y Odycell: el capital semilla argentino",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb0kxN1p0NFhxcGM3NHNHV01uZGtfYTcwWDZ2eVJqSDFhOGJUcVd1NzRMYkJndllEeTIzWENyM1pfR0U2bC1Gdml2aWlHbjRQVnZRVVhSQllPb3JVYUlKOHZkV1d1WDI0QkREY2x3ekE5cUN2ZHVCM0wwTXFUc0F1MEFna3VRY3lrWDliNGgtTHl0Zw?oc=5",
-     "fecha": "2026-11-01T12:09:30+00:00",
-     "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
-   "key": "n:givezero",
-   "empresa": "Give Zero",
-   "sitio_web": null,
-   "pais": "Argentina",
-   "ciudad": null,
-   "sector": "fintech/impacto",
-   "etapa": "seed",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Startup argentina de fintech o impacto social que ha levantado capital semilla.",
-   "razon": "Startup argentina de fintech/impacto en etapa semilla, pero sin detalles específicos de tracción o diferenciación en la señal.",
-   "mensaje": "Notamos que Give Zero es parte del ecosistema argentino de capital semilla. Nos interesa mucho el segmento fintech con propósito social en LatAm. ¿Podríamos agendar una breve conversación?",
-   "score": 81,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 6.0,
-    "calidad": 10.0
+    "senal": 4.5,
+    "calidad": 12.0
    },
    "prioridad": "A",
    "en_tesis": true,
@@ -1911,6 +1868,92 @@
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ2RfQ191Ykg2Nzh3b3hFNEpWc0tUeUpHRERZY2tXRXpXZkZ0MzREXzFUZWMzUHhNLXJaUUFUYWR3X1RrTTZSY0JtaHhvd19ObG5CSndYeWkyVlhLS1QyczdjSk1yckNJd1hRamNyUVRadEtTcHRVcTNnbXdadV9JRTVLVjNlUklJ?oc=5",
      "fecha": "2026-10-21T22:31:00+00:00",
      "medio": "nwitimes.com"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:agrology",
+   "empresa": "Agrology",
+   "sitio_web": null,
+   "pais": "Argentina",
+   "ciudad": null,
+   "sector": "agtech",
+   "etapa": "seed",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Startup argentina enfocada en agtech que ha levantado capital semilla.",
+   "razon": "Startup argentina en etapa semilla con tracción en capital semilla, pero sin detalles de monto o diferenciación específica en la señal.",
+   "mensaje": "Vimos que Agrology está en el radar del ecosistema de capital semilla argentino. Nos gustaría conocer más sobre el producto y la visión del equipo. ¿Estarían abiertos a una conversación con Latin Leap?",
+   "score": 80,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 4.5,
+    "calidad": 10.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-01T12:58:05+00:00",
+   "fecha_evidencia": "2026-11-01T12:09:30+00:00",
+   "ultima_senal": "2026-11-01T12:09:30+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Agrology, Give Zero y Odycell: el capital semilla argentino",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb0kxN1p0NFhxcGM3NHNHV01uZGtfYTcwWDZ2eVJqSDFhOGJUcVd1NzRMYkJndllEeTIzWENyM1pfR0U2bC1Gdml2aWlHbjRQVnZRVVhSQllPb3JVYUlKOHZkV1d1WDI0QkREY2x3ekE5cUN2ZHVCM0wwTXFUc0F1MEFna3VRY3lrWDliNGgtTHl0Zw?oc=5",
+     "fecha": "2026-11-01T12:09:30+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:givezero",
+   "empresa": "Give Zero",
+   "sitio_web": null,
+   "pais": "Argentina",
+   "ciudad": null,
+   "sector": "fintech/impacto",
+   "etapa": "seed",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Startup argentina de fintech o impacto social que ha levantado capital semilla.",
+   "razon": "Startup argentina de fintech/impacto en etapa semilla, pero sin detalles específicos de tracción o diferenciación en la señal.",
+   "mensaje": "Notamos que Give Zero es parte del ecosistema argentino de capital semilla. Nos interesa mucho el segmento fintech con propósito social en LatAm. ¿Podríamos agendar una breve conversación?",
+   "score": 80,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 4.5,
+    "calidad": 10.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-01T12:58:05+00:00",
+   "fecha_evidencia": "2026-11-01T12:09:30+00:00",
+   "ultima_senal": "2026-11-01T12:09:30+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Agrology, Give Zero y Odycell: el capital semilla argentino",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb0kxN1p0NFhxcGM3NHNHV01uZGtfYTcwWDZ2eVJqSDFhOGJUcVd1NzRMYkJndllEeTIzWENyM1pfR0U2bC1Gdml2aWlHbjRQVnZRVVhSQllPb3JVYUlKOHZkV1d1WDI0QkREY2x3ekE5cUN2ZHVCM0wwTXFUc0F1MEFna3VRY3lrWDliNGgtTHl0Zw?oc=5",
+     "fecha": "2026-11-01T12:09:30+00:00",
+     "medio": "El Ecosistema Startup"
     }
    ],
    "motor": "llm"
@@ -8705,15 +8748,15 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-11-14T13:02:39+00:00",
+  "actualizado": "2026-11-15T13:03:01+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 91,
-  "prioridad_a_30d": 24,
-  "incremento_vs_baseline": 1.517,
-  "cumplimiento_meta": 15.17,
-  "total_deals": 185,
-  "total_calificados": 121,
+  "calificados_30d": 88,
+  "prioridad_a_30d": 23,
+  "incremento_vs_baseline": 1.467,
+  "cumplimiento_meta": 14.67,
+  "total_deals": 186,
+  "total_calificados": 122,
   "conocidos_detectados": 2,
   "por_semana": {
    "2025-06-16": 1,
@@ -8727,10 +8770,10 @@
    "2026-10-19": 38,
    "2026-10-26": 21,
    "2026-11-02": 14,
-   "2026-11-09": 11
+   "2026-11-09": 12
   },
   "por_fuente": {
-   "Google News": 58,
+   "Google News": 59,
    "Get on Board": 53,
    "Y Combinator": 6,
    "LatamList": 4,
@@ -8743,7 +8786,7 @@
    "?": 28,
    "Argentina": 14,
    "México": 12,
-   "Colombia": 8,
+   "Colombia": 9,
    "Uruguay": 2,
    "Guatemala": 2,
    "Venezuela": 2,
@@ -10579,6 +10622,84 @@
       "fuente": "Get on Board",
       "ok": true,
       "senales": 41,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-11-15T13:02:13+00:00",
+    "fin": "2026-11-15T13:03:01+00:00",
+    "senales_crudas": 246,
+    "descartadas_prefiltro": 112,
+    "procesadas": 3,
+    "deals_nuevos": 1,
+    "calificados_nuevos": 1,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 14,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 9,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 158,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 4,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 2,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 39,
       "error": null
      }
     ]
