@@ -6437,15 +6437,15 @@
   "ultima_senal": "2026-11-02T12:23:01+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 60,
+  "score": 59,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 7.5,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
-  "prioridad": "B",
+  "prioridad": "C",
   "en_tesis": true
  },
  "n:clark": {

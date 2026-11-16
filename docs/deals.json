@@ -5606,49 +5606,6 @@
    "motor": "reglas"
   },
   {
-   "key": "n:syrianfoodtechpercent",
-   "empresa": "Syrian foodtech Percent Labs",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": null,
-   "etapa": "seed",
-   "monto_usd": 1000000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 5.0,
-   "resumen": "Syrian foodtech Percent Labs closes seed round at over $1 million valuation Wamda",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 60,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
-    "tecnologia": 7.5,
-    "senal": 10.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-11-03T13:14:28+00:00",
-   "fecha_evidencia": "2026-11-02T12:23:01+00:00",
-   "ultima_senal": "2026-11-02T12:23:01+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Syrian foodtech Percent Labs closes seed round at over $1 million valuation",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWVYLVl1WTY2Z0NTbWwwUFhBeHRJRlA0VWdkNE5OMkdGUW1NVm9fbnJFZDdGRFFXVlB4dU1yTEl5ZlA2c1RVcmpTTGpyQmxTanNIdllYb0xkX2hpQ2RzbUxVeS1GUG81VEZFb1BTRXFoVTBNZU5KLUliNjIzUm54UU8zajJoRmV0Q2FkWVl2Ri1nUlpTWXlhcnhrSDM?oc=5",
-     "fecha": "2026-11-02T12:23:01+00:00",
-     "medio": "Wamda"
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "n:kabilio",
    "empresa": "Kabilio",
    "sitio_web": null,
@@ -6798,6 +6755,49 @@
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rMThmUkhFN0NiWFZBRlViVmp1UnZqNkh3SGg3bVlLcmE2WE1ZckM1WGFEWGVsWGY4VWljZXFMT3Yyb3U4eUpKTGRrZ25MYndqOWRjd1lqS05RcU52VHBMSVRFWGozZ1pRaHlV?oc=5",
      "fecha": "2026-10-31T07:00:00+00:00",
      "medio": "CryptoRank"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:syrianfoodtechpercent",
+   "empresa": "Syrian foodtech Percent Labs",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": 1000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Syrian foodtech Percent Labs closes seed round at over $1 million valuation Wamda",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 59,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 7.5,
+    "senal": 9.0,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-03T13:14:28+00:00",
+   "fecha_evidencia": "2026-11-02T12:23:01+00:00",
+   "ultima_senal": "2026-11-02T12:23:01+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Syrian foodtech Percent Labs closes seed round at over $1 million valuation",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWVYLVl1WTY2Z0NTbWwwUFhBeHRJRlA0VWdkNE5OMkdGUW1NVm9fbnJFZDdGRFFXVlB4dU1yTEl5ZlA2c1RVcmpTTGpyQmxTanNIdllYb0xkX2hpQ2RzbUxVeS1GUG81VEZFb1BTRXFoVTBNZU5KLUliNjIzUm54UU8zajJoRmV0Q2FkWVl2Ri1nUlpTWXlhcnhrSDM?oc=5",
+     "fecha": "2026-11-02T12:23:01+00:00",
+     "medio": "Wamda"
     }
    ],
    "motor": "reglas"
@@ -8748,15 +8748,15 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-11-15T13:03:01+00:00",
+  "actualizado": "2026-11-16T15:16:03+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 88,
-  "prioridad_a_30d": 23,
-  "incremento_vs_baseline": 1.467,
-  "cumplimiento_meta": 14.67,
+  "calificados_30d": 86,
+  "prioridad_a_30d": 22,
+  "incremento_vs_baseline": 1.433,
+  "cumplimiento_meta": 14.33,
   "total_deals": 186,
-  "total_calificados": 122,
+  "total_calificados": 121,
   "conocidos_detectados": 2,
   "por_semana": {
    "2025-06-16": 1,
@@ -8769,11 +8769,11 @@
    "2026-10-12": 23,
    "2026-10-19": 38,
    "2026-10-26": 21,
-   "2026-11-02": 14,
+   "2026-11-02": 13,
    "2026-11-09": 12
   },
   "por_fuente": {
-   "Google News": 59,
+   "Google News": 58,
    "Get on Board": 53,
    "Y Combinator": 6,
    "LatamList": 4,
@@ -8783,7 +8783,7 @@
   },
   "por_pais": {
    "Chile": 49,
-   "?": 28,
+   "?": 27,
    "Argentina": 14,
    "México": 12,
    "Colombia": 9,
@@ -10682,6 +10682,84 @@
       "fuente": "Google News",
       "ok": true,
       "senales": 158,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 4,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 2,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 39,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-11-16T15:15:03+00:00",
+    "fin": "2026-11-16T15:16:03+00:00",
+    "senales_crudas": 252,
+    "descartadas_prefiltro": 112,
+    "procesadas": 11,
+    "deals_nuevos": 0,
+    "calificados_nuevos": 0,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 14,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 9,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 164,
       "error": null
      },
      {
