@@ -1074,6 +1074,14 @@
     "url": "https://www.getonbrd.com/jobs/consultor-sap-dms-ca-dms-senior-lisit-remote",
     "fecha": "2026-11-10T18:18:15+00:00",
     "medio": null
+   },
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Lisit está contratando: Consultor SAP Papm, Consultor SAP TRM / Tesorería Extendida, Senior SAP Dms Consultant, DBA Senior – Administrador/a",
+    "url": "https://www.getonbrd.com/jobs/dba-senior-administrador-a-lisit-santiago",
+    "fecha": "2026-11-16T20:48:43+00:00",
+    "medio": null
    }
   ],
   "inversionistas": [],
@@ -1088,7 +1096,7 @@
   "resumen": "Creamos, desarrollamos e implementamos servicios de software capaces de proporcionar herramientas de automatización y optimización requeridos manteniendo constante el foco de innovación y pasión por los desafíos.",
   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
   "fecha_evidencia": "2026-10-20T19:46:35+00:00",
-  "ultima_senal": "2026-11-10T18:18:15+00:00",
+  "ultima_senal": "2026-11-16T20:48:43+00:00",
   "conocido_fuente": null,
   "conocido": false,
   "score": 70,
@@ -2396,6 +2404,14 @@
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDlkd2pBc2s3ZWtfcmREbG1UYVdaeEVWc0tUYnZiT2FpT1VjWFJZYzVBTlJLbXAxRU1zR0x3bWZCNm1ZUDRYbl9rZU1OVWtMSHhVMnV5UGIwVE5HUUdNOE5qOVBxYTFzbU9qeUxTRjBVZWV6X28ySnFGaHRwX19TOG5fTkNUaS04bHFIaG9aVHVnSXE5ekV0eDBNQjRieDlHaE9CWXo5b1dENndmOEVMbWNzR3pKN0dROUJoYTFGUDVYTkxSaWc?oc=5",
     "fecha": "2026-10-21T07:00:00+00:00",
     "medio": "KuCoin"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Tether leads seed round for Bolivian fintech Peso to push USDT into daily payments",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYzdrR3VmMC1NTGFHbXRXUzR0X2c0V0xhQjVKbTBMdVlMcUZ6X1BUeGdnNXA4ckVGZE9PaU95SS1sakFjRE9TV0NlME9zNTBxbXUwMzVKbXRIbHMwRnlQV2d5NlhNNDVvOVM4TkZ0YXE4WkZ2aVNmZ0V3eGdNTDZEMUxyWFIzTlFyRk0zSnlsR1lZYURJUEdhcDlqZUhCbXJ2TDlmT0tXX0NjU19LdDIxN2FrUFEtNG8?oc=5",
+    "fecha": "2026-11-14T18:33:20+00:00",
+    "medio": "Dealroom"
    }
   ],
   "inversionistas": [
@@ -2406,22 +2422,22 @@
   "motor": "llm",
   "empresa": "Peso",
   "pais": "Bolivia",
-  "sector": "FinTech / Criptomonedas",
-  "etapa": "pre-seed",
+  "sector": "Fintech (Pagos)",
+  "etapa": "seed",
   "tecnologia": true,
-  "resumen": "Peso es una stablecoin de Bolivia que levanta pre-seed liderado por Tether para expandir pagos en América Latina.",
-  "mensaje": "Hola equipo Peso, nos fascinó saber que Tether lidera vuestra ronda pre-seed para expandir pagos con stablecoin en Latinoamérica. Bolivia tiene un mercado financiero con mucho potencial. ¿Podríamos agendar una conversación sobre vuestra tracción actual y roadmap?",
-  "razon": "Peso está en Bolivia (dentro de tesis), levanta pre-seed con Tether (inversor reconocido en cripto), y aborda pagos con stablecoin en LATAM. Tracción potencial en fintech.",
+  "resumen": "Peso es una fintech boliviana que busca integrar USDT de Tether en pagos cotidianos, con liderazgo de inversión del protocolo Tether.",
+  "mensaje": "Notamos que Peso cierra ronda seed liderada por Tether para impulsar pagos con USDT en Bolivia. Es un caso interesante de fintech regulada con activos digitales. Nos encantaría conocer vuestro equipo y el potencial de expansión regional.",
+  "razon": "Fintech boliviana en etapa seed liderada por Tether, enfoque en pagos con stablecoin USDT. Mercado de pagos digitales en LATAM es prioritario; respaldo de Tether indica validación de modelo.",
   "fecha_evidencia": "2026-10-21T07:00:00+00:00",
-  "ultima_senal": "2026-10-26T12:45:00+00:00",
+  "ultima_senal": "2026-11-14T18:33:20+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 93,
+  "score": 94,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 12.0,
+   "senal": 13.5,
    "calidad": 16.0
   },
   "prioridad": "A",
@@ -6071,12 +6087,12 @@
   "ultima_senal": "2026-11-03T12:06:37+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 56,
+  "score": 54,
   "desglose": {
    "geografia": 0.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 10.0
   },
   "prioridad": "Fuera de tesis",
@@ -6120,12 +6136,12 @@
   "ultima_senal": "2026-11-03T12:06:37+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 56,
+  "score": 54,
   "desglose": {
    "geografia": 0.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 10.0
   },
   "prioridad": "Fuera de tesis",
@@ -6238,12 +6254,12 @@
   "ultima_senal": "2026-11-02T15:38:27+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 90,
+  "score": 88,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 14.0
   },
   "prioridad": "A",
@@ -6287,12 +6303,12 @@
   "ultima_senal": "2026-11-02T23:48:31+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 90,
+  "score": 88,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 14.0
   },
   "prioridad": "A",
@@ -6362,12 +6378,12 @@
   "ultima_senal": "2026-11-02T21:06:06+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 43,
+  "score": 42,
   "desglose": {
    "geografia": 7.5,
    "etapa": 0.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
   "prioridad": "Fuera de tesis",
@@ -6400,12 +6416,12 @@
   "ultima_senal": "2026-11-03T04:29:01+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 43,
+  "score": 42,
   "desglose": {
    "geografia": 7.5,
    "etapa": 0.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
   "prioridad": "Fuera de tesis",
@@ -6477,12 +6493,12 @@
   "ultima_senal": "2026-11-02T19:51:45+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 52,
+  "score": 51,
   "desglose": {
    "geografia": 7.5,
    "etapa": 7.5,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 12.0
   },
   "prioridad": "C",
@@ -6514,12 +6530,12 @@
   "ultima_senal": "2026-11-03T13:00:00+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 43,
+  "score": 42,
   "desglose": {
    "geografia": 7.5,
    "etapa": 7.5,
    "tecnologia": 7.5,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
   "prioridad": "C",
@@ -6627,6 +6643,14 @@
     "url": "https://www.getonbrd.com/jobs/data-architect-microsoft-fabric-integratz-vina-del-mar-8c2e",
     "fecha": "2026-11-03T14:13:32+00:00",
     "medio": null
+   },
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "INTEGRATZ está contratando: Ingeniero de Software Senior, Senior Data Engineer (Snowflake)",
+    "url": "https://www.getonbrd.com/jobs/senior-data-engineer-snowflake-integratz-remote",
+    "fecha": "2026-11-16T17:14:38+00:00",
+    "medio": null
    }
   ],
   "inversionistas": [],
@@ -6641,7 +6665,7 @@
   "resumen": "Automatizamos con inteligencia, integramos con precisión, innovamos con impacto.",
   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
   "fecha_evidencia": "2026-11-03T14:13:32+00:00",
-  "ultima_senal": "2026-11-03T14:13:32+00:00",
+  "ultima_senal": "2026-11-16T17:14:38+00:00",
   "conocido_fuente": null,
   "conocido": false,
   "score": 70,
@@ -8051,11 +8075,21 @@
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSURLaFlBcG5GazJmdk44LUZFNk5hdFplaUl6a1hVQmtpb3RMUXJnUXg0cjVNVXJvSkxEemhqSFd0NjR6SmxYNkdEMUo1SG01RnhzOVFKWU9TZFNkbTJmNHB6dkQxYnQyMnBXa2ozMkZsWlE4aTkyZm9MRVdmXzBmVE1YR2Z0Y2tfV1E?oc=5",
     "fecha": "2026-11-14T21:21:50+00:00",
     "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "Startups Latam",
+    "tipo": "noticia",
+    "titulo": "Vuun cierra ronda pre-seed de US$525.000 con 500 Global, Reach y ADN para expandirse a México y Perú",
+    "url": "https://startupslatam.com/vuun-cierra-ronda-pre-seed-de-us525-000-con-500-global-reach-y-adn-para-expandirse-a-mexico-y-peru/",
+    "fecha": "2026-11-16T15:40:33+00:00",
+    "medio": null
    }
   ],
-  "inversionistas": [],
+  "inversionistas": [
+   "500 Global, Reach, ADN"
+  ],
   "fundadores": [],
-  "calidad": 6.0,
+  "calidad": 8.0,
   "motor": "llm",
   "empresa": "Vuun",
   "pais": "Colombia",
@@ -8063,22 +8097,258 @@
   "etapa": "pre-seed",
   "monto_usd": 525000.0,
   "tecnologia": true,
-  "resumen": "Vuun es una proptech colombiana que levantó USD 525K en ronda pre-seed para soluciones inmobiliarias digitales.",
-  "mensaje": "Nos llamó la atención Vuun y vuestra ronda pre-seed. El sector proptech tiene mucho potencial en Colombia. Nos gustaría conocer más sobre vuestro producto, equipo y roadmap próximo. ¿Estarían abiertos a conversar?",
-  "razon": "Proptech colombiana en etapa pre-seed dentro de geografía de tesis; tracción limitada pero sector relevante para LATAM.",
+  "resumen": "Vuun es una proptech colombiana que ha alcanzado rentabilidad y busca expandirse a México y Perú con una ronda pre-seed de USD 525.000.",
+  "mensaje": "Felicitaciones por cerrar la ronda pre-seed con 500 Global, Reach y ADN. Es inspirador ver una proptech latinoamericana llegar a punto de equilibrio antes de levantar capital externo. Desde Latin Leap nos gustaría explorar cómo podríamos acompañar vuestro crecimiento en la región.",
+  "razon": "Ronda liderada por 500 Global (top-tier en LATAM), ya rentable y en punto de equilibrio antes de levantar capital, expansión a México y Perú demuestra tracción y ambición regional.",
   "fecha_evidencia": "2026-11-14T21:21:50+00:00",
-  "ultima_senal": "2026-11-14T21:21:50+00:00",
+  "ultima_senal": "2026-11-16T15:40:33+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 88,
+  "score": 94,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
-   "calidad": 12.0
+   "senal": 13.5,
+   "calidad": 16.0
   },
   "prioridad": "A",
+  "en_tesis": true
+ },
+ "d:ameris.cl": {
+  "key": "d:ameris.cl",
+  "primera_vista": "2026-11-17T13:21:41+00:00",
+  "senales": [
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Ameris Capital está contratando: Ingeniero(a) Full-Stack",
+    "url": "https://www.getonbrd.com/jobs/ingeniero-a-full-stack-ameris-capital-santiago",
+    "fecha": "2026-11-16T20:56:04+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Ameris Capital",
+  "sitio_web": "https://www.ameris.cl/",
+  "pais": "Chile",
+  "etapa": "desconocida",
+  "resumen": "Ameris Capital Administradora General de Fondos S.A. es una organización del sector financiero dedicada a la administración de fondos de inversión, con foco en la estructuración, gestión y supervisión de vehículos de inversión orientados a ",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-16T20:56:04+00:00",
+  "ultima_senal": "2026-11-16T20:56:04+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 62,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 12.5,
+   "tecnologia": 7.5,
+   "senal": 7.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "d:grupolagos.cl": {
+  "key": "d:grupolagos.cl",
+  "primera_vista": "2026-11-17T13:21:41+00:00",
+  "senales": [
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Grupo Lagos está contratando: Software Engineer (6 Meses)",
+    "url": "https://www.getonbrd.com/jobs/software-engineer-grupo-lagos-santiago-543b",
+    "fecha": "2026-11-17T12:45:31+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Grupo Lagos",
+  "sitio_web": "https://grupolagos.cl/",
+  "pais": "Chile",
+  "etapa": "desconocida",
+  "tecnologia": true,
+  "resumen": "Nuestro propósito es servir a la familia chilena para mejorar su calidad de vida, generándole ahorro Siempre, elevando su bienestar con productos de calidad a través de una experiencia de compra cálida y memorable.",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-17T12:45:31+00:00",
+  "ultima_senal": "2026-11-17T12:45:31+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 70,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 12.5,
+   "tecnologia": 15.0,
+   "senal": 7.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "d:chilecompra.cl": {
+  "key": "d:chilecompra.cl",
+  "primera_vista": "2026-11-17T13:21:41+00:00",
+  "senales": [
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Dirección ChileCompra está contratando: Ingeniero(a) DevOps",
+    "url": "https://www.getonbrd.com/jobs/ingeniero-a-devops-direccion-chilecompra-santiago-a4a3",
+    "fecha": "2026-11-16T21:32:16+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Dirección ChileCompra",
+  "sitio_web": "https://www.chilecompra.cl/",
+  "pais": "Chile",
+  "etapa": "desconocida",
+  "resumen": "Innovación y Compromiso con impacto público.\n\n\n¡Sé parte de la modernización del Estado en ChileCompra!",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-16T21:32:16+00:00",
+  "ultima_senal": "2026-11-16T21:32:16+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 62,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 12.5,
+   "tecnologia": 7.5,
+   "senal": 7.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:akua": {
+  "key": "n:akua",
+  "primera_vista": "2026-11-17T13:21:41+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "La paytech Akua, cofundada por un uruguayo, recibió inversión de Itaú Ventures para impulsar la innovación de los pagos con IA en Latinoamérica",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNb3FwR2ZWSmtScGhyeWFKNFRlblpmakptQzZkbVp1Tk83eDJMb1VJSW9JWUFCWXNNZlp3cmYxMmptdUVQQmE2ZHNLMm00dHVyV05LZnRlNmI1T2t5U3JSLUhyTU1VMHhXSk5VaFhvLW9Sa1d2ejJWMU1zcUhrZndkVm5fY2c0b3dNZmxnaXJQUXQxaGpvX2x3cFlhNGhOWEc4U3pUMzl4cVRfLUcxN0VrTkt4RlNaT05LYUpfczZsQnM2Q0NQdzdvdGNfRnJQcmk2U0gyUGROU0ZiWEh0YXBIMkN2clY4X19MM1ZSRzJQTk5VNU9Xa1pjRkR1a2hrMGY1eFBpZHZyVdIBjAJBVV95cUxNMzRSdFFlSFlwenR3eFJ6bFR4d281MHhmTTlzZGxrR1R3Vm9wdk85a2VZUGVTNF9BdWhBVDNBRzRBYTd4TU1iVEhYSkg2UVNBT0szaWhCUUpyM3U4Z1AxQWliSEE1ZGp4UF9lV1ZaQ2JqQ0lkSGRVeVdwQ1RiMHByNXhfM2ZZNERWOFZpRlZ4NHdBbklnaml4Wk1WQWc3MTVpaDk4XzExdjR4UU9jZTFxazhMOE5zYVBjbVVUZWo5QXZ1WGRkdnhRYnYyUV9iMTFNMVdDbDMxRE5GM3V2VFY5U3duUVV2bXJlZ1QzbUhOQ1hEWGd1ZU4wLVhtOE8zTWY1aWs5aGZvbFZTbXhV?oc=5",
+    "fecha": "2026-11-16T19:17:00+00:00",
+    "medio": "El Observador"
+   }
+  ],
+  "inversionistas": [
+   "Itaú Ventures"
+  ],
+  "fundadores": [
+   "Cofundador uruguayo"
+  ],
+  "calidad": 7.0,
+  "motor": "llm",
+  "empresa": "Akua",
+  "pais": "Uruguay",
+  "sector": "Fintech (Pagos con IA)",
+  "etapa": "desconocida",
+  "tecnologia": true,
+  "resumen": "Akua es una paytech cofundada por un uruguayo que utiliza IA para innovar en pagos en Latinoamérica, respaldada por inversión de Itaú Ventures.",
+  "mensaje": "Vimos que Akua recibió inversión de Itaú Ventures para impulsar innovación en pagos con IA en LATAM. Nos parece una propuesta interesante y nos gustaría conocer más sobre vuestro roadmap regional y cómo Latin Leap podría sumarle valor a vuestra expansión.",
+  "razon": "Paytech con innovación en IA para pagos, respaldada por Itaú Ventures (familia corporativa de peso en LATAM). Enfoque en pagos y IA alinea con tendencias de mercado.",
+  "fecha_evidencia": "2026-11-16T19:17:00+00:00",
+  "ultima_senal": "2026-11-16T19:17:00+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 77,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 12.5,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 14.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "n:protegey": {
+  "key": "n:protegey",
+  "primera_vista": "2026-11-17T13:21:41+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Protegey Raises Pre-Seed Funding to Build a Shared Fraud Intelligence Network for African Financial Institutions",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQODNnZTIyVTJUeGVTTng4aFFUbDhFaFlkV2J4ZENpNmFxUEtndmM2TC1SbkxxNE92UjJ4M3ExSmp4U1VPeXBoWXlLbHBzdHdqdkViQ24tNmZjMUEwVEZ6VmZ4WVVtMHpmaWd0S0xrb3lwWVZEeDNjZTFOVmlvb0stNndSZkdmS0lROFNEMlhiSFl1dUZySkdfU0twVUlBd0tzX1JTdlJzZ0xiV2lfQ2pVWmNhTXFaZTNEOVI5UTNnZGhkMnBFajlkMjBaN2ZicVdCOTh2MEx2dzJUdw?oc=5",
+    "fecha": "2026-11-16T19:48:37+00:00",
+    "medio": "Tech In Africa"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Protegey",
+  "etapa": "pre-seed",
+  "tecnologia": true,
+  "resumen": "Protegey Raises Pre-Seed Funding to Build a Shared Fraud Intelligence Network for African Financial Institutions Tech In Africa",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-16T19:48:37+00:00",
+  "ultima_senal": "2026-11-16T19:48:37+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 64,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 6.0,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:boundary": {
+  "key": "n:boundary",
+  "primera_vista": "2026-11-17T13:21:41+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Boundary Labs Raises $2M To Launch Institutional Stablecoin USBD",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNlFnM1ZRZmYyUlRSY3M5Q2dmRjJaSVExMHVJaGtUZmtCdE9EWHd4THB4c2gydVV1SGVDb0lrYmxBcUtTU2NMb1VIN0NaMlQyMWRwM3Z1aVViUG5KUzBCRGNqNnYydWFpTzlHVkV3am1RdERxdnF5UnQ0MDRjX1lwTldHSVBrc09jMnRXdDY5UWt2NXpxeTFaX0pwWFhTaDU2?oc=5",
+    "fecha": "2026-11-17T05:39:12+00:00",
+    "medio": "CoinMarketCap"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 4.0,
+  "motor": "llm",
+  "empresa": "Boundary Labs",
+  "sector": "fintech/blockchain",
+  "etapa": "seed",
+  "monto_usd": 2000000.0,
+  "tecnologia": true,
+  "resumen": "Boundary Labs es una startup de fintech que desarrolla un stablecoin institucional (USBD) y levantó USD 2M en ronda seed.",
+  "mensaje": "Hola equipo de Boundary Labs, vimos que levantaron USD 2M para lanzar su stablecoin institucional USBD. Nos interesa conocer más de su visión para América Latina hispanohablante y cómo sus soluciones abordan la adopción de criptoacti vos institucionales en la región. ¿Podemos agendar una conversación?",
+  "razon": "Ronda seed de USD 2M en fintech de blockchain. Sin información de equipo, tracción o ubicación precisa en América Latina hispanohablante. Mención vagua sin confirmar operaciones en región.",
+  "fecha_evidencia": "2026-11-17T05:39:12+00:00",
+  "ultima_senal": "2026-11-17T05:39:12+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 66,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 8.0
+  },
+  "prioridad": "B",
   "en_tesis": true
  }
 }
