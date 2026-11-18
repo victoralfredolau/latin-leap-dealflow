@@ -105,20 +105,22 @@
    "key": "n:vuun",
    "empresa": "Vuun",
    "sitio_web": null,
-   "pais": "Colombia",
+   "pais": "México",
    "ciudad": null,
-   "sector": "Proptech",
+   "sector": "proptech",
    "etapa": "pre-seed",
    "monto_usd": 525000.0,
    "inversionistas": [
+    "500 Global",
+    "500 Global, Reach",
     "500 Global, Reach, ADN"
    ],
    "fundadores": [],
    "tecnologia": true,
    "calidad": 8.0,
-   "resumen": "Vuun es una proptech colombiana que ha alcanzado rentabilidad y busca expandirse a México y Perú con una ronda pre-seed de USD 525.000.",
-   "razon": "Ronda liderada por 500 Global (top-tier en LATAM), ya rentable y en punto de equilibrio antes de levantar capital, expansión a México y Perú demuestra tracción y ambición regional.",
-   "mensaje": "Felicitaciones por cerrar la ronda pre-seed con 500 Global, Reach y ADN. Es inspirador ver una proptech latinoamericana llegar a punto de equilibrio antes de levantar capital externo. Desde Latin Leap nos gustaría explorar cómo podríamos acompañar vuestro crecimiento en la región.",
+   "resumen": "Vuun es una startup que levantó USD 525K en pre-seed con liderazgo de 500 Global, uno de los fondos más activos en Latam.",
+   "razon": "Pre-seed respaldada por 500 Global, fondo de alto calibre; monto pequeño pero con validación de inversionista reconocido; falta claridad sobre el producto.",
+   "mensaje": "¡Hola! Notamos que Vuun acaba de cerrar una pre-seed de USD 525K liderada por 500 Global. Nos gustaría conocer mejor vuestro modelo y producto. ¿Podrían contarnos un poco más sobre la tracción y visión para los próximos meses?",
    "score": 94,
    "desglose": {
     "geografia": 25.0,
@@ -133,7 +135,7 @@
    "conocido_fuente": null,
    "primera_vista": "2026-11-15T13:03:01+00:00",
    "fecha_evidencia": "2026-11-14T21:21:50+00:00",
-   "ultima_senal": "2026-11-16T15:40:33+00:00",
+   "ultima_senal": "2026-11-17T18:55:08+00:00",
    "senales": [
     {
      "fuente": "Google News",
@@ -150,6 +152,93 @@
      "url": "https://startupslatam.com/vuun-cierra-ronda-pre-seed-de-us525-000-con-500-global-reach-y-adn-para-expandirse-a-mexico-y-peru/",
      "fecha": "2026-11-16T15:40:33+00:00",
      "medio": null
+    },
+    {
+     "fuente": "LatamList",
+     "tipo": "noticia",
+     "titulo": "Vuun raises $525K pre-seed round led by 500 Global",
+     "url": "https://latamlist.com/vuun-raises-525k-pre-seed-round-led-by-500-global/",
+     "fecha": "2026-11-17T18:51:35+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Vuun raises $525K pre-seed round led by 500 Global",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94T2I1RjMyUlAtWkpGVHBwS3B6SVdBUUN2NEZQZ3JvTHZTelQwVzJualRsekd6cDQwQWlBdVV0Mk5sdHMxQXJ5Wlk5ZWxCOXZmZFdDNTlUaEx3bHVNOTg2U3BzQVlVVDRzWXNmN2kzLVVOaWFzVkQtd1NubkfSAYIBQVVfeXFMUFJ3ZUU1Ny1wWWtRbUw0V3BrQUkzb1dONUI4MmdNMl8tS3ZDdmIzWnljQkRHNmJsR0p0V004VjBHanhhaGdfeURreGtFZ0Mzc2tVcjNqdWxkOW5yNmdEdUZab0JDV2FMd3F1S24xdzBFSzBqMFZrRm5IbjhqUzJaNjlaUQ?oc=5",
+     "fecha": "2026-11-17T18:55:08+00:00",
+     "medio": "LatamList"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:akua",
+   "empresa": "Akua",
+   "sitio_web": null,
+   "pais": "Uruguay",
+   "ciudad": "Montevideo",
+   "sector": "fintech",
+   "etapa": "seed",
+   "monto_usd": null,
+   "inversionistas": [
+    "Itaú Ventures"
+   ],
+   "fundadores": [
+    "Cofundador uruguayo"
+   ],
+   "tecnologia": true,
+   "calidad": 8.0,
+   "resumen": "Akua es una paytech uruguaya que utiliza inteligencia artificial para adquirencia de pagos en Uruguay y LATAM.",
+   "razon": "Paytech con IA en adquirencia, respalda Itaú Ventures (banco grande, señal de traction), mercado de pagos estratégico en LATAM, dentro de geografía de tesis.",
+   "mensaje": "Hola equipo Akua, notamos que Itaú Ventures los respalda en su expansión de IA en adquirencia. Desde Latin Leap seguimos de cerca fintechs innovadoras en el cono sur. ¿Estarían abiertos a una conversación sobre vuestra tesis?",
+   "score": 94,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 13.5,
+    "calidad": 16.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-17T13:21:41+00:00",
+   "fecha_evidencia": "2026-11-16T19:17:00+00:00",
+   "ultima_senal": "2026-11-17T19:01:42+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "La paytech Akua, cofundada por un uruguayo, recibió inversión de Itaú Ventures para impulsar la innovación de los pagos con IA en Latinoamérica",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNb3FwR2ZWSmtScGhyeWFKNFRlblpmakptQzZkbVp1Tk83eDJMb1VJSW9JWUFCWXNNZlp3cmYxMmptdUVQQmE2ZHNLMm00dHVyV05LZnRlNmI1T2t5U3JSLUhyTU1VMHhXSk5VaFhvLW9Sa1d2ejJWMU1zcUhrZndkVm5fY2c0b3dNZmxnaXJQUXQxaGpvX2x3cFlhNGhOWEc4U3pUMzl4cVRfLUcxN0VrTkt4RlNaT05LYUpfczZsQnM2Q0NQdzdvdGNfRnJQcmk2U0gyUGROU0ZiWEh0YXBIMkN2clY4X19MM1ZSRzJQTk5VNU9Xa1pjRkR1a2hrMGY1eFBpZHZyVdIBjAJBVV95cUxNMzRSdFFlSFlwenR3eFJ6bFR4d281MHhmTTlzZGxrR1R3Vm9wdk85a2VZUGVTNF9BdWhBVDNBRzRBYTd4TU1iVEhYSkg2UVNBT0szaWhCUUpyM3U4Z1AxQWliSEE1ZGp4UF9lV1ZaQ2JqQ0lkSGRVeVdwQ1RiMHByNXhfM2ZZNERWOFZpRlZ4NHdBbklnaml4Wk1WQWc3MTVpaDk4XzExdjR4UU9jZTFxazhMOE5zYVBjbVVUZWo5QXZ1WGRkdnhRYnYyUV9iMTFNMVdDbDMxRE5GM3V2VFY5U3duUVV2bXJlZ1QzbUhOQ1hEWGd1ZU4wLVhtOE8zTWY1aWs5aGZvbFZTbXhV?oc=5",
+     "fecha": "2026-11-16T19:17:00+00:00",
+     "medio": "El Observador"
+    },
+    {
+     "fuente": "Startups Latam",
+     "tipo": "noticia",
+     "titulo": "Itaú Ventures invierte en la fintech uruguaya Akua y sella alianza estratégica regional para impulsar pagos con inteligencia artificial",
+     "url": "https://startupslatam.com/itau-ventures-invierte-en-la-fintech-uruguaya-akua-y-sella-alianza-estrategica-regional-para-impulsar-pagos-con-inteligencia-artificial/",
+     "fecha": "2026-11-17T14:47:50+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "LatamList",
+     "tipo": "noticia",
+     "titulo": "Colombian fintech Akua secures investment from Itaú Unibanco",
+     "url": "https://latamlist.com/colombian-fintech-akua-secures-investment-from-itau-unibanco/",
+     "fecha": "2026-11-17T19:01:42+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Paytech Akua recibe inversión de Itaú Ventures para impulsar la inteligencia artificial en la adquirencia en Uruguay y Latam",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNWowaE5FMDN6OEFNWk16WmxxUFZxNHRiQTkzV2dJcDJBMGg3aUVJVV81UVJiWjA0Zl9hWmJpLWVrRDg4Z0lfVUhSbHBmZTFSWlVpOVdlUTZXLUxzbEc0XzFqNy1MS25XOExkYjQ1RUFiM29MQ3hjR3R6WExiU01sYU9VRlhmbWswTENmTmEtTWZvaVl5R1VTaE5nTUdLY2NRcUxhT01zb3RsMnBtd2lwNXdYMk5sM2wwaF85SjdtemRyTy1idjZvTGl5Qy1HbURTWFN4Y09oSHJpMDR5VEVTdFNMVU9JdHVTalF5TlBSOGlFX2c?oc=5",
+     "fecha": "2026-11-17T15:02:00+00:00",
+     "medio": "Latam Fintech Hub"
     }
    ],
    "motor": "llm"
@@ -493,6 +582,57 @@
      "titulo": "CarbonFarm, agtech del arroz, levanta 7M€",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tSjk1d3dVekVnX3RWWldrbkFVTW83T1hTT0FXWG4tWHdKY05VNkRwWW5ESUMzQklwek5sbk9wZmdNMGh1TmRWOGFHczFIRUdEOUVIRVFma0xQc1R4QXZjcC1FaXdYNHRicWFhUktHTG5fVXFjaFRiQjF3?oc=5",
      "fecha": "2026-10-17T06:06:41+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:voyage",
+   "empresa": "Voyage Labs",
+   "sitio_web": null,
+   "pais": "Perú",
+   "ciudad": null,
+   "sector": "Travel Tech / IA",
+   "etapa": "seed",
+   "monto_usd": 12000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Voyage Labs es un agente de viajes con IA que utiliza inteligencia artificial para asistir a usuarios en la planificación de viajes. Levantó USD 12M en su ronda seed.",
+   "razon": "Ronda seed de USD 12M en travel tech con IA desde Perú; mercado global relevante y producto con potencial de expansión.",
+   "mensaje": "¡Hola! Vimos que Voyage Labs ha levantado USD 12M para escalar el agente de viajes con IA. Nos interesa mucho el potencial de este modelo en Latam. ¿Estarían abiertos a conversar sobre oportunidades de expansión regional?",
+   "score": 90,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 14.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-18T13:27:10+00:00",
+   "fecha_evidencia": "2026-11-17T15:09:34+00:00",
+   "ultima_senal": "2026-11-17T18:06:52+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Voyage Labs, asistente de viajes con IA, levanta US$12M",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM1MzVlBUYjNvYXJrWFFGZzM3SGstakkwelh2SlFBQWMzcmt6Zmk1NEF4amFBaUlPbWRCUzdjYkV6NFRxRFJqTVdaSmdQdlg0UUpJSjM2eTFXZFBtWG9RLUJmbWZwTzBxdWJHbGpqT1lsUFdKWG12dmpUeW42c1VnWmg3M3p5QnRRMGg0?oc=5",
+     "fecha": "2026-11-17T18:06:52+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Voyage Labs, el agente de viajes con IA, levanta US$12M",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMEZaT2JDeDdqUnZqZTFhSW5pdzNGemZZSS1xb2VFbktTRFFWdjJnNnpzZ1JGZ1h3SHhobFlUYVF6MTFvQlJFWHFWU096MW9zZzY0MTk3b08xeGJKSTZFYUFyejAzc000a3MwZ1BGUnJfbXVnWHp3REhBZnJDTGx3anRYTGtxVnZzQlh3?oc=5",
+     "fecha": "2026-11-17T15:09:34+00:00",
      "medio": "El Ecosistema Startup"
     }
    ],
@@ -1486,6 +1626,92 @@
    "motor": "llm"
   },
   {
+   "key": "d:baudata.cl",
+   "empresa": "Baudata",
+   "sitio_web": "http://www.baudata.cl",
+   "pais": "Chile",
+   "ciudad": "Santiago",
+   "sector": "PropTech / Construction Tech",
+   "etapa": "seed",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Plataforma de prospección comercial que identifica y georeferencia proyectos de construcción en Chile, con planes de expansión a América Latina.",
+   "razon": "Líder en su nicho con expansión a LATAM; modelo B2B claro en sector construcción; contratando activamente ingenieros de datos sugiere tracción y crecimiento.",
+   "mensaje": "Hola equipo de Baudata, vimos que están ampliando el equipo de datos y expandiendo a LATAM. En Latin Leap nos interesa apoyar deep tech en construcción. ¿Les vendría bien conversar sobre opciones de financiamiento para acelerar esa expansión regional?",
+   "score": 86,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 7.5,
+    "calidad": 14.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-18T13:27:10+00:00",
+   "fecha_evidencia": "2026-11-17T19:22:45+00:00",
+   "ultima_senal": "2026-11-17T19:22:45+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Baudata está contratando: Ingeniero/a de Datos",
+     "url": "https://www.getonbrd.com/jobs/ingeniero-a-de-datos-baudata-lima-santiago",
+     "fecha": "2026-11-17T19:22:45+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "d:neuralworks.cl",
+   "empresa": "NeuralWorks",
+   "sitio_web": "http://www.neuralworks.cl",
+   "pais": "Chile",
+   "ciudad": "Santiago",
+   "sector": "AI / Data Science",
+   "etapa": "seed",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Empresa especializada en soluciones de IA y ciencia de datos, buscando talentos en investigación aplicada.",
+   "razon": "Foco en IA y machine learning aplicado; contratando Applied Scientists sugiere tracción técnica y crecimiento; sector de alto potencial y tesis clara.",
+   "mensaje": "Hola NeuralWorks, notamos que están expandiendo el equipo de científicos. Nos impresiona el enfoque en IA aplicada. En Latin Leap financiamos deep tech y IA en LATAM; nos encantaría conocer vuestro roadmap y ver si hay oportunidades de colaborar.",
+   "score": 86,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 7.5,
+    "calidad": 14.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-18T13:27:10+00:00",
+   "fecha_evidencia": "2026-11-17T18:18:59+00:00",
+   "ultima_senal": "2026-11-17T18:18:59+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "NeuralWorks está contratando: Applied Scientist, Data Scientist",
+     "url": "https://www.getonbrd.com/jobs/data-scientist-neuralworks-santiago-69ce",
+     "fecha": "2026-11-17T18:18:59+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:dsac.ai",
    "empresa": "DSAC Chile",
    "sitio_web": "https://dsac.ai/",
@@ -1669,6 +1895,49 @@
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeW1QR0VLQzNmajBJU2FuNzR5ZHA0bTdHSlBCbmFuZWJHV3RhdHJjQ3hMMDA1VFdieVpFbS0tSWFid08zX2VvcDJoUjRvd1hGUnh5eWhabGRQWXBKM2ZDYW9xRXpLUFRVdmF0ZFVnVE1fdURZaWRwemRuNVVlYzhGUjBEeFo4djZVWVdTRFNDN1JzblJZMnRPeWNqS2ZRa0xaYlpsVUJQeEU4XzBqWUxGb0Y1RkZxeWtnMjBwag?oc=5",
      "fecha": "2026-10-21T06:02:00+00:00",
      "medio": "Big News Network.com"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "d:kudert.com",
+   "empresa": "Kudert",
+   "sitio_web": "https://kudert.com/",
+   "pais": "Ecuador",
+   "ciudad": null,
+   "sector": "EdTech / HR Tech",
+   "etapa": "seed",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Plataforma de desarrollo de habilidades blandas para empresas en América Latina.",
+   "razon": "Plataforma de softskills con enfoque en LATAM; contratación activa de Product Engineer indica tracción; mercado de HR/formación corporativa es sólido pero requiere más validación.",
+   "mensaje": "Hola Kudert, vimos que están contratando Product Engineers y construyendo en el espacio de softskills. Nos atrae vuestro enfoque regional. ¿Tienen un momento para platicar sobre el tracción actual y necesidades de capital para escalar en LATAM?",
+   "score": 84,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 7.5,
+    "calidad": 12.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-18T13:27:10+00:00",
+   "fecha_evidencia": "2026-11-18T01:58:48+00:00",
+   "ultima_senal": "2026-11-18T01:58:48+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Kudert está contratando: Senior Product Engineer",
+     "url": "https://www.getonbrd.com/jobs/senior-product-engineer-kudert-remote",
+     "fecha": "2026-11-18T01:58:48+00:00",
+     "medio": null
     }
    ],
    "motor": "llm"
@@ -2048,53 +2317,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:akua",
-   "empresa": "Akua",
-   "sitio_web": null,
-   "pais": "Uruguay",
-   "ciudad": null,
-   "sector": "Fintech (Pagos con IA)",
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [
-    "Itaú Ventures"
-   ],
-   "fundadores": [
-    "Cofundador uruguayo"
-   ],
-   "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "Akua es una paytech cofundada por un uruguayo que utiliza IA para innovar en pagos en Latinoamérica, respaldada por inversión de Itaú Ventures.",
-   "razon": "Paytech con innovación en IA para pagos, respaldada por Itaú Ventures (familia corporativa de peso en LATAM). Enfoque en pagos y IA alinea con tendencias de mercado.",
-   "mensaje": "Vimos que Akua recibió inversión de Itaú Ventures para impulsar innovación en pagos con IA en LATAM. Nos parece una propuesta interesante y nos gustaría conocer más sobre vuestro roadmap regional y cómo Latin Leap podría sumarle valor a vuestra expansión.",
-   "score": 77,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 14.0
-   },
-   "prioridad": "A",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-11-17T13:21:41+00:00",
-   "fecha_evidencia": "2026-11-16T19:17:00+00:00",
-   "ultima_senal": "2026-11-16T19:17:00+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "La paytech Akua, cofundada por un uruguayo, recibió inversión de Itaú Ventures para impulsar la innovación de los pagos con IA en Latinoamérica",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNb3FwR2ZWSmtScGhyeWFKNFRlblpmakptQzZkbVp1Tk83eDJMb1VJSW9JWUFCWXNNZlp3cmYxMmptdUVQQmE2ZHNLMm00dHVyV05LZnRlNmI1T2t5U3JSLUhyTU1VMHhXSk5VaFhvLW9Sa1d2ejJWMU1zcUhrZndkVm5fY2c0b3dNZmxnaXJQUXQxaGpvX2x3cFlhNGhOWEc4U3pUMzl4cVRfLUcxN0VrTkt4RlNaT05LYUpfczZsQnM2Q0NQdzdvdGNfRnJQcmk2U0gyUGROU0ZiWEh0YXBIMkN2clY4X19MM1ZSRzJQTk5VNU9Xa1pjRkR1a2hrMGY1eFBpZHZyVdIBjAJBVV95cUxNMzRSdFFlSFlwenR3eFJ6bFR4d281MHhmTTlzZGxrR1R3Vm9wdk85a2VZUGVTNF9BdWhBVDNBRzRBYTd4TU1iVEhYSkg2UVNBT0szaWhCUUpyM3U4Z1AxQWliSEE1ZGp4UF9lV1ZaQ2JqQ0lkSGRVeVdwQ1RiMHByNXhfM2ZZNERWOFZpRlZ4NHdBbklnaml4Wk1WQWc3MTVpaDk4XzExdjR4UU9jZTFxazhMOE5zYVBjbVVUZWo5QXZ1WGRkdnhRYnYyUV9iMTFNMVdDbDMxRE5GM3V2VFY5U3duUVV2bXJlZ1QzbUhOQ1hEWGd1ZU4wLVhtOE8zTWY1aWs5aGZvbFZTbXhV?oc=5",
-     "fecha": "2026-11-16T19:17:00+00:00",
-     "medio": "El Observador"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "d:prontopaga.com",
    "empresa": "ProntoPaga",
    "sitio_web": "https://www2.prontopaga.com/",
@@ -2237,49 +2459,6 @@
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWE5KckUtVmZKOUhFcXNOREVrcFFnUkJ4dGtiRzQwSkFWbV9sMFJPclM1Y1BXSVBYM2pOc05zczJzazYxT0JrU2xEYjFrdzhMUW02LWRBNjQ1dGZkbG5wOUY2cmwwVE5RN1Bpc2JGeWJNZlVUQjI4VUhidkpFV3JVSjdkVUNVTEU?oc=5",
      "fecha": "2026-10-29T20:36:28+00:00",
      "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
-   "key": "d:roboticaxai.com",
-   "empresa": "Robotica AI",
-   "sitio_web": "https://www.roboticaxai.com/otis-sports",
-   "pais": "Colombia",
-   "ciudad": null,
-   "sector": "IA / Automatización / Software",
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 6.0,
-   "resumen": "Robotica AI desarrolla soluciones tecnológicas con inteligencia artificial, automatización y desarrollo de software, integrando tecnologías emergentes como AR/RoomPlan.",
-   "razon": "Startup de IA y automatización con tecnologías emergentes; contrata talento senior (iOS/ARKit), señal de crecimiento. Falta claridad sobre tracción y financiación.",
-   "mensaje": "Hola equipo de Robotica AI, vimos que están expandiendo con especialistas en iOS y ARKit. Desde Latin Leap nos interesa conocer más sobre vuestro modelo de negocio, tracción actual y planes de crecimiento. ¿Podríamos agendar una conversación breve?",
-   "score": 72,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 12.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-11-04T13:16:31+00:00",
-   "fecha_evidencia": "2026-11-04T01:58:15+00:00",
-   "ultima_senal": "2026-11-04T01:58:15+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Robotica AI está contratando: Desarrollador iOS (Arkit y Roomplan)",
-     "url": "https://www.getonbrd.com/jobs/desarrollador-ios-arkit-y-roomplan-robotica-ai-remote",
-     "fecha": "2026-11-04T01:58:15+00:00",
-     "medio": null
     }
    ],
    "motor": "llm"
@@ -2518,57 +2697,6 @@
    "motor": "reglas"
   },
   {
-   "key": "d:bicevida.cl",
-   "empresa": "BICE VIDA",
-   "sitio_web": "http://www.bicevida.cl",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Líderes en el negocio de las aseguradoras en Chile, somos una empresa enfocada en satisfacer las necesidades de seguridad, prosperidad y protección de nuestros clientes. ",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-15T21:07:12+00:00",
-   "ultima_senal": "2026-11-03T19:13:25+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "BICE VIDA está contratando: Developer Java, Developer Front-end, Ingeniero de Datos Middle, Ingeniero de Datos Senior",
-     "url": "https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-bice-vida-santiago-cde7",
-     "fecha": "2026-10-15T21:07:12+00:00",
-     "medio": null
-    },
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "BICE VIDA está contratando: Developer Full-Stack, Ingeniero de Datos Middle, Ingeniero de Datos Senior, Product Designer",
-     "url": "https://www.getonbrd.com/jobs/product-designer-bice-vida-santiago-137c",
-     "fecha": "2026-11-03T19:13:25+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "d:cumplo.cl",
    "empresa": "Cumplo",
    "sitio_web": "http://www.cumplo.cl",
@@ -2665,57 +2793,6 @@
      "titulo": "Codeable está contratando: Analista de Datos Power BI",
      "url": "https://www.getonbrd.com/jobs/analista-de-datos-power-bi-codeable-lima",
      "fecha": "2026-11-09T22:00:49+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "d:trabajos.agrosuper.cl",
-   "empresa": "Agrosuper",
-   "sitio_web": "https://trabajos.agrosuper.cl/",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "En Agrosuper nos motiva hacer las cosas siempre mejor, con espíritu de crecimiento y desarrollo, disfrutando lo bueno de la vida  ¡Ven a ser parte!",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-20T22:01:03+00:00",
-   "ultima_senal": "2026-11-03T15:41:39+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Agrosuper está contratando: Jefe de People Analytics, Ingeniero Gobierno de Datos, Ingeniero/a de Calidad de Datos, Ingeniero Infraestructura IT/Ot Onpremise & Cloud",
-     "url": "https://www.getonbrd.com/jobs/ingeniero-infraestructura-it-ot-onpremise-cloud-agrosuper-rancagua",
-     "fecha": "2026-10-20T22:01:03+00:00",
-     "medio": null
-    },
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Agrosuper está contratando: Ingeniero Gobierno de Datos, Jefe de People Analytics, Ingeniero Infraestructura IT/Ot Onpremise & Cloud, Analista Calidad Faenadora San Vicente, Monitor Calida",
-     "url": "https://www.getonbrd.com/jobs/ingeniero-a-de-calidad-de-datos-agrosuper-rancagua",
-     "fecha": "2026-11-03T15:41:39+00:00",
      "medio": null
     }
    ],
@@ -3076,6 +3153,49 @@
    "motor": "llm"
   },
   {
+   "key": "d:roboticaxai.com",
+   "empresa": "Robotica AI",
+   "sitio_web": "https://www.roboticaxai.com/otis-sports",
+   "pais": "Colombia",
+   "ciudad": null,
+   "sector": "IA / Automatización / Software",
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Robotica AI desarrolla soluciones tecnológicas con inteligencia artificial, automatización y desarrollo de software, integrando tecnologías emergentes como AR/RoomPlan.",
+   "razon": "Startup de IA y automatización con tecnologías emergentes; contrata talento senior (iOS/ARKit), señal de crecimiento. Falta claridad sobre tracción y financiación.",
+   "mensaje": "Hola equipo de Robotica AI, vimos que están expandiendo con especialistas en iOS y ARKit. Desde Latin Leap nos interesa conocer más sobre vuestro modelo de negocio, tracción actual y planes de crecimiento. ¿Podríamos agendar una conversación breve?",
+   "score": 70,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-04T13:16:31+00:00",
+   "fecha_evidencia": "2026-11-04T01:58:15+00:00",
+   "ultima_senal": "2026-11-04T01:58:15+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Robotica AI está contratando: Desarrollador iOS (Arkit y Roomplan)",
+     "url": "https://www.getonbrd.com/jobs/desarrollador-ios-arkit-y-roomplan-robotica-ai-remote",
+     "fecha": "2026-11-04T01:58:15+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "d:integratz.cl",
    "empresa": "INTEGRATZ",
    "sitio_web": "https://integratz.cl/",
@@ -3125,49 +3245,6 @@
     }
    ],
    "motor": "reglas"
-  },
-  {
-   "key": "n:trii",
-   "empresa": "Trii",
-   "sitio_web": null,
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": "Fintech",
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 6.0,
-   "resumen": "Trii es una fintech de inversión que prepara incorporación de IA y criptomonedas. Operativa en Chile.",
-   "razon": "Fintech en geografía Latin Leap (Chile) con diferenciación en IA y cripto. Sin información de ronda, pero producto innovador en sector de inversión.",
-   "mensaje": "Hola equipo de Trii, vimos que están desarrollando soluciones innovadoras en inversión con IA y cripto en Chile. En Latin Leap nos interesa apoyar fintech diferenciados en la región. ¿Estarían abiertos a conectar y conocer más de su visión?",
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 6.0,
-    "calidad": 12.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-11-05T13:22:50+00:00",
-   "fecha_evidencia": "2026-11-04T07:21:46+00:00",
-   "ultima_senal": "2026-11-04T07:21:46+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Trii, fintech de inversión, prepara IA y cripto en Chile",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR196Uk15RHI2bWpUa1NPaXR0R05peEpHcm44dVczOGlpVEZBLW42cF96WnNVRXNETkVSeE52MXB5WksycF9wZzZkWmtLVEJJTEpyTUgteXZfVFpRR3hrUUszX3NOa2Y0VnRtZm5CcEhNOEZYMWZ1ZzZ1dW1YZHhBZkN1QTh2aS1JSmhoRGZ3?oc=5",
-     "fecha": "2026-11-04T07:21:46+00:00",
-     "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
   },
   {
    "key": "d:3it.cl",
@@ -3293,49 +3370,6 @@
      "titulo": "Agilistik está contratando: IT Specialist (Oracle/Unix)",
      "url": "https://www.getonbrd.com/jobs/it-specialist-oracle-unix-agilistik-santiago",
      "fecha": "2026-11-10T15:57:51+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "d:dynamicdevs.io",
-   "empresa": "Dynamic Devs",
-   "sitio_web": "https://www.dynamicdevs.io",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Desarrollo de software: Auténtico entendimiento y habilitación de la innovación tecnológica",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-11-11T13:21:52+00:00",
-   "fecha_evidencia": "2026-11-03T14:25:53+00:00",
-   "ultima_senal": "2026-11-03T14:25:53+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Dynamic Devs está contratando: Full-Stack Engineer (TypeScript/React), Full-Stack Engineer (TypeScript/React), QA Automation Engineer",
-     "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-cc99",
-     "fecha": "2026-11-03T14:25:53+00:00",
      "medio": null
     }
    ],
@@ -3603,6 +3637,49 @@
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONTlQTVg3VElLNzAxQVV4LVBBWU1nNHpEVGVxVEZVV0l3VGc1RmNMSDFHalhqYzhnTThBN2FZdXh6Rmx6enN4OU03WXJNeXp5dG03cFI0b0pjc3RRbUlxWW95WVF3bnRqVFNtUnFBTXZzZmFMN1FJVUd4ejlRSkZ4azduRC00Y094U25pME5mS01fUWE2?oc=5",
      "fecha": "2026-10-27T19:44:26+00:00",
      "medio": "El Estímulo"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:trii",
+   "empresa": "Trii",
+   "sitio_web": null,
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": "Fintech",
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Trii es una fintech de inversión que prepara incorporación de IA y criptomonedas. Operativa en Chile.",
+   "razon": "Fintech en geografía Latin Leap (Chile) con diferenciación en IA y cripto. Sin información de ronda, pero producto innovador en sector de inversión.",
+   "mensaje": "Hola equipo de Trii, vimos que están desarrollando soluciones innovadoras en inversión con IA y cripto en Chile. En Latin Leap nos interesa apoyar fintech diferenciados en la región. ¿Estarían abiertos a conectar y conocer más de su visión?",
+   "score": 69,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 4.5,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-05T13:22:50+00:00",
+   "fecha_evidencia": "2026-11-04T07:21:46+00:00",
+   "ultima_senal": "2026-11-04T07:21:46+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Trii, fintech de inversión, prepara IA y cripto en Chile",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR196Uk15RHI2bWpUa1NPaXR0R05peEpHcm44dVczOGlpVEZBLW42cF96WnNVRXNETkVSeE52MXB5WksycF9wZzZkWmtLVEJJTEpyTUgteXZfVFpRR3hrUUszX3NOa2Y0VnRtZm5CcEhNOEZYMWZ1ZzZ1dW1YZHhBZkN1QTh2aS1JSmhoRGZ3?oc=5",
+     "fecha": "2026-11-04T07:21:46+00:00",
+     "medio": "El Ecosistema Startup"
     }
    ],
    "motor": "llm"
@@ -4046,6 +4123,57 @@
    "motor": "reglas"
   },
   {
+   "key": "d:bicevida.cl",
+   "empresa": "BICE VIDA",
+   "sitio_web": "http://www.bicevida.cl",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Líderes en el negocio de las aseguradoras en Chile, somos una empresa enfocada en satisfacer las necesidades de seguridad, prosperidad y protección de nuestros clientes. ",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-15T21:07:12+00:00",
+   "ultima_senal": "2026-11-03T19:13:25+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "BICE VIDA está contratando: Developer Java, Developer Front-end, Ingeniero de Datos Middle, Ingeniero de Datos Senior",
+     "url": "https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-bice-vida-santiago-cde7",
+     "fecha": "2026-10-15T21:07:12+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "BICE VIDA está contratando: Developer Full-Stack, Ingeniero de Datos Middle, Ingeniero de Datos Senior, Product Designer",
+     "url": "https://www.getonbrd.com/jobs/product-designer-bice-vida-santiago-137c",
+     "fecha": "2026-11-03T19:13:25+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "d:42labs.cl",
    "empresa": "42Labs",
    "sitio_web": "https://www.42labs.cl",
@@ -4083,6 +4211,57 @@
      "titulo": "42Labs está contratando: Back-end Developer (Java/Spring Boot/apigee), Data Engineer (Databrick/SQL/Python)",
      "url": "https://www.getonbrd.com/jobs/data-engineer-finanzas-42labs-santiago-valparaiso-vina-del-mar-rancagua",
      "fecha": "2026-10-22T21:50:01+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "d:trabajos.agrosuper.cl",
+   "empresa": "Agrosuper",
+   "sitio_web": "https://trabajos.agrosuper.cl/",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "En Agrosuper nos motiva hacer las cosas siempre mejor, con espíritu de crecimiento y desarrollo, disfrutando lo bueno de la vida  ¡Ven a ser parte!",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-20T22:01:03+00:00",
+   "ultima_senal": "2026-11-03T15:41:39+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Agrosuper está contratando: Jefe de People Analytics, Ingeniero Gobierno de Datos, Ingeniero/a de Calidad de Datos, Ingeniero Infraestructura IT/Ot Onpremise & Cloud",
+     "url": "https://www.getonbrd.com/jobs/ingeniero-infraestructura-it-ot-onpremise-cloud-agrosuper-rancagua",
+     "fecha": "2026-10-20T22:01:03+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Agrosuper está contratando: Ingeniero Gobierno de Datos, Jefe de People Analytics, Ingeniero Infraestructura IT/Ot Onpremise & Cloud, Analista Calidad Faenadora San Vicente, Monitor Calida",
+     "url": "https://www.getonbrd.com/jobs/ingeniero-a-de-calidad-de-datos-agrosuper-rancagua",
+     "fecha": "2026-11-03T15:41:39+00:00",
      "medio": null
     }
    ],
@@ -5026,6 +5205,49 @@
    "motor": "reglas"
   },
   {
+   "key": "d:dynamicdevs.io",
+   "empresa": "Dynamic Devs",
+   "sitio_web": "https://www.dynamicdevs.io",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Desarrollo de software: Auténtico entendimiento y habilitación de la innovación tecnológica",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-11T13:21:52+00:00",
+   "fecha_evidencia": "2026-11-03T14:25:53+00:00",
+   "ultima_senal": "2026-11-03T14:25:53+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Dynamic Devs está contratando: Full-Stack Engineer (TypeScript/React), Full-Stack Engineer (TypeScript/React), QA Automation Engineer",
+     "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-cc99",
+     "fecha": "2026-11-03T14:25:53+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "n:southafricanfintechlumepay",
    "empresa": "South African Fintech Lumepay",
    "sitio_web": null,
@@ -5110,6 +5332,49 @@
     }
    ],
    "motor": "reglas"
+  },
+  {
+   "key": "n:mulga",
+   "empresa": "Mulga",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "cloud infrastructure",
+   "etapa": "pre-seed",
+   "monto_usd": 1770000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Mulga desarrolla una plataforma de cloud compatible con AWS y cerró $1.77M en pre-seed.",
+   "razon": "Pre-seed en infraestructura cloud (AWS-compatible), mercado relevante, pero sin evidencia clara de traction, inversionistas o base en LATAM hispanohablante. Información limitada.",
+   "mensaje": "Hola equipo Mulga, vimos que levantaron $1.77M para su plataforma cloud. Desde Latin Leap estamos interesados en infratech en LATAM. ¿Podrían contarnos más sobre vuestra tracción y si tienen operaciones en la región?",
+   "score": 68,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-18T13:27:10+00:00",
+   "fecha_evidencia": "2026-11-17T18:22:55+00:00",
+   "ultima_senal": "2026-11-17T18:22:55+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Mulga Raises $1.77 Million in Pre-Seed Funding to Develop AWS-Compatible Cloud Platform",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMG5qMHN0UlJIaW9QV1ljVGRmaF8wM0FJTlhZNWwwMzVEOFRURTZENFBiTU1rcERaSHZGbTNBQ0hTNTBOUUNDRnlXSHFMWHpRUEE3YnV3MmVXYTFZdmd1TTFPUmJicVZVVnVMd00zNFI2Tk1hQy1MRFk5XzltdE5QaGVjbmlfUUN2N2FRM3haUEMxT2pXQnNwSTF4MDBsMXE4V1J1M1E1bHp3WHhwNFRHbU42Q0ZiMzV4STl2QWxnS1VmV0k?oc=5",
+     "fecha": "2026-11-17T18:22:55+00:00",
+     "medio": "citybiz"
+    }
+   ],
+   "motor": "llm"
   },
   {
    "key": "n:neofleetcapital",
@@ -5945,6 +6210,49 @@
    "motor": "llm"
   },
   {
+   "key": "n:circularityfuels",
+   "empresa": "Circularity Fuels",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": 7000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Circularity Fuels Raises $7M Seed Round to Build Biogas-to-Jet-Fuel Demonstration Plant Avi-Go",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 60,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 7.5,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-18T13:27:10+00:00",
+   "fecha_evidencia": "2026-11-05T19:30:58+00:00",
+   "ultima_senal": "2026-11-05T19:30:58+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Circularity Fuels Raises $7M Seed Round to Build Biogas-to-Jet-Fuel Demonstration Plant",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KRjJfXzFzcmRER2FMOXdFdm9nYzJqeGVpWmVPZEJmSVFvSklXN1FQNkEyUHBrRXJycW1NYlJFcXN6RUdIWk9TQXZDT0dzeUIwQl9WQmgxUkgxaXZxRHAtbi1vWncxeVRLMnhTdGl0b1lYWU0?oc=5",
+     "fecha": "2026-11-05T19:30:58+00:00",
+     "medio": "Avi-Go"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "n:palomma",
    "empresa": "Palomma",
    "sitio_web": null,
@@ -6357,84 +6665,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:artiso",
-   "empresa": "Artiso",
-   "sitio_web": null,
-   "pais": "España",
-   "ciudad": null,
-   "sector": "IA",
-   "etapa": "pre-seed",
-   "monto_usd": 3400000.0,
-   "inversionistas": [
-    "Criteria",
-    "Criteria Venture Tech"
-   ],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "Startup de IA que levantó capital junto a otros emprendimientos en ronda conjunta.",
-   "razon": "Ronda en IA, monto reportado en EUR (~5.5M) sin conversión clara a USD; ubicación geográfica no mencionada; etapa pre-seed estimada por el contexto de noticia.",
-   "mensaje": "Hemos visto que Artiso está levantando capital en el ecosistema IA. Si tienen operaciones en América Latina hispanohablante, nos encantaría conocer más sobre vuestra propuesta y trayectoria.",
-   "score": 64,
-   "desglose": {
-    "geografia": 0.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 14.0
-   },
-   "prioridad": "Fuera de tesis",
-   "en_tesis": false,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-28T13:06:20+00:00",
-   "fecha_evidencia": "2026-10-28T10:39:09+00:00",
-   "ultima_senal": "2026-11-04T11:08:22+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Artiso capta más de 3 millones en una ronda pre-semilla liderada por Criteria Venture Tech",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWdjNG5aWnRJaGQzdUV2REt3b3JVakh3YmJNOXVON19pSnU5RXlGUGxyMTdQLVk1QjdHMDFzSkZPaDJIbE1JYU9mZlF1UFppOWMzV2NRSnZ6UE1rUjVrWWRYbHpvVTdxWTN4TnNqdERRREpLdkNad3QwSHg0eFRlWGd4SHp2OFhDSEVtTjdWa29GSGVSdGR4eW5jczlGT0ZwR2xoTEg1YzU0bWw0VlhUSDVFVk1faDFBLUd2QnRyU0hjaE83WWV0T9IByAFBVV95cUxPcWdjNG5aWnRJaGQzdUV2REt3b3JVakh3YmJNOXVON19pSnU5RXlGUGxyMTdQLVk1QjdHMDFzSkZPaDJIbE1JYU9mZlF1UFppOWMzV2NRSnZ6UE1rUjVrWWRYbHpvVTdxWTN4TnNqdERRREpLdkNad3QwSHg0eFRlWGd4SHp2OFhDSEVtTjdWa29GSGVSdGR4eW5jczlGT0ZwR2xoTEg1YzU0bWw0VlhUSDVFVk1faDFBLUd2QnRyU0hjaE83WWV0Tw?oc=5",
-     "fecha": "2026-10-28T10:39:09+00:00",
-     "medio": "Demócrata"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Artiso AI levanta 3 millones en su ronda pre-seed con Criteria para aplicar la IA al diseño de moda",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53NkxYOUVDa01ST0tuYXZiQmNxaFBOd09iVzFCVHgtTWg2OEgxdWg1dlNkTnVjNm0xaGFTR1FKZ0JjSVBnYzZLNnMtUmNIY3hERklVTHRZVkh2Sk1HNG1JT2Jfb3dHNlE1bGp4aFNYSldzVWJl?oc=5",
-     "fecha": "2026-10-28T20:15:36+00:00",
-     "medio": "Merca2.es"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Artiso capta más de 3 millones en una ronda pre-semilla liderada por Criteria Venture Tech",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMlI5QXYyTHdKd1hrOHFrelJHcGQtNGpCU0FHQTBhYmhqcG9lMElnZnlKN0pfRHY5Ny1DdVg2RHNKendWYjRDbEhzcEw5bFY2TmtYblFTXy1HNTBCb2ltbHZPV0xUMElDaHlfUVcxdVpmYUZlM2lkQWx3UElJbnl1S2l5UEJnWXFxdFMxX0JvNlFjeVRxOEtLYThKbFNySElKdE9rQkE5c0xHRWxQblZwLTI4TDdaZWM2NkQtOFRLeUE0T03SAcgBQVVfeXFMT3FnYzRuWlp0SWhkM3VFdkRLd29yVWpId2JiTTl1TjdfaUp1OUV5RlBscjE3UC1ZNUI3RzAxc0pGT2gySGxNSWFPZmZRdVBaaTljM1djUUp2elBNa1I1a1lkWGx6b1U3cVkzeE5zanREUURKS3ZDWnd0MEh4NHhUZVhneEh6djhYQ0hFbU43VmtvRkhlUnRkeHluY3M5Rk9GcEdsaExINWM1NG1sNFZYVEg1RVZNX2gxQS1HdkJ0clNIY2hPN1lldE8?oc=5",
-     "fecha": "2026-10-28T10:39:09+00:00",
-     "medio": "Demócrata"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Artiso, Talky Labs e YK-Robotics levantan 5,5M€ en IA",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVzF1MEthYmZCS1VmNTFvMWlFY0JzWGhwelpFU2RkMVdfaTVGUG14VzZrMWdUeUQtaW9jNWRTa0V5a19WTm9RZzNsRXB6WjVTR2dHUUQxSURNZnlHNHpSejE1alFibmtHSWZSRzF4YzhGSmpLb2loRXk2ZTdkZE1JNmRPa19wV0d2M3c?oc=5",
-     "fecha": "2026-11-03T12:06:37+00:00",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Artiso raises more than $3.4m in pre-seed funding for AI fashion platform",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MaVZCX1hSR1hqdkVuUGJqaVhfM3NlV284QnNQY3ZYUmhOXzBXZDNuTjYxRTRLYlFDaXBkSEM2c2ZfVzljZG1EbnNNRUpORmItQnluNUpIR3FfclhzR1A3NkVOMmRpUU0?oc=5",
-     "fecha": "2026-11-04T11:08:22+00:00",
-     "medio": "Just Style"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:matria",
    "empresa": "Matria",
    "sitio_web": null,
@@ -6516,6 +6746,84 @@
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnVGSndXa05rWmtreW5Nay14Vl92cGM0M0NfWGhUVkhRR0s1VzdYSGNqdGNHWkJfeVBjcDlyMGtnRFN3TUdzR0NGRXlESXp0bkdBUllfczFpTmNYakFHd2VnMlhYTUJEOE9FSjYxNG90S0lpd21oUFROS0gyT2VtTEczamNqbS1aTzNZ?oc=5",
      "fecha": "2026-10-20T18:33:32+00:00",
      "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:artiso",
+   "empresa": "Artiso",
+   "sitio_web": null,
+   "pais": "España",
+   "ciudad": null,
+   "sector": "IA",
+   "etapa": "pre-seed",
+   "monto_usd": 3400000.0,
+   "inversionistas": [
+    "Criteria",
+    "Criteria Venture Tech"
+   ],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Startup de IA que levantó capital junto a otros emprendimientos en ronda conjunta.",
+   "razon": "Ronda en IA, monto reportado en EUR (~5.5M) sin conversión clara a USD; ubicación geográfica no mencionada; etapa pre-seed estimada por el contexto de noticia.",
+   "mensaje": "Hemos visto que Artiso está levantando capital en el ecosistema IA. Si tienen operaciones en América Latina hispanohablante, nos encantaría conocer más sobre vuestra propuesta y trayectoria.",
+   "score": 63,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 14.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-28T13:06:20+00:00",
+   "fecha_evidencia": "2026-10-28T10:39:09+00:00",
+   "ultima_senal": "2026-11-04T11:08:22+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Artiso capta más de 3 millones en una ronda pre-semilla liderada por Criteria Venture Tech",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWdjNG5aWnRJaGQzdUV2REt3b3JVakh3YmJNOXVON19pSnU5RXlGUGxyMTdQLVk1QjdHMDFzSkZPaDJIbE1JYU9mZlF1UFppOWMzV2NRSnZ6UE1rUjVrWWRYbHpvVTdxWTN4TnNqdERRREpLdkNad3QwSHg0eFRlWGd4SHp2OFhDSEVtTjdWa29GSGVSdGR4eW5jczlGT0ZwR2xoTEg1YzU0bWw0VlhUSDVFVk1faDFBLUd2QnRyU0hjaE83WWV0T9IByAFBVV95cUxPcWdjNG5aWnRJaGQzdUV2REt3b3JVakh3YmJNOXVON19pSnU5RXlGUGxyMTdQLVk1QjdHMDFzSkZPaDJIbE1JYU9mZlF1UFppOWMzV2NRSnZ6UE1rUjVrWWRYbHpvVTdxWTN4TnNqdERRREpLdkNad3QwSHg0eFRlWGd4SHp2OFhDSEVtTjdWa29GSGVSdGR4eW5jczlGT0ZwR2xoTEg1YzU0bWw0VlhUSDVFVk1faDFBLUd2QnRyU0hjaE83WWV0Tw?oc=5",
+     "fecha": "2026-10-28T10:39:09+00:00",
+     "medio": "Demócrata"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Artiso AI levanta 3 millones en su ronda pre-seed con Criteria para aplicar la IA al diseño de moda",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53NkxYOUVDa01ST0tuYXZiQmNxaFBOd09iVzFCVHgtTWg2OEgxdWg1dlNkTnVjNm0xaGFTR1FKZ0JjSVBnYzZLNnMtUmNIY3hERklVTHRZVkh2Sk1HNG1JT2Jfb3dHNlE1bGp4aFNYSldzVWJl?oc=5",
+     "fecha": "2026-10-28T20:15:36+00:00",
+     "medio": "Merca2.es"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Artiso capta más de 3 millones en una ronda pre-semilla liderada por Criteria Venture Tech",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMlI5QXYyTHdKd1hrOHFrelJHcGQtNGpCU0FHQTBhYmhqcG9lMElnZnlKN0pfRHY5Ny1DdVg2RHNKendWYjRDbEhzcEw5bFY2TmtYblFTXy1HNTBCb2ltbHZPV0xUMElDaHlfUVcxdVpmYUZlM2lkQWx3UElJbnl1S2l5UEJnWXFxdFMxX0JvNlFjeVRxOEtLYThKbFNySElKdE9rQkE5c0xHRWxQblZwLTI4TDdaZWM2NkQtOFRLeUE0T03SAcgBQVVfeXFMT3FnYzRuWlp0SWhkM3VFdkRLd29yVWpId2JiTTl1TjdfaUp1OUV5RlBscjE3UC1ZNUI3RzAxc0pGT2gySGxNSWFPZmZRdVBaaTljM1djUUp2elBNa1I1a1lkWGx6b1U3cVkzeE5zanREUURKS3ZDWnd0MEh4NHhUZVhneEh6djhYQ0hFbU43VmtvRkhlUnRkeHluY3M5Rk9GcEdsaExINWM1NG1sNFZYVEg1RVZNX2gxQS1HdkJ0clNIY2hPN1lldE8?oc=5",
+     "fecha": "2026-10-28T10:39:09+00:00",
+     "medio": "Demócrata"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Artiso, Talky Labs e YK-Robotics levantan 5,5M€ en IA",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVzF1MEthYmZCS1VmNTFvMWlFY0JzWGhwelpFU2RkMVdfaTVGUG14VzZrMWdUeUQtaW9jNWRTa0V5a19WTm9RZzNsRXB6WjVTR2dHUUQxSURNZnlHNHpSejE1alFibmtHSWZSRzF4YzhGSmpLb2loRXk2ZTdkZE1JNmRPa19wV0d2M3c?oc=5",
+     "fecha": "2026-11-03T12:06:37+00:00",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Artiso raises more than $3.4m in pre-seed funding for AI fashion platform",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MaVZCX1hSR1hqdkVuUGJqaVhfM3NlV284QnNQY3ZYUmhOXzBXZDNuTjYxRTRLYlFDaXBkSEM2c2ZfVzljZG1EbnNNRUpORmItQnluNUpIR3FfclhzR1A3NkVOMmRpUU0?oc=5",
+     "fecha": "2026-11-04T11:08:22+00:00",
+     "medio": "Just Style"
     }
    ],
    "motor": "llm"
@@ -7207,6 +7515,49 @@
     }
    ],
    "motor": "llm"
+  },
+  {
+   "key": "n:mosaico",
+   "empresa": "Mosaico",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Mosaico raises €7.5M in seed funding round Startups Magazine",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 56,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 7.5,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-18T13:27:10+00:00",
+   "fecha_evidencia": "2026-11-16T09:43:57+00:00",
+   "ultima_senal": "2026-11-16T09:43:57+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Mosaico raises €7.5M in seed funding round",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wNVRoYU5RUHRCY2h2WS1TUVJ4UTRyMDVHTlRZNHRLMC1Wa2pHNEtTcWpoWHlqOHo1Wl95RnN0OHhScUoxaFpxb1R5UDhZTWhRc1BCeDhFNlljQ2ZEYUo0ZTdmUTh2RDY0d0gwTXpKT0kxTFBiM3p6MWp4TlRaQQ?oc=5",
+     "fecha": "2026-11-16T09:43:57+00:00",
+     "medio": "Startups Magazine"
+    }
+   ],
+   "motor": "reglas"
   },
   {
    "key": "n:town",
@@ -8269,6 +8620,49 @@
    "motor": "reglas"
   },
   {
+   "key": "n:bharatsemi",
+   "empresa": "Bharat Semi",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "serie-b+",
+   "monto_usd": 24000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Bharat Semi levanta US$24M para chips de imagen con IA El Ecosistema Startup",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 43,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 0.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 10.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-18T13:27:10+00:00",
+   "fecha_evidencia": "2026-11-15T23:51:26+00:00",
+   "ultima_senal": "2026-11-15T23:51:26+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Bharat Semi levanta US$24M para chips de imagen con IA",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeU10ZGFwZGozVkRWU0RfN0ZOY0o3RExmUHhOTktDY3VuWXZvc0Z3a0dpQm5ENzNGa3JmY3NnOXVJSVVqaWt0SVJNSl9TanRZUlVCQWtfejFXb193NVVmMGZNenBsanpCYzdIel9DS29VdjRZSzRhZVo0VnpySU5NWjloNHRwZmZ5OGgwdw?oc=5",
+     "fecha": "2026-11-15T23:51:26+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "n:typeoneenergy",
    "empresa": "Type One Energy",
    "sitio_web": null,
@@ -9044,15 +9438,15 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-11-17T13:21:41+00:00",
+  "actualizado": "2026-11-18T13:27:10+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 90,
-  "prioridad_a_30d": 21,
-  "incremento_vs_baseline": 1.5,
-  "cumplimiento_meta": 15.0,
-  "total_deals": 192,
-  "total_calificados": 127,
+  "calificados_30d": 96,
+  "prioridad_a_30d": 25,
+  "incremento_vs_baseline": 1.6,
+  "cumplimiento_meta": 16.0,
+  "total_deals": 200,
+  "total_calificados": 133,
   "conocidos_detectados": 2,
   "por_semana": {
    "2025-06-30": 1,
@@ -9064,32 +9458,33 @@
    "2026-10-12": 23,
    "2026-10-19": 38,
    "2026-10-26": 21,
-   "2026-11-02": 13,
+   "2026-11-02": 14,
    "2026-11-09": 12,
-   "2026-11-16": 6
+   "2026-11-16": 11
   },
   "por_fuente": {
-   "Google News": 61,
-   "Get on Board": 56,
+   "Google News": 64,
+   "Get on Board": 59,
+   "LatamList": 6,
    "Y Combinator": 6,
-   "Startups Latam": 5,
-   "LatamList": 4,
+   "Startups Latam": 6,
    "Techla Media": 1,
    "Contxto": 1
   },
   "por_pais": {
-   "Chile": 52,
-   "?": 29,
+   "Chile": 54,
+   "?": 31,
    "Argentina": 14,
-   "México": 12,
-   "Colombia": 9,
+   "México": 13,
+   "Colombia": 8,
    "Uruguay": 3,
+   "Perú": 2,
    "Guatemala": 2,
    "Venezuela": 2,
    "Panamá": 1,
    "Costa Rica": 1,
-   "Perú": 1,
-   "Bolivia": 1
+   "Bolivia": 1,
+   "Ecuador": 1
   },
   "corridas": [
    {
@@ -11152,6 +11547,84 @@
       "fuente": "Get on Board",
       "ok": true,
       "senales": 41,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-11-18T13:25:31+00:00",
+    "fin": "2026-11-18T13:27:10+00:00",
+    "senales_crudas": 263,
+    "descartadas_prefiltro": 107,
+    "procesadas": 31,
+    "deals_nuevos": 8,
+    "calificados_nuevos": 6,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 15,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 179,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 4,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 3,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 42,
       "error": null
      }
     ]

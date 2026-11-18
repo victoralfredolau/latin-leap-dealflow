@@ -1622,12 +1622,12 @@
   "ultima_senal": "2026-11-03T19:13:25+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -1843,12 +1843,12 @@
   "ultima_senal": "2026-11-03T15:41:39+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -5189,12 +5189,12 @@
   "ultima_senal": "2026-11-04T11:08:22+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 64,
+  "score": 63,
   "desglose": {
    "geografia": 0.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 14.0
   },
   "prioridad": "Fuera de tesis",
@@ -6571,12 +6571,12 @@
   "ultima_senal": "2026-11-04T01:58:15+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 72,
+  "score": 70,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 12.0
   },
   "prioridad": "B",
@@ -6785,12 +6785,12 @@
   "ultima_senal": "2026-11-04T07:21:46+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 69,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 12.0
   },
   "prioridad": "B",
@@ -7323,12 +7323,12 @@
   "ultima_senal": "2026-11-03T14:25:53+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -8083,25 +8083,43 @@
     "url": "https://startupslatam.com/vuun-cierra-ronda-pre-seed-de-us525-000-con-500-global-reach-y-adn-para-expandirse-a-mexico-y-peru/",
     "fecha": "2026-11-16T15:40:33+00:00",
     "medio": null
+   },
+   {
+    "fuente": "LatamList",
+    "tipo": "noticia",
+    "titulo": "Vuun raises $525K pre-seed round led by 500 Global",
+    "url": "https://latamlist.com/vuun-raises-525k-pre-seed-round-led-by-500-global/",
+    "fecha": "2026-11-17T18:51:35+00:00",
+    "medio": null
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Vuun raises $525K pre-seed round led by 500 Global",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94T2I1RjMyUlAtWkpGVHBwS3B6SVdBUUN2NEZQZ3JvTHZTelQwVzJualRsekd6cDQwQWlBdVV0Mk5sdHMxQXJ5Wlk5ZWxCOXZmZFdDNTlUaEx3bHVNOTg2U3BzQVlVVDRzWXNmN2kzLVVOaWFzVkQtd1NubkfSAYIBQVVfeXFMUFJ3ZUU1Ny1wWWtRbUw0V3BrQUkzb1dONUI4MmdNMl8tS3ZDdmIzWnljQkRHNmJsR0p0V004VjBHanhhaGdfeURreGtFZ0Mzc2tVcjNqdWxkOW5yNmdEdUZab0JDV2FMd3F1S24xdzBFSzBqMFZrRm5IbjhqUzJaNjlaUQ?oc=5",
+    "fecha": "2026-11-17T18:55:08+00:00",
+    "medio": "LatamList"
    }
   ],
   "inversionistas": [
+   "500 Global",
+   "500 Global, Reach",
    "500 Global, Reach, ADN"
   ],
   "fundadores": [],
   "calidad": 8.0,
   "motor": "llm",
   "empresa": "Vuun",
-  "pais": "Colombia",
-  "sector": "Proptech",
+  "pais": "México",
+  "sector": "proptech",
   "etapa": "pre-seed",
   "monto_usd": 525000.0,
   "tecnologia": true,
-  "resumen": "Vuun es una proptech colombiana que ha alcanzado rentabilidad y busca expandirse a México y Perú con una ronda pre-seed de USD 525.000.",
-  "mensaje": "Felicitaciones por cerrar la ronda pre-seed con 500 Global, Reach y ADN. Es inspirador ver una proptech latinoamericana llegar a punto de equilibrio antes de levantar capital externo. Desde Latin Leap nos gustaría explorar cómo podríamos acompañar vuestro crecimiento en la región.",
-  "razon": "Ronda liderada por 500 Global (top-tier en LATAM), ya rentable y en punto de equilibrio antes de levantar capital, expansión a México y Perú demuestra tracción y ambición regional.",
+  "resumen": "Vuun es una startup que levantó USD 525K en pre-seed con liderazgo de 500 Global, uno de los fondos más activos en Latam.",
+  "mensaje": "¡Hola! Notamos que Vuun acaba de cerrar una pre-seed de USD 525K liderada por 500 Global. Nos gustaría conocer mejor vuestro modelo y producto. ¿Podrían contarnos un poco más sobre la tracción y visión para los próximos meses?",
+  "razon": "Pre-seed respaldada por 500 Global, fondo de alto calibre; monto pequeño pero con validación de inversionista reconocido; falta claridad sobre el producto.",
   "fecha_evidencia": "2026-11-14T21:21:50+00:00",
-  "ultima_senal": "2026-11-16T15:40:33+00:00",
+  "ultima_senal": "2026-11-17T18:55:08+00:00",
   "conocido_fuente": null,
   "conocido": false,
   "score": 94,
@@ -8241,6 +8259,30 @@
     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNb3FwR2ZWSmtScGhyeWFKNFRlblpmakptQzZkbVp1Tk83eDJMb1VJSW9JWUFCWXNNZlp3cmYxMmptdUVQQmE2ZHNLMm00dHVyV05LZnRlNmI1T2t5U3JSLUhyTU1VMHhXSk5VaFhvLW9Sa1d2ejJWMU1zcUhrZndkVm5fY2c0b3dNZmxnaXJQUXQxaGpvX2x3cFlhNGhOWEc4U3pUMzl4cVRfLUcxN0VrTkt4RlNaT05LYUpfczZsQnM2Q0NQdzdvdGNfRnJQcmk2U0gyUGROU0ZiWEh0YXBIMkN2clY4X19MM1ZSRzJQTk5VNU9Xa1pjRkR1a2hrMGY1eFBpZHZyVdIBjAJBVV95cUxNMzRSdFFlSFlwenR3eFJ6bFR4d281MHhmTTlzZGxrR1R3Vm9wdk85a2VZUGVTNF9BdWhBVDNBRzRBYTd4TU1iVEhYSkg2UVNBT0szaWhCUUpyM3U4Z1AxQWliSEE1ZGp4UF9lV1ZaQ2JqQ0lkSGRVeVdwQ1RiMHByNXhfM2ZZNERWOFZpRlZ4NHdBbklnaml4Wk1WQWc3MTVpaDk4XzExdjR4UU9jZTFxazhMOE5zYVBjbVVUZWo5QXZ1WGRkdnhRYnYyUV9iMTFNMVdDbDMxRE5GM3V2VFY5U3duUVV2bXJlZ1QzbUhOQ1hEWGd1ZU4wLVhtOE8zTWY1aWs5aGZvbFZTbXhV?oc=5",
     "fecha": "2026-11-16T19:17:00+00:00",
     "medio": "El Observador"
+   },
+   {
+    "fuente": "Startups Latam",
+    "tipo": "noticia",
+    "titulo": "Itaú Ventures invierte en la fintech uruguaya Akua y sella alianza estratégica regional para impulsar pagos con inteligencia artificial",
+    "url": "https://startupslatam.com/itau-ventures-invierte-en-la-fintech-uruguaya-akua-y-sella-alianza-estrategica-regional-para-impulsar-pagos-con-inteligencia-artificial/",
+    "fecha": "2026-11-17T14:47:50+00:00",
+    "medio": null
+   },
+   {
+    "fuente": "LatamList",
+    "tipo": "noticia",
+    "titulo": "Colombian fintech Akua secures investment from Itaú Unibanco",
+    "url": "https://latamlist.com/colombian-fintech-akua-secures-investment-from-itau-unibanco/",
+    "fecha": "2026-11-17T19:01:42+00:00",
+    "medio": null
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Paytech Akua recibe inversión de Itaú Ventures para impulsar la inteligencia artificial en la adquirencia en Uruguay y Latam",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNWowaE5FMDN6OEFNWk16WmxxUFZxNHRiQTkzV2dJcDJBMGg3aUVJVV81UVJiWjA0Zl9hWmJpLWVrRDg4Z0lfVUhSbHBmZTFSWlVpOVdlUTZXLUxzbEc0XzFqNy1MS25XOExkYjQ1RUFiM29MQ3hjR3R6WExiU01sYU9VRlhmbWswTENmTmEtTWZvaVl5R1VTaE5nTUdLY2NRcUxhT01zb3RsMnBtd2lwNXdYMk5sM2wwaF85SjdtemRyTy1idjZvTGl5Qy1HbURTWFN4Y09oSHJpMDR5VEVTdFNMVU9JdHVTalF5TlBSOGlFX2c?oc=5",
+    "fecha": "2026-11-17T15:02:00+00:00",
+    "medio": "Latam Fintech Hub"
    }
   ],
   "inversionistas": [
@@ -8249,30 +8291,31 @@
   "fundadores": [
    "Cofundador uruguayo"
   ],
-  "calidad": 7.0,
+  "calidad": 8.0,
   "motor": "llm",
   "empresa": "Akua",
   "pais": "Uruguay",
-  "sector": "Fintech (Pagos con IA)",
-  "etapa": "desconocida",
+  "sector": "fintech",
+  "etapa": "seed",
   "tecnologia": true,
-  "resumen": "Akua es una paytech cofundada por un uruguayo que utiliza IA para innovar en pagos en Latinoamérica, respaldada por inversión de Itaú Ventures.",
-  "mensaje": "Vimos que Akua recibió inversión de Itaú Ventures para impulsar innovación en pagos con IA en LATAM. Nos parece una propuesta interesante y nos gustaría conocer más sobre vuestro roadmap regional y cómo Latin Leap podría sumarle valor a vuestra expansión.",
-  "razon": "Paytech con innovación en IA para pagos, respaldada por Itaú Ventures (familia corporativa de peso en LATAM). Enfoque en pagos y IA alinea con tendencias de mercado.",
+  "resumen": "Akua es una paytech uruguaya que utiliza inteligencia artificial para adquirencia de pagos en Uruguay y LATAM.",
+  "mensaje": "Hola equipo Akua, notamos que Itaú Ventures los respalda en su expansión de IA en adquirencia. Desde Latin Leap seguimos de cerca fintechs innovadoras en el cono sur. ¿Estarían abiertos a una conversación sobre vuestra tesis?",
+  "razon": "Paytech con IA en adquirencia, respalda Itaú Ventures (banco grande, señal de traction), mercado de pagos estratégico en LATAM, dentro de geografía de tesis.",
   "fecha_evidencia": "2026-11-16T19:17:00+00:00",
-  "ultima_senal": "2026-11-16T19:17:00+00:00",
+  "ultima_senal": "2026-11-17T19:01:42+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 77,
+  "score": 94,
   "desglose": {
    "geografia": 25.0,
-   "etapa": 12.5,
+   "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
-   "calidad": 14.0
+   "senal": 13.5,
+   "calidad": 16.0
   },
   "prioridad": "A",
-  "en_tesis": true
+  "en_tesis": true,
+  "ciudad": "Montevideo"
  },
  "n:protegey": {
   "key": "n:protegey",
@@ -8349,6 +8392,331 @@
    "calidad": 8.0
   },
   "prioridad": "B",
+  "en_tesis": true
+ },
+ "d:baudata.cl": {
+  "key": "d:baudata.cl",
+  "primera_vista": "2026-11-18T13:27:10+00:00",
+  "senales": [
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Baudata está contratando: Ingeniero/a de Datos",
+    "url": "https://www.getonbrd.com/jobs/ingeniero-a-de-datos-baudata-lima-santiago",
+    "fecha": "2026-11-17T19:22:45+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 7.0,
+  "motor": "llm",
+  "empresa": "Baudata",
+  "sitio_web": "http://www.baudata.cl",
+  "pais": "Chile",
+  "ciudad": "Santiago",
+  "sector": "PropTech / Construction Tech",
+  "etapa": "seed",
+  "tecnologia": true,
+  "resumen": "Plataforma de prospección comercial que identifica y georeferencia proyectos de construcción en Chile, con planes de expansión a América Latina.",
+  "mensaje": "Hola equipo de Baudata, vimos que están ampliando el equipo de datos y expandiendo a LATAM. En Latin Leap nos interesa apoyar deep tech en construcción. ¿Les vendría bien conversar sobre opciones de financiamiento para acelerar esa expansión regional?",
+  "razon": "Líder en su nicho con expansión a LATAM; modelo B2B claro en sector construcción; contratando activamente ingenieros de datos sugiere tracción y crecimiento.",
+  "fecha_evidencia": "2026-11-17T19:22:45+00:00",
+  "ultima_senal": "2026-11-17T19:22:45+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 86,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 7.5,
+   "calidad": 14.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "d:neuralworks.cl": {
+  "key": "d:neuralworks.cl",
+  "primera_vista": "2026-11-18T13:27:10+00:00",
+  "senales": [
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "NeuralWorks está contratando: Applied Scientist, Data Scientist",
+    "url": "https://www.getonbrd.com/jobs/data-scientist-neuralworks-santiago-69ce",
+    "fecha": "2026-11-17T18:18:59+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 7.0,
+  "motor": "llm",
+  "empresa": "NeuralWorks",
+  "sitio_web": "http://www.neuralworks.cl",
+  "pais": "Chile",
+  "ciudad": "Santiago",
+  "sector": "AI / Data Science",
+  "etapa": "seed",
+  "tecnologia": true,
+  "resumen": "Empresa especializada en soluciones de IA y ciencia de datos, buscando talentos en investigación aplicada.",
+  "mensaje": "Hola NeuralWorks, notamos que están expandiendo el equipo de científicos. Nos impresiona el enfoque en IA aplicada. En Latin Leap financiamos deep tech y IA en LATAM; nos encantaría conocer vuestro roadmap y ver si hay oportunidades de colaborar.",
+  "razon": "Foco en IA y machine learning aplicado; contratando Applied Scientists sugiere tracción técnica y crecimiento; sector de alto potencial y tesis clara.",
+  "fecha_evidencia": "2026-11-17T18:18:59+00:00",
+  "ultima_senal": "2026-11-17T18:18:59+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 86,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 7.5,
+   "calidad": 14.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "d:kudert.com": {
+  "key": "d:kudert.com",
+  "primera_vista": "2026-11-18T13:27:10+00:00",
+  "senales": [
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Kudert está contratando: Senior Product Engineer",
+    "url": "https://www.getonbrd.com/jobs/senior-product-engineer-kudert-remote",
+    "fecha": "2026-11-18T01:58:48+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 6.0,
+  "motor": "llm",
+  "empresa": "Kudert",
+  "sitio_web": "https://kudert.com/",
+  "pais": "Ecuador",
+  "sector": "EdTech / HR Tech",
+  "etapa": "seed",
+  "tecnologia": true,
+  "resumen": "Plataforma de desarrollo de habilidades blandas para empresas en América Latina.",
+  "mensaje": "Hola Kudert, vimos que están contratando Product Engineers y construyendo en el espacio de softskills. Nos atrae vuestro enfoque regional. ¿Tienen un momento para platicar sobre el tracción actual y necesidades de capital para escalar en LATAM?",
+  "razon": "Plataforma de softskills con enfoque en LATAM; contratación activa de Product Engineer indica tracción; mercado de HR/formación corporativa es sólido pero requiere más validación.",
+  "fecha_evidencia": "2026-11-18T01:58:48+00:00",
+  "ultima_senal": "2026-11-18T01:58:48+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 84,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 7.5,
+   "calidad": 12.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "n:mulga": {
+  "key": "n:mulga",
+  "primera_vista": "2026-11-18T13:27:10+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Mulga Raises $1.77 Million in Pre-Seed Funding to Develop AWS-Compatible Cloud Platform",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMG5qMHN0UlJIaW9QV1ljVGRmaF8wM0FJTlhZNWwwMzVEOFRURTZENFBiTU1rcERaSHZGbTNBQ0hTNTBOUUNDRnlXSHFMWHpRUEE3YnV3MmVXYTFZdmd1TTFPUmJicVZVVnVMd00zNFI2Tk1hQy1MRFk5XzltdE5QaGVjbmlfUUN2N2FRM3haUEMxT2pXQnNwSTF4MDBsMXE4V1J1M1E1bHp3WHhwNFRHbU42Q0ZiMzV4STl2QWxnS1VmV0k?oc=5",
+    "fecha": "2026-11-17T18:22:55+00:00",
+    "medio": "citybiz"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "llm",
+  "empresa": "Mulga",
+  "sector": "cloud infrastructure",
+  "etapa": "pre-seed",
+  "monto_usd": 1770000.0,
+  "tecnologia": true,
+  "resumen": "Mulga desarrolla una plataforma de cloud compatible con AWS y cerró $1.77M en pre-seed.",
+  "mensaje": "Hola equipo Mulga, vimos que levantaron $1.77M para su plataforma cloud. Desde Latin Leap estamos interesados en infratech en LATAM. ¿Podrían contarnos más sobre vuestra tracción y si tienen operaciones en la región?",
+  "razon": "Pre-seed en infraestructura cloud (AWS-compatible), mercado relevante, pero sin evidencia clara de traction, inversionistas o base en LATAM hispanohablante. Información limitada.",
+  "fecha_evidencia": "2026-11-17T18:22:55+00:00",
+  "ultima_senal": "2026-11-17T18:22:55+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 68,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:circularityfuels": {
+  "key": "n:circularityfuels",
+  "primera_vista": "2026-11-18T13:27:10+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Circularity Fuels Raises $7M Seed Round to Build Biogas-to-Jet-Fuel Demonstration Plant",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KRjJfXzFzcmRER2FMOXdFdm9nYzJqeGVpWmVPZEJmSVFvSklXN1FQNkEyUHBrRXJycW1NYlJFcXN6RUdIWk9TQXZDT0dzeUIwQl9WQmgxUkgxaXZxRHAtbi1vWncxeVRLMnhTdGl0b1lYWU0?oc=5",
+    "fecha": "2026-11-05T19:30:58+00:00",
+    "medio": "Avi-Go"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Circularity Fuels",
+  "etapa": "seed",
+  "monto_usd": 7000000.0,
+  "resumen": "Circularity Fuels Raises $7M Seed Round to Build Biogas-to-Jet-Fuel Demonstration Plant Avi-Go",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-05T19:30:58+00:00",
+  "ultima_senal": "2026-11-05T19:30:58+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 60,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 7.5,
+   "senal": 10.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:voyage": {
+  "key": "n:voyage",
+  "primera_vista": "2026-11-18T13:27:10+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Voyage Labs, asistente de viajes con IA, levanta US$12M",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM1MzVlBUYjNvYXJrWFFGZzM3SGstakkwelh2SlFBQWMzcmt6Zmk1NEF4amFBaUlPbWRCUzdjYkV6NFRxRFJqTVdaSmdQdlg0UUpJSjM2eTFXZFBtWG9RLUJmbWZwTzBxdWJHbGpqT1lsUFdKWG12dmpUeW42c1VnWmg3M3p5QnRRMGg0?oc=5",
+    "fecha": "2026-11-17T18:06:52+00:00",
+    "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Voyage Labs, el agente de viajes con IA, levanta US$12M",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMEZaT2JDeDdqUnZqZTFhSW5pdzNGemZZSS1xb2VFbktTRFFWdjJnNnpzZ1JGZ1h3SHhobFlUYVF6MTFvQlJFWHFWU096MW9zZzY0MTk3b08xeGJKSTZFYUFyejAzc000a3MwZ1BGUnJfbXVnWHp3REhBZnJDTGx3anRYTGtxVnZzQlh3?oc=5",
+    "fecha": "2026-11-17T15:09:34+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 7.0,
+  "motor": "llm",
+  "empresa": "Voyage Labs",
+  "pais": "Perú",
+  "sector": "Travel Tech / IA",
+  "etapa": "seed",
+  "monto_usd": 12000000.0,
+  "tecnologia": true,
+  "resumen": "Voyage Labs es un agente de viajes con IA que utiliza inteligencia artificial para asistir a usuarios en la planificación de viajes. Levantó USD 12M en su ronda seed.",
+  "mensaje": "¡Hola! Vimos que Voyage Labs ha levantado USD 12M para escalar el agente de viajes con IA. Nos interesa mucho el potencial de este modelo en Latam. ¿Estarían abiertos a conversar sobre oportunidades de expansión regional?",
+  "razon": "Ronda seed de USD 12M en travel tech con IA desde Perú; mercado global relevante y producto con potencial de expansión.",
+  "fecha_evidencia": "2026-11-17T15:09:34+00:00",
+  "ultima_senal": "2026-11-17T18:06:52+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 90,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 14.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "n:bharatsemi": {
+  "key": "n:bharatsemi",
+  "primera_vista": "2026-11-18T13:27:10+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Bharat Semi levanta US$24M para chips de imagen con IA",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeU10ZGFwZGozVkRWU0RfN0ZOY0o3RExmUHhOTktDY3VuWXZvc0Z3a0dpQm5ENzNGa3JmY3NnOXVJSVVqaWt0SVJNSl9TanRZUlVCQWtfejFXb193NVVmMGZNenBsanpCYzdIel9DS29VdjRZSzRhZVo0VnpySU5NWjloNHRwZmZ5OGgwdw?oc=5",
+    "fecha": "2026-11-15T23:51:26+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Bharat Semi",
+  "etapa": "serie-b+",
+  "monto_usd": 24000000.0,
+  "tecnologia": true,
+  "resumen": "Bharat Semi levanta US$24M para chips de imagen con IA El Ecosistema Startup",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-15T23:51:26+00:00",
+  "ultima_senal": "2026-11-15T23:51:26+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 43,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 0.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 10.0
+  },
+  "prioridad": "Fuera de tesis",
+  "en_tesis": false
+ },
+ "n:mosaico": {
+  "key": "n:mosaico",
+  "primera_vista": "2026-11-18T13:27:10+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Mosaico raises €7.5M in seed funding round",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wNVRoYU5RUHRCY2h2WS1TUVJ4UTRyMDVHTlRZNHRLMC1Wa2pHNEtTcWpoWHlqOHo1Wl95RnN0OHhScUoxaFpxb1R5UDhZTWhRc1BCeDhFNlljQ2ZEYUo0ZTdmUTh2RDY0d0gwTXpKT0kxTFBiM3p6MWp4TlRaQQ?oc=5",
+    "fecha": "2026-11-16T09:43:57+00:00",
+    "medio": "Startups Magazine"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Mosaico",
+  "etapa": "seed",
+  "resumen": "Mosaico raises €7.5M in seed funding round Startups Magazine",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-16T09:43:57+00:00",
+  "ultima_senal": "2026-11-16T09:43:57+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 56,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 7.5,
+   "senal": 6.0,
+   "calidad": 10.0
+  },
+  "prioridad": "C",
   "en_tesis": true
  }
 }
