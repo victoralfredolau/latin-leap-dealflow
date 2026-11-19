@@ -350,12 +350,12 @@
   "ultima_senal": "2026-11-05T07:28:59+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 92,
+  "score": 91,
   "desglose": {
    "geografia": 25.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 13.5,
+   "senal": 12.0,
    "calidad": 14.0
   },
   "prioridad": "A",
@@ -5326,6 +5326,14 @@
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIZWZ3ZF9LWnVoR2hqWllmczJsRlJsOTRBX1hSeFlJd1VRUm1KOUdvSzBMR0FNVzRQYU50RzF2MkE1R3NqdHAxOC01akJ2ck91S2VFcldfZVhMYXB1TlQ3RTFFWGgtZVRRVUI1QWxSQmZQQVZIbjhaem5CRHJzUQ?oc=5",
     "fecha": "2026-11-11T22:30:00+00:00",
     "medio": "Fast Company México"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Celes, IA de inventarios para retail, levanta US$5M",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZvVnhVTHMyQXpmelVMa2hEZkw3THFvT3ZrTkhRZzY4Vkl1eENocWpPTlBEOEhGbTZtSW9TV0JpcU1GeEV1Z29xcHRfeE5XLXI0RGpQUEdZOE84WGxRME9aSlNERjlWU0pHN2E2YmVlQnFqM0NmRVJmQXA5c1FUQ1kyZHlSQQ?oc=5",
+    "fecha": "2026-11-18T15:03:39+00:00",
+    "medio": "El Ecosistema Startup"
    }
   ],
   "inversionistas": [
@@ -5339,21 +5347,21 @@
   "empresa": "Celes",
   "pais": "México",
   "ciudad": "Barranquilla",
-  "sector": "Logística y Automatización",
-  "etapa": "serie-a",
+  "sector": "Retail / AI",
+  "etapa": "seed",
   "monto_usd": 5000000.0,
   "tecnologia": true,
-  "resumen": "Plataforma de automatización para la distribución y abasto en México.",
-  "mensaje": "Hola equipo de Celes, nos impresionó leer sobre su ronda de USD 5M para transformar la logística de abasto en México. Desde Latin Leap, nos encantaría conocer más sobre el tracto conseguido y los planes de expansión regional. ¿Estarían abiertos a una conversación? Saludos cordiales.",
-  "razon": "Startup mexicana en geografía de inversión, ha levantado USD 5M (indica tracción), sector con mercado amplio (abasto/supply chain), monto sugiere etapa avanzada pero worth tracking.",
+  "resumen": "Celes ofrece soluciones de IA para gestión inteligente de inventarios en retail.",
+  "mensaje": "Hola equipo de Celes, nos impresionó ver que levantaron USD 5M para IA en inventarios retail. Es un problema crítico en México y toda la región. Nos encantaría conocer vuestro roadmap y equipo para explorar cómo podemos apoyar vuestro crecimiento en LATAM.",
+  "razon": "IA de inventarios para retail con ronda seed de USD 5M en México. Sector B2B con múltiples casos de uso, mercado grande y necesidad clara. Tracción implícita en captura de ronda.",
   "fecha_evidencia": "2026-10-27T16:06:32+00:00",
-  "ultima_senal": "2026-11-11T22:30:00+00:00",
+  "ultima_senal": "2026-11-18T15:03:39+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 77,
+  "score": 94,
   "desglose": {
    "geografia": 25.0,
-   "etapa": 7.5,
+   "etapa": 25.0,
    "tecnologia": 15.0,
    "senal": 13.5,
    "calidad": 16.0
@@ -6900,12 +6908,12 @@
   "ultima_senal": "2026-11-05T11:33:46+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 68,
+  "score": 66,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -6938,12 +6946,12 @@
   "ultima_senal": "2026-11-04T16:03:31+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 50,
+  "score": 49,
   "desglose": {
    "geografia": 7.5,
    "etapa": 7.5,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
   "prioridad": "C",
@@ -7590,12 +7598,12 @@
   "ultima_senal": "2026-11-04T21:17:40+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 72,
+  "score": 70,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 14.0
   },
   "prioridad": "B",
@@ -8656,6 +8664,14 @@
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeU10ZGFwZGozVkRWU0RfN0ZOY0o3RExmUHhOTktDY3VuWXZvc0Z3a0dpQm5ENzNGa3JmY3NnOXVJSVVqaWt0SVJNSl9TanRZUlVCQWtfejFXb193NVVmMGZNenBsanpCYzdIel9DS29VdjRZSzRhZVo0VnpySU5NWjloNHRwZmZ5OGgwdw?oc=5",
     "fecha": "2026-11-15T23:51:26+00:00",
     "medio": "El Ecosistema Startup"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Bharat Semi raises $24 million to build AI image sensors in India",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeTY0M1dNT2tiS2JOaGVCLTZ5OU5yOGxxTGhOU0Jxa0pJdEM1cnNSbl80azRJTU9IMWR6TUtzLTRuaTllZThVMnJyNEZrUjNXR3FfNUg4d2FFb1I4Y1d2Y0M1ZEdwUXk5cy10a1BrUU93OGxMQXc5REFqOHkyME8tOEpnMnI1WEtEaGtEY0NR?oc=5",
+    "fecha": "2026-11-16T05:28:57+00:00",
+    "medio": "MLQ.ai"
    }
   ],
   "inversionistas": [],
@@ -8669,7 +8685,7 @@
   "resumen": "Bharat Semi levanta US$24M para chips de imagen con IA El Ecosistema Startup",
   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
   "fecha_evidencia": "2026-11-15T23:51:26+00:00",
-  "ultima_senal": "2026-11-15T23:51:26+00:00",
+  "ultima_senal": "2026-11-16T05:28:57+00:00",
   "conocido_fuente": null,
   "conocido": false,
   "score": 43,
@@ -8717,6 +8733,206 @@
    "calidad": 10.0
   },
   "prioridad": "C",
+  "en_tesis": true
+ },
+ "n:spines": {
+  "key": "n:spines",
+  "primera_vista": "2026-11-19T13:29:41+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Spines levanta US$64M para autoedición de libros con IA",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRnNsWllCLXpHOGFqX0FDejZzdm4wWDlpZUVQVXNmblFiSndDSGh2SXk3UVp6VjEzUEtzRU44dnMwV25NbDR6Q2xLYVdBaXNfeGhmZDlKTExEMTFYSFRRWDFqUEt4NVh3dnBWa1liM0JnSEZ3LWVEVE50dmRqUTllV25tWXdBeEJYMlctNGx3?oc=5",
+    "fecha": "2026-11-18T06:21:32+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 3.0,
+  "motor": "llm",
+  "empresa": "Spines",
+  "pais": "Colombia",
+  "sector": "EdTech / Publishing",
+  "etapa": "serie-a",
+  "monto_usd": 64000000.0,
+  "tecnologia": true,
+  "resumen": "Spines es una plataforma de autoedición de libros potenciada por IA que permite a autores publicar sus obras de forma independiente.",
+  "mensaje": "Hola equipo de Spines, vimos que acaban de cerrar una ronda significativa en autoedición con IA. Aunque parecen en una etapa más avanzada, nos encantaría conectar para entender su visión en LATAM y explorar posibles sinergias con el ecosistema. ¡Felicidades por el hito!",
+  "razon": "Ronda muy grande (USD 64M) sugiere startup en etapa post-seed, fuera del ticket típico de Latin Leap pre-seed/seed. Sin embargo, el timing y sector indican madurez avanzada.",
+  "fecha_evidencia": "2026-11-18T06:21:32+00:00",
+  "ultima_senal": "2026-11-18T06:21:32+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 64,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 7.5,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 6.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:wilco": {
+  "key": "n:wilco",
+  "primera_vista": "2026-11-19T13:29:41+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Wilco, IA para clínicas, levanta 2,5M€ con Samaipata",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQXpqTEV5b1lZTFZDci1PYVB3czg2SHVvSUl1QkZESThPam1hdlpvTjgzMW5FaXM4U1FhZklPRjJzRnhvWDlrR2E5VVN2RlV6b2tWd1Q3VUVpa3ZmaDY0czRsc0NYa1RuZ05nNS1mNTVJdGxVVEJYWGpVRmxnakx3Tk9oQWRudEE?oc=5",
+    "fecha": "2026-11-19T09:06:58+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [
+   "Samaipata"
+  ],
+  "fundadores": [],
+  "calidad": 7.0,
+  "motor": "llm",
+  "empresa": "Wilco",
+  "pais": "Chile",
+  "sector": "HealthTech",
+  "etapa": "seed",
+  "monto_usd": 2750000.0,
+  "tecnologia": true,
+  "resumen": "Wilco desarrolla soluciones de IA para optimizar operaciones y experiencia en clínicas.",
+  "mensaje": "Hola equipo de Wilco, excelente noticia sobre su ronda con Samaipata. IA aplicada a clínicas es un espacio con enorme potencial en la región. Nos gustaría conversar sobre vuestro traction y planes de expansión en LATAM. ¡Enhorabuena!",
+  "razon": "IA para clínicas en Chile con ronda seed de USD 2.75M respaldada por Samaipata (fondo de VC reconocido en LATAM). Tracción clara en healthtech, mercado de alto valor.",
+  "fecha_evidencia": "2026-11-19T09:06:58+00:00",
+  "ultima_senal": "2026-11-19T09:06:58+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 90,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 14.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "n:neuralsat": {
+  "key": "n:neuralsat",
+  "primera_vista": "2026-11-19T13:29:41+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "NeuralSat Raises €2.9M to Build Orbital Data Relay Network",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTjV5ZXJha1VvSUw2dEVKdFRsTEg4amIwWHlFTWxYNG1DUFcxeHBHcXpWMkZfVEZwd1pDV1VsWm5QbU1qdEpRbzVzSW9YbWVkLTZRb2tQYmp5Y0lJc2Y2RTExakxWSDJ3cG5ENmdHcFFweWNYUjAyWm1WRFJQdk1qd3RsdXNLZDUzWTkteA?oc=5",
+    "fecha": "2026-11-12T12:54:07+00:00",
+    "medio": "Payload Space"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "NeuralSat",
+  "etapa": "desconocida",
+  "tecnologia": true,
+  "resumen": "NeuralSat Raises €2.9M to Build Orbital Data Relay Network Payload Space",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-12T12:54:07+00:00",
+  "ultima_senal": "2026-11-12T12:54:07+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 51,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 12.5,
+   "tecnologia": 15.0,
+   "senal": 6.0,
+   "calidad": 10.0
+  },
+  "prioridad": "C",
+  "en_tesis": true
+ },
+ "n:egyptschipverse": {
+  "key": "n:egyptschipverse",
+  "primera_vista": "2026-11-19T13:29:41+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Egypt's Chipverse secures pre-seed funding to double GPU capacity",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNVVBYmtKR0ZEM05LQkRndGRFam55QURWd2ZVMS13ckYtcXQyNXhNcUtSQ2pJQjQ4NzhuVjlkWkRQN0pUS2hHUDY0cU5STjhfTlNocnVCajNaQ3NmS3g2cThSaVBPOUxGWXFsN2szMzBNMzEzb0ZZUVByeEQ4MzJBV0JrNlozZW1jZjdNNi0xb1pKLVd6?oc=5",
+    "fecha": "2026-11-19T00:00:31+00:00",
+    "medio": "Wamda"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Egypt's Chipverse",
+  "etapa": "pre-seed",
+  "resumen": "Egypt's Chipverse secures pre-seed funding to double GPU capacity Wamda",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-19T00:00:31+00:00",
+  "ultima_senal": "2026-11-19T00:00:31+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 56,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 25.0,
+   "tecnologia": 7.5,
+   "senal": 6.0,
+   "calidad": 10.0
+  },
+  "prioridad": "C",
+  "en_tesis": true
+ },
+ "n:devengo": {
+  "key": "n:devengo",
+  "primera_vista": "2026-11-19T13:29:41+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Devengo cierra ronda de 5M€ con Mutua Ventures",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdm5WdDZNRjBFakR0NTljaTVGOGZLMW9YQmVMd1BseE5yRE43MmY5eTBiSDRGdE9FMl91cnFfa3NQNktpaW9rV0dPa0ZkWWhBOFRCQU9BZ2ZoX3J1eWZRMXRyNk1WMWxCMTBDeTNsaFU5TDJpMmNjQzI1VTBaMnNXTzktVQ?oc=5",
+    "fecha": "2026-11-19T09:06:58+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [
+   "Mutua Ventures"
+  ],
+  "fundadores": [],
+  "calidad": 7.0,
+  "motor": "llm",
+  "empresa": "Devengo",
+  "pais": "Chile",
+  "sector": "FinTech",
+  "etapa": "seed",
+  "monto_usd": 5500000.0,
+  "tecnologia": true,
+  "resumen": "Devengo es una plataforma de finanzas digitales que cierra su serie de inversión seed en Chile.",
+  "mensaje": "Hola equipo de Devengo, felicidades por cerrar los 5M€ con Mutua Ventures. El fintech chileno es un espacio dinámico y vemos potencial en vuestro modelo. Nos gustaría conversar sobre vuestro plan regional y oportunidades de colaboración.",
+  "razon": "FinTech chilena con ronda seed de USD 5.5M respaldada por Mutua Ventures. Sector fintech en Chile es maduro y competitivo, pero tracción con inversor reconocido es positiva.",
+  "fecha_evidencia": "2026-11-19T09:06:58+00:00",
+  "ultima_senal": "2026-11-19T09:06:58+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 90,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 14.0
+  },
+  "prioridad": "A",
   "en_tesis": true
  }
 }

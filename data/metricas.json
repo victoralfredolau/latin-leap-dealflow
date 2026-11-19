@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-18T13:27:10+00:00",
+ "actualizado": "2026-11-19T13:29:41+00:00",
  "baseline_mes": 60,
  "meta_incremental_mes": 6,
- "calificados_30d": 96,
- "prioridad_a_30d": 25,
- "incremento_vs_baseline": 1.6,
- "cumplimiento_meta": 16.0,
- "total_deals": 200,
- "total_calificados": 133,
+ "calificados_30d": 88,
+ "prioridad_a_30d": 24,
+ "incremento_vs_baseline": 1.467,
+ "cumplimiento_meta": 14.67,
+ "total_deals": 205,
+ "total_calificados": 136,
  "conocidos_detectados": 2,
  "por_semana": {
   "2025-06-30": 1,
@@ -21,10 +21,10 @@
   "2026-10-26": 21,
   "2026-11-02": 14,
   "2026-11-09": 12,
-  "2026-11-16": 11
+  "2026-11-16": 14
  },
  "por_fuente": {
-  "Google News": 64,
+  "Google News": 67,
   "Get on Board": 59,
   "LatamList": 6,
   "Y Combinator": 6,
@@ -33,11 +33,11 @@
   "Contxto": 1
  },
  "por_pais": {
-  "Chile": 54,
+  "Chile": 56,
   "?": 31,
   "Argentina": 14,
   "México": 13,
-  "Colombia": 8,
+  "Colombia": 9,
   "Uruguay": 3,
   "Perú": 2,
   "Guatemala": 2,
@@ -2169,6 +2169,84 @@
      "ok": true,
      "senales": 179,
      "error": null
+    },
+    {
+     "fuente": "Y Combinator",
+     "ok": true,
+     "senales": 4,
+     "error": null
+    },
+    {
+     "fuente": "Hacker News",
+     "ok": true,
+     "senales": 3,
+     "error": null
+    },
+    {
+     "fuente": "Get on Board",
+     "ok": true,
+     "senales": 42,
+     "error": null
+    }
+   ]
+  },
+  {
+   "inicio": "2026-11-19T13:27:56+00:00",
+   "fin": "2026-11-19T13:29:41+00:00",
+   "senales_crudas": 252,
+   "descartadas_prefiltro": 92,
+   "procesadas": 29,
+   "deals_nuevos": 5,
+   "calificados_nuevos": 3,
+   "motor": "llm",
+   "fuentes": [
+    {
+     "fuente": "LatamList",
+     "ok": true,
+     "senales": 10,
+     "error": null
+    },
+    {
+     "fuente": "Contxto",
+     "ok": true,
+     "senales": 15,
+     "error": null
+    },
+    {
+     "fuente": "Startupeable",
+     "ok": false,
+     "senales": 0,
+     "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+    },
+    {
+     "fuente": "TechCrunch LatAm",
+     "ok": true,
+     "senales": 0,
+     "error": null
+    },
+    {
+     "fuente": "Pulso Social",
+     "ok": false,
+     "senales": 0,
+     "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+    },
+    {
+     "fuente": "Startups Latam",
+     "ok": true,
+     "senales": 10,
+     "error": null
+    },
+    {
+     "fuente": "Techla Media",
+     "ok": true,
+     "senales": 5,
+     "error": null
+    },
+    {
+     "fuente": "Google News",
+     "ok": true,
+     "senales": 163,
+     "error": "1 consultas fallaron"
     },
     {
      "fuente": "Y Combinator",
