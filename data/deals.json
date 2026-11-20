@@ -1652,6 +1652,14 @@
     "url": "https://www.getonbrd.com/jobs/dev-ops-cumplo-santiago",
     "fecha": "2026-10-30T20:45:57+00:00",
     "medio": null
+   },
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Cumplo está contratando: DevOps, BI & Analytics Leader",
+    "url": "https://www.getonbrd.com/jobs/bi-analytics-leader-cumplo-santiago",
+    "fecha": "2026-11-19T19:44:23+00:00",
+    "medio": null
    }
   ],
   "inversionistas": [],
@@ -1662,26 +1670,26 @@
   "sitio_web": "http://www.cumplo.cl",
   "pais": "Chile",
   "etapa": "desconocida",
-  "resumen": "Cumplo es un marketplace que conecta pequeñas y medianas empresas que buscan financiamiento con inversionistas e instituciones dispuestas a invertir.",
-  "razon": "Fintech con propuesta clara (crowdfunding/marketplace de financiamiento B2B), opera en mercado de LATAM, etapa operacional desconocida pero señal reciente de contratación sugiere tracción.",
+  "resumen": "Plataforma digital que conecta pequeñas y medianas empresas que necesitan financiamiento con inversionistas e instituciones financieras.",
+  "razon": "Fintech de marketplace de financiamiento con operación activa (contrata talento senior), pero sin señales públicas de inversión reciente o tracción reportada.",
   "fecha_evidencia": "2026-10-21T19:50:45+00:00",
-  "ultima_senal": "2026-10-30T20:45:57+00:00",
+  "ultima_senal": "2026-11-19T19:44:23+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 72,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 7.5,
    "calidad": 12.0
   },
   "prioridad": "B",
   "en_tesis": true,
   "ciudad": "Santiago",
-  "sector": "Fintech / Financiero",
+  "sector": "Fintech / Marketplaces de Crédito",
   "tecnologia": true,
-  "mensaje": "Hola equipo Cumplo, nos interesa mucho el modelo de marketplace que están construyendo para democratizar el financiamiento de pymes en Chile. Vemos que están en búsqueda de talento técnico, ¿estarían abiertos a conversar sobre oportunidades de inversión? Nos encantaría conocer más de la tracción y visión del equipo."
+  "mensaje": "Hola equipo de Cumplo, vimos que están expandiendo su equipo en analytics y DevOps. Nos interesa conocer más sobre vuestro modelo de marketplace de crédito y tracción actual. ¿Estarían abiertos a conversar con Latin Leap sobre futuras oportunidades de capital?"
  },
  "d:42labs.cl": {
   "key": "d:42labs.cl",
@@ -2092,12 +2100,12 @@
   "ultima_senal": "2026-11-06T12:39:23+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -6832,12 +6840,12 @@
   "ultima_senal": "2026-11-05T18:41:38+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 68,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -6870,12 +6878,12 @@
   "ultima_senal": "2026-11-05T16:02:24+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 62,
+  "score": 61,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 7.5,
-   "senal": 7.5,
+   "senal": 6.0,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -6986,15 +6994,15 @@
   "ultima_senal": "2026-11-05T19:06:27+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 60,
+  "score": 58,
   "desglose": {
    "geografia": 7.5,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 14.0
   },
-  "prioridad": "B",
+  "prioridad": "C",
   "en_tesis": true
  },
  "d:okstays.com": {
@@ -7031,12 +7039,12 @@
   "ultima_senal": "2026-11-05T14:13:51+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 50,
+  "score": 48,
   "desglose": {
    "geografia": 0.0,
    "etapa": 15.0,
    "tecnologia": 15.0,
-   "senal": 12.0,
+   "senal": 10.5,
    "calidad": 8.0
   },
   "prioridad": "Fuera de tesis",
@@ -7212,12 +7220,12 @@
   "ultima_senal": "2026-11-05T13:32:52+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 62,
+  "score": 61,
   "desglose": {
    "geografia": 0.0,
    "etapa": 25.0,
    "tecnologia": 15.0,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 12.0
   },
   "prioridad": "Fuera de tesis",
@@ -8291,6 +8299,14 @@
     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNWowaE5FMDN6OEFNWk16WmxxUFZxNHRiQTkzV2dJcDJBMGg3aUVJVV81UVJiWjA0Zl9hWmJpLWVrRDg4Z0lfVUhSbHBmZTFSWlVpOVdlUTZXLUxzbEc0XzFqNy1MS25XOExkYjQ1RUFiM29MQ3hjR3R6WExiU01sYU9VRlhmbWswTENmTmEtTWZvaVl5R1VTaE5nTUdLY2NRcUxhT01zb3RsMnBtd2lwNXdYMk5sM2wwaF85SjdtemRyTy1idjZvTGl5Qy1HbURTWFN4Y09oSHJpMDR5VEVTdFNMVU9JdHVTalF5TlBSOGlFX2c?oc=5",
     "fecha": "2026-11-17T15:02:00+00:00",
     "medio": "Latam Fintech Hub"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Startup uruguaya Akua concretó millonaria inversión de Itaú Ventures y se expandirá en Latinoamérica en 2027",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTjhkOUNRLS1iUGJoY1Q1NkNvQk9JOFF6NjlDNWtJRTMtWWtRcGJrS2p0NXFVN3VCWXRwY1F2X0RkcWEyZnJWcGVzcmNMWUh6LTZhNEZ0T21oX1ItRE91UEFlejgtWU1nNUVmWC1NNk4wY3lMcUJQLXpWWjZRZENRSXQ2VlhUdnZvNUlaNVZvSm9pLTJIUUFTWEhFbmF4empSVm5rSDllR21IdV9KTnJFazN2YUUtWWdxT2lqVWRaTFpNTlVidW42SXlxLTlSanljOXkwYWJ2aGg1SmZIQVhMa01B?oc=5",
+    "fecha": "2026-11-20T07:15:50+00:00",
+    "medio": "EL PAÍS Uruguay"
    }
   ],
   "inversionistas": [
@@ -8303,14 +8319,14 @@
   "motor": "llm",
   "empresa": "Akua",
   "pais": "Uruguay",
-  "sector": "fintech",
+  "sector": "Fintech / Desconocido",
   "etapa": "seed",
   "tecnologia": true,
-  "resumen": "Akua es una paytech uruguaya que utiliza inteligencia artificial para adquirencia de pagos en Uruguay y LATAM.",
-  "mensaje": "Hola equipo Akua, notamos que Itaú Ventures los respalda en su expansión de IA en adquirencia. Desde Latin Leap seguimos de cerca fintechs innovadoras en el cono sur. ¿Estarían abiertos a una conversación sobre vuestra tesis?",
-  "razon": "Paytech con IA en adquirencia, respalda Itaú Ventures (banco grande, señal de traction), mercado de pagos estratégico en LATAM, dentro de geografía de tesis.",
+  "resumen": "Startup uruguaya que cerró inversión millonaria de Itaú Ventures y planea expandirse en Latinoamérica a partir de 2027.",
+  "mensaje": "Felicidades a Akua por la inversión de Itaú Ventures. Vimos sus planes de expansión en Latinoamérica. Desde Latin Leap nos encantaría conocer más sobre vuestra visión y si hay oportunidades para colaborar o apoyar vuestro crecimiento regional.",
+  "razon": "Startup uruguaya con backing de Itaú Ventures (inversor de peso) y planes de expansión en Latinoamérica, señal de traction y validación.",
   "fecha_evidencia": "2026-11-16T19:17:00+00:00",
-  "ultima_senal": "2026-11-17T19:01:42+00:00",
+  "ultima_senal": "2026-11-20T07:15:50+00:00",
   "conocido_fuente": null,
   "conocido": false,
   "score": 94,
@@ -8593,15 +8609,15 @@
   "ultima_senal": "2026-11-05T19:30:58+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 60,
+  "score": 59,
   "desglose": {
    "geografia": 7.5,
    "etapa": 25.0,
    "tecnologia": 7.5,
-   "senal": 10.5,
+   "senal": 9.0,
    "calidad": 10.0
   },
-  "prioridad": "B",
+  "prioridad": "C",
   "en_tesis": true
  },
  "n:voyage": {
@@ -8930,6 +8946,54 @@
    "etapa": 25.0,
    "tecnologia": 15.0,
    "senal": 10.5,
+   "calidad": 14.0
+  },
+  "prioridad": "A",
+  "en_tesis": true
+ },
+ "n:leydedatos": {
+  "key": "n:leydedatos",
+  "primera_vista": "2026-11-20T13:25:02+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Startup Ley de Datos gana el Demo Day de Start-Up Chile para gobiernos locales",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUl1RklxczBaRGUwNVBzVm5EQi1jdHl5bXRMX0RNaVBBNkxBbVNaaGdVa1AxeWZUUjRsc0ppYUhSM1psQzJRal9ua0NMNzhkQXB6VG5Vc2JBdzdiclR0ejNfNVZxVVpzbGN2M2ZsZ29yd19jSkhFY1NiOXRGcHZZbW0yZGh6eUkyOFA1VVB0R1p4Ry1Ba3NyUjdFYmpHS3hSZkl3bVdZQkZBVGxCaW9YeUln?oc=5",
+    "fecha": "2026-11-20T02:48:03+00:00",
+    "medio": "G5noticias"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Ley de Datos gana el Demo Day Govtech de Start-Up Chile",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTkpmR0FDUUdoRTh1TWFwc0RTRG5VcTBSNkc2azJrVkdyWnprUkljZkg3bHpJbXdkTTk1LWxtNklHMVgyMHVDR1dfT2ZTS29DcjlKVFhxZkt6MnZjLURlcVozcURzWGF5bEg1T2xTd3lrNEJsaHZmU2dqMGIzVUdsM2ZRYjVtNF9sb1VTMG4zNA?oc=5",
+    "fecha": "2026-11-20T01:21:31+00:00",
+    "medio": "El Ecosistema Startup"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 7.0,
+  "motor": "llm",
+  "empresa": "Ley de Datos",
+  "pais": "Chile",
+  "sector": "Govtech",
+  "etapa": "pre-seed",
+  "tecnologia": true,
+  "resumen": "Ley de Datos ganó el Demo Day Govtech de Start-Up Chile, enfocada en soluciones de tecnología para gobierno.",
+  "mensaje": "Felicidades por ganar el Demo Day Govtech de Start-Up Chile. Nos impresiona tu enfoque en govtech y vemos una oportunidad real en el sector regulatorio de América Latina. Nos encantaría conocer más sobre tu tracción y visión a futuro. ¡Hablamos pronto!",
+  "razon": "Ganadora de Demo Day Govtech de Start-Up Chile (aceleradora reconocida en LATAM); en etapa pre-seed/seed; mercado de govtech con demanda regulatoria creciente; ubicación en Chile dentro de tesis.",
+  "fecha_evidencia": "2026-11-20T01:21:31+00:00",
+  "ultima_senal": "2026-11-20T02:48:03+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 85,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 6.0,
    "calidad": 14.0
   },
   "prioridad": "A",

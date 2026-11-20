@@ -257,7 +257,7 @@
    "sitio_web": null,
    "pais": "Uruguay",
    "ciudad": "Montevideo",
-   "sector": "fintech",
+   "sector": "Fintech / Desconocido",
    "etapa": "seed",
    "monto_usd": null,
    "inversionistas": [
@@ -268,9 +268,9 @@
    ],
    "tecnologia": true,
    "calidad": 8.0,
-   "resumen": "Akua es una paytech uruguaya que utiliza inteligencia artificial para adquirencia de pagos en Uruguay y LATAM.",
-   "razon": "Paytech con IA en adquirencia, respalda Itaú Ventures (banco grande, señal de traction), mercado de pagos estratégico en LATAM, dentro de geografía de tesis.",
-   "mensaje": "Hola equipo Akua, notamos que Itaú Ventures los respalda en su expansión de IA en adquirencia. Desde Latin Leap seguimos de cerca fintechs innovadoras en el cono sur. ¿Estarían abiertos a una conversación sobre vuestra tesis?",
+   "resumen": "Startup uruguaya que cerró inversión millonaria de Itaú Ventures y planea expandirse en Latinoamérica a partir de 2027.",
+   "razon": "Startup uruguaya con backing de Itaú Ventures (inversor de peso) y planes de expansión en Latinoamérica, señal de traction y validación.",
+   "mensaje": "Felicidades a Akua por la inversión de Itaú Ventures. Vimos sus planes de expansión en Latinoamérica. Desde Latin Leap nos encantaría conocer más sobre vuestra visión y si hay oportunidades para colaborar o apoyar vuestro crecimiento regional.",
    "score": 94,
    "desglose": {
     "geografia": 25.0,
@@ -285,7 +285,7 @@
    "conocido_fuente": null,
    "primera_vista": "2026-11-17T13:21:41+00:00",
    "fecha_evidencia": "2026-11-16T19:17:00+00:00",
-   "ultima_senal": "2026-11-17T19:01:42+00:00",
+   "ultima_senal": "2026-11-20T07:15:50+00:00",
    "senales": [
     {
      "fuente": "Google News",
@@ -318,6 +318,14 @@
      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNWowaE5FMDN6OEFNWk16WmxxUFZxNHRiQTkzV2dJcDJBMGg3aUVJVV81UVJiWjA0Zl9hWmJpLWVrRDg4Z0lfVUhSbHBmZTFSWlVpOVdlUTZXLUxzbEc0XzFqNy1MS25XOExkYjQ1RUFiM29MQ3hjR3R6WExiU01sYU9VRlhmbWswTENmTmEtTWZvaVl5R1VTaE5nTUdLY2NRcUxhT01zb3RsMnBtd2lwNXdYMk5sM2wwaF85SjdtemRyTy1idjZvTGl5Qy1HbURTWFN4Y09oSHJpMDR5VEVTdFNMVU9JdHVTalF5TlBSOGlFX2c?oc=5",
      "fecha": "2026-11-17T15:02:00+00:00",
      "medio": "Latam Fintech Hub"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Startup uruguaya Akua concretó millonaria inversión de Itaú Ventures y se expandirá en Latinoamérica en 2027",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTjhkOUNRLS1iUGJoY1Q1NkNvQk9JOFF6NjlDNWtJRTMtWWtRcGJrS2p0NXFVN3VCWXRwY1F2X0RkcWEyZnJWcGVzcmNMWUh6LTZhNEZ0T21oX1ItRE91UEFlejgtWU1nNUVmWC1NNk4wY3lMcUJQLXpWWjZRZENRSXQ2VlhUdnZvNUlaNVZvSm9pLTJIUUFTWEhFbmF4empSVm5rSDllR21IdV9KTnJFazN2YUUtWWdxT2lqVWRaTFpNTlVidW42SXlxLTlSanljOXkwYWJ2aGg1SmZIQVhMa01B?oc=5",
+     "fecha": "2026-11-20T07:15:50+00:00",
+     "medio": "EL PAÍS Uruguay"
     }
    ],
    "motor": "llm"
@@ -2018,6 +2026,57 @@
    "motor": "llm"
   },
   {
+   "key": "n:leydedatos",
+   "empresa": "Ley de Datos",
+   "sitio_web": null,
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": "Govtech",
+   "etapa": "pre-seed",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Ley de Datos ganó el Demo Day Govtech de Start-Up Chile, enfocada en soluciones de tecnología para gobierno.",
+   "razon": "Ganadora de Demo Day Govtech de Start-Up Chile (aceleradora reconocida en LATAM); en etapa pre-seed/seed; mercado de govtech con demanda regulatoria creciente; ubicación en Chile dentro de tesis.",
+   "mensaje": "Felicidades por ganar el Demo Day Govtech de Start-Up Chile. Nos impresiona tu enfoque en govtech y vemos una oportunidad real en el sector regulatorio de América Latina. Nos encantaría conocer más sobre tu tracción y visión a futuro. ¡Hablamos pronto!",
+   "score": 85,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 14.0
+   },
+   "prioridad": "A",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-20T13:25:02+00:00",
+   "fecha_evidencia": "2026-11-20T01:21:31+00:00",
+   "ultima_senal": "2026-11-20T02:48:03+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Startup Ley de Datos gana el Demo Day de Start-Up Chile para gobiernos locales",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUl1RklxczBaRGUwNVBzVm5EQi1jdHl5bXRMX0RNaVBBNkxBbVNaaGdVa1AxeWZUUjRsc0ppYUhSM1psQzJRal9ua0NMNzhkQXB6VG5Vc2JBdzdiclR0ejNfNVZxVVpzbGN2M2ZsZ29yd19jSkhFY1NiOXRGcHZZbW0yZGh6eUkyOFA1VVB0R1p4Ry1Ba3NyUjdFYmpHS3hSZkl3bVdZQkZBVGxCaW9YeUln?oc=5",
+     "fecha": "2026-11-20T02:48:03+00:00",
+     "medio": "G5noticias"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Ley de Datos gana el Demo Day Govtech de Start-Up Chile",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTkpmR0FDUUdoRTh1TWFwc0RTRG5VcTBSNkc2azJrVkdyWnprUkljZkg3bHpJbXdkTTk1LWxtNklHMVgyMHVDR1dfT2ZTS29DcjlKVFhxZkt6MnZjLURlcVozcURzWGF5bEg1T2xTd3lrNEJsaHZmU2dqMGIzVUdsM2ZRYjVtNF9sb1VTMG4zNA?oc=5",
+     "fecha": "2026-11-20T01:21:31+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "n:furtilo",
    "empresa": "Furtilo",
    "sitio_web": null,
@@ -2466,6 +2525,65 @@
    "motor": "llm"
   },
   {
+   "key": "d:cumplo.cl",
+   "empresa": "Cumplo",
+   "sitio_web": "http://www.cumplo.cl",
+   "pais": "Chile",
+   "ciudad": "Santiago",
+   "sector": "Fintech / Marketplaces de Crédito",
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Plataforma digital que conecta pequeñas y medianas empresas que necesitan financiamiento con inversionistas e instituciones financieras.",
+   "razon": "Fintech de marketplace de financiamiento con operación activa (contrata talento senior), pero sin señales públicas de inversión reciente o tracción reportada.",
+   "mensaje": "Hola equipo de Cumplo, vimos que están expandiendo su equipo en analytics y DevOps. Nos interesa conocer más sobre vuestro modelo de marketplace de crédito y tracción actual. ¿Estarían abiertos a conversar con Latin Leap sobre futuras oportunidades de capital?",
+   "score": 72,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 7.5,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-21T19:50:45+00:00",
+   "ultima_senal": "2026-11-19T19:44:23+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Cumplo está contratando: Full-Stack Engineer",
+     "url": "https://www.getonbrd.com/jobs/full-stack-engineer-cumplo-santiago-3dd2",
+     "fecha": "2026-10-21T19:50:45+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Cumplo está contratando: Full-Stack Engineer, DevOps",
+     "url": "https://www.getonbrd.com/jobs/dev-ops-cumplo-santiago",
+     "fecha": "2026-10-30T20:45:57+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Cumplo está contratando: DevOps, BI & Analytics Leader",
+     "url": "https://www.getonbrd.com/jobs/bi-analytics-leader-cumplo-santiago",
+     "fecha": "2026-11-19T19:44:23+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "llm"
+  },
+  {
    "key": "n:dream",
    "empresa": "Dream",
    "sitio_web": null,
@@ -2750,57 +2868,6 @@
    "motor": "reglas"
   },
   {
-   "key": "d:cumplo.cl",
-   "empresa": "Cumplo",
-   "sitio_web": "http://www.cumplo.cl",
-   "pais": "Chile",
-   "ciudad": "Santiago",
-   "sector": "Fintech / Financiero",
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 6.0,
-   "resumen": "Cumplo es un marketplace que conecta pequeñas y medianas empresas que buscan financiamiento con inversionistas e instituciones dispuestas a invertir.",
-   "razon": "Fintech con propuesta clara (crowdfunding/marketplace de financiamiento B2B), opera en mercado de LATAM, etapa operacional desconocida pero señal reciente de contratación sugiere tracción.",
-   "mensaje": "Hola equipo Cumplo, nos interesa mucho el modelo de marketplace que están construyendo para democratizar el financiamiento de pymes en Chile. Vemos que están en búsqueda de talento técnico, ¿estarían abiertos a conversar sobre oportunidades de inversión? Nos encantaría conocer más de la tracción y visión del equipo.",
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 6.0,
-    "calidad": 12.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-21T19:50:45+00:00",
-   "ultima_senal": "2026-10-30T20:45:57+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Cumplo está contratando: Full-Stack Engineer",
-     "url": "https://www.getonbrd.com/jobs/full-stack-engineer-cumplo-santiago-3dd2",
-     "fecha": "2026-10-21T19:50:45+00:00",
-     "medio": null
-    },
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Cumplo está contratando: Full-Stack Engineer, DevOps",
-     "url": "https://www.getonbrd.com/jobs/dev-ops-cumplo-santiago",
-     "fecha": "2026-10-30T20:45:57+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "d:codeable.la",
    "empresa": "Codeable",
    "sitio_web": "https://www.codeable.la/",
@@ -2846,57 +2913,6 @@
      "titulo": "Codeable está contratando: Analista de Datos Power BI",
      "url": "https://www.getonbrd.com/jobs/analista-de-datos-power-bi-codeable-lima",
      "fecha": "2026-11-09T22:00:49+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "d:23people.io",
-   "empresa": "23people",
-   "sitio_web": "https://www.23people.io",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Básicamente, somos un grupo de geeks apasionados por lo que hacemos: programar y resolver problemas usando tecnología. 🤟",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-23T13:23:45+00:00",
-   "ultima_senal": "2026-11-06T12:39:23+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "23people está contratando: Semi Senior Java Developer / ETL, Senior Full-Stack Java Developer (SDET & AI) Bilingüe",
-     "url": "https://www.getonbrd.com/jobs/senior-full-stack-java-developer-test-automation-ai-23people-santiago",
-     "fecha": "2026-10-23T13:23:45+00:00",
-     "medio": null
-    },
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "23people está contratando: Semi Senior Full-Stack Java Developer (QA & AI) Bilingüe",
-     "url": "https://www.getonbrd.com/jobs/semi-senior-full-stack-java-developer-qa-ai-bilingue-23people-santiago",
-     "fecha": "2026-11-06T12:39:23+00:00",
      "medio": null
     }
    ],
@@ -3294,49 +3310,6 @@
      "titulo": "INTEGRATZ está contratando: Ingeniero de Software Senior, Senior Data Engineer (Snowflake)",
      "url": "https://www.getonbrd.com/jobs/senior-data-engineer-snowflake-integratz-remote",
      "fecha": "2026-11-16T17:14:38+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "d:3it.cl",
-   "empresa": "3IT",
-   "sitio_web": "https://www.3it.cl/",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Empresa especializada en desarrollo de software a medida, hunting, ciberseguridad y outsourcing TI estratégico. ",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-11-06T13:15:53+00:00",
-   "fecha_evidencia": "2026-11-05T18:41:38+00:00",
-   "ultima_senal": "2026-11-05T18:41:38+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "3IT está contratando: Líder Técnico, Especialista Desarrollador Front-end, Desarrollador Back-end, Desarrollador Full-Stack | Golang + .NET + React, Full-Stack (.NET + AngularJS + Re",
-     "url": "https://www.getonbrd.com/jobs/qa-automatizador-3it-santiago-5d69",
-     "fecha": "2026-11-05T18:41:38+00:00",
      "medio": null
     }
    ],
@@ -4546,6 +4519,57 @@
    "motor": "reglas"
   },
   {
+   "key": "d:23people.io",
+   "empresa": "23people",
+   "sitio_web": "https://www.23people.io",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Básicamente, somos un grupo de geeks apasionados por lo que hacemos: programar y resolver problemas usando tecnología. 🤟",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-23T13:23:45+00:00",
+   "ultima_senal": "2026-11-06T12:39:23+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "23people está contratando: Semi Senior Java Developer / ETL, Senior Full-Stack Java Developer (SDET & AI) Bilingüe",
+     "url": "https://www.getonbrd.com/jobs/senior-full-stack-java-developer-test-automation-ai-23people-santiago",
+     "fecha": "2026-10-23T13:23:45+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "23people está contratando: Semi Senior Full-Stack Java Developer (QA & AI) Bilingüe",
+     "url": "https://www.getonbrd.com/jobs/semi-senior-full-stack-java-developer-qa-ai-bilingue-23people-santiago",
+     "fecha": "2026-11-06T12:39:23+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "d:mediastre.am",
    "empresa": "Mediastream",
    "sitio_web": "http://mediastre.am",
@@ -5260,6 +5284,49 @@
    "motor": "reglas"
   },
   {
+   "key": "d:3it.cl",
+   "empresa": "3IT",
+   "sitio_web": "https://www.3it.cl/",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Empresa especializada en desarrollo de software a medida, hunting, ciberseguridad y outsourcing TI estratégico. ",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 68,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-06T13:15:53+00:00",
+   "fecha_evidencia": "2026-11-05T18:41:38+00:00",
+   "ultima_senal": "2026-11-05T18:41:38+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "3IT está contratando: Líder Técnico, Especialista Desarrollador Front-end, Desarrollador Back-end, Desarrollador Full-Stack | Golang + .NET + React, Full-Stack (.NET + AngularJS + Re",
+     "url": "https://www.getonbrd.com/jobs/qa-automatizador-3it-santiago-5d69",
+     "fecha": "2026-11-05T18:41:38+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "d:dynamicdevs.io",
    "empresa": "Dynamic Devs",
    "sitio_web": "https://www.dynamicdevs.io",
@@ -5964,49 +6031,6 @@
    "motor": "reglas"
   },
   {
-   "key": "d:cicanada.com",
-   "empresa": "CI Canadá",
-   "sitio_web": "https://cicanada.com",
-   "pais": "Colombia",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": null,
-   "calidad": 5.0,
-   "resumen": "CI Canadá**, empresa con 30 años de trayectoria en servicios migratorios hacia Canadá",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 62,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 7.5,
-    "senal": 7.5,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-11-06T13:15:53+00:00",
-   "fecha_evidencia": "2026-11-05T16:02:24+00:00",
-   "ultima_senal": "2026-11-05T16:02:24+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "CI Canadá está contratando: Desarrollador Full-Stack Java",
-     "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-java-ci-canada-remote",
-     "fecha": "2026-11-05T16:02:24+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
    "key": "d:ameris.cl",
    "empresa": "Ameris Capital",
    "sitio_web": "https://www.ameris.cl/",
@@ -6308,87 +6332,44 @@
    "motor": "reglas"
   },
   {
-   "key": "n:kabilio",
-   "empresa": "Kabilio",
-   "sitio_web": null,
-   "pais": null,
-   "ciudad": null,
-   "sector": "Contabilidad / IA",
-   "etapa": "desconocida",
-   "monto_usd": 10900000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 7.0,
-   "resumen": "Kabilio es una startup de IA especializada en contabilidad que levantó €10M para escalar su plataforma.",
-   "razon": "Startup de IA contable con ronda significativa de €10M (~USD 11M); sector de SaaS B2B con alto potencial; sin embargo, ubicación exacta e inversores no claros.",
-   "mensaje": "Hola equipo Kabilio, vimos que cerraron una ronda de €10M para su plataforma de IA contable. La oportunidad en FinTech/Contabilidad de LATAM es enorme. ¿Tienen planes de expansión en la región? Nos encantaría conversar. Saludos desde Latin Leap.",
-   "score": 60,
-   "desglose": {
-    "geografia": 7.5,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 14.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-11-06T13:15:53+00:00",
-   "fecha_evidencia": "2026-11-05T19:06:27+00:00",
-   "ultima_senal": "2026-11-05T19:06:27+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Kabilio, la startup de IA contable, levanta €10M",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa043OEhISmVIdTVZdDZEUkRqR3NBNVZEU0Y1MjJNVjZnR3haRXNxbGdKbnhSN0NCZ1FzdGdmTExrWW9adUI1eHotXzFmaS1IS0dCLVZmRnlnVVFrOEozQkJNMmpiaEVxanotOWRzeXIxY3EzSjR2c21VTzNtSUhVQ3ZZTQ?oc=5",
-     "fecha": "2026-11-05T19:06:27+00:00",
-     "medio": "El Ecosistema Startup"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
-   "key": "n:circularityfuels",
-   "empresa": "Circularity Fuels",
-   "sitio_web": null,
-   "pais": null,
+   "key": "d:cicanada.com",
+   "empresa": "CI Canadá",
+   "sitio_web": "https://cicanada.com",
+   "pais": "Colombia",
    "ciudad": null,
    "sector": null,
-   "etapa": "seed",
-   "monto_usd": 7000000.0,
+   "etapa": "desconocida",
+   "monto_usd": null,
    "inversionistas": [],
    "fundadores": [],
    "tecnologia": null,
    "calidad": 5.0,
-   "resumen": "Circularity Fuels Raises $7M Seed Round to Build Biogas-to-Jet-Fuel Demonstration Plant Avi-Go",
+   "resumen": "CI Canadá**, empresa con 30 años de trayectoria en servicios migratorios hacia Canadá",
    "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
    "mensaje": null,
-   "score": 60,
+   "score": 61,
    "desglose": {
-    "geografia": 7.5,
-    "etapa": 25.0,
+    "geografia": 25.0,
+    "etapa": 12.5,
     "tecnologia": 7.5,
-    "senal": 10.5,
+    "senal": 6.0,
     "calidad": 10.0
    },
    "prioridad": "B",
    "en_tesis": true,
    "conocido": false,
    "conocido_fuente": null,
-   "primera_vista": "2026-11-18T13:27:10+00:00",
-   "fecha_evidencia": "2026-11-05T19:30:58+00:00",
-   "ultima_senal": "2026-11-05T19:30:58+00:00",
+   "primera_vista": "2026-11-06T13:15:53+00:00",
+   "fecha_evidencia": "2026-11-05T16:02:24+00:00",
+   "ultima_senal": "2026-11-05T16:02:24+00:00",
    "senales": [
     {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Circularity Fuels Raises $7M Seed Round to Build Biogas-to-Jet-Fuel Demonstration Plant",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KRjJfXzFzcmRER2FMOXdFdm9nYzJqeGVpWmVPZEJmSVFvSklXN1FQNkEyUHBrRXJycW1NYlJFcXN6RUdIWk9TQXZDT0dzeUIwQl9WQmgxUkgxaXZxRHAtbi1vWncxeVRLMnhTdGl0b1lYWU0?oc=5",
-     "fecha": "2026-11-05T19:30:58+00:00",
-     "medio": "Avi-Go"
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "CI Canadá está contratando: Desarrollador Full-Stack Java",
+     "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-java-ci-canada-remote",
+     "fecha": "2026-11-05T16:02:24+00:00",
+     "medio": null
     }
    ],
    "motor": "reglas"
@@ -7013,49 +6994,6 @@
    "motor": "llm"
   },
   {
-   "key": "n:nyquis",
-   "empresa": "Nyquis",
-   "sitio_web": null,
-   "pais": "desconocido",
-   "ciudad": null,
-   "sector": "Cleantech / Smart Grid",
-   "etapa": "seed",
-   "monto_usd": 6300000.0,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 6.0,
-   "resumen": "Nyquis desarrolla soluciones de monitoreo granular para redes eléctricas. Levantó USD 6.3M.",
-   "razon": "Seed de USD 6.3M en monitoreo inteligente de grillas (infraestructura crítica); sin inversionistas reconocidos ni tracción reportada; mercado relevante pero necesita más contexto.",
-   "mensaje": "Hola equipo Nyquis, nos llamó la atención su ronda de USD 6.3M para smart grid monitoring. La transformación digital de infraestructura eléctrica es clave en LATAM. ¿Podríamos agendar una conversación para conocer su roadmap regional?",
-   "score": 62,
-   "desglose": {
-    "geografia": 0.0,
-    "etapa": 25.0,
-    "tecnologia": 15.0,
-    "senal": 10.5,
-    "calidad": 12.0
-   },
-   "prioridad": "Fuera de tesis",
-   "en_tesis": false,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-11-10T13:13:52+00:00",
-   "fecha_evidencia": "2026-11-05T13:32:52+00:00",
-   "ultima_senal": "2026-11-05T13:32:52+00:00",
-   "senales": [
-    {
-     "fuente": "Google News",
-     "tipo": "noticia",
-     "titulo": "Exclusive: Nyquis raises $6.3M for granular grid monitoring",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GcUhmcjBCYWRKZkh0SDN3eGg1SHplTGtiZ3NtM1dsMmhlT0tERlU2QXFmR3BvWlNTSmVWMW1OMXROcFcxTVQ5VDdEdlczRm9mQmtxWTloejMycjY2bExpM3A5Qk93cG1jQzllQQ?oc=5",
-     "fecha": "2026-11-05T13:32:52+00:00",
-     "medio": "Axios"
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:niubiq",
    "empresa": "Niubiq",
    "sitio_web": null,
@@ -7156,6 +7094,49 @@
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTEZVTld2OTNLbGxTa3pUa2V4MGRfZDlLd2s3bGxLVFdNaUxHTE9rVE9KTU5sX0hqekFmQ3gxVnNKLU8tbVRHRHc0YVgzODBTbkdFOW51WUR4NmRCU2NxWENhYnhSWXhReGhySzB5RDU0eEJjWVJSa3AxMUllcTBTSlYwUFh6ZzI4eDdXTUM0ZFUzY0ZYT1NFN1dVV2szWEhBRE5jTTRlVXhwZHdkbGwyVEFQNzN1SjRSUFVxQXJPbw?oc=5",
      "fecha": "2026-10-20T07:00:00+00:00",
      "medio": "theinsurer.com"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:nyquis",
+   "empresa": "Nyquis",
+   "sitio_web": null,
+   "pais": "desconocido",
+   "ciudad": null,
+   "sector": "Cleantech / Smart Grid",
+   "etapa": "seed",
+   "monto_usd": 6300000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "Nyquis desarrolla soluciones de monitoreo granular para redes eléctricas. Levantó USD 6.3M.",
+   "razon": "Seed de USD 6.3M en monitoreo inteligente de grillas (infraestructura crítica); sin inversionistas reconocidos ni tracción reportada; mercado relevante pero necesita más contexto.",
+   "mensaje": "Hola equipo Nyquis, nos llamó la atención su ronda de USD 6.3M para smart grid monitoring. La transformación digital de infraestructura eléctrica es clave en LATAM. ¿Podríamos agendar una conversación para conocer su roadmap regional?",
+   "score": 61,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 12.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-10T13:13:52+00:00",
+   "fecha_evidencia": "2026-11-05T13:32:52+00:00",
+   "ultima_senal": "2026-11-05T13:32:52+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Exclusive: Nyquis raises $6.3M for granular grid monitoring",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GcUhmcjBCYWRKZkh0SDN3eGg1SHplTGtiZ3NtM1dsMmhlT0tERlU2QXFmR3BvWlNTSmVWMW1OMXROcFcxTVQ5VDdEdlczRm9mQmtxWTloejMycjY2bExpM3A5Qk93cG1jQzllQQ?oc=5",
+     "fecha": "2026-11-05T13:32:52+00:00",
+     "medio": "Axios"
     }
    ],
    "motor": "llm"
@@ -7546,6 +7527,92 @@
     }
    ],
    "motor": "reglas"
+  },
+  {
+   "key": "n:circularityfuels",
+   "empresa": "Circularity Fuels",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "seed",
+   "monto_usd": 7000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Circularity Fuels Raises $7M Seed Round to Build Biogas-to-Jet-Fuel Demonstration Plant Avi-Go",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 59,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 25.0,
+    "tecnologia": 7.5,
+    "senal": 9.0,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-18T13:27:10+00:00",
+   "fecha_evidencia": "2026-11-05T19:30:58+00:00",
+   "ultima_senal": "2026-11-05T19:30:58+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Circularity Fuels Raises $7M Seed Round to Build Biogas-to-Jet-Fuel Demonstration Plant",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KRjJfXzFzcmRER2FMOXdFdm9nYzJqeGVpWmVPZEJmSVFvSklXN1FQNkEyUHBrRXJycW1NYlJFcXN6RUdIWk9TQXZDT0dzeUIwQl9WQmgxUkgxaXZxRHAtbi1vWncxeVRLMnhTdGl0b1lYWU0?oc=5",
+     "fecha": "2026-11-05T19:30:58+00:00",
+     "medio": "Avi-Go"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "n:kabilio",
+   "empresa": "Kabilio",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": "Contabilidad / IA",
+   "etapa": "desconocida",
+   "monto_usd": 10900000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Kabilio es una startup de IA especializada en contabilidad que levantó €10M para escalar su plataforma.",
+   "razon": "Startup de IA contable con ronda significativa de €10M (~USD 11M); sector de SaaS B2B con alto potencial; sin embargo, ubicación exacta e inversores no claros.",
+   "mensaje": "Hola equipo Kabilio, vimos que cerraron una ronda de €10M para su plataforma de IA contable. La oportunidad en FinTech/Contabilidad de LATAM es enorme. ¿Tienen planes de expansión en la región? Nos encantaría conversar. Saludos desde Latin Leap.",
+   "score": 58,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 9.0,
+    "calidad": 14.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-06T13:15:53+00:00",
+   "fecha_evidencia": "2026-11-05T19:06:27+00:00",
+   "ultima_senal": "2026-11-05T19:06:27+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Kabilio, la startup de IA contable, levanta €10M",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa043OEhISmVIdTVZdDZEUkRqR3NBNVZEU0Y1MjJNVjZnR3haRXNxbGdKbnhSN0NCZ1FzdGdmTExrWW9adUI1eHotXzFmaS1IS0dCLVZmRnlnVVFrOEozQkJNMmpiaEVxanotOWRzeXIxY3EzSjR2c21VTzNtSUhVQ3ZZTQ?oc=5",
+     "fecha": "2026-11-05T19:06:27+00:00",
+     "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
   },
   {
    "key": "n:forgepoint",
@@ -8200,51 +8267,6 @@
    "motor": "reglas"
   },
   {
-   "key": "d:okstays.com",
-   "empresa": "OKstays",
-   "sitio_web": "https://okstays.com",
-   "pais": "España",
-   "ciudad": "Barcelona",
-   "sector": "Travel Tech / Marketplace",
-   "etapa": "idea",
-   "monto_usd": 1070.0,
-   "inversionistas": [],
-   "fundadores": [
-    "Oriol"
-   ],
-   "tecnologia": true,
-   "calidad": 4.0,
-   "resumen": "OKstays utiliza IA para leer reseñas negativas de hospedajes y puntuarlos según comodidad real, ayudando viajeros a encontrar mejores lugares.",
-   "razon": "Desarrollador solo con MVP usando IA (Claude) para mejorar búsqueda de hospedaje; traction inicial débil (gastos en terceros, no ingresos mencionados); mercado validado pero ubicación fuera de LATAM hispanohablante.",
-   "mensaje": "Hola Oriol, vimos OKstays en HN y nos encanta el problema que resuelves con IA. Aunque estés en Barcelona, si ves oportunidad de expandir a mercados de habla hispana en Latinoamérica, en Latin Leap podríamos ser un buen partner. Saludos.",
-   "score": 50,
-   "desglose": {
-    "geografia": 0.0,
-    "etapa": 15.0,
-    "tecnologia": 15.0,
-    "senal": 12.0,
-    "calidad": 8.0
-   },
-   "prioridad": "Fuera de tesis",
-   "en_tesis": false,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-11-06T13:15:53+00:00",
-   "fecha_evidencia": "2026-11-05T14:13:51+00:00",
-   "ultima_senal": "2026-11-05T14:13:51+00:00",
-   "senales": [
-    {
-     "fuente": "Hacker News",
-     "tipo": "lanzamiento",
-     "titulo": "Show HN: I paid Claude US$1,070 to read the worst reviews of 30k places to stay",
-     "url": "https://news.ycombinator.com/item?id=50379300",
-     "fecha": "2026-11-05T14:13:51+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "n:ancep",
    "empresa": "Ancep",
    "sitio_web": null,
@@ -8587,6 +8609,51 @@
     }
    ],
    "motor": "reglas"
+  },
+  {
+   "key": "d:okstays.com",
+   "empresa": "OKstays",
+   "sitio_web": "https://okstays.com",
+   "pais": "España",
+   "ciudad": "Barcelona",
+   "sector": "Travel Tech / Marketplace",
+   "etapa": "idea",
+   "monto_usd": 1070.0,
+   "inversionistas": [],
+   "fundadores": [
+    "Oriol"
+   ],
+   "tecnologia": true,
+   "calidad": 4.0,
+   "resumen": "OKstays utiliza IA para leer reseñas negativas de hospedajes y puntuarlos según comodidad real, ayudando viajeros a encontrar mejores lugares.",
+   "razon": "Desarrollador solo con MVP usando IA (Claude) para mejorar búsqueda de hospedaje; traction inicial débil (gastos en terceros, no ingresos mencionados); mercado validado pero ubicación fuera de LATAM hispanohablante.",
+   "mensaje": "Hola Oriol, vimos OKstays en HN y nos encanta el problema que resuelves con IA. Aunque estés en Barcelona, si ves oportunidad de expandir a mercados de habla hispana en Latinoamérica, en Latin Leap podríamos ser un buen partner. Saludos.",
+   "score": 48,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 15.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 8.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-06T13:15:53+00:00",
+   "fecha_evidencia": "2026-11-05T14:13:51+00:00",
+   "ultima_senal": "2026-11-05T14:13:51+00:00",
+   "senales": [
+    {
+     "fuente": "Hacker News",
+     "tipo": "lanzamiento",
+     "titulo": "Show HN: I paid Claude US$1,070 to read the worst reviews of 30k places to stay",
+     "url": "https://news.ycombinator.com/item?id=50379300",
+     "fecha": "2026-11-05T14:13:51+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "llm"
   },
   {
    "key": "n:thepantproject",
@@ -9673,15 +9740,15 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-11-19T13:29:41+00:00",
+  "actualizado": "2026-11-20T13:25:02+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 88,
-  "prioridad_a_30d": 24,
-  "incremento_vs_baseline": 1.467,
-  "cumplimiento_meta": 14.67,
-  "total_deals": 205,
-  "total_calificados": 136,
+  "calificados_30d": 79,
+  "prioridad_a_30d": 22,
+  "incremento_vs_baseline": 1.317,
+  "cumplimiento_meta": 13.17,
+  "total_deals": 206,
+  "total_calificados": 135,
   "conocidos_detectados": 2,
   "por_semana": {
    "2025-06-30": 1,
@@ -9693,12 +9760,12 @@
    "2026-10-12": 23,
    "2026-10-19": 38,
    "2026-10-26": 21,
-   "2026-11-02": 14,
+   "2026-11-02": 12,
    "2026-11-09": 12,
-   "2026-11-16": 14
+   "2026-11-16": 15
   },
   "por_fuente": {
-   "Google News": 67,
+   "Google News": 66,
    "Get on Board": 59,
    "LatamList": 6,
    "Y Combinator": 6,
@@ -9707,8 +9774,8 @@
    "Contxto": 1
   },
   "por_pais": {
-   "Chile": 56,
-   "?": 31,
+   "Chile": 57,
+   "?": 29,
    "Argentina": 14,
    "México": 13,
    "Colombia": 9,
@@ -9722,24 +9789,6 @@
    "Ecuador": 1
   },
   "corridas": [
-   {
-    "inicio": "2026-10-24T04:00:44+00:00",
-    "fin": "2026-10-24T04:00:44+00:00",
-    "senales_crudas": 16,
-    "descartadas_prefiltro": 6,
-    "procesadas": 10,
-    "deals_nuevos": 9,
-    "calificados_nuevos": 4,
-    "motor": "reglas",
-    "fuentes": [
-     {
-      "fuente": "fixtures",
-      "ok": true,
-      "senales": 16,
-      "error": null
-     }
-    ]
-   },
    {
     "inicio": "2026-10-24T04:00:44+00:00",
     "fin": "2026-10-24T04:00:46+00:00",
@@ -11938,6 +11987,84 @@
       "fuente": "Get on Board",
       "ok": true,
       "senales": 42,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-11-20T13:23:49+00:00",
+    "fin": "2026-11-20T13:25:02+00:00",
+    "senales_crudas": 256,
+    "descartadas_prefiltro": 97,
+    "procesadas": 15,
+    "deals_nuevos": 1,
+    "calificados_nuevos": 1,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 14,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 5,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 171,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 4,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 3,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 39,
       "error": null
      }
     ]
