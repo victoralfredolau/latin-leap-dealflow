@@ -1702,6 +1702,14 @@
     "url": "https://www.getonbrd.com/jobs/data-engineer-finanzas-42labs-santiago-valparaiso-vina-del-mar-rancagua",
     "fecha": "2026-10-22T21:50:01+00:00",
     "medio": null
+   },
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "42Labs está contratando: Technical Lead (Python, AWS, API), Back-end Developer (Java/Spring Boot/apigee)",
+    "url": "https://www.getonbrd.com/jobs/back-end-developer-java-springboot-apigee-42labs-santiago",
+    "fecha": "2026-11-19T16:43:14+00:00",
+    "medio": null
    }
   ],
   "inversionistas": [],
@@ -1716,15 +1724,15 @@
   "resumen": "En 42Labs, no solo desarrollamos tecnología, construimos soluciones donde lo técnico y lo humano van de la mano, aprendemos, colaboramos y celebramos",
   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
   "fecha_evidencia": "2026-10-22T21:50:01+00:00",
-  "ultima_senal": "2026-10-22T21:50:01+00:00",
+  "ultima_senal": "2026-11-19T16:43:14+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 68,
+  "score": 70,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 7.5,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -7079,12 +7087,12 @@
   "ultima_senal": "2026-11-06T16:35:59+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 70,
+  "score": 69,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 4.5,
    "calidad": 12.0
   },
   "prioridad": "B",
@@ -7322,6 +7330,14 @@
     "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-cc99",
     "fecha": "2026-11-03T14:25:53+00:00",
     "medio": null
+   },
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "Dynamic Devs está contratando: Full-Stack Engineer (TypeScript/React), QA Funcional",
+    "url": "https://www.getonbrd.com/jobs/qa-funcional-dynamic-devs-santiago-0e78",
+    "fecha": "2026-11-12T19:43:53+00:00",
+    "medio": null
    }
   ],
   "inversionistas": [],
@@ -7336,15 +7352,15 @@
   "resumen": "Desarrollo de software: Auténtico entendimiento y habilitación de la innovación tecnológica",
   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
   "fecha_evidencia": "2026-11-03T14:25:53+00:00",
-  "ultima_senal": "2026-11-03T14:25:53+00:00",
+  "ultima_senal": "2026-11-12T19:43:53+00:00",
   "conocido_fuente": null,
   "conocido": false,
-  "score": 68,
+  "score": 70,
   "desglose": {
    "geografia": 25.0,
    "etapa": 12.5,
    "tecnologia": 15.0,
-   "senal": 6.0,
+   "senal": 7.5,
    "calidad": 10.0
   },
   "prioridad": "B",
@@ -8115,6 +8131,22 @@
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94T2I1RjMyUlAtWkpGVHBwS3B6SVdBUUN2NEZQZ3JvTHZTelQwVzJualRsekd6cDQwQWlBdVV0Mk5sdHMxQXJ5Wlk5ZWxCOXZmZFdDNTlUaEx3bHVNOTg2U3BzQVlVVDRzWXNmN2kzLVVOaWFzVkQtd1NubkfSAYIBQVVfeXFMUFJ3ZUU1Ny1wWWtRbUw0V3BrQUkzb1dONUI4MmdNMl8tS3ZDdmIzWnljQkRHNmJsR0p0V004VjBHanhhaGdfeURreGtFZ0Mzc2tVcjNqdWxkOW5yNmdEdUZab0JDV2FMd3F1S24xdzBFSzBqMFZrRm5IbjhqUzJaNjlaUQ?oc=5",
     "fecha": "2026-11-17T18:55:08+00:00",
     "medio": "LatamList"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Vuun, startup fundada por un paisa, levanta US$525.000 para expandirse en México y Perú",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZE50VUh6V2tyaFBQVEE5RG5xalZuc2hlY1NpNU05TEhSLVFSUVlJdFhSaUEyLWx2ZEp6S3FWQ3FScTl6MUxZblkxUDJXbjZoZ0hjSjQ5TFEyWjFSRldnS3BXN2E4NnBMQ1hPRHh2ckZkLXpnVE02VVVzY1lFWjFmNnM0M0FNQU0zbU42QkNVdkR4LTNJajhveE1EM3hKVlVZMkZVQ2dNTkttVi1jaXlZRA?oc=5",
+    "fecha": "2026-11-21T00:01:04+00:00",
+    "medio": "El Colombiano"
+   },
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Vuun, proptech colombiana, levanta US$525.000 y va a México",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi0zdzRFYTFHdmM3OG03Smc2cFUxbEh5ak05TGtBMU5KVlpKUzZTZ3Y5anY2eGZRcTMtZEszMUpZNFR5UWZmUzV2XzR6RmpmcmtSeC1SdkdpWkdOSk5QU2ZJLXVtR0F2b3Z5TjZfSzlKT0tjNHl5QmlBX2V5OUVtNFdhbmhTTnRYSlFGbzJwc2s?oc=5",
+    "fecha": "2026-11-21T03:03:33+00:00",
+    "medio": "El Ecosistema Startup"
    }
   ],
   "inversionistas": [
@@ -8126,16 +8158,16 @@
   "calidad": 8.0,
   "motor": "llm",
   "empresa": "Vuun",
-  "pais": "México",
-  "sector": "proptech",
-  "etapa": "pre-seed",
+  "pais": "Colombia",
+  "sector": "Proptech",
+  "etapa": "seed",
   "monto_usd": 525000.0,
   "tecnologia": true,
-  "resumen": "Vuun es una startup que levantó USD 525K en pre-seed con liderazgo de 500 Global, uno de los fondos más activos en Latam.",
-  "mensaje": "¡Hola! Notamos que Vuun acaba de cerrar una pre-seed de USD 525K liderada por 500 Global. Nos gustaría conocer mejor vuestro modelo y producto. ¿Podrían contarnos un poco más sobre la tracción y visión para los próximos meses?",
-  "razon": "Pre-seed respaldada por 500 Global, fondo de alto calibre; monto pequeño pero con validación de inversionista reconocido; falta claridad sobre el producto.",
+  "resumen": "Proptech colombiana Vuun levantó USD 525.000 en ronda seed para expandirse en mercados clave como México.",
+  "mensaje": "Hola equipo de Vuun, vimos que levantaron USD 525k para llevar su solución proptech a México. Desde Latin Leap estamos muy interesados en proptech que genera tracción real en LATAM. ¿Podríamos agendar una conversación sobre vuestros próximos pasos?",
+  "razon": "Proptech colombiana con validación de mercado (USD 525k levantados) y expansión geográfica planificada a México.",
   "fecha_evidencia": "2026-11-14T21:21:50+00:00",
-  "ultima_senal": "2026-11-17T18:55:08+00:00",
+  "ultima_senal": "2026-11-21T03:03:33+00:00",
   "conocido_fuente": null,
   "conocido": false,
   "score": 94,
@@ -8998,5 +9030,121 @@
   },
   "prioridad": "A",
   "en_tesis": true
+ },
+ "d:tcit.cl": {
+  "key": "d:tcit.cl",
+  "primera_vista": "2026-11-21T13:07:24+00:00",
+  "senales": [
+   {
+    "fuente": "Get on Board",
+    "tipo": "contratacion",
+    "titulo": "TCIT está contratando: Full-Stack Developer GCP (Inglés Avanzado), Data Engineer GCP / Senior",
+    "url": "https://www.getonbrd.com/jobs/data-engineer-gcp-tcit-santiago",
+    "fecha": "2026-11-19T13:37:24+00:00",
+    "medio": null
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "TCIT",
+  "sitio_web": "http://www.tcit.cl",
+  "pais": "Chile",
+  "etapa": "desconocida",
+  "tecnologia": true,
+  "resumen": "Líderes en desarrollo de software en modalidad cloud",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-19T13:37:24+00:00",
+  "ultima_senal": "2026-11-19T13:37:24+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 70,
+  "desglose": {
+   "geografia": 25.0,
+   "etapa": 12.5,
+   "tecnologia": 15.0,
+   "senal": 7.5,
+   "calidad": 10.0
+  },
+  "prioridad": "B",
+  "en_tesis": true
+ },
+ "n:qluster": {
+  "key": "n:qluster",
+  "primera_vista": "2026-11-21T13:07:24+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Qluster Raises €4.7 Million For Photonic Quantum Computer Design",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wQXZKdjlSaXAyRGlhSDFGWjVYMVRpUkY0RHYya1hLNWIta21JTi02Y3NNYy10U0pMbldjNkFyZkFwcS15VVBCdDFWSnVGNUdnVjIwblN3WHl0ZU9XNFVuOXJqS24tSnVnTThEX0VNVUpFYW5sc0EtMlktU1JpZTA?oc=5",
+    "fecha": "2026-11-18T23:15:13+00:00",
+    "medio": "Quantum Zeitgeist"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 5.0,
+  "motor": "reglas",
+  "empresa": "Qluster",
+  "etapa": "desconocida",
+  "resumen": "Qluster Raises €4.7 Million For Photonic Quantum Computer Design Quantum Zeitgeist",
+  "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+  "fecha_evidencia": "2026-11-18T23:15:13+00:00",
+  "ultima_senal": "2026-11-18T23:15:13+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 44,
+  "desglose": {
+   "geografia": 7.5,
+   "etapa": 12.5,
+   "tecnologia": 7.5,
+   "senal": 6.0,
+   "calidad": 10.0
+  },
+  "prioridad": "C",
+  "en_tesis": true
+ },
+ "n:sevamoney": {
+  "key": "n:sevamoney",
+  "primera_vista": "2026-11-21T13:07:24+00:00",
+  "senales": [
+   {
+    "fuente": "Google News",
+    "tipo": "noticia",
+    "titulo": "Seva Money raises $5M seed to serve the receiving end of remittances",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd0tWUXdpR2k5TEwwT1RZQi01Vld3Si11djUzWEpLMVBMb1gtVUdhQ3FndnkyOW4zSUtOVzFVTFlFc1hfaV9hczZhZ09DbnlzbFY1MmRCc29IUmVkZW9DU21GZk4ycENEY2NDSTBSa0k0QVVTcmlsNTN0R09icEJ4ejZmTFIyQ2VqdXNCeTlwRXY1VGRUWGliS3RrT1B3bEhRQ1cw?oc=5",
+    "fecha": "2026-11-09T13:26:02+00:00",
+    "medio": "Dealroom"
+   }
+  ],
+  "inversionistas": [],
+  "fundadores": [],
+  "calidad": 7.0,
+  "motor": "llm",
+  "empresa": "Seva Money",
+  "pais": "desconocido",
+  "sector": "Fintech/Remesas",
+  "etapa": "seed",
+  "monto_usd": 5000000.0,
+  "tecnologia": true,
+  "resumen": "Seva Money ofrece una solución fintech enfocada en el lado receptor de remesas internacionales.",
+  "mensaje": "Hola equipo de Seva Money, vimos que levantaron USD 5M en seed para transformar el flujo de remesas. Desde Latin Leap estamos muy interesados en soluciones fintech con tracción en la región. ¿Les gustaría conversar sobre oportunidades de expansión o próxima ronda?",
+  "razon": "Seed round de USD 5M en fintech de remesas, sector relevante para LatAm; sin embargo, no se confirma país latinoamericano en el texto.",
+  "fecha_evidencia": "2026-11-09T13:26:02+00:00",
+  "ultima_senal": "2026-11-09T13:26:02+00:00",
+  "conocido_fuente": null,
+  "conocido": false,
+  "score": 64,
+  "desglose": {
+   "geografia": 0.0,
+   "etapa": 25.0,
+   "tecnologia": 15.0,
+   "senal": 10.5,
+   "calidad": 14.0
+  },
+  "prioridad": "Fuera de tesis",
+  "en_tesis": false
  }
 }

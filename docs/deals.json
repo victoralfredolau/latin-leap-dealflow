@@ -184,10 +184,10 @@
    "key": "n:vuun",
    "empresa": "Vuun",
    "sitio_web": null,
-   "pais": "México",
+   "pais": "Colombia",
    "ciudad": null,
-   "sector": "proptech",
-   "etapa": "pre-seed",
+   "sector": "Proptech",
+   "etapa": "seed",
    "monto_usd": 525000.0,
    "inversionistas": [
     "500 Global",
@@ -197,9 +197,9 @@
    "fundadores": [],
    "tecnologia": true,
    "calidad": 8.0,
-   "resumen": "Vuun es una startup que levantó USD 525K en pre-seed con liderazgo de 500 Global, uno de los fondos más activos en Latam.",
-   "razon": "Pre-seed respaldada por 500 Global, fondo de alto calibre; monto pequeño pero con validación de inversionista reconocido; falta claridad sobre el producto.",
-   "mensaje": "¡Hola! Notamos que Vuun acaba de cerrar una pre-seed de USD 525K liderada por 500 Global. Nos gustaría conocer mejor vuestro modelo y producto. ¿Podrían contarnos un poco más sobre la tracción y visión para los próximos meses?",
+   "resumen": "Proptech colombiana Vuun levantó USD 525.000 en ronda seed para expandirse en mercados clave como México.",
+   "razon": "Proptech colombiana con validación de mercado (USD 525k levantados) y expansión geográfica planificada a México.",
+   "mensaje": "Hola equipo de Vuun, vimos que levantaron USD 525k para llevar su solución proptech a México. Desde Latin Leap estamos muy interesados en proptech que genera tracción real en LATAM. ¿Podríamos agendar una conversación sobre vuestros próximos pasos?",
    "score": 94,
    "desglose": {
     "geografia": 25.0,
@@ -214,7 +214,7 @@
    "conocido_fuente": null,
    "primera_vista": "2026-11-15T13:03:01+00:00",
    "fecha_evidencia": "2026-11-14T21:21:50+00:00",
-   "ultima_senal": "2026-11-17T18:55:08+00:00",
+   "ultima_senal": "2026-11-21T03:03:33+00:00",
    "senales": [
     {
      "fuente": "Google News",
@@ -247,6 +247,22 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94T2I1RjMyUlAtWkpGVHBwS3B6SVdBUUN2NEZQZ3JvTHZTelQwVzJualRsekd6cDQwQWlBdVV0Mk5sdHMxQXJ5Wlk5ZWxCOXZmZFdDNTlUaEx3bHVNOTg2U3BzQVlVVDRzWXNmN2kzLVVOaWFzVkQtd1NubkfSAYIBQVVfeXFMUFJ3ZUU1Ny1wWWtRbUw0V3BrQUkzb1dONUI4MmdNMl8tS3ZDdmIzWnljQkRHNmJsR0p0V004VjBHanhhaGdfeURreGtFZ0Mzc2tVcjNqdWxkOW5yNmdEdUZab0JDV2FMd3F1S24xdzBFSzBqMFZrRm5IbjhqUzJaNjlaUQ?oc=5",
      "fecha": "2026-11-17T18:55:08+00:00",
      "medio": "LatamList"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Vuun, startup fundada por un paisa, levanta US$525.000 para expandirse en México y Perú",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZE50VUh6V2tyaFBQVEE5RG5xalZuc2hlY1NpNU05TEhSLVFSUVlJdFhSaUEyLWx2ZEp6S3FWQ3FScTl6MUxZblkxUDJXbjZoZ0hjSjQ5TFEyWjFSRldnS3BXN2E4NnBMQ1hPRHh2ckZkLXpnVE02VVVzY1lFWjFmNnM0M0FNQU0zbU42QkNVdkR4LTNJajhveE1EM3hKVlVZMkZVQ2dNTkttVi1jaXlZRA?oc=5",
+     "fecha": "2026-11-21T00:01:04+00:00",
+     "medio": "El Colombiano"
+    },
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Vuun, proptech colombiana, levanta US$525.000 y va a México",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi0zdzRFYTFHdmM3OG03Smc2cFUxbEh5ak05TGtBMU5KVlpKUzZTZ3Y5anY2eGZRcTMtZEszMUpZNFR5UWZmUzV2XzR6RmpmcmtSeC1SdkdpWkdOSk5QU2ZJLXVtR0F2b3Z5TjZfSzlKT0tjNHl5QmlBX2V5OUVtNFdhbmhTTnRYSlFGbzJwc2s?oc=5",
+     "fecha": "2026-11-21T03:03:33+00:00",
+     "medio": "El Ecosistema Startup"
     }
    ],
    "motor": "llm"
@@ -2868,6 +2884,57 @@
    "motor": "reglas"
   },
   {
+   "key": "d:42labs.cl",
+   "empresa": "42Labs",
+   "sitio_web": "https://www.42labs.cl",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "En 42Labs, no solo desarrollamos tecnología, construimos soluciones donde lo técnico y lo humano van de la mano, aprendemos, colaboramos y celebramos",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 70,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 7.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-10-24T04:33:14+00:00",
+   "fecha_evidencia": "2026-10-22T21:50:01+00:00",
+   "ultima_senal": "2026-11-19T16:43:14+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "42Labs está contratando: Back-end Developer (Java/Spring Boot/apigee), Data Engineer (Databrick/SQL/Python)",
+     "url": "https://www.getonbrd.com/jobs/data-engineer-finanzas-42labs-santiago-valparaiso-vina-del-mar-rancagua",
+     "fecha": "2026-10-22T21:50:01+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "42Labs está contratando: Technical Lead (Python, AWS, API), Back-end Developer (Java/Spring Boot/apigee)",
+     "url": "https://www.getonbrd.com/jobs/back-end-developer-java-springboot-apigee-42labs-santiago",
+     "fecha": "2026-11-19T16:43:14+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "d:codeable.la",
    "empresa": "Codeable",
    "sitio_web": "https://www.codeable.la/",
@@ -3316,49 +3383,6 @@
    "motor": "reglas"
   },
   {
-   "key": "n:hacku",
-   "empresa": "hackÜ",
-   "sitio_web": null,
-   "pais": "Colombia",
-   "ciudad": null,
-   "sector": "edtech",
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 6.0,
-   "resumen": "hackÜ es una plataforma edtech colombiana que capacita a trabajadores dispersos en Latinoamérica mediante microcápsulas enviadas por WhatsApp, evolucionando hacia un sistema operativo para la fuerza laboral.",
-   "razon": "Edtech con tracción en LATAM, modelo escalable (WhatsApp), expansión activa a México, pero sin información de ronda o inversionistas visibles en la señal.",
-   "mensaje": "Hola equipo de hackÜ, vimos en Contxto que están reforzando su apuesta en México. Nos interesa mucho cómo están escalando el modelo de capacitación por WhatsApp en LATAM. ¿Podrían compartir un poco sobre la tracción actual y planes de inversión? Nos gustaría conocerlos mejor.",
-   "score": 70,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 6.0,
-    "calidad": 12.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-11-08T13:01:55+00:00",
-   "fecha_evidencia": "2026-11-06T16:35:59+00:00",
-   "ultima_senal": "2026-11-06T16:35:59+00:00",
-   "senales": [
-    {
-     "fuente": "Contxto",
-     "tipo": "noticia",
-     "titulo": "La edtech hackÜ refuerza su apuesta por el mercado mexicano",
-     "url": "https://contxto.com/es/edtech/la-edtech-hacku-refuerza-su-apuesta-por-el-mercado-mexicano/",
-     "fecha": "2026-11-06T16:35:59+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "llm"
-  },
-  {
    "key": "d:agilistik.cl",
    "empresa": "Agilistik",
    "sitio_web": "https://agilistik.cl/",
@@ -3396,6 +3420,57 @@
      "titulo": "Agilistik está contratando: IT Specialist (Oracle/Unix)",
      "url": "https://www.getonbrd.com/jobs/it-specialist-oracle-unix-agilistik-santiago",
      "fecha": "2026-11-10T15:57:51+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
+   "key": "d:dynamicdevs.io",
+   "empresa": "Dynamic Devs",
+   "sitio_web": "https://www.dynamicdevs.io",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Desarrollo de software: Auténtico entendimiento y habilitación de la innovación tecnológica",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 70,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 7.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-11T13:21:52+00:00",
+   "fecha_evidencia": "2026-11-03T14:25:53+00:00",
+   "ultima_senal": "2026-11-12T19:43:53+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Dynamic Devs está contratando: Full-Stack Engineer (TypeScript/React), Full-Stack Engineer (TypeScript/React), QA Automation Engineer",
+     "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-cc99",
+     "fecha": "2026-11-03T14:25:53+00:00",
+     "medio": null
+    },
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "Dynamic Devs está contratando: Full-Stack Engineer (TypeScript/React), QA Funcional",
+     "url": "https://www.getonbrd.com/jobs/qa-funcional-dynamic-devs-santiago-0e78",
+     "fecha": "2026-11-12T19:43:53+00:00",
      "medio": null
     }
    ],
@@ -3619,6 +3694,49 @@
    "motor": "reglas"
   },
   {
+   "key": "d:tcit.cl",
+   "empresa": "TCIT",
+   "sitio_web": "http://www.tcit.cl",
+   "pais": "Chile",
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 5.0,
+   "resumen": "Líderes en desarrollo de software en modalidad cloud",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 70,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 7.5,
+    "calidad": 10.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-21T13:07:24+00:00",
+   "fecha_evidencia": "2026-11-19T13:37:24+00:00",
+   "ultima_senal": "2026-11-19T13:37:24+00:00",
+   "senales": [
+    {
+     "fuente": "Get on Board",
+     "tipo": "contratacion",
+     "titulo": "TCIT está contratando: Full-Stack Developer GCP (Inglés Avanzado), Data Engineer GCP / Senior",
+     "url": "https://www.getonbrd.com/jobs/data-engineer-gcp-tcit-santiago",
+     "fecha": "2026-11-19T13:37:24+00:00",
+     "medio": null
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "d:rankmi.com",
    "empresa": "Rankmi",
    "sitio_web": "https://www.rankmi.com",
@@ -3751,6 +3869,49 @@
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR196Uk15RHI2bWpUa1NPaXR0R05peEpHcm44dVczOGlpVEZBLW42cF96WnNVRXNETkVSeE52MXB5WksycF9wZzZkWmtLVEJJTEpyTUgteXZfVFpRR3hrUUszX3NOa2Y0VnRtZm5CcEhNOEZYMWZ1ZzZ1dW1YZHhBZkN1QTh2aS1JSmhoRGZ3?oc=5",
      "fecha": "2026-11-04T07:21:46+00:00",
      "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:hacku",
+   "empresa": "hackÜ",
+   "sitio_web": null,
+   "pais": "Colombia",
+   "ciudad": null,
+   "sector": "edtech",
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 6.0,
+   "resumen": "hackÜ es una plataforma edtech colombiana que capacita a trabajadores dispersos en Latinoamérica mediante microcápsulas enviadas por WhatsApp, evolucionando hacia un sistema operativo para la fuerza laboral.",
+   "razon": "Edtech con tracción en LATAM, modelo escalable (WhatsApp), expansión activa a México, pero sin información de ronda o inversionistas visibles en la señal.",
+   "mensaje": "Hola equipo de hackÜ, vimos en Contxto que están reforzando su apuesta en México. Nos interesa mucho cómo están escalando el modelo de capacitación por WhatsApp en LATAM. ¿Podrían compartir un poco sobre la tracción actual y planes de inversión? Nos gustaría conocerlos mejor.",
+   "score": 69,
+   "desglose": {
+    "geografia": 25.0,
+    "etapa": 12.5,
+    "tecnologia": 15.0,
+    "senal": 4.5,
+    "calidad": 12.0
+   },
+   "prioridad": "B",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-08T13:01:55+00:00",
+   "fecha_evidencia": "2026-11-06T16:35:59+00:00",
+   "ultima_senal": "2026-11-06T16:35:59+00:00",
+   "senales": [
+    {
+     "fuente": "Contxto",
+     "tipo": "noticia",
+     "titulo": "La edtech hackÜ refuerza su apuesta por el mercado mexicano",
+     "url": "https://contxto.com/es/edtech/la-edtech-hacku-refuerza-su-apuesta-por-el-mercado-mexicano/",
+     "fecha": "2026-11-06T16:35:59+00:00",
+     "medio": null
     }
    ],
    "motor": "llm"
@@ -4239,49 +4400,6 @@
      "titulo": "BICE VIDA está contratando: Developer Full-Stack, Ingeniero de Datos Middle, Ingeniero de Datos Senior, Product Designer",
      "url": "https://www.getonbrd.com/jobs/product-designer-bice-vida-santiago-137c",
      "fecha": "2026-11-03T19:13:25+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "d:42labs.cl",
-   "empresa": "42Labs",
-   "sitio_web": "https://www.42labs.cl",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "En 42Labs, no solo desarrollamos tecnología, construimos soluciones donde lo técnico y lo humano van de la mano, aprendemos, colaboramos y celebramos",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 68,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 6.0,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-10-24T04:33:14+00:00",
-   "fecha_evidencia": "2026-10-22T21:50:01+00:00",
-   "ultima_senal": "2026-10-22T21:50:01+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "42Labs está contratando: Back-end Developer (Java/Spring Boot/apigee), Data Engineer (Databrick/SQL/Python)",
-     "url": "https://www.getonbrd.com/jobs/data-engineer-finanzas-42labs-santiago-valparaiso-vina-del-mar-rancagua",
-     "fecha": "2026-10-22T21:50:01+00:00",
      "medio": null
     }
    ],
@@ -5321,49 +5439,6 @@
      "titulo": "3IT está contratando: Líder Técnico, Especialista Desarrollador Front-end, Desarrollador Back-end, Desarrollador Full-Stack | Golang + .NET + React, Full-Stack (.NET + AngularJS + Re",
      "url": "https://www.getonbrd.com/jobs/qa-automatizador-3it-santiago-5d69",
      "fecha": "2026-11-05T18:41:38+00:00",
-     "medio": null
-    }
-   ],
-   "motor": "reglas"
-  },
-  {
-   "key": "d:dynamicdevs.io",
-   "empresa": "Dynamic Devs",
-   "sitio_web": "https://www.dynamicdevs.io",
-   "pais": "Chile",
-   "ciudad": null,
-   "sector": null,
-   "etapa": "desconocida",
-   "monto_usd": null,
-   "inversionistas": [],
-   "fundadores": [],
-   "tecnologia": true,
-   "calidad": 5.0,
-   "resumen": "Desarrollo de software: Auténtico entendimiento y habilitación de la innovación tecnológica",
-   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
-   "mensaje": null,
-   "score": 68,
-   "desglose": {
-    "geografia": 25.0,
-    "etapa": 12.5,
-    "tecnologia": 15.0,
-    "senal": 6.0,
-    "calidad": 10.0
-   },
-   "prioridad": "B",
-   "en_tesis": true,
-   "conocido": false,
-   "conocido_fuente": null,
-   "primera_vista": "2026-11-11T13:21:52+00:00",
-   "fecha_evidencia": "2026-11-03T14:25:53+00:00",
-   "ultima_senal": "2026-11-03T14:25:53+00:00",
-   "senales": [
-    {
-     "fuente": "Get on Board",
-     "tipo": "contratacion",
-     "titulo": "Dynamic Devs está contratando: Full-Stack Engineer (TypeScript/React), Full-Stack Engineer (TypeScript/React), QA Automation Engineer",
-     "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-cc99",
-     "fecha": "2026-11-03T14:25:53+00:00",
      "medio": null
     }
    ],
@@ -6782,6 +6857,49 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFWTRqTXEtWS1ZZW9wT1JOYU1QUmhVeFdJUEpXbzlSU3FQWVR5aldYNm13WUY0TW5jTmJfR0ltS3N0amk1THFKNVRhN1ZZWnBPUXR4X3MxNERCSTRJYmR2RWdHbF9hbkNYeXhPMURRRy0tUlFUUlNTX2VnOA?oc=5",
      "fecha": "2026-11-13T16:09:36+00:00",
      "medio": "El Ecosistema Startup"
+    }
+   ],
+   "motor": "llm"
+  },
+  {
+   "key": "n:sevamoney",
+   "empresa": "Seva Money",
+   "sitio_web": null,
+   "pais": "desconocido",
+   "ciudad": null,
+   "sector": "Fintech/Remesas",
+   "etapa": "seed",
+   "monto_usd": 5000000.0,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": true,
+   "calidad": 7.0,
+   "resumen": "Seva Money ofrece una solución fintech enfocada en el lado receptor de remesas internacionales.",
+   "razon": "Seed round de USD 5M en fintech de remesas, sector relevante para LatAm; sin embargo, no se confirma país latinoamericano en el texto.",
+   "mensaje": "Hola equipo de Seva Money, vimos que levantaron USD 5M en seed para transformar el flujo de remesas. Desde Latin Leap estamos muy interesados en soluciones fintech con tracción en la región. ¿Les gustaría conversar sobre oportunidades de expansión o próxima ronda?",
+   "score": 64,
+   "desglose": {
+    "geografia": 0.0,
+    "etapa": 25.0,
+    "tecnologia": 15.0,
+    "senal": 10.5,
+    "calidad": 14.0
+   },
+   "prioridad": "Fuera de tesis",
+   "en_tesis": false,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-21T13:07:24+00:00",
+   "fecha_evidencia": "2026-11-09T13:26:02+00:00",
+   "ultima_senal": "2026-11-09T13:26:02+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Seva Money raises $5M seed to serve the receiving end of remittances",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd0tWUXdpR2k5TEwwT1RZQi01Vld3Si11djUzWEpLMVBMb1gtVUdhQ3FndnkyOW4zSUtOVzFVTFlFc1hfaV9hczZhZ09DbnlzbFY1MmRCc29IUmVkZW9DU21GZk4ycENEY2NDSTBSa0k0QVVTcmlsNTN0R09icEJ4ejZmTFIyQ2VqdXNCeTlwRXY1VGRUWGliS3RrT1B3bEhRQ1cw?oc=5",
+     "fecha": "2026-11-09T13:26:02+00:00",
+     "medio": "Dealroom"
     }
    ],
    "motor": "llm"
@@ -8914,6 +9032,49 @@
    "motor": "reglas"
   },
   {
+   "key": "n:qluster",
+   "empresa": "Qluster",
+   "sitio_web": null,
+   "pais": null,
+   "ciudad": null,
+   "sector": null,
+   "etapa": "desconocida",
+   "monto_usd": null,
+   "inversionistas": [],
+   "fundadores": [],
+   "tecnologia": null,
+   "calidad": 5.0,
+   "resumen": "Qluster Raises €4.7 Million For Photonic Quantum Computer Design Quantum Zeitgeist",
+   "razon": "Clasificado por reglas (sin LLM): calidad neutral salvo aceleradora reconocida.",
+   "mensaje": null,
+   "score": 44,
+   "desglose": {
+    "geografia": 7.5,
+    "etapa": 12.5,
+    "tecnologia": 7.5,
+    "senal": 6.0,
+    "calidad": 10.0
+   },
+   "prioridad": "C",
+   "en_tesis": true,
+   "conocido": false,
+   "conocido_fuente": null,
+   "primera_vista": "2026-11-21T13:07:24+00:00",
+   "fecha_evidencia": "2026-11-18T23:15:13+00:00",
+   "ultima_senal": "2026-11-18T23:15:13+00:00",
+   "senales": [
+    {
+     "fuente": "Google News",
+     "tipo": "noticia",
+     "titulo": "Qluster Raises €4.7 Million For Photonic Quantum Computer Design",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wQXZKdjlSaXAyRGlhSDFGWjVYMVRpUkY0RHYya1hLNWIta21JTi02Y3NNYy10U0pMbldjNkFyZkFwcS15VVBCdDFWSnVGNUdnVjIwblN3WHl0ZU9XNFVuOXJqS24tSnVnTThEX0VNVUpFYW5sc0EtMlktU1JpZTA?oc=5",
+     "fecha": "2026-11-18T23:15:13+00:00",
+     "medio": "Quantum Zeitgeist"
+    }
+   ],
+   "motor": "reglas"
+  },
+  {
    "key": "n:bharatsemi",
    "empresa": "Bharat Semi",
    "sitio_web": null,
@@ -9740,15 +9901,15 @@
   }
  ],
  "metricas": {
-  "actualizado": "2026-11-20T13:25:02+00:00",
+  "actualizado": "2026-11-21T13:07:24+00:00",
   "baseline_mes": 60,
   "meta_incremental_mes": 6,
-  "calificados_30d": 79,
-  "prioridad_a_30d": 22,
-  "incremento_vs_baseline": 1.317,
-  "cumplimiento_meta": 13.17,
-  "total_deals": 206,
-  "total_calificados": 135,
+  "calificados_30d": 73,
+  "prioridad_a_30d": 20,
+  "incremento_vs_baseline": 1.217,
+  "cumplimiento_meta": 12.17,
+  "total_deals": 209,
+  "total_calificados": 136,
   "conocidos_detectados": 2,
   "por_semana": {
    "2025-06-30": 1,
@@ -9762,11 +9923,11 @@
    "2026-10-26": 21,
    "2026-11-02": 12,
    "2026-11-09": 12,
-   "2026-11-16": 15
+   "2026-11-16": 16
   },
   "por_fuente": {
    "Google News": 66,
-   "Get on Board": 59,
+   "Get on Board": 60,
    "LatamList": 6,
    "Y Combinator": 6,
    "Startups Latam": 6,
@@ -9774,11 +9935,11 @@
    "Contxto": 1
   },
   "por_pais": {
-   "Chile": 57,
+   "Chile": 58,
    "?": 29,
    "Argentina": 14,
-   "México": 13,
-   "Colombia": 9,
+   "México": 12,
+   "Colombia": 10,
    "Uruguay": 3,
    "Perú": 2,
    "Guatemala": 2,
@@ -9789,24 +9950,6 @@
    "Ecuador": 1
   },
   "corridas": [
-   {
-    "inicio": "2026-10-24T04:00:44+00:00",
-    "fin": "2026-10-24T04:00:46+00:00",
-    "senales_crudas": 6,
-    "descartadas_prefiltro": 0,
-    "procesadas": 6,
-    "deals_nuevos": 6,
-    "calificados_nuevos": 6,
-    "motor": "reglas",
-    "fuentes": [
-     {
-      "fuente": "Y Combinator",
-      "ok": true,
-      "senales": 6,
-      "error": null
-     }
-    ]
-   },
    {
     "inicio": "2026-10-24T04:26:10+00:00",
     "fin": "2026-10-24T04:33:14+00:00",
@@ -12065,6 +12208,84 @@
       "fuente": "Get on Board",
       "ok": true,
       "senales": 39,
+      "error": null
+     }
+    ]
+   },
+   {
+    "inicio": "2026-11-21T13:06:20+00:00",
+    "fin": "2026-11-21T13:07:24+00:00",
+    "senales_crudas": 244,
+    "descartadas_prefiltro": 94,
+    "procesadas": 16,
+    "deals_nuevos": 3,
+    "calificados_nuevos": 1,
+    "motor": "llm",
+    "fuentes": [
+     {
+      "fuente": "LatamList",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Contxto",
+      "ok": true,
+      "senales": 13,
+      "error": null
+     },
+     {
+      "fuente": "Startupeable",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://startupeable.com/feed/"
+     },
+     {
+      "fuente": "TechCrunch LatAm",
+      "ok": true,
+      "senales": 0,
+      "error": null
+     },
+     {
+      "fuente": "Pulso Social",
+      "ok": false,
+      "senales": 0,
+      "error": "404 Client Error: Not Found for url: https://pulsosocial.com/feed/"
+     },
+     {
+      "fuente": "Startups Latam",
+      "ok": true,
+      "senales": 10,
+      "error": null
+     },
+     {
+      "fuente": "Techla Media",
+      "ok": true,
+      "senales": 5,
+      "error": null
+     },
+     {
+      "fuente": "Google News",
+      "ok": true,
+      "senales": 163,
+      "error": null
+     },
+     {
+      "fuente": "Y Combinator",
+      "ok": true,
+      "senales": 4,
+      "error": null
+     },
+     {
+      "fuente": "Hacker News",
+      "ok": true,
+      "senales": 3,
+      "error": null
+     },
+     {
+      "fuente": "Get on Board",
+      "ok": true,
+      "senales": 36,
       "error": null
      }
     ]
